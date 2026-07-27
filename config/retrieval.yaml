@@ -30,13 +30,17 @@ paths:
   eval_questions: evaluation/questions.jsonl
   eval_report: evaluation/report.md
 
-# Embeddings
+# Embeddings (Phase 4.1/4.5: multilingual — English KB, cross-lingual queries)
+# Default: paraphrase-multilingual-MiniLM (384-d, FastEmbed) — fast rebuild.
+# Upgrade path: intfloat/multilingual-e5-large (1024-d) or BAAI/bge-m3 (ST).
 embedding:
-  provider: fastembed  # fastembed | openai | hash
-  model: BAAI/bge-small-en-v1.5
+  provider: fastembed  # fastembed | sentence_transformers | openai | hash
+  model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
   # Alternatives:
-  #   fastembed nomic: nomic-ai/nomic-embed-text-v1.5
-  #   openai: text-embedding-3-small | text-embedding-3-large
+  #   provider: fastembed
+  #   model: intfloat/multilingual-e5-large
+  #   provider: sentence_transformers
+  #   model: BAAI/bge-m3
   batch_size: 64
   openai_model: text-embedding-3-small
 

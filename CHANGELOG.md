@@ -2,6 +2,64 @@
 
 All notable changes to this knowledge base are documented in this file.
 
+## [1.3.0] - 2026-07-28
+
+### Added
+
+- Phase 4.5 production hardening:
+  - Cross-encoder reranker path (`BAAI/bge-reranker-v2-m3` preferred, GPU/CPU, batch, latency logs; default noop until enabled)
+  - Confidence calibration (`python3 -m rag calibrate` → `evaluation/confidence_report.md`)
+  - Query normalization + extendable `config/aliases.yaml`
+  - Conversation context enrichment for follow-ups
+  - Dynamic Top-K by confidence bands
+  - Source diversity (max chunks/doc, section + Jaccard)
+  - Structured citations `{title, file, section, confidence}`
+  - JSON observability traces (`rag.observability`)
+  - Production benchmark (`python3 -m rag benchmark` → `evaluation/benchmark_phase45.md`)
+- Feature flags in `config/rag.yaml` / env: `ENABLE_RERANKER`, `ENABLE_QUERY_NORMALIZATION`, `ENABLE_DYNAMIC_TOPK`, `ENABLE_SOURCE_DIVERSITY`, etc.
+- Unit tests in `tests/rag/test_phase45.py`
+
+### Changed
+
+- Multilingual embedder default: `paraphrase-multilingual-MiniLM-L12-v2` (rebuild required)
+- Recommended fusion confidence threshold from calibration: `0.01`
+
+## [1.2.1] - 2026-07-28
+
+### Added
+
+- Phase 4.1 multilingual query support: lightweight language detection (`id`/`en`), localized abstain messages, language-aware prompts
+- `POST /chat` response field `language`
+- Multilingual embedding defaults: `intfloat/multilingual-e5-large` (FastEmbed); optional `BAAI/bge-m3` via `sentence_transformers`
+- Non-English queries use FAISS-only retrieval (no query translation; BM25 stays English)
+- Grounding lexicon maps Indonesian fitness terms → English for confidence checks only
+- Tests in `tests/rag/test_multilingual.py` (cross-lingual retrieval parity)
+
+### Changed
+
+- Prompt builder instructs the LLM to reason over English context and answer in the user's language; citation paths and exercise names stay English
+
+### Notes
+
+- Rebuild indexes after upgrading embeddings: `python3 -m retrieval build --force`
+- No translation API / LLM translation step is used
+
+## [1.2.0] - 2026-07-28
+
+### Added
+
+- Phase 4 RAG pipeline (`rag/`): retriever, BGE/noop reranker wrapper, hallucination-resistant prompt builder, structured citations, LLM backends (`extractive` / `openai` / `mock`), and end-to-end `RagPipeline`
+- FastAPI `POST /chat` with answer, sources, confidence, retrieval/rerank/total latency
+- Confidence gating via fusion score + semantic floor + query–context grounding overlap
+- Config `config/rag.yaml` with `RAG_*` / `OPENAI_*` environment overrides
+- Automated RAG eval: retrieval metrics + ≥100 hallucination/abstention questions (`python3 -m rag eval`)
+- Unit tests under `tests/rag/`
+
+### Notes
+
+- Default LLM is extractive (offline). Set `RAG_LLM_PROVIDER=openai` + `OPENAI_API_KEY` for chat completions.
+- Prefer `pip install -r requirements-rag.txt` and existing Phase 3 indexes (`python3 -m retrieval build`).
+
 ## [1.1.1] - 2026-07-27
 
 ### Changed

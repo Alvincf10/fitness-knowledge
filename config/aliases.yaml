@@ -1,0 +1,13 @@
+# Extendable exercise / supplement query aliases (Phase 4.5)
+# Keys are matched case-insensitively as whole tokens / phrases.
+aliases:
+  benchpress: bench press
+  rdl: romanian deadlift
+  pullup: pull up
+  pullups: pull ups
+  bw squat: bodyweight squat
+  ohp: overhead press
+  latpulldown: lat pulldown
+  kreatin: creatine
+  hipthrust: hip thrust
+  facepull: face pull

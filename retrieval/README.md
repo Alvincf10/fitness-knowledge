@@ -31,8 +31,8 @@ See [`config/retrieval.yaml`](../config/retrieval.yaml):
 
 | Key | Default | Notes |
 |-----|---------|-------|
-| `embedding.provider` | `fastembed` | `fastembed` \| `openai` \| `hash` |
-| `embedding.model` | `BAAI/bge-small-en-v1.5` | Or `nomic-ai/nomic-embed-text-v1.5` |
+| `embedding.provider` | `fastembed` | `fastembed` \| `sentence_transformers` \| `openai` \| `hash` |
+| `embedding.model` | `intfloat/multilingual-e5-large` | Or `BAAI/bge-m3` with `sentence_transformers` |
 | `faiss.index_type` | `hnsw` | `hnsw` \| `flat_ip` \| `ivf_pq` |
 | `reranker.provider` | `noop` | `noop` \| `bge` \| `jina` |
 | `retrieval.fusion` | `rrf` | `rrf` \| `weighted` |

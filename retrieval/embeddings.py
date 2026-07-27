@@ -66,17 +66,59 @@ class FastEmbedProvider(EmbeddingProvider):
         self.model_name = model
         self.batch_size = batch_size
         self._model = TextEmbedding(model_name=model)
+        self._is_e5 = "e5" in model.lower()
         # Probe dimension
-        probe = list(self._model.embed(["dimension probe"]))[0]
+        probe_text = "query: dimension probe" if self._is_e5 else "dimension probe"
+        probe = list(self._model.embed([probe_text]))[0]
         self.dim = int(np.asarray(probe).shape[0])
+
+    def _prefix(self, texts: Sequence[str], *, is_query: bool) -> list[str]:
+        if not self._is_e5:
+            return list(texts)
+        tag = "query: " if is_query else "passage: "
+        return [tag + t for t in texts]
 
     def embed(self, texts: Sequence[str], *, is_query: bool = False) -> np.ndarray:
         if not texts:
             return np.zeros((0, self.dim), dtype=np.float32)
+        prepared = self._prefix(texts, is_query=is_query)
         vectors: list[np.ndarray] = []
-        for vec in self._model.embed(list(texts), batch_size=self.batch_size):
+        for vec in self._model.embed(prepared, batch_size=self.batch_size):
             vectors.append(np.asarray(vec, dtype=np.float32))
         return l2_normalize(np.vstack(vectors))
+
+
+class SentenceTransformersProvider(EmbeddingProvider):
+    """Multilingual models via sentence-transformers (e.g. BAAI/bge-m3)."""
+
+    name = "sentence_transformers"
+
+    def __init__(self, model: str = "BAAI/bge-m3", batch_size: int = 32) -> None:
+        from sentence_transformers import SentenceTransformer
+
+        self.model_name = model
+        self.batch_size = batch_size
+        self._model = SentenceTransformer(model)
+        self._is_e5 = "e5" in model.lower()
+        self.dim = int(self._model.get_sentence_embedding_dimension())
+
+    def _prefix(self, texts: Sequence[str], *, is_query: bool) -> list[str]:
+        if not self._is_e5:
+            return list(texts)
+        tag = "query: " if is_query else "passage: "
+        return [tag + t for t in texts]
+
+    def embed(self, texts: Sequence[str], *, is_query: bool = False) -> np.ndarray:
+        if not texts:
+            return np.zeros((0, self.dim), dtype=np.float32)
+        prepared = self._prefix(texts, is_query=is_query)
+        vectors = self._model.encode(
+            prepared,
+            batch_size=self.batch_size,
+            normalize_embeddings=True,
+            show_progress_bar=False,
+        )
+        return np.asarray(vectors, dtype=np.float32)
 
 
 class OpenAIProvider(EmbeddingProvider):
@@ -96,7 +138,6 @@ class OpenAIProvider(EmbeddingProvider):
         self.model_name = model
         self.batch_size = batch_size
         self._client = OpenAI(api_key=key)
-        # Known dims
         self.dim = 3072 if "large" in model else 1536
 
     def embed(self, texts: Sequence[str], *, is_query: bool = False) -> np.ndarray:
@@ -118,6 +159,11 @@ def create_embedding_provider(config: Config) -> EmbeddingProvider:
     if provider == "fastembed":
         return FastEmbedProvider(
             model=config.embedding.model,
+            batch_size=config.embedding.batch_size,
+        )
+    if provider in {"sentence_transformers", "st", "sbert", "bge_m3"}:
+        return SentenceTransformersProvider(
+            model=config.embedding.model or "BAAI/bge-m3",
             batch_size=config.embedding.batch_size,
         )
     if provider == "openai":
