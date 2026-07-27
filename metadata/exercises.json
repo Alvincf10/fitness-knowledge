@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "updated": "2026-07-27",
-  "description": "Catalog of exercise articles. Paths are relative to repository root. Articles are generated in a later phase.",
+  "description": "Catalog of exercise articles. Paths are relative to repository root.",
   "schema": {
     "id": "string",
     "title": "string",
@@ -28,15 +28,15 @@
       "path": "exercises/chest/barbell-bench-press.md",
       "muscle_primary": ["chest"],
       "muscle_secondary": ["triceps", "front-delts"],
-      "equipment": ["barbell"],
+      "equipment": ["barbell", "bench", "rack"],
       "difficulty": "intermediate",
       "movement": ["push"],
       "plane": ["horizontal"],
       "goal": ["hypertrophy", "strength"],
-      "aliases": ["bench press"],
-      "tags": ["compound", "free-weight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["bench press", "flat barbell bench press"],
+      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "exercise_incline_dumbbell_press",
@@ -45,15 +45,15 @@
       "path": "exercises/chest/incline-dumbbell-press.md",
       "muscle_primary": ["chest"],
       "muscle_secondary": ["triceps", "front-delts"],
-      "equipment": ["dumbbell"],
+      "equipment": ["dumbbell", "bench"],
       "difficulty": "intermediate",
       "movement": ["push"],
       "plane": ["horizontal"],
       "goal": ["hypertrophy"],
-      "aliases": ["incline DB press"],
-      "tags": ["compound", "free-weight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["incline DB press", "incline dumbbell bench press"],
+      "tags": ["compound", "free-weight", "intermediate", "hypertrophy"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "exercise_push_up",
@@ -68,9 +68,9 @@
       "plane": ["horizontal"],
       "goal": ["hypertrophy", "strength"],
       "aliases": ["pushup", "press-up"],
-      "tags": ["compound", "bodyweight", "beginner"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["compound", "bodyweight", "beginner", "hypertrophy", "strength"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "exercise_lat_pulldown",
@@ -84,10 +84,10 @@
       "movement": ["pull"],
       "plane": ["vertical"],
       "goal": ["hypertrophy"],
-      "aliases": ["lat pull-down"],
-      "tags": ["compound", "machine", "beginner"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["lat pull-down", "lat pulldown"],
+      "tags": ["compound", "machine", "beginner", "hypertrophy", "pull"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "exercise_pull_up",
@@ -101,10 +101,10 @@
       "movement": ["pull"],
       "plane": ["vertical"],
       "goal": ["hypertrophy", "strength"],
-      "aliases": ["chin-up variant dependent"],
-      "tags": ["compound", "bodyweight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["overhand pull-up", "chin-up variant dependent"],
+      "tags": ["compound", "bodyweight", "intermediate", "strength", "hypertrophy", "pull"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "exercise_barbell_row",
@@ -118,10 +118,10 @@
       "movement": ["pull"],
       "plane": ["horizontal"],
       "goal": ["hypertrophy", "strength"],
-      "aliases": ["bent-over row"],
-      "tags": ["compound", "free-weight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["bent-over row", "barbell bent-over row"],
+      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy", "pull"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "exercise_romanian_deadlift",
@@ -135,10 +135,10 @@
       "movement": ["hinge"],
       "plane": ["sagittal"],
       "goal": ["hypertrophy", "strength"],
-      "aliases": ["RDL"],
-      "tags": ["compound", "free-weight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["RDL", "barbell Romanian deadlift"],
+      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "exercise_back_squat",
@@ -147,15 +147,15 @@
       "path": "exercises/legs/back-squat.md",
       "muscle_primary": ["legs", "glutes"],
       "muscle_secondary": ["abs", "back"],
-      "equipment": ["barbell"],
+      "equipment": ["barbell", "rack"],
       "difficulty": "intermediate",
       "movement": ["squat"],
       "plane": ["sagittal"],
       "goal": ["hypertrophy", "strength"],
-      "aliases": ["barbell back squat"],
-      "tags": ["compound", "free-weight", "intermediate"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["barbell back squat", "high-bar or low-bar squat (variant dependent)"],
+      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "exercise_leg_press",
@@ -169,10 +169,10 @@
       "movement": ["squat"],
       "plane": ["sagittal"],
       "goal": ["hypertrophy"],
-      "aliases": [],
-      "tags": ["compound", "machine", "beginner"],
-      "evidence": null,
-      "status": "planned"
+      "aliases": ["machine leg press", "sled leg press"],
+      "tags": ["compound", "machine", "beginner", "hypertrophy"],
+      "evidence": "B",
+      "status": "published"
     }
   ]
 }

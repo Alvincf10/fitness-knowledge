@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "updated": "2026-07-27",
-  "description": "Catalog of FAQ articles. Articles are generated in a later phase.",
+  "description": "Catalog of FAQ articles. Paths are relative to repository root.",
   "schema": {
     "id": "string",
     "title": "string",
@@ -15,64 +15,521 @@
   "target_count": 30,
   "faq": [
     {
+      "id": "faq_are_bcaas_worth_it",
+      "title": "Are BCAAs Worth It?",
+      "slug": "are-bcaas-worth-it",
+      "path": "faq/are-bcaas-worth-it.md",
+      "tags": [
+        "supplement",
+        "nutrition"
+      ],
+      "related": [
+        "supplement_bcaas",
+        "nutrition_protein",
+        "supplement_whey_protein"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "faq_are_machines_worse_than_free_weights",
+      "title": "Are Machines Worse Than Free Weights?",
+      "slug": "are-machines-worse-than-free-weights",
+      "path": "faq/are-machines-worse-than-free-weights.md",
+      "tags": [
+        "hypertrophy",
+        "beginner"
+      ],
+      "related": [
+        "exercise_leg_press",
+        "exercise_lat_pulldown",
+        "exercise_barbell_bench_press",
+        "science_progressive_overload"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
       "id": "faq_best_time_to_workout",
       "title": "Best Time to Workout?",
       "slug": "best-time-to-workout",
       "path": "faq/best-time-to-workout.md",
-      "tags": ["beginner", "programming"],
-      "related": ["science_training_frequency"],
-      "evidence": null,
-      "status": "planned"
+      "tags": [
+        "beginner",
+        "programming"
+      ],
+      "related": [
+        "science_training_frequency",
+        "nutrition_pre_workout_nutrition",
+        "nutrition_meal_timing"
+      ],
+      "evidence": "B",
+      "status": "published"
     },
     {
-      "id": "faq_should_i_train_to_failure",
-      "title": "Should I Train to Failure?",
-      "slug": "should-i-train-to-failure",
-      "path": "faq/should-i-train-to-failure.md",
-      "tags": ["hypertrophy", "strength"],
-      "related": ["science_failure_training", "science_reps_in_reserve"],
-      "evidence": null,
-      "status": "planned"
+      "id": "faq_can_beginners_gain_muscle_and_lose_fat",
+      "title": "Can Beginners Gain Muscle and Lose Fat?",
+      "slug": "can-beginners-gain-muscle-and-lose-fat",
+      "path": "faq/can-beginners-gain-muscle-and-lose-fat.md",
+      "tags": [
+        "beginner",
+        "hypertrophy",
+        "fat-loss"
+      ],
+      "related": [
+        "nutrition_body_recomposition",
+        "science_progressive_overload",
+        "nutrition_protein"
+      ],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "faq_can_i_build_muscle_at_home",
       "title": "Can I Build Muscle at Home?",
       "slug": "can-i-build-muscle-at-home",
       "path": "faq/can-i-build-muscle-at-home.md",
-      "tags": ["beginner", "hypertrophy", "bodyweight"],
-      "related": ["science_muscle_hypertrophy", "exercise_push_up"],
-      "evidence": null,
-      "status": "planned"
+      "tags": [
+        "beginner",
+        "hypertrophy",
+        "bodyweight"
+      ],
+      "related": [
+        "exercise_push_up",
+        "science_progressive_overload",
+        "science_training_volume"
+      ],
+      "evidence": "A",
+      "status": "published"
     },
     {
-      "id": "faq_is_cardio_bad",
-      "title": "Is Cardio Bad?",
-      "slug": "is-cardio-bad",
-      "path": "faq/is-cardio-bad.md",
-      "tags": ["cardio", "fat-loss", "hypertrophy"],
-      "related": ["science_fat_loss"],
-      "evidence": null,
-      "status": "planned"
+      "id": "faq_can_i_build_muscle_in_a_deficit",
+      "title": "Can I Build Muscle in a Deficit?",
+      "slug": "can-i-build-muscle-in-a-deficit",
+      "path": "faq/can-i-build-muscle-in-a-deficit.md",
+      "tags": [
+        "hypertrophy",
+        "fat-loss"
+      ],
+      "related": [
+        "nutrition_body_recomposition",
+        "nutrition_calorie_deficit",
+        "nutrition_protein"
+      ],
+      "evidence": "B",
+      "status": "published"
     },
     {
-      "id": "faq_how_much_protein",
-      "title": "How Much Protein?",
-      "slug": "how-much-protein",
-      "path": "faq/how-much-protein.md",
-      "tags": ["nutrition", "hypertrophy"],
-      "related": ["nutrition_protein"],
-      "evidence": null,
-      "status": "planned"
+      "id": "faq_can_i_train_every_day",
+      "title": "Can I Train Every Day?",
+      "slug": "can-i-train-every-day",
+      "path": "faq/can-i-train-every-day.md",
+      "tags": [
+        "programming",
+        "recovery"
+      ],
+      "related": [
+        "science_training_frequency",
+        "science_training_volume",
+        "faq_how_often_should_i_train"
+      ],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "faq_do_i_need_creatine",
       "title": "Do I Need Creatine?",
       "slug": "do-i-need-creatine",
       "path": "faq/do-i-need-creatine.md",
-      "tags": ["supplement", "strength"],
-      "related": ["supplement_creatine"],
-      "evidence": null,
-      "status": "planned"
+      "tags": [
+        "supplement",
+        "strength"
+      ],
+      "related": [
+        "supplement_creatine",
+        "science_progressive_overload",
+        "nutrition_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_do_i_need_supplements",
+      "title": "Do I Need Supplements?",
+      "slug": "do-i-need-supplements",
+      "path": "faq/do-i-need-supplements.md",
+      "tags": [
+        "supplement",
+        "beginner"
+      ],
+      "related": [
+        "supplement_creatine",
+        "nutrition_protein",
+        "supplement_whey_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_do_i_need_to_bulk_to_build_muscle",
+      "title": "Do I Need to Bulk to Build Muscle?",
+      "slug": "do-i-need-to-bulk-to-build-muscle",
+      "path": "faq/do-i-need-to-bulk-to-build-muscle.md",
+      "tags": [
+        "hypertrophy",
+        "nutrition"
+      ],
+      "related": [
+        "nutrition_bulking",
+        "nutrition_calorie_surplus",
+        "nutrition_body_recomposition"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_do_i_need_whey_protein",
+      "title": "Do I Need Whey Protein?",
+      "slug": "do-i-need-whey-protein",
+      "path": "faq/do-i-need-whey-protein.md",
+      "tags": [
+        "supplement",
+        "nutrition"
+      ],
+      "related": [
+        "supplement_whey_protein",
+        "nutrition_protein",
+        "supplement_casein_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_do_push_ups_build_chest",
+      "title": "Do Push-Ups Build Chest?",
+      "slug": "do-push-ups-build-chest",
+      "path": "faq/do-push-ups-build-chest.md",
+      "tags": [
+        "beginner",
+        "hypertrophy",
+        "bodyweight"
+      ],
+      "related": [
+        "exercise_push_up",
+        "exercise_barbell_bench_press",
+        "science_progressive_overload"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_does_muscle_turn_into_fat",
+      "title": "Does Muscle Turn Into Fat?",
+      "slug": "does-muscle-turn-into-fat",
+      "path": "faq/does-muscle-turn-into-fat.md",
+      "tags": [
+        "beginner",
+        "fat-loss"
+      ],
+      "related": [
+        "nutrition_energy_balance",
+        "nutrition_maintenance",
+        "science_progressive_overload"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_fast_can_i_lose_fat",
+      "title": "How Fast Can I Lose Fat?",
+      "slug": "how-fast-can-i-lose-fat",
+      "path": "faq/how-fast-can-i-lose-fat.md",
+      "tags": [
+        "fat-loss",
+        "nutrition"
+      ],
+      "related": [
+        "nutrition_cutting",
+        "nutrition_calorie_deficit",
+        "nutrition_refeeds_and_diet_breaks"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_important_is_sleep",
+      "title": "How Important Is Sleep?",
+      "slug": "how-important-is-sleep",
+      "path": "faq/how-important-is-sleep.md",
+      "tags": [
+        "recovery",
+        "beginner"
+      ],
+      "related": [
+        "science_progressive_overload",
+        "nutrition_cutting",
+        "nutrition_alcohol",
+        "supplement_magnesium"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_long_should_i_rest_between_sets",
+      "title": "How Long Should I Rest Between Sets?",
+      "slug": "how-long-should-i-rest-between-sets",
+      "path": "faq/how-long-should-i-rest-between-sets.md",
+      "tags": [
+        "hypertrophy",
+        "strength",
+        "programming"
+      ],
+      "related": [
+        "science_training_volume",
+        "exercise_barbell_bench_press",
+        "exercise_back_squat"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_many_sets_per_week",
+      "title": "How Many Sets Per Week?",
+      "slug": "how-many-sets-per-week",
+      "path": "faq/how-many-sets-per-week.md",
+      "tags": [
+        "hypertrophy",
+        "programming"
+      ],
+      "related": [
+        "science_training_volume",
+        "science_reps_in_reserve",
+        "science_progressive_overload"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_much_cardio_for_fat_loss",
+      "title": "How Much Cardio for Fat Loss?",
+      "slug": "how-much-cardio-for-fat-loss",
+      "path": "faq/how-much-cardio-for-fat-loss.md",
+      "tags": [
+        "cardio",
+        "fat-loss"
+      ],
+      "related": [
+        "nutrition_cutting",
+        "nutrition_calorie_deficit",
+        "faq_is_cardio_bad"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_much_protein",
+      "title": "How Much Protein?",
+      "slug": "how-much-protein",
+      "path": "faq/how-much-protein.md",
+      "tags": [
+        "nutrition",
+        "hypertrophy"
+      ],
+      "related": [
+        "nutrition_protein",
+        "supplement_whey_protein",
+        "nutrition_plant_based_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_how_often_should_i_train",
+      "title": "How Often Should I Train?",
+      "slug": "how-often-should-i-train",
+      "path": "faq/how-often-should-i-train.md",
+      "tags": [
+        "beginner",
+        "programming"
+      ],
+      "related": [
+        "science_training_frequency",
+        "science_training_volume",
+        "science_progressive_overload"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_cardio_bad",
+      "title": "Is Cardio Bad?",
+      "slug": "is-cardio-bad",
+      "path": "faq/is-cardio-bad.md",
+      "tags": [
+        "cardio",
+        "fat-loss",
+        "hypertrophy"
+      ],
+      "related": [
+        "nutrition_cutting",
+        "nutrition_calorie_deficit",
+        "science_training_volume"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_intermittent_fasting_better",
+      "title": "Is Intermittent Fasting Better?",
+      "slug": "is-intermittent-fasting-better",
+      "path": "faq/is-intermittent-fasting-better.md",
+      "tags": [
+        "nutrition",
+        "fat-loss"
+      ],
+      "related": [
+        "nutrition_intermittent_fasting",
+        "nutrition_calorie_deficit",
+        "nutrition_meal_timing"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_more_protein_always_better",
+      "title": "Is More Protein Always Better?",
+      "slug": "is-more-protein-always-better",
+      "path": "faq/is-more-protein-always-better.md",
+      "tags": [
+        "nutrition",
+        "hypertrophy"
+      ],
+      "related": [
+        "nutrition_protein",
+        "faq_how_much_protein",
+        "nutrition_calorie_surplus"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_spot_reduction_possible",
+      "title": "Is Spot Reduction Possible?",
+      "slug": "is-spot-reduction-possible",
+      "path": "faq/is-spot-reduction-possible.md",
+      "tags": [
+        "fat-loss",
+        "beginner"
+      ],
+      "related": [
+        "nutrition_calorie_deficit",
+        "nutrition_cutting",
+        "nutrition_energy_balance"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_stretching_required_before_lifting",
+      "title": "Is Stretching Required Before Lifting?",
+      "slug": "is-stretching-required-before-lifting",
+      "path": "faq/is-stretching-required-before-lifting.md",
+      "tags": [
+        "beginner",
+        "programming"
+      ],
+      "related": [
+        "exercise_back_squat",
+        "exercise_barbell_bench_press",
+        "science_progressive_overload"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_is_the_anabolic_window_real",
+      "title": "Is the Anabolic Window Real?",
+      "slug": "is-the-anabolic-window-real",
+      "path": "faq/is-the-anabolic-window-real.md",
+      "tags": [
+        "nutrition",
+        "hypertrophy"
+      ],
+      "related": [
+        "nutrition_meal_timing",
+        "nutrition_post_workout_nutrition",
+        "nutrition_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_should_i_do_cardio_before_or_after_weights",
+      "title": "Should I Do Cardio Before or After Weights?",
+      "slug": "should-i-do-cardio-before-or-after-weights",
+      "path": "faq/should-i-do-cardio-before-or-after-weights.md",
+      "tags": [
+        "cardio",
+        "programming"
+      ],
+      "related": [
+        "faq_is_cardio_bad",
+        "science_training_volume",
+        "exercise_back_squat"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "faq_should_i_train_to_failure",
+      "title": "Should I Train to Failure?",
+      "slug": "should-i-train-to-failure",
+      "path": "faq/should-i-train-to-failure.md",
+      "tags": [
+        "hypertrophy",
+        "strength"
+      ],
+      "related": [
+        "science_failure_training",
+        "science_reps_in_reserve",
+        "science_training_volume"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_should_women_train_differently",
+      "title": "Should Women Train Differently?",
+      "slug": "should-women-train-differently",
+      "path": "faq/should-women-train-differently.md",
+      "tags": [
+        "beginner",
+        "programming"
+      ],
+      "related": [
+        "science_progressive_overload",
+        "science_training_volume",
+        "nutrition_protein"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "faq_what_is_rir",
+      "title": "What Is RIR?",
+      "slug": "what-is-rir",
+      "path": "faq/what-is-rir.md",
+      "tags": [
+        "programming",
+        "hypertrophy"
+      ],
+      "related": [
+        "science_reps_in_reserve",
+        "science_failure_training",
+        "science_training_volume"
+      ],
+      "evidence": "A",
+      "status": "published"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "updated": "2026-07-27",
-  "description": "Catalog of supplement articles. Articles are generated in a later phase.",
+  "description": "Catalog of supplement articles. Paths are relative to repository root.",
   "schema": {
     "id": "string",
     "title": "string",
@@ -21,8 +21,8 @@
       "path": "supplements/creatine.md",
       "goals": ["strength", "hypertrophy", "performance"],
       "tags": ["supplement", "evidence"],
-      "evidence": null,
-      "status": "planned"
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "supplement_whey_protein",
@@ -30,9 +30,9 @@
       "slug": "whey-protein",
       "path": "supplements/whey-protein.md",
       "goals": ["hypertrophy", "recovery"],
-      "tags": ["supplement", "protein"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "protein", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "supplement_caffeine",
@@ -40,9 +40,9 @@
       "slug": "caffeine",
       "path": "supplements/caffeine.md",
       "goals": ["performance"],
-      "tags": ["supplement", "stimulant"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "stimulant", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "supplement_beta_alanine",
@@ -50,9 +50,9 @@
       "slug": "beta-alanine",
       "path": "supplements/beta-alanine.md",
       "goals": ["performance"],
-      "tags": ["supplement", "endurance"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "endurance", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "supplement_citrulline",
@@ -60,9 +60,9 @@
       "slug": "citrulline",
       "path": "supplements/citrulline.md",
       "goals": ["performance"],
-      "tags": ["supplement"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "evidence"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "supplement_electrolytes",
@@ -70,9 +70,9 @@
       "slug": "electrolytes",
       "path": "supplements/electrolytes.md",
       "goals": ["hydration", "performance"],
-      "tags": ["supplement", "minerals"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "minerals", "evidence"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "supplement_fish_oil",
@@ -80,9 +80,9 @@
       "slug": "fish-oil",
       "path": "supplements/fish-oil.md",
       "goals": ["health", "recovery"],
-      "tags": ["supplement", "omega-3"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "omega-3", "evidence"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "supplement_vitamin_d",
@@ -90,9 +90,9 @@
       "slug": "vitamin-d",
       "path": "supplements/vitamin-d.md",
       "goals": ["health"],
-      "tags": ["supplement", "vitamin"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "vitamin", "evidence"],
+      "evidence": "B",
+      "status": "published"
     },
     {
       "id": "supplement_magnesium",
@@ -100,9 +100,69 @@
       "slug": "magnesium",
       "path": "supplements/magnesium.md",
       "goals": ["recovery", "health"],
-      "tags": ["supplement", "mineral"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["supplement", "mineral", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "supplement_casein_protein",
+      "title": "Casein Protein",
+      "slug": "casein-protein",
+      "path": "supplements/casein-protein.md",
+      "goals": ["hypertrophy", "recovery"],
+      "tags": ["supplement", "protein", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "supplement_hmb",
+      "title": "HMB",
+      "slug": "hmb",
+      "path": "supplements/hmb.md",
+      "goals": ["recovery", "hypertrophy"],
+      "tags": ["supplement", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "supplement_dietary_nitrate",
+      "title": "Dietary Nitrate",
+      "slug": "dietary-nitrate",
+      "path": "supplements/dietary-nitrate.md",
+      "goals": ["performance"],
+      "tags": ["supplement", "evidence", "endurance"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "supplement_sodium_bicarbonate",
+      "title": "Sodium Bicarbonate",
+      "slug": "sodium-bicarbonate",
+      "path": "supplements/sodium-bicarbonate.md",
+      "goals": ["performance"],
+      "tags": ["supplement", "evidence", "endurance"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "supplement_bcaas",
+      "title": "BCAAs",
+      "slug": "bcaas",
+      "path": "supplements/bcaas.md",
+      "goals": ["recovery", "hypertrophy"],
+      "tags": ["supplement", "protein", "evidence"],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "supplement_carbohydrate",
+      "title": "Carbohydrate",
+      "slug": "carbohydrate",
+      "path": "supplements/carbohydrate.md",
+      "goals": ["performance", "recovery"],
+      "tags": ["supplement", "evidence", "endurance"],
+      "evidence": "A",
+      "status": "published"
     }
   ]
 }

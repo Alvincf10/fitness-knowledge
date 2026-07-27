@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "updated": "2026-07-27",
-  "description": "Catalog of nutrition articles. Articles are generated in a later phase.",
+  "description": "Catalog of nutrition articles. Paths are relative to repository root.",
   "schema": {
     "id": "string",
     "title": "string",
@@ -20,9 +20,9 @@
       "slug": "protein",
       "path": "nutrition/protein.md",
       "goals": ["hypertrophy", "fat-loss", "performance"],
-      "tags": ["nutrition", "macronutrient"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "macronutrient", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_carbohydrates",
@@ -30,9 +30,9 @@
       "slug": "carbohydrates",
       "path": "nutrition/carbohydrates.md",
       "goals": ["performance", "hypertrophy"],
-      "tags": ["nutrition", "macronutrient"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "macronutrient", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_fat",
@@ -40,9 +40,9 @@
       "slug": "fat",
       "path": "nutrition/fat.md",
       "goals": ["health", "hormones"],
-      "tags": ["nutrition", "macronutrient"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "macronutrient", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_meal_timing",
@@ -50,9 +50,9 @@
       "slug": "meal-timing",
       "path": "nutrition/meal-timing.md",
       "goals": ["hypertrophy", "performance"],
-      "tags": ["nutrition", "timing"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "timing", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_bulking",
@@ -60,9 +60,9 @@
       "slug": "bulking",
       "path": "nutrition/bulking.md",
       "goals": ["hypertrophy"],
-      "tags": ["nutrition", "calorie-surplus"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "calorie-surplus", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_cutting",
@@ -70,9 +70,9 @@
       "slug": "cutting",
       "path": "nutrition/cutting.md",
       "goals": ["fat-loss"],
-      "tags": ["nutrition", "calorie-deficit"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "calorie-deficit", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_maintenance",
@@ -80,9 +80,9 @@
       "slug": "maintenance",
       "path": "nutrition/maintenance.md",
       "goals": ["maintenance"],
-      "tags": ["nutrition", "energy-balance"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "energy-balance", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_calorie_deficit",
@@ -90,9 +90,9 @@
       "slug": "calorie-deficit",
       "path": "nutrition/calorie-deficit.md",
       "goals": ["fat-loss"],
-      "tags": ["nutrition", "energy-balance"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "energy-balance", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_calorie_surplus",
@@ -100,9 +100,9 @@
       "slug": "calorie-surplus",
       "path": "nutrition/calorie-surplus.md",
       "goals": ["hypertrophy"],
-      "tags": ["nutrition", "energy-balance"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "energy-balance", "evidence"],
+      "evidence": "A",
+      "status": "published"
     },
     {
       "id": "nutrition_fiber",
@@ -110,9 +110,109 @@
       "slug": "fiber",
       "path": "nutrition/fiber.md",
       "goals": ["health"],
-      "tags": ["nutrition", "micronutrient-adjacent"],
-      "evidence": null,
-      "status": "planned"
+      "tags": ["nutrition", "micronutrient-adjacent", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_hydration",
+      "title": "Hydration",
+      "slug": "hydration",
+      "path": "nutrition/hydration.md",
+      "goals": ["performance", "health"],
+      "tags": ["nutrition", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_energy_balance",
+      "title": "Energy Balance",
+      "slug": "energy-balance",
+      "path": "nutrition/energy-balance.md",
+      "goals": ["hypertrophy", "fat-loss", "maintenance"],
+      "tags": ["nutrition", "energy-balance", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_micronutrients",
+      "title": "Micronutrients",
+      "slug": "micronutrients",
+      "path": "nutrition/micronutrients.md",
+      "goals": ["health", "performance"],
+      "tags": ["nutrition", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_pre_workout_nutrition",
+      "title": "Pre-Workout Nutrition",
+      "slug": "pre-workout-nutrition",
+      "path": "nutrition/pre-workout-nutrition.md",
+      "goals": ["performance", "hypertrophy"],
+      "tags": ["nutrition", "timing", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_post_workout_nutrition",
+      "title": "Post-Workout Nutrition",
+      "slug": "post-workout-nutrition",
+      "path": "nutrition/post-workout-nutrition.md",
+      "goals": ["recovery", "hypertrophy", "performance"],
+      "tags": ["nutrition", "timing", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_intermittent_fasting",
+      "title": "Intermittent Fasting",
+      "slug": "intermittent-fasting",
+      "path": "nutrition/intermittent-fasting.md",
+      "goals": ["fat-loss", "maintenance"],
+      "tags": ["nutrition", "timing", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_refeeds_and_diet_breaks",
+      "title": "Refeeds and Diet Breaks",
+      "slug": "refeeds-and-diet-breaks",
+      "path": "nutrition/refeeds-and-diet-breaks.md",
+      "goals": ["fat-loss"],
+      "tags": ["nutrition", "calorie-deficit", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_alcohol",
+      "title": "Alcohol",
+      "slug": "alcohol",
+      "path": "nutrition/alcohol.md",
+      "goals": ["recovery", "health"],
+      "tags": ["nutrition", "evidence"],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_plant_based_protein",
+      "title": "Plant-Based Protein",
+      "slug": "plant-based-protein",
+      "path": "nutrition/plant-based-protein.md",
+      "goals": ["hypertrophy", "health"],
+      "tags": ["nutrition", "macronutrient", "evidence"],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "nutrition_body_recomposition",
+      "title": "Body Recomposition",
+      "slug": "body-recomposition",
+      "path": "nutrition/body-recomposition.md",
+      "goals": ["hypertrophy", "fat-loss"],
+      "tags": ["nutrition", "evidence"],
+      "evidence": "B",
+      "status": "published"
     }
   ]
 }
