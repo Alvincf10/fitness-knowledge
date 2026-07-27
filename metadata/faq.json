@@ -1,0 +1,78 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Catalog of FAQ articles. Articles are generated in a later phase.",
+  "schema": {
+    "id": "string",
+    "title": "string",
+    "slug": "string",
+    "path": "string",
+    "tags": "string[]",
+    "related": "string[]",
+    "evidence": "A | B | C | D",
+    "status": "planned | draft | published"
+  },
+  "target_count": 30,
+  "faq": [
+    {
+      "id": "faq_best_time_to_workout",
+      "title": "Best Time to Workout?",
+      "slug": "best-time-to-workout",
+      "path": "faq/best-time-to-workout.md",
+      "tags": ["beginner", "programming"],
+      "related": ["science_training_frequency"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "faq_should_i_train_to_failure",
+      "title": "Should I Train to Failure?",
+      "slug": "should-i-train-to-failure",
+      "path": "faq/should-i-train-to-failure.md",
+      "tags": ["hypertrophy", "strength"],
+      "related": ["science_failure_training", "science_reps_in_reserve"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "faq_can_i_build_muscle_at_home",
+      "title": "Can I Build Muscle at Home?",
+      "slug": "can-i-build-muscle-at-home",
+      "path": "faq/can-i-build-muscle-at-home.md",
+      "tags": ["beginner", "hypertrophy", "bodyweight"],
+      "related": ["science_muscle_hypertrophy", "exercise_push_up"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "faq_is_cardio_bad",
+      "title": "Is Cardio Bad?",
+      "slug": "is-cardio-bad",
+      "path": "faq/is-cardio-bad.md",
+      "tags": ["cardio", "fat-loss", "hypertrophy"],
+      "related": ["science_fat_loss"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "faq_how_much_protein",
+      "title": "How Much Protein?",
+      "slug": "how-much-protein",
+      "path": "faq/how-much-protein.md",
+      "tags": ["nutrition", "hypertrophy"],
+      "related": ["nutrition_protein"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "faq_do_i_need_creatine",
+      "title": "Do I Need Creatine?",
+      "slug": "do-i-need-creatine",
+      "path": "faq/do-i-need-creatine.md",
+      "tags": ["supplement", "strength"],
+      "related": ["supplement_creatine"],
+      "evidence": null,
+      "status": "planned"
+    }
+  ]
+}

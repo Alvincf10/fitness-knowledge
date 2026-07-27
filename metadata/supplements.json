@@ -1,0 +1,108 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Catalog of supplement articles. Articles are generated in a later phase.",
+  "schema": {
+    "id": "string",
+    "title": "string",
+    "slug": "string",
+    "path": "string",
+    "goals": "string[]",
+    "tags": "string[]",
+    "evidence": "A | B | C | D",
+    "status": "planned | draft | published"
+  },
+  "target_count": 15,
+  "supplements": [
+    {
+      "id": "supplement_creatine",
+      "title": "Creatine",
+      "slug": "creatine",
+      "path": "supplements/creatine.md",
+      "goals": ["strength", "hypertrophy", "performance"],
+      "tags": ["supplement", "evidence"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_whey_protein",
+      "title": "Whey Protein",
+      "slug": "whey-protein",
+      "path": "supplements/whey-protein.md",
+      "goals": ["hypertrophy", "recovery"],
+      "tags": ["supplement", "protein"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_caffeine",
+      "title": "Caffeine",
+      "slug": "caffeine",
+      "path": "supplements/caffeine.md",
+      "goals": ["performance"],
+      "tags": ["supplement", "stimulant"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_beta_alanine",
+      "title": "Beta-Alanine",
+      "slug": "beta-alanine",
+      "path": "supplements/beta-alanine.md",
+      "goals": ["performance"],
+      "tags": ["supplement", "endurance"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_citrulline",
+      "title": "Citrulline",
+      "slug": "citrulline",
+      "path": "supplements/citrulline.md",
+      "goals": ["performance"],
+      "tags": ["supplement"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_electrolytes",
+      "title": "Electrolytes",
+      "slug": "electrolytes",
+      "path": "supplements/electrolytes.md",
+      "goals": ["hydration", "performance"],
+      "tags": ["supplement", "minerals"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_fish_oil",
+      "title": "Fish Oil",
+      "slug": "fish-oil",
+      "path": "supplements/fish-oil.md",
+      "goals": ["health", "recovery"],
+      "tags": ["supplement", "omega-3"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_vitamin_d",
+      "title": "Vitamin D",
+      "slug": "vitamin-d",
+      "path": "supplements/vitamin-d.md",
+      "goals": ["health"],
+      "tags": ["supplement", "vitamin"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "supplement_magnesium",
+      "title": "Magnesium",
+      "slug": "magnesium",
+      "path": "supplements/magnesium.md",
+      "goals": ["recovery", "health"],
+      "tags": ["supplement", "mineral"],
+      "evidence": null,
+      "status": "planned"
+    }
+  ]
+}

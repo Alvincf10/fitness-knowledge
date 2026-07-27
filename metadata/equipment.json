@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Controlled vocabulary for equipment tags used across exercise metadata.",
+  "equipment": [
+    {
+      "id": "barbell",
+      "name": "Barbell",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "dumbbell",
+      "name": "Dumbbell",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "kettlebell",
+      "name": "Kettlebell",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "cable",
+      "name": "Cable",
+      "tags": ["machine"]
+    },
+    {
+      "id": "machine",
+      "name": "Machine",
+      "tags": ["machine"]
+    },
+    {
+      "id": "bodyweight",
+      "name": "Bodyweight",
+      "tags": ["bodyweight"]
+    },
+    {
+      "id": "pull-up-bar",
+      "name": "Pull-Up Bar",
+      "tags": ["bodyweight"]
+    },
+    {
+      "id": "resistance-band",
+      "name": "Resistance Band",
+      "tags": ["band"]
+    },
+    {
+      "id": "smith-machine",
+      "name": "Smith Machine",
+      "tags": ["machine"]
+    },
+    {
+      "id": "ez-bar",
+      "name": "EZ Bar",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "trap-bar",
+      "name": "Trap Bar",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "medicine-ball",
+      "name": "Medicine Ball",
+      "tags": ["free-weight"]
+    },
+    {
+      "id": "stability-ball",
+      "name": "Stability Ball",
+      "tags": ["accessory"]
+    },
+    {
+      "id": "bench",
+      "name": "Bench",
+      "tags": ["accessory"]
+    },
+    {
+      "id": "rack",
+      "name": "Power Rack / Squat Rack",
+      "tags": ["accessory"]
+    }
+  ]
+}

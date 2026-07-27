@@ -1,0 +1,118 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Catalog of nutrition articles. Articles are generated in a later phase.",
+  "schema": {
+    "id": "string",
+    "title": "string",
+    "slug": "string",
+    "path": "string",
+    "goals": "string[]",
+    "tags": "string[]",
+    "evidence": "A | B | C | D",
+    "status": "planned | draft | published"
+  },
+  "target_count": 20,
+  "nutrition": [
+    {
+      "id": "nutrition_protein",
+      "title": "Protein",
+      "slug": "protein",
+      "path": "nutrition/protein.md",
+      "goals": ["hypertrophy", "fat-loss", "performance"],
+      "tags": ["nutrition", "macronutrient"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_carbohydrates",
+      "title": "Carbohydrates",
+      "slug": "carbohydrates",
+      "path": "nutrition/carbohydrates.md",
+      "goals": ["performance", "hypertrophy"],
+      "tags": ["nutrition", "macronutrient"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_fat",
+      "title": "Fat",
+      "slug": "fat",
+      "path": "nutrition/fat.md",
+      "goals": ["health", "hormones"],
+      "tags": ["nutrition", "macronutrient"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_meal_timing",
+      "title": "Meal Timing",
+      "slug": "meal-timing",
+      "path": "nutrition/meal-timing.md",
+      "goals": ["hypertrophy", "performance"],
+      "tags": ["nutrition", "timing"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_bulking",
+      "title": "Bulking",
+      "slug": "bulking",
+      "path": "nutrition/bulking.md",
+      "goals": ["hypertrophy"],
+      "tags": ["nutrition", "calorie-surplus"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_cutting",
+      "title": "Cutting",
+      "slug": "cutting",
+      "path": "nutrition/cutting.md",
+      "goals": ["fat-loss"],
+      "tags": ["nutrition", "calorie-deficit"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_maintenance",
+      "title": "Maintenance",
+      "slug": "maintenance",
+      "path": "nutrition/maintenance.md",
+      "goals": ["maintenance"],
+      "tags": ["nutrition", "energy-balance"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_calorie_deficit",
+      "title": "Calorie Deficit",
+      "slug": "calorie-deficit",
+      "path": "nutrition/calorie-deficit.md",
+      "goals": ["fat-loss"],
+      "tags": ["nutrition", "energy-balance"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_calorie_surplus",
+      "title": "Calorie Surplus",
+      "slug": "calorie-surplus",
+      "path": "nutrition/calorie-surplus.md",
+      "goals": ["hypertrophy"],
+      "tags": ["nutrition", "energy-balance"],
+      "evidence": null,
+      "status": "planned"
+    },
+    {
+      "id": "nutrition_fiber",
+      "title": "Fiber",
+      "slug": "fiber",
+      "path": "nutrition/fiber.md",
+      "goals": ["health"],
+      "tags": ["nutrition", "micronutrient-adjacent"],
+      "evidence": null,
+      "status": "planned"
+    }
+  ]
+}

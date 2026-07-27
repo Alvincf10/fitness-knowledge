@@ -1,0 +1,119 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Controlled vocabulary for muscle groups used in exercise metadata and folder routing.",
+  "muscles": [
+    {
+      "id": "chest",
+      "name": "Chest",
+      "slug": "chest",
+      "folder": "exercises/chest",
+      "aliases": ["pectorals", "pecs"]
+    },
+    {
+      "id": "back",
+      "name": "Back",
+      "slug": "back",
+      "folder": "exercises/back",
+      "aliases": ["lats", "upper-back", "mid-back"]
+    },
+    {
+      "id": "shoulders",
+      "name": "Shoulders",
+      "slug": "shoulders",
+      "folder": "exercises/shoulders",
+      "aliases": ["delts", "deltoids"]
+    },
+    {
+      "id": "front-delts",
+      "name": "Front Delts",
+      "slug": "front-delts",
+      "folder": "exercises/shoulders",
+      "aliases": ["anterior-deltoids"]
+    },
+    {
+      "id": "side-delts",
+      "name": "Side Delts",
+      "slug": "side-delts",
+      "folder": "exercises/shoulders",
+      "aliases": ["lateral-deltoids"]
+    },
+    {
+      "id": "rear-delts",
+      "name": "Rear Delts",
+      "slug": "rear-delts",
+      "folder": "exercises/shoulders",
+      "aliases": ["posterior-deltoids"]
+    },
+    {
+      "id": "legs",
+      "name": "Legs",
+      "slug": "legs",
+      "folder": "exercises/legs",
+      "aliases": ["quads", "hamstrings", "lower-body"]
+    },
+    {
+      "id": "quads",
+      "name": "Quadriceps",
+      "slug": "quads",
+      "folder": "exercises/legs",
+      "aliases": ["quadriceps"]
+    },
+    {
+      "id": "hamstrings",
+      "name": "Hamstrings",
+      "slug": "hamstrings",
+      "folder": "exercises/legs",
+      "aliases": ["hams"]
+    },
+    {
+      "id": "glutes",
+      "name": "Glutes",
+      "slug": "glutes",
+      "folder": "exercises/glutes",
+      "aliases": ["gluteus", "gluteal"]
+    },
+    {
+      "id": "biceps",
+      "name": "Biceps",
+      "slug": "biceps",
+      "folder": "exercises/biceps",
+      "aliases": ["biceps-brachii"]
+    },
+    {
+      "id": "triceps",
+      "name": "Triceps",
+      "slug": "triceps",
+      "folder": "exercises/triceps",
+      "aliases": ["triceps-brachii"]
+    },
+    {
+      "id": "forearms",
+      "name": "Forearms",
+      "slug": "forearms",
+      "folder": "exercises/forearms",
+      "aliases": ["grip", "wrist-flexors", "wrist-extensors"]
+    },
+    {
+      "id": "abs",
+      "name": "Abs",
+      "slug": "abs",
+      "folder": "exercises/abs",
+      "aliases": ["core", "abdominals", "rectus-abdominis"]
+    },
+    {
+      "id": "calves",
+      "name": "Calves",
+      "slug": "calves",
+      "folder": "exercises/calves",
+      "aliases": ["gastrocnemius", "soleus"]
+    },
+    {
+      "id": "full-body",
+      "name": "Full Body",
+      "slug": "full-body",
+      "folder": "exercises/full-body",
+      "aliases": ["total-body"]
+    }
+  ]
+}
