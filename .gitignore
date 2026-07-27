@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Retrieval build artifacts (regenerate with: python3 -m retrieval build)
+data/embeddings.npy
+data/file_hashes.json
+data/chunk_hashes.json
+vectorstore/*.index
+vectorstore/*.ids.txt
+bm25/*.pkl

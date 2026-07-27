@@ -1,0 +1,79 @@
+# Fitness KB retrieval pipeline configuration
+
+knowledge_root: .
+knowledge_dirs:
+  - exercises
+  - science
+  - nutrition
+  - supplements
+  - faq
+  - anatomy
+  - injuries
+  - programming
+  - decision-trees
+
+# Chunking (section-based: merge small H2s; short docs → single chunk)
+chunk_target_tokens: 400
+chunk_min_tokens: 200
+chunk_max_tokens: 550
+chunk_overlap_tokens: 50
+
+# Paths (relative to knowledge_root)
+paths:
+  chunks: data/chunks.jsonl
+  metadata: data/metadata.json
+  embeddings: data/embeddings.npy
+  file_hashes: data/file_hashes.json
+  chunk_hashes: data/chunk_hashes.json
+  faiss_index: vectorstore/faiss.index
+  bm25_index: bm25/bm25.pkl
+  eval_questions: evaluation/questions.jsonl
+  eval_report: evaluation/report.md
+
+# Embeddings
+embedding:
+  provider: fastembed  # fastembed | openai | hash
+  model: BAAI/bge-small-en-v1.5
+  # Alternatives:
+  #   fastembed nomic: nomic-ai/nomic-embed-text-v1.5
+  #   openai: text-embedding-3-small | text-embedding-3-large
+  batch_size: 64
+  openai_model: text-embedding-3-small
+
+# Vector store
+faiss:
+  index_type: hnsw  # hnsw | flat_ip | ivf_pq
+  hnsw_m: 32
+  hnsw_ef_construction: 200
+  hnsw_ef_search: 64
+  ivf_nlist: 100
+  ivf_m: 8
+  ivf_nbits: 8
+
+# Hybrid retrieval
+retrieval:
+  top_k_semantic: 30
+  top_k_bm25: 30
+  top_k_fused: 30
+  top_k_final: 10
+  fusion: rrf  # rrf | weighted
+  rrf_k: 60
+  semantic_weight: 0.6
+  bm25_weight: 0.4
+  confidence_threshold: 0.015
+  insufficient_evidence_message: >-
+    Insufficient evidence found in the current knowledge base.
+
+# Reranker (optional — set provider to bge or jina; requires sentence-transformers)
+# Default noop keeps query/eval fast on CPU; enable bge for production quality.
+reranker:
+  provider: noop  # noop | bge | jina
+  model: BAAI/bge-reranker-base
+  # alternatives:
+  #   BAAI/bge-reranker-large
+  #   jinaai/jina-reranker-v2-base-multilingual  (provider: jina)
+  top_k: 10
+
+# Logging
+logging:
+  level: INFO

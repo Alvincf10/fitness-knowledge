@@ -1,6 +1,6 @@
 # Fitness Knowledge Base (fitness-kb)
 
-Version: 1.0 (Phase 1)
+Version: 1.1 (Phase 3 — retrieval)
 
 Evidence-based fitness knowledge base in Markdown, designed for RAG and multi-agent use (OpenClaw, Cursor Agent, LangChain, LlamaIndex, and others).
 
@@ -60,6 +60,24 @@ fit-knowledge/
 - No fitness-blog citations
 - Prefer meta-analyses, systematic reviews, ACSM, ISSN, NSCA, and peer-reviewed journals
 
+## Retrieval (Phase 3)
+
+Hybrid search over the Markdown corpus (chunk → FastEmbed → FAISS + BM25 → RRF → citations).
+
+```bash
+pip install -r requirements-retrieval.txt
+# recommended:
+python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements-retrieval.txt
+
+python3 -m retrieval build
+python3 -m retrieval query "How much protein should I eat?"
+python3 -m retrieval eval
+# optional rerank:
+python3 -m retrieval query "How much protein should I eat?" --reranker bge
+```
+
+See [`retrieval/README.md`](retrieval/README.md) and [`config/retrieval.yaml`](config/retrieval.yaml).
+
 ## Status
 
-Scaffold complete: folder structure, templates, and metadata JSON are in place. Knowledge articles are not generated yet.
+Knowledge corpus + Phase 3 indexing/retrieval pipeline are in place. Run `python3 -m retrieval build` after content changes.

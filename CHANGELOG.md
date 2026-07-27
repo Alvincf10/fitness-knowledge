@@ -2,6 +2,26 @@
 
 All notable changes to this knowledge base are documented in this file.
 
+## [1.1.1] - 2026-07-27
+
+### Changed
+
+- Section-based chunker v2: H2-rooted sections, merge small subsections, short docs → single chunk, title/category prefix; auto-invalidates incremental cache via `chunker_version`
+- Hybrid retrieval adds title/slug boost before guard/rerank
+- Optional BGE/Jina reranker via config/CLI (`noop` default for CPU speed; `bge` / `jina` when `sentence-transformers` installed)
+- Re-benchmark: Recall@10 = 1.00, MRR ≈ 0.97 (300 questions, FastEmbed)
+
+## [1.1.0] - 2026-07-27
+
+### Added
+
+- Phase 3 retrieval engine (`retrieval/`): Markdown chunker, FastEmbed/OpenAI/hash embeddings, FAISS + BM25 indexes, hybrid RRF retrieval, query expansion, citation payloads, hallucination guard, and optional BGE/Jina rerankers
+- Config-driven settings in `config/retrieval.yaml`
+- CLI: `python3 -m retrieval build|query|eval`
+- Evaluation set (`evaluation/questions.jsonl`, ~300 Qs) and `evaluation/report.md`
+- Unit tests under `tests/retrieval/`
+- `requirements-retrieval.txt` and `retrieval/README.md`
+
 ## [1.0.7] - 2026-07-27
 
 ### Added
