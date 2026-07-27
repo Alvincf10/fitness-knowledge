@@ -10,8 +10,21 @@ tags:
   - supplement
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/do-i-need-creatine.md
+  - faq/do-i-need-supplements.md
+  - science/training-principles/progressive-overload.md
+  - nutrition/protein.md
+  - supplements/caffeine.md
+  - supplements/beta-alanine.md
+  - supplements/whey-protein.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/hmb.md
+  - supplements/electrolytes.md
 ---
 
 # Creatine
@@ -72,8 +85,13 @@ ISSN and multiple meta-analyses rate creatine monohydrate as effective for high-
 
 ## Related
 
-- Do I Need Creatine?
-- Whey Protein
-- Protein
-- Strength Adaptation
-- Progressive Overload
+- faq/do-i-need-creatine.md
+- faq/do-i-need-supplements.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md
+- supplements/sodium-bicarbonate.md
+- supplements/hmb.md
+- supplements/electrolytes.md

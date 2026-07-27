@@ -6,12 +6,14 @@ tags:
   - beginner
   - programming
 related:
-  - science_progressive_overload
-  - science_training_volume
-  - nutrition_protein
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - nutrition/protein.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Should Women Train Differently?
@@ -39,9 +41,8 @@ Resistance-training reviews and ACSM guidance support progressive resistance tra
 - Eat enough protein and calories for your goal
 - Ignore “don’t lift heavy or you’ll get bulky” myths
 
-## Related Articles
+## Related
 
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Protein](../nutrition/protein.md)
-- [Back Squat](../exercises/legs/back-squat.md)
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- nutrition/protein.md

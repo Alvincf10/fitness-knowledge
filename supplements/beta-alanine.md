@@ -9,8 +9,21 @@ tags:
   - endurance
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - supplements/creatine.md
+  - supplements/citrulline.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/dietary-nitrate.md
+  - supplements/carbohydrate.md
+  - supplements/electrolytes.md
+  - supplements/caffeine.md
+  - supplements/whey-protein.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
 ---
 
 # Beta-Alanine
@@ -67,8 +80,13 @@ ISSN position stands and meta-analyses support beta-alanine for high-intensity e
 
 ## Related
 
-- Caffeine
-- Creatine
-- Citrulline
-- Sodium Bicarbonate
-- Training Volume
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/carbohydrate.md
+- supplements/electrolytes.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md

@@ -6,12 +6,20 @@ tags:
   - nutrition
   - hypertrophy
 related:
-  - nutrition_protein
-  - supplement_whey_protein
-  - nutrition_plant_based_protein
+  - nutrition/protein.md
+  - faq/is-more-protein-always-better.md
+  - supplements/whey-protein.md
+  - nutrition/plant-based-protein.md
+  - supplements/casein-protein.md
+  - nutrition/meal-timing.md
+  - faq/do-i-need-whey-protein.md
+  - nutrition/body-recomposition.md
+  - supplements/bcaas.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # How Much Protein?
@@ -39,10 +47,14 @@ Morton et al. and ISSN position stands support elevated protein for exercising p
 - Raise intake toward the high end while cutting
 - Choose whey, dairy, meat, eggs, soy, or mixed plant sources that you will actually eat
 
-## Related Articles
+## Related
 
-- [Protein](../nutrition/protein.md)
-- [Whey Protein](../supplements/whey-protein.md)
-- [Plant-Based Protein](../nutrition/plant-based-protein.md)
-- [Meal Timing](../nutrition/meal-timing.md)
-- [Cutting](../nutrition/cutting.md)
+- nutrition/protein.md
+- faq/is-more-protein-always-better.md
+- supplements/whey-protein.md
+- nutrition/plant-based-protein.md
+- supplements/casein-protein.md
+- nutrition/meal-timing.md
+- faq/do-i-need-whey-protein.md
+- nutrition/body-recomposition.md
+- supplements/bcaas.md

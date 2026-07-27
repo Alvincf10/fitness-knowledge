@@ -6,12 +6,16 @@ tags:
   - hypertrophy
   - strength
 related:
-  - science_failure_training
-  - science_reps_in_reserve
-  - science_training_volume
+  - science/training-principles/failure-training.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/what-is-rir.md
+  - science/training-principles/training-volume.md
+  - faq/how-many-sets-per-week.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Should I Train to Failure?
@@ -39,9 +43,10 @@ Meta-analyses comparing failure versus non-failure training generally show simil
 - Keep heavier compounds technically crisp
 - If recovery collapses, reduce failure frequency before cutting all hard training
 
-## Related Articles
+## Related
 
-- [Failure Training](../science/training-principles/failure-training.md)
-- [Reps in Reserve](../science/training-principles/reps-in-reserve.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
+- science/training-principles/failure-training.md
+- science/training-principles/reps-in-reserve.md
+- faq/what-is-rir.md
+- science/training-principles/training-volume.md
+- faq/how-many-sets-per-week.md

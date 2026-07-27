@@ -9,8 +9,21 @@ tags:
   - calorie-deficit
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/cutting.md
+  - nutrition/calorie-deficit.md
+  - faq/how-fast-can-i-lose-fat.md
+  - nutrition/carbohydrates.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/energy-balance.md
+  - nutrition/body-recomposition.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
 ---
 
 # Refeeds and Diet Breaks
@@ -72,8 +85,13 @@ Emerging research on intermittent diet breaks suggests possible adherence and fa
 
 ## Related
 
-- Cutting
-- Calorie Deficit
-- Carbohydrates
-- Maintenance
-- Energy Balance
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/carbohydrates.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/body-recomposition.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md

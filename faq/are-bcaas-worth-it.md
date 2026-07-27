@@ -6,12 +6,16 @@ tags:
   - supplement
   - nutrition
 related:
-  - supplement_bcaas
-  - nutrition_protein
-  - supplement_whey_protein
+  - supplements/bcaas.md
+  - nutrition/protein.md
+  - supplements/whey-protein.md
+  - faq/how-much-protein.md
+  - faq/do-i-need-supplements.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: C
+evidence_level: C
 ---
 
 # Are BCAAs Worth It?
@@ -39,9 +43,10 @@ Reviews (including Wolfe and ISSN-aligned protein literature) argue BCAA supplem
 - Use whole protein peri-workout instead of BCAA sips
 - Reassess only if clinical or dietary constraints limit complete protein
 
-## Related Articles
+## Related
 
-- [BCAAs](../supplements/bcaas.md)
-- [Protein](../nutrition/protein.md)
-- [Whey Protein](../supplements/whey-protein.md)
-- [How Much Protein?](how-much-protein.md)
+- supplements/bcaas.md
+- nutrition/protein.md
+- supplements/whey-protein.md
+- faq/how-much-protein.md
+- faq/do-i-need-supplements.md

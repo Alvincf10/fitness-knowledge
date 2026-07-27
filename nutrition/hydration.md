@@ -9,8 +9,21 @@ tags:
   - nutrition
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - supplements/electrolytes.md
+  - nutrition/micronutrients.md
+  - supplements/magnesium.md
+  - nutrition/protein.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/meal-timing.md
+  - nutrition/fiber.md
+  - nutrition/fat.md
 ---
 
 # Hydration
@@ -70,8 +83,13 @@ ACSM hydration position stands show that dehydration can impair performance, esp
 
 ## Related
 
-- Electrolytes
-- Carbohydrate
-- Pre-Workout Nutrition
-- Recovery
-- Cutting
+- supplements/electrolytes.md
+- nutrition/micronutrients.md
+- supplements/magnesium.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+- nutrition/fiber.md
+- nutrition/fat.md

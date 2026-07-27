@@ -6,12 +6,14 @@ tags:
   - beginner
   - programming
 related:
-  - exercise_back_squat
-  - exercise_barbell_bench_press
-  - science_progressive_overload
+  - exercises/legs/back-squat.md
+  - exercises/chest/barbell-bench-press.md
+  - science/training-principles/progressive-overload.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Is Stretching Required Before Lifting?
@@ -39,9 +41,8 @@ Warm-up and stretching reviews support activity-specific preparation; prolonged 
 - Stretch after lifting if mobility is a goal
 - Address painful limitations with appropriate professional care when needed
 
-## Related Articles
+## Related
 
-- [Back Squat](../exercises/legs/back-squat.md)
-- [Barbell Bench Press](../exercises/chest/barbell-bench-press.md)
-- [Romanian Deadlift](../exercises/legs/romanian-deadlift.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
+- exercises/legs/back-squat.md
+- exercises/chest/barbell-bench-press.md
+- science/training-principles/progressive-overload.md

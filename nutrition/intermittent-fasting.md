@@ -10,8 +10,21 @@ tags:
   - timing
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - faq/is-intermittent-fasting-better.md
+  - nutrition/meal-timing.md
+  - nutrition/calorie-deficit.md
+  - nutrition/energy-balance.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/maintenance.md
+  - nutrition/cutting.md
 ---
 
 # Intermittent Fasting
@@ -72,8 +85,13 @@ RCTs and reviews generally show similar weight-loss outcomes for IF versus conti
 
 ## Related
 
-- Meal Timing
-- Calorie Deficit
-- Protein
-- Cutting
-- Energy Balance
+- faq/is-intermittent-fasting-better.md
+- nutrition/meal-timing.md
+- nutrition/calorie-deficit.md
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/maintenance.md
+- nutrition/cutting.md

@@ -6,12 +6,21 @@ tags:
   - cardio
   - fat-loss
 related:
-  - nutrition_cutting
-  - nutrition_calorie_deficit
-  - faq_is_cardio_bad
+  - nutrition/cutting.md
+  - nutrition/calorie-deficit.md
+  - faq/is-cardio-bad.md
+  - faq/should-i-do-cardio-before-or-after-weights.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/energy-balance.md
+  - nutrition/body-recomposition.md
+  - faq/is-spot-reduction-possible.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # How Much Cardio for Fat Loss?
@@ -39,9 +48,15 @@ Energy-balance and ACSM guidance show exercise helps weight management, with die
 - Keep progressive resistance training
 - Increase cardio gradually if fat loss stalls and recovery allows
 
-## Related Articles
+## Related
 
-- [Cutting](../nutrition/cutting.md)
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Is Cardio Bad?](is-cardio-bad.md)
-- [Energy Balance](../nutrition/energy-balance.md)
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- faq/is-cardio-bad.md
+- faq/should-i-do-cardio-before-or-after-weights.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/body-recomposition.md
+- faq/is-spot-reduction-possible.md

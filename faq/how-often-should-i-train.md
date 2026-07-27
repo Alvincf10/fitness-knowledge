@@ -6,12 +6,16 @@ tags:
   - beginner
   - programming
 related:
-  - science_training_frequency
-  - science_training_volume
-  - science_progressive_overload
+  - science/training-principles/training-frequency.md
+  - science/training-principles/training-volume.md
+  - faq/can-i-train-every-day.md
+  - science/training-principles/progressive-overload.md
+  - faq/how-many-sets-per-week.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # How Often Should I Train?
@@ -39,9 +43,10 @@ Frequency meta-analyses show similar hypertrophy when weekly volume is equated, 
 - Split high weekly volumes across sessions
 - Add a day only if recovery and progression remain solid
 
-## Related Articles
+## Related
 
-- [Training Frequency](../science/training-principles/training-frequency.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Can I Train Every Day?](can-i-train-every-day.md)
+- science/training-principles/training-frequency.md
+- science/training-principles/training-volume.md
+- faq/can-i-train-every-day.md
+- science/training-principles/progressive-overload.md
+- faq/how-many-sets-per-week.md

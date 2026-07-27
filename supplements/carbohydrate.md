@@ -10,8 +10,21 @@ tags:
   - evidence
   - endurance
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/carbohydrates.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - supplements/electrolytes.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/dietary-nitrate.md
+  - supplements/beta-alanine.md
+  - supplements/whey-protein.md
+  - supplements/magnesium.md
+  - supplements/hmb.md
 ---
 
 # Carbohydrate
@@ -73,8 +86,13 @@ ACSM and ISSN guidance strongly support carbohydrate for endurance performance a
 
 ## Related
 
-- Carbohydrates
-- Electrolytes
-- Caffeine
-- Meal Timing
-- Recovery
+- nutrition/carbohydrates.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- supplements/electrolytes.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md
+- supplements/magnesium.md
+- supplements/hmb.md

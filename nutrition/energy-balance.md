@@ -11,8 +11,21 @@ tags:
   - energy-balance
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/maintenance.md
+  - nutrition/calorie-deficit.md
+  - nutrition/calorie-surplus.md
+  - faq/does-muscle-turn-into-fat.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/body-recomposition.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
 ---
 
 # Energy Balance
@@ -73,8 +86,13 @@ Human energy-balance research confirms that sustained mismatches between intake 
 
 ## Related
 
-- Calorie Deficit
-- Calorie Surplus
-- Maintenance
-- Cutting
-- Bulking
+- nutrition/maintenance.md
+- nutrition/calorie-deficit.md
+- nutrition/calorie-surplus.md
+- faq/does-muscle-turn-into-fat.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/body-recomposition.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md

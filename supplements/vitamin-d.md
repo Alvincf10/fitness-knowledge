@@ -9,8 +9,21 @@ tags:
   - vitamin
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/micronutrients.md
+  - supplements/magnesium.md
+  - supplements/fish-oil.md
+  - supplements/whey-protein.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/hmb.md
+  - supplements/electrolytes.md
+  - supplements/dietary-nitrate.md
+  - supplements/creatine.md
+  - supplements/citrulline.md
 ---
 
 # Vitamin D
@@ -69,8 +82,13 @@ Evidence is strong that correcting deficiency matters for health. Meta-analyses 
 
 ## Related
 
-- Magnesium
-- Fish Oil
-- Recovery
-- Protein
-- Strength Adaptation
+- nutrition/micronutrients.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/whey-protein.md
+- supplements/sodium-bicarbonate.md
+- supplements/hmb.md
+- supplements/electrolytes.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/citrulline.md

@@ -29,8 +29,21 @@ tags:
   - strength
   - hypertrophy
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - exercises/legs/romanian-deadlift.md
+  - exercises/legs/leg-press.md
+  - exercises/back/rack-pull.md
+  - exercises/back/t-bar-row.md
+  - exercises/back/pendlay-row.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/how-long-should-i-rest-between-sets.md
+  - faq/how-many-sets-per-week.md
 ---
 
 # Back Squat
@@ -162,8 +175,13 @@ A
 
 ## Related
 
-- Leg Press
-- Romanian Deadlift
-- Progressive Overload
-- Strength Adaptation
-- Training Volume
+- exercises/legs/romanian-deadlift.md
+- exercises/legs/leg-press.md
+- exercises/back/rack-pull.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md

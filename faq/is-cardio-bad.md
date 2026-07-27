@@ -7,12 +7,15 @@ tags:
   - fat-loss
   - hypertrophy
 related:
-  - nutrition_cutting
-  - nutrition_calorie_deficit
-  - science_training_volume
+  - faq/how-much-cardio-for-fat-loss.md
+  - faq/should-i-do-cardio-before-or-after-weights.md
+  - nutrition/cutting.md
+  - science/training-principles/training-volume.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Is Cardio Bad?
@@ -40,9 +43,9 @@ Concurrent-training reviews show possible interference under high endurance load
 - Separate hard interval cardio from key lower-body strength sessions when possible
 - Raise protein and avoid huge deficits while increasing cardio
 
-## Related Articles
+## Related
 
-- [Cutting](../nutrition/cutting.md)
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Energy Balance](../nutrition/energy-balance.md)
+- faq/how-much-cardio-for-fat-loss.md
+- faq/should-i-do-cardio-before-or-after-weights.md
+- nutrition/cutting.md
+- science/training-principles/training-volume.md

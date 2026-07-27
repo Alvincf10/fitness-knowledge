@@ -9,8 +9,21 @@ tags:
   - energy-balance
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/bulking.md
+  - nutrition/energy-balance.md
+  - faq/do-i-need-to-bulk-to-build-muscle.md
+  - nutrition/protein.md
+  - nutrition/calorie-deficit.md
+  - nutrition/maintenance.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/meal-timing.md
 ---
 
 # Calorie Surplus
@@ -71,8 +84,13 @@ Energy availability influences hypertrophy rate. Research and applied reviews su
 
 ## Related
 
-- Bulking
-- Energy Balance
-- Protein
-- Maintenance
-- Muscle Hypertrophy
+- nutrition/bulking.md
+- nutrition/energy-balance.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- nutrition/protein.md
+- nutrition/calorie-deficit.md
+- nutrition/maintenance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md

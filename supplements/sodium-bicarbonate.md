@@ -9,8 +9,21 @@ tags:
   - evidence
   - endurance
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - supplements/beta-alanine.md
+  - supplements/dietary-nitrate.md
+  - supplements/carbohydrate.md
+  - supplements/electrolytes.md
+  - supplements/creatine.md
+  - supplements/citrulline.md
+  - supplements/caffeine.md
+  - supplements/whey-protein.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
 ---
 
 # Sodium Bicarbonate
@@ -70,8 +83,13 @@ Meta-analyses and ISSN-related sports nutrition literature support sodium bicarb
 
 ## Related
 
-- Beta-Alanine
-- Caffeine
-- Dietary Nitrate
-- Electrolytes
-- Training Volume
+- supplements/beta-alanine.md
+- supplements/dietary-nitrate.md
+- supplements/carbohydrate.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md

@@ -9,8 +9,21 @@ tags:
   - nutrition
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/fiber.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
+  - nutrition/hydration.md
+  - supplements/fish-oil.md
+  - nutrition/protein.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/meal-timing.md
 ---
 
 # Micronutrients
@@ -72,8 +85,13 @@ Sports-nutrition position stands emphasize food-first micronutrient adequacy. Pe
 
 ## Related
 
-- Vitamin D
-- Magnesium
-- Fiber
-- Fish Oil
-- Cutting
+- nutrition/fiber.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+- nutrition/hydration.md
+- supplements/fish-oil.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md

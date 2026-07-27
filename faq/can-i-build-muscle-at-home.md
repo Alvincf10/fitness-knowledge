@@ -7,12 +7,21 @@ tags:
   - hypertrophy
   - bodyweight
 related:
-  - exercise_push_up
-  - science_progressive_overload
-  - science_training_volume
+  - exercises/chest/push-up.md
+  - exercises/back/inverted-row.md
+  - exercises/back/pull-up.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - faq/do-push-ups-build-chest.md
+  - exercises/chest/wide-push-up.md
+  - exercises/chest/weighted-push-up.md
+  - exercises/chest/wall-push-up.md
+  - exercises/chest/ring-push-up.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Can I Build Muscle at Home?
@@ -40,9 +49,15 @@ Studies show push-up progressions and other sufficiently hard bodyweight or limi
 - Include a pull and a hinge/squat pattern
 - Add cheap load (dumbbells/bands) when bodyweight becomes too easy
 
-## Related Articles
+## Related
 
-- [Push-Up](../exercises/chest/push-up.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Pull-Up](../exercises/back/pull-up.md)
+- exercises/chest/push-up.md
+- exercises/back/inverted-row.md
+- exercises/back/pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- faq/do-push-ups-build-chest.md
+- exercises/chest/wide-push-up.md
+- exercises/chest/weighted-push-up.md
+- exercises/chest/wall-push-up.md
+- exercises/chest/ring-push-up.md

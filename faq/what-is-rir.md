@@ -6,12 +6,17 @@ tags:
   - programming
   - hypertrophy
 related:
-  - science_reps_in_reserve
-  - science_failure_training
-  - science_training_volume
+  - science/training-principles/reps-in-reserve.md
+  - science/training-principles/failure-training.md
+  - faq/should-i-train-to-failure.md
+  - science/training-principles/training-volume.md
+  - faq/how-many-sets-per-week.md
+  - science/training-principles/progressive-overload.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # What Is RIR?
@@ -39,9 +44,11 @@ RPE/RIR research shows useful estimation accuracy near failure in trained lifter
 - Leave more reps in reserve on technical heavy compounds when needed
 - Log RIR beside load and reps
 
-## Related Articles
+## Related
 
-- [Reps in Reserve](../science/training-principles/reps-in-reserve.md)
-- [Failure Training](../science/training-principles/failure-training.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Should I Train to Failure?](should-i-train-to-failure.md)
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/failure-training.md
+- faq/should-i-train-to-failure.md
+- science/training-principles/training-volume.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/progressive-overload.md

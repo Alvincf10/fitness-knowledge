@@ -6,12 +6,15 @@ tags:
   - supplement
   - strength
 related:
-  - supplement_creatine
-  - science_progressive_overload
-  - nutrition_protein
+  - supplements/creatine.md
+  - faq/do-i-need-supplements.md
+  - science/training-principles/progressive-overload.md
+  - nutrition/protein.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Do I Need Creatine?
@@ -39,9 +42,9 @@ ISSN position stands and multiple meta-analyses support creatine monohydrate for
 - Keep training progressive; creatine cannot replace effort
 - People with kidney disease should seek clinical advice before use
 
-## Related Articles
+## Related
 
-- [Creatine](../supplements/creatine.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Protein](../nutrition/protein.md)
-- [Whey Protein](../supplements/whey-protein.md)
+- supplements/creatine.md
+- faq/do-i-need-supplements.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md

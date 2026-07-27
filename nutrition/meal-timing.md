@@ -10,8 +10,21 @@ tags:
   - timing
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/is-the-anabolic-window-real.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/carbohydrates.md
+  - nutrition/plant-based-protein.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
+  - nutrition/energy-balance.md
 ---
 
 # Meal Timing
@@ -73,8 +86,13 @@ Reviews indicate that while peri-workout nutrition can matter acutely, hypertrop
 
 ## Related
 
-- Protein
-- Pre-Workout Nutrition
-- Post-Workout Nutrition
-- Carbohydrates
-- Intermittent Fasting
+- faq/is-the-anabolic-window-real.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/carbohydrates.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+- nutrition/energy-balance.md

@@ -9,8 +9,21 @@ tags:
   - stimulant
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/pre-workout-nutrition.md
+  - supplements/citrulline.md
+  - supplements/beta-alanine.md
+  - faq/best-time-to-workout.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/electrolytes.md
+  - supplements/dietary-nitrate.md
+  - supplements/creatine.md
+  - supplements/carbohydrate.md
+  - supplements/whey-protein.md
 ---
 
 # Caffeine
@@ -73,8 +86,13 @@ ISSN and multiple meta-analyses support caffeine as an effective ergogenic aid a
 
 ## Related
 
-- Beta-Alanine
-- Creatine
-- Best Time to Workout?
-- Carbohydrate
-- Electrolytes
+- nutrition/pre-workout-nutrition.md
+- supplements/citrulline.md
+- supplements/beta-alanine.md
+- faq/best-time-to-workout.md
+- supplements/sodium-bicarbonate.md
+- supplements/electrolytes.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+- supplements/whey-protein.md

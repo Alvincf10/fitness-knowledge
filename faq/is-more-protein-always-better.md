@@ -6,12 +6,19 @@ tags:
   - nutrition
   - hypertrophy
 related:
-  - nutrition_protein
-  - faq_how_much_protein
-  - nutrition_calorie_surplus
+  - nutrition/protein.md
+  - faq/how-much-protein.md
+  - nutrition/calorie-surplus.md
+  - supplements/whey-protein.md
+  - supplements/casein-protein.md
+  - nutrition/plant-based-protein.md
+  - faq/do-i-need-whey-protein.md
+  - supplements/bcaas.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Is More Protein Always Better?
@@ -39,9 +46,13 @@ Protein supplementation meta-analyses show diminishing returns above evidence-ba
 - Do not neglect carbs needed for hard training
 - Focus next upgrades on progressive overload and sleep
 
-## Related Articles
+## Related
 
-- [Protein](../nutrition/protein.md)
-- [How Much Protein?](how-much-protein.md)
-- [Calorie Surplus](../nutrition/calorie-surplus.md)
-- [Carbohydrates](../nutrition/carbohydrates.md)
+- nutrition/protein.md
+- faq/how-much-protein.md
+- nutrition/calorie-surplus.md
+- supplements/whey-protein.md
+- supplements/casein-protein.md
+- nutrition/plant-based-protein.md
+- faq/do-i-need-whey-protein.md
+- supplements/bcaas.md

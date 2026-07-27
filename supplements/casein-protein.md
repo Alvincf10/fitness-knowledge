@@ -10,8 +10,21 @@ tags:
   - protein
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - supplements/whey-protein.md
+  - nutrition/protein.md
+  - faq/how-much-protein.md
+  - nutrition/meal-timing.md
+  - supplements/bcaas.md
+  - supplements/hmb.md
+  - supplements/magnesium.md
+  - supplements/fish-oil.md
+  - supplements/creatine.md
+  - supplements/carbohydrate.md
 ---
 
 # Casein Protein
@@ -72,8 +85,13 @@ Protein meta-analyses support high-quality dairy proteins for hypertrophy when t
 
 ## Related
 
-- Whey Protein
-- Protein
-- Meal Timing
-- How Much Protein?
-- Muscle Hypertrophy
+- supplements/whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- nutrition/meal-timing.md
+- supplements/bcaas.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/creatine.md
+- supplements/carbohydrate.md

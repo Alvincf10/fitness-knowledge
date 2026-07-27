@@ -9,8 +9,21 @@ tags:
   - micronutrient-adjacent
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/carbohydrates.md
+  - nutrition/micronutrients.md
+  - nutrition/fat.md
+  - nutrition/plant-based-protein.md
+  - nutrition/hydration.md
+  - nutrition/alcohol.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
 ---
 
 # Fiber
@@ -72,8 +85,13 @@ Public-health and clinical nutrition evidence strongly supports fiber for health
 
 ## Related
 
-- Carbohydrates
-- Cutting
-- Micronutrients
-- Plant-Based Protein
-- Fat
+- nutrition/carbohydrates.md
+- nutrition/micronutrients.md
+- nutrition/fat.md
+- nutrition/plant-based-protein.md
+- nutrition/hydration.md
+- nutrition/alcohol.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md

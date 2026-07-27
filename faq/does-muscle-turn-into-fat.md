@@ -6,12 +6,21 @@ tags:
   - beginner
   - fat-loss
 related:
-  - nutrition_energy_balance
-  - nutrition_maintenance
-  - science_progressive_overload
+  - nutrition/energy-balance.md
+  - nutrition/maintenance.md
+  - science/training-principles/progressive-overload.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/cutting.md
+  - nutrition/calorie-deficit.md
+  - nutrition/body-recomposition.md
+  - faq/is-spot-reduction-possible.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Does Muscle Turn Into Fat?
@@ -39,9 +48,15 @@ Exercise physiology distinguishes atrophy from adipose gain. Evidence grade A ag
 - Resume progressive training to rebuild lost muscle
 - Avoid all-or-nothing stoppages when possible
 
-## Related Articles
+## Related
 
-- [Energy Balance](../nutrition/energy-balance.md)
-- [Maintenance](../nutrition/maintenance.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Body Recomposition](../nutrition/body-recomposition.md)
+- nutrition/energy-balance.md
+- nutrition/maintenance.md
+- science/training-principles/progressive-overload.md
+- nutrition/intermittent-fasting.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- nutrition/body-recomposition.md
+- faq/is-spot-reduction-possible.md

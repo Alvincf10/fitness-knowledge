@@ -6,12 +6,21 @@ tags:
   - programming
   - recovery
 related:
-  - science_training_frequency
-  - science_training_volume
-  - faq_how_often_should_i_train
+  - science/training-principles/training-frequency.md
+  - faq/how-often-should-i-train.md
+  - science/training-principles/training-volume.md
+  - faq/how-important-is-sleep.md
+  - supplements/whey-protein.md
+  - supplements/magnesium.md
+  - supplements/hmb.md
+  - supplements/fish-oil.md
+  - supplements/casein-protein.md
+  - supplements/carbohydrate.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Can I Train Every Day?
@@ -39,9 +48,15 @@ Frequency research supports distributing volume; it does not require seven hard 
 - Take a full rest day when performance drops across sessions
 - Track sleep and joint pain as guardrails
 
-## Related Articles
+## Related
 
-- [Training Frequency](../science/training-principles/training-frequency.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [How Often Should I Train?](how-often-should-i-train.md)
-- [How Important Is Sleep?](how-important-is-sleep.md)
+- science/training-principles/training-frequency.md
+- faq/how-often-should-i-train.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- supplements/whey-protein.md
+- supplements/magnesium.md
+- supplements/hmb.md
+- supplements/fish-oil.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md

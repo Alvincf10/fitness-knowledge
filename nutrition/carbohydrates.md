@@ -10,8 +10,21 @@ tags:
   - macronutrient
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/energy-balance.md
+  - nutrition/pre-workout-nutrition.md
+  - supplements/carbohydrate.md
+  - nutrition/fat.md
+  - nutrition/protein.md
+  - nutrition/plant-based-protein.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/meal-timing.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
 ---
 
 # Carbohydrates
@@ -73,8 +86,13 @@ ACSM and ISSN consensus supports carbohydrate availability for endurance and hig
 
 ## Related
 
-- Carbohydrate
-- Meal Timing
-- Pre-Workout Nutrition
-- Post-Workout Nutrition
-- Bulking
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- supplements/carbohydrate.md
+- nutrition/fat.md
+- nutrition/protein.md
+- nutrition/plant-based-protein.md
+- nutrition/post-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md

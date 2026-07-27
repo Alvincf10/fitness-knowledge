@@ -6,12 +6,15 @@ tags:
   - hypertrophy
   - nutrition
 related:
-  - nutrition_bulking
-  - nutrition_calorie_surplus
-  - nutrition_body_recomposition
+  - nutrition/bulking.md
+  - nutrition/calorie-surplus.md
+  - nutrition/body-recomposition.md
+  - faq/can-i-build-muscle-in-a-deficit.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Do I Need to Bulk to Build Muscle?
@@ -39,9 +42,9 @@ Reviews on energy surplus and physique development support faster gains with con
 - Avoid dreamer bulks
 - Use maintenance between phases
 
-## Related Articles
+## Related
 
-- [Bulking](../nutrition/bulking.md)
-- [Calorie Surplus](../nutrition/calorie-surplus.md)
-- [Body Recomposition](../nutrition/body-recomposition.md)
-- [Can I Build Muscle in a Deficit?](can-i-build-muscle-in-a-deficit.md)
+- nutrition/bulking.md
+- nutrition/calorie-surplus.md
+- nutrition/body-recomposition.md
+- faq/can-i-build-muscle-in-a-deficit.md

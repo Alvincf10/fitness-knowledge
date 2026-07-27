@@ -11,8 +11,21 @@ tags:
   - macronutrient
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/how-much-protein.md
+  - faq/is-more-protein-always-better.md
+  - supplements/whey-protein.md
+  - nutrition/plant-based-protein.md
+  - supplements/casein-protein.md
+  - nutrition/meal-timing.md
+  - faq/do-i-need-whey-protein.md
+  - nutrition/body-recomposition.md
+  - nutrition/cutting.md
+  - faq/are-bcaas-worth-it.md
 ---
 
 # Protein
@@ -75,8 +88,13 @@ Meta-analyses show higher protein intakes augment strength and fat-free mass gai
 
 ## Related
 
-- How Much Protein?
-- Whey Protein
-- Casein Protein
-- Meal Timing
-- Cutting
+- faq/how-much-protein.md
+- faq/is-more-protein-always-better.md
+- supplements/whey-protein.md
+- nutrition/plant-based-protein.md
+- supplements/casein-protein.md
+- nutrition/meal-timing.md
+- faq/do-i-need-whey-protein.md
+- nutrition/body-recomposition.md
+- nutrition/cutting.md
+- faq/are-bcaas-worth-it.md

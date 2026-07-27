@@ -27,8 +27,21 @@ tags:
   - hypertrophy
   - pull
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - exercises/back/wide-grip-lat-pulldown.md
+  - exercises/back/reverse-grip-lat-pulldown.md
+  - exercises/back/neutral-grip-lat-pulldown.md
+  - exercises/back/close-grip-lat-pulldown.md
+  - exercises/back/single-arm-lat-pulldown.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/are-machines-worse-than-free-weights.md
+  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Lat Pulldown
@@ -153,8 +166,13 @@ B
 
 ## Related
 
-- Pull-Up
-- Barbell Row
-- Progressive Overload
-- Training Volume
-- Muscle Hypertrophy
+- exercises/back/wide-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/single-arm-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md

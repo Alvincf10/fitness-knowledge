@@ -11,8 +11,21 @@ tags:
   - evidence
   - programming
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/should-i-train-to-failure.md
+  - faq/what-is-rir.md
+  - science/training-principles/reps-in-reserve.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/progressive-overload.md
+  - faq/how-many-sets-per-week.md
+  - exercises/chest/push-up.md
+  - exercises/back/lat-pulldown.md
+  - exercises/chest/dumbbell-fly.md
+  - exercises/legs/leg-press.md
 ---
 
 # Failure Training
@@ -67,8 +80,13 @@ Systematic reviews and meta-analyses comparing failure versus non-failure traini
 
 ## Related
 
-- Reps in Reserve
-- Training Volume
-- Progressive Overload
-- Should I Train to Failure?
-- Recovery
+- faq/should-i-train-to-failure.md
+- faq/what-is-rir.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- faq/how-many-sets-per-week.md
+- exercises/chest/push-up.md
+- exercises/back/lat-pulldown.md
+- exercises/chest/dumbbell-fly.md
+- exercises/legs/leg-press.md

@@ -7,12 +7,21 @@ tags:
   - hypertrophy
   - fat-loss
 related:
-  - nutrition_body_recomposition
-  - science_progressive_overload
-  - nutrition_protein
+  - nutrition/body-recomposition.md
+  - faq/can-i-build-muscle-in-a-deficit.md
+  - nutrition/protein.md
+  - science/training-principles/progressive-overload.md
+  - faq/should-women-train-differently.md
+  - faq/is-stretching-required-before-lifting.md
+  - faq/is-spot-reduction-possible.md
+  - faq/how-often-should-i-train.md
+  - faq/how-important-is-sleep.md
+  - faq/does-muscle-turn-into-fat.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Can Beginners Gain Muscle and Lose Fat?
@@ -40,9 +49,15 @@ Recomposition literature and practical reviews support concurrent changes in fav
 - Track performance, not only the scale
 - After the honeymoon phase, consider dedicated bulk/cut cycles if needed
 
-## Related Articles
+## Related
 
-- [Body Recomposition](../nutrition/body-recomposition.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Protein](../nutrition/protein.md)
-- [Can I Build Muscle in a Deficit?](can-i-build-muscle-in-a-deficit.md)
+- nutrition/body-recomposition.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- nutrition/protein.md
+- science/training-principles/progressive-overload.md
+- faq/should-women-train-differently.md
+- faq/is-stretching-required-before-lifting.md
+- faq/is-spot-reduction-possible.md
+- faq/how-often-should-i-train.md
+- faq/how-important-is-sleep.md
+- faq/does-muscle-turn-into-fat.md

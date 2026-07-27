@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "updated": "2026-07-27",
   "description": "Catalog of exercise articles. Paths are relative to repository root.",
   "schema": {
@@ -19,57 +19,683 @@
     "evidence": "A | B | C | D",
     "status": "planned | draft | published"
   },
-  "target_count": 50,
+  "target_count": 350,
+  "published_count": 90,
   "exercises": [
     {
-      "id": "exercise_barbell_bench_press",
-      "title": "Barbell Bench Press",
-      "slug": "barbell-bench-press",
-      "path": "exercises/chest/barbell-bench-press.md",
-      "muscle_primary": ["chest"],
-      "muscle_secondary": ["triceps", "front-delts"],
-      "equipment": ["barbell", "bench", "rack"],
-      "difficulty": "intermediate",
-      "movement": ["push"],
-      "plane": ["horizontal"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["bench press", "flat barbell bench press"],
-      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "exercise_incline_dumbbell_press",
-      "title": "Incline Dumbbell Press",
-      "slug": "incline-dumbbell-press",
-      "path": "exercises/chest/incline-dumbbell-press.md",
-      "muscle_primary": ["chest"],
-      "muscle_secondary": ["triceps", "front-delts"],
-      "equipment": ["dumbbell", "bench"],
-      "difficulty": "intermediate",
-      "movement": ["push"],
-      "plane": ["horizontal"],
-      "goal": ["hypertrophy"],
-      "aliases": ["incline DB press", "incline dumbbell bench press"],
-      "tags": ["compound", "free-weight", "intermediate", "hypertrophy"],
+      "id": "exercise_assisted_pull_up",
+      "title": "Assisted Pull-Up",
+      "slug": "assisted-pull-up",
+      "path": "exercises/back/assisted-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "machine",
+        "pull-up-bar"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "machine-assisted pull-up",
+        "gravitron pull-up"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
       "evidence": "B",
       "status": "published"
     },
     {
-      "id": "exercise_push_up",
-      "title": "Push-Up",
-      "slug": "push-up",
-      "path": "exercises/chest/push-up.md",
-      "muscle_primary": ["chest"],
-      "muscle_secondary": ["triceps", "front-delts", "abs"],
-      "equipment": ["bodyweight"],
+      "id": "exercise_band_assisted_pull_up",
+      "title": "Band-Assisted Pull-Up",
+      "slug": "band-assisted-pull-up",
+      "path": "exercises/back/band-assisted-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar",
+        "resistance-band"
+      ],
       "difficulty": "beginner",
-      "movement": ["push"],
-      "plane": ["horizontal"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["pushup", "press-up"],
-      "tags": ["compound", "bodyweight", "beginner", "hypertrophy", "strength"],
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "band pull-up",
+        "loop-band assisted pull-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_barbell_row",
+      "title": "Barbell Row",
+      "slug": "barbell-row",
+      "path": "exercises/back/barbell-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "bent-over row",
+        "barbell bent-over row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_cable_pullover",
+      "title": "Cable Pullover",
+      "slug": "cable-pullover",
+      "path": "exercises/back/cable-pullover.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "kneeling cable pullover",
+        "rope pullover"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_chest_supported_row",
+      "title": "Chest-Supported Row",
+      "slug": "chest-supported-row",
+      "path": "exercises/back/chest-supported-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "machine",
+        "bench",
+        "dumbbell"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "supported row",
+        "prone row machine",
+        "chest pad row"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_chin_up",
+      "title": "Chin-Up",
+      "slug": "chin-up",
+      "path": "exercises/back/chin-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "underhand pull-up",
+        "supinated pull-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
       "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_close_grip_lat_pulldown",
+      "title": "Close-Grip Lat Pulldown",
+      "slug": "close-grip-lat-pulldown",
+      "path": "exercises/back/close-grip-lat-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "V-bar pulldown",
+        "close-grip pulldown"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_dumbbell_pullover",
+      "title": "Dumbbell Pullover",
+      "slug": "dumbbell-pullover",
+      "path": "exercises/back/dumbbell-pullover.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "chest",
+        "triceps",
+        "abs"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "DB pullover",
+        "bench pullover"
+      ],
+      "tags": [
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_dumbbell_row",
+      "title": "Dumbbell Row",
+      "slug": "dumbbell-row",
+      "path": "exercises/back/dumbbell-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "one-arm dumbbell row",
+        "single-arm DB row",
+        "bent-over dumbbell row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_face_pull",
+      "title": "Face Pull",
+      "slug": "face-pull",
+      "path": "exercises/back/face-pull.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "rear-delts",
+        "shoulders"
+      ],
+      "equipment": [
+        "cable",
+        "resistance-band"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "cable face pull",
+        "rope face pull"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_feet_elevated_inverted_row",
+      "title": "Feet-Elevated Inverted Row",
+      "slug": "feet-elevated-inverted-row",
+      "path": "exercises/back/feet-elevated-inverted-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "decline inverted row",
+        "feet-up bodyweight row"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_gorilla_row",
+      "title": "Gorilla Row",
+      "slug": "gorilla-row",
+      "path": "exercises/back/gorilla-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "alternating hinged DB row",
+        "double DB gorilla row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_helms_row",
+      "title": "Helms Row",
+      "slug": "helms-row",
+      "path": "exercises/back/helms-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "incline elbow-flared row",
+        "upper-back DB row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_inverted_row",
+      "title": "Inverted Row",
+      "slug": "inverted-row",
+      "path": "exercises/back/inverted-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "bodyweight row",
+        "Australian pull-up",
+        "supine row"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_kroc_row",
+      "title": "Kroc Row",
+      "slug": "kroc-row",
+      "path": "exercises/back/kroc-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs",
+        "forearms"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "advanced",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "heavy high-rep dumbbell row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_landmine_row",
+      "title": "Landmine Row",
+      "slug": "landmine-row",
+      "path": "exercises/back/landmine-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "angled barbell row",
+        "dual-handle landmine row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
       "status": "published"
     },
     {
@@ -77,15 +703,408 @@
       "title": "Lat Pulldown",
       "slug": "lat-pulldown",
       "path": "exercises/back/lat-pulldown.md",
-      "muscle_primary": ["back"],
-      "muscle_secondary": ["biceps", "rear-delts"],
-      "equipment": ["cable", "machine"],
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
       "difficulty": "beginner",
-      "movement": ["pull"],
-      "plane": ["vertical"],
-      "goal": ["hypertrophy"],
-      "aliases": ["lat pull-down", "lat pulldown"],
-      "tags": ["compound", "machine", "beginner", "hypertrophy", "pull"],
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy"
+      ],
+      "aliases": [
+        "lat pull-down",
+        "lat pulldown"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_machine_pullover",
+      "title": "Machine Pullover",
+      "slug": "machine-pullover",
+      "path": "exercises/back/machine-pullover.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "chest",
+        "triceps"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "nautilus pullover",
+        "selectorized pullover"
+      ],
+      "tags": [
+        "isolation",
+        "machine",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_machine_row",
+      "title": "Machine Row",
+      "slug": "machine-row",
+      "path": "exercises/back/machine-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "seated machine row",
+        "hammer row",
+        "iso-lateral row"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_meadows_row",
+      "title": "Meadows Row",
+      "slug": "meadows-row",
+      "path": "exercises/back/meadows-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "landmine meadows row",
+        "one-arm landmine row (meadows)"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_negative_pull_up",
+      "title": "Negative Pull-Up",
+      "slug": "negative-pull-up",
+      "path": "exercises/back/negative-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "eccentric pull-up",
+        "pull-up negative"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "strength",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_neutral_grip_lat_pulldown",
+      "title": "Neutral-Grip Lat Pulldown",
+      "slug": "neutral-grip-lat-pulldown",
+      "path": "exercises/back/neutral-grip-lat-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "parallel-grip pulldown",
+        "hammer-grip pulldown"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_neutral_grip_pull_up",
+      "title": "Neutral-Grip Pull-Up",
+      "slug": "neutral-grip-pull-up",
+      "path": "exercises/back/neutral-grip-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "hammer-grip pull-up",
+        "parallel-grip pull-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_pendlay_row",
+      "title": "Pendlay Row",
+      "slug": "pendlay-row",
+      "path": "exercises/back/pendlay-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "dead-stop barbell row",
+        "floor-pause row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_plate_loaded_row",
+      "title": "Plate-Loaded Row",
+      "slug": "plate-loaded-row",
+      "path": "exercises/back/plate-loaded-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "iso-lateral row",
+        "hammer strength row"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_prone_trap_raise",
+      "title": "Prone Trap Raise",
+      "slug": "prone-trap-raise",
+      "path": "exercises/back/prone-trap-raise.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "rear-delts",
+        "shoulders"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "prone Y raise",
+        "lower trap raise"
+      ],
+      "tags": [
+        "isolation",
+        "beginner",
+        "hypertrophy"
+      ],
       "evidence": "B",
       "status": "published"
     },
@@ -94,49 +1113,2466 @@
       "title": "Pull-Up",
       "slug": "pull-up",
       "path": "exercises/back/pull-up.md",
-      "muscle_primary": ["back"],
-      "muscle_secondary": ["biceps", "rear-delts"],
-      "equipment": ["bodyweight", "pull-up-bar"],
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
       "difficulty": "intermediate",
-      "movement": ["pull"],
-      "plane": ["vertical"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["overhand pull-up", "chin-up variant dependent"],
-      "tags": ["compound", "bodyweight", "intermediate", "strength", "hypertrophy", "pull"],
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "overhand pull-up",
+        "chin-up variant dependent"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "pull"
+      ],
       "evidence": "A",
       "status": "published"
     },
     {
-      "id": "exercise_barbell_row",
-      "title": "Barbell Row",
-      "slug": "barbell-row",
-      "path": "exercises/back/barbell-row.md",
-      "muscle_primary": ["back"],
-      "muscle_secondary": ["biceps", "rear-delts", "abs"],
-      "equipment": ["barbell"],
+      "id": "exercise_rack_pull",
+      "title": "Rack Pull",
+      "slug": "rack-pull",
+      "path": "exercises/back/rack-pull.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "forearms",
+        "glutes",
+        "abs"
+      ],
+      "equipment": [
+        "barbell",
+        "rack"
+      ],
       "difficulty": "intermediate",
-      "movement": ["pull"],
-      "plane": ["horizontal"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["bent-over row", "barbell bent-over row"],
-      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy", "pull"],
+      "movement": [
+        "hinge"
+      ],
+      "plane": [
+        "sagittal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "block pull",
+        "partial deadlift from pins"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
       "evidence": "B",
       "status": "published"
     },
     {
-      "id": "exercise_romanian_deadlift",
-      "title": "Romanian Deadlift",
-      "slug": "romanian-deadlift",
-      "path": "exercises/legs/romanian-deadlift.md",
-      "muscle_primary": ["legs", "glutes"],
-      "muscle_secondary": ["back", "forearms"],
-      "equipment": ["barbell"],
+      "id": "exercise_renegade_row",
+      "title": "Renegade Row",
+      "slug": "renegade-row",
+      "path": "exercises/back/renegade-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
       "difficulty": "intermediate",
-      "movement": ["hinge"],
-      "plane": ["sagittal"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["RDL", "barbell Romanian deadlift"],
-      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "plank row",
+        "alternating renegade row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_reverse_grip_lat_pulldown",
+      "title": "Reverse-Grip Lat Pulldown",
+      "slug": "reverse-grip-lat-pulldown",
+      "path": "exercises/back/reverse-grip-lat-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "underhand pulldown",
+        "supinated lat pulldown"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_ring_row",
+      "title": "Ring Row",
+      "slug": "ring-row",
+      "path": "exercises/back/ring-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "TRX row",
+        "suspension row",
+        "gymnastic ring row"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_scapular_pull_up",
+      "title": "Scapular Pull-Up",
+      "slug": "scapular-pull-up",
+      "path": "exercises/back/scapular-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "scap pull",
+        "shoulder-pack hang drill"
+      ],
+      "tags": [
+        "bodyweight",
+        "beginner",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_seal_row",
+      "title": "Seal Row",
+      "slug": "seal-row",
+      "path": "exercises/back/seal-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "prone bench row",
+        "elevated seal row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_seated_cable_row",
+      "title": "Seated Cable Row",
+      "slug": "seated-cable-row",
+      "path": "exercises/back/seated-cable-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "seated row",
+        "cable row"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_shrug",
+      "title": "Barbell Shrug",
+      "slug": "shrug",
+      "path": "exercises/back/shrug.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "forearms"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "trap shrug",
+        "DB shrug variant dependent"
+      ],
+      "tags": [
+        "isolation",
+        "free-weight",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_single_arm_cable_row",
+      "title": "Single-Arm Cable Row",
+      "slug": "single-arm-cable-row",
+      "path": "exercises/back/single-arm-cable-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "one-arm cable row",
+        "unilateral cable row"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_single_arm_lat_pulldown",
+      "title": "Single-Arm Lat Pulldown",
+      "slug": "single-arm-lat-pulldown",
+      "path": "exercises/back/single-arm-lat-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "one-arm pulldown",
+        "unilateral lat pulldown"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_smith_machine_row",
+      "title": "Smith Machine Row",
+      "slug": "smith-machine-row",
+      "path": "exercises/back/smith-machine-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "smith-machine"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "smith bent-over row"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_standing_cable_row",
+      "title": "Standing Cable Row",
+      "slug": "standing-cable-row",
+      "path": "exercises/back/standing-cable-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "athletic stance cable row"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_straight_arm_pulldown",
+      "title": "Straight-Arm Pulldown",
+      "slug": "straight-arm-pulldown",
+      "path": "exercises/back/straight-arm-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "stiff-arm pulldown",
+        "lat isolation pulldown"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_t_bar_row",
+      "title": "T-Bar Row",
+      "slug": "t-bar-row",
+      "path": "exercises/back/t-bar-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell",
+        "machine"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "landmine t-bar row",
+        "plate-loaded t-bar row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_weighted_chin_up",
+      "title": "Weighted Chin-Up",
+      "slug": "weighted-chin-up",
+      "path": "exercises/back/weighted-chin-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "advanced",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "loaded chin-up",
+        "weighted underhand pull-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_weighted_inverted_row",
+      "title": "Weighted Inverted Row",
+      "slug": "weighted-inverted-row",
+      "path": "exercises/back/weighted-inverted-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "loaded inverted row",
+        "vest inverted row"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_weighted_pull_up",
+      "title": "Weighted Pull-Up",
+      "slug": "weighted-pull-up",
+      "path": "exercises/back/weighted-pull-up.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "difficulty": "advanced",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "pull-up with weight",
+        "belt pull-up",
+        "loaded pull-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_wide_grip_lat_pulldown",
+      "title": "Wide-Grip Lat Pulldown",
+      "slug": "wide-grip-lat-pulldown",
+      "path": "exercises/back/wide-grip-lat-pulldown.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "vertical"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "wide pulldown",
+        "wide-grip pulldown"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_wide_grip_seated_cable_row",
+      "title": "Wide-Grip Seated Cable Row",
+      "slug": "wide-grip-seated-cable-row",
+      "path": "exercises/back/wide-grip-seated-cable-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "wide seated row",
+        "lat bar seated row"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_yates_row",
+      "title": "Yates Row",
+      "slug": "yates-row",
+      "path": "exercises/back/yates-row.md",
+      "muscle_primary": [
+        "back"
+      ],
+      "muscle_secondary": [
+        "biceps",
+        "rear-delts",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "pull"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "underhand barbell row",
+        "supinated bent-over row"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_barbell_bench_press",
+      "title": "Barbell Bench Press",
+      "slug": "barbell-bench-press",
+      "path": "exercises/chest/barbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "bench press",
+        "flat barbell bench press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_cable_chest_press",
+      "title": "Cable Chest Press",
+      "slug": "cable-chest-press",
+      "path": "exercises/chest/cable-chest-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "standing cable press",
+        "dual cable chest press"
+      ],
+      "tags": [
+        "compound",
+        "cable",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_cable_fly",
+      "title": "Cable Fly",
+      "slug": "cable-fly",
+      "path": "exercises/chest/cable-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "cable crossover mid",
+        "mid cable fly",
+        "standing cable fly"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_chest_dip",
+      "title": "Chest Dip",
+      "slug": "chest-dip",
+      "path": "exercises/chest/chest-dip.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "parallel bar dip",
+        "forward-lean dip",
+        "pec dip"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_close_grip_push_up",
+      "title": "Close-Grip Push-Up",
+      "slug": "close-grip-push-up",
+      "path": "exercises/chest/close-grip-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "narrow push-up",
+        "diamond push-up adjacent"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_decline_barbell_bench_press",
+      "title": "Decline Barbell Bench Press",
+      "slug": "decline-barbell-bench-press",
+      "path": "exercises/chest/decline-barbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "decline bench press",
+        "decline barbell press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_decline_dumbbell_fly",
+      "title": "Decline Dumbbell Fly",
+      "slug": "decline-dumbbell-fly",
+      "path": "exercises/chest/decline-dumbbell-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "decline DB fly"
+      ],
+      "tags": [
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_decline_dumbbell_press",
+      "title": "Decline Dumbbell Press",
+      "slug": "decline-dumbbell-press",
+      "path": "exercises/chest/decline-dumbbell-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "decline DB press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_deficit_push_up",
+      "title": "Deficit Push-Up",
+      "slug": "deficit-push-up",
+      "path": "exercises/chest/deficit-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "push-up with deficit",
+        "handle push-up",
+        "parallette push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_dumbbell_bench_press",
+      "title": "Dumbbell Bench Press",
+      "slug": "dumbbell-bench-press",
+      "path": "exercises/chest/dumbbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "flat dumbbell press",
+        "DB bench press",
+        "dumbbell chest press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_dumbbell_fly",
+      "title": "Dumbbell Fly",
+      "slug": "dumbbell-fly",
+      "path": "exercises/chest/dumbbell-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "flat dumbbell fly",
+        "DB fly"
+      ],
+      "tags": [
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_feet_elevated_push_up",
+      "title": "Feet-Elevated Push-Up",
+      "slug": "feet-elevated-push-up",
+      "path": "exercises/chest/feet-elevated-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "decline push-up",
+        "feet-elevated press-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_floor_press",
+      "title": "Floor Press",
+      "slug": "floor-press",
+      "path": "exercises/chest/floor-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "barbell floor press",
+        "dumbbell floor press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_high_cable_fly",
+      "title": "High Cable Fly",
+      "slug": "high-cable-fly",
+      "path": "exercises/chest/high-cable-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "high-to-low cable fly",
+        "high cable crossover"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_incline_barbell_bench_press",
+      "title": "Incline Barbell Bench Press",
+      "slug": "incline-barbell-bench-press",
+      "path": "exercises/chest/incline-barbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "incline bench press",
+        "incline barbell press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_incline_dumbbell_fly",
+      "title": "Incline Dumbbell Fly",
+      "slug": "incline-dumbbell-fly",
+      "path": "exercises/chest/incline-dumbbell-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "incline DB fly"
+      ],
+      "tags": [
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_incline_dumbbell_press",
+      "title": "Incline Dumbbell Press",
+      "slug": "incline-dumbbell-press",
+      "path": "exercises/chest/incline-dumbbell-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy"
+      ],
+      "aliases": [
+        "incline DB press",
+        "incline dumbbell bench press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_incline_machine_chest_press",
+      "title": "Incline Machine Chest Press",
+      "slug": "incline-machine-chest-press",
+      "path": "exercises/chest/incline-machine-chest-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "incline chest press machine"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_incline_push_up",
+      "title": "Incline Push-Up",
+      "slug": "incline-push-up",
+      "path": "exercises/chest/incline-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight",
+        "bench"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "hands-elevated push-up",
+        "elevated push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_knee_push_up",
+      "title": "Knee Push-Up",
+      "slug": "knee-push-up",
+      "path": "exercises/chest/knee-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "modified push-up",
+        "kneeling push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_landmine_press",
+      "title": "Landmine Press",
+      "slug": "landmine-press",
+      "path": "exercises/chest/landmine-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts",
+        "triceps",
+        "abs"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "angled barbell press",
+        "single-arm landmine press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "beginner",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_low_cable_fly",
+      "title": "Low Cable Fly",
+      "slug": "low-cable-fly",
+      "path": "exercises/chest/low-cable-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "low-to-high cable fly",
+        "low cable crossover"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_machine_chest_press",
+      "title": "Machine Chest Press",
+      "slug": "machine-chest-press",
+      "path": "exercises/chest/machine-chest-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "seated chest press",
+        "chest press machine"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_pause_barbell_bench_press",
+      "title": "Pause Barbell Bench Press",
+      "slug": "pause-barbell-bench-press",
+      "path": "exercises/chest/pause-barbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "paused bench press",
+        "competition pause bench"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_pec_deck",
+      "title": "Pec Deck",
+      "slug": "pec-deck",
+      "path": "exercises/chest/pec-deck.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "pec deck fly",
+        "machine fly",
+        "butterfly machine"
+      ],
+      "tags": [
+        "isolation",
+        "machine",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_plate_loaded_chest_press",
+      "title": "Plate-Loaded Chest Press",
+      "slug": "plate-loaded-chest-press",
+      "path": "exercises/chest/plate-loaded-chest-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "hammer chest press",
+        "iso-lateral chest press"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_push_up",
+      "title": "Push-Up",
+      "slug": "push-up",
+      "path": "exercises/chest/push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "pushup",
+        "press-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_resistance_band_chest_press",
+      "title": "Resistance Band Chest Press",
+      "slug": "resistance-band-chest-press",
+      "path": "exercises/chest/resistance-band-chest-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "resistance-band"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "band chest press",
+        "elastic chest press"
+      ],
+      "tags": [
+        "compound",
+        "band",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_reverse_grip_bench_press",
+      "title": "Reverse-Grip Bench Press",
+      "slug": "reverse-grip-bench-press",
+      "path": "exercises/chest/reverse-grip-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "difficulty": "advanced",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "supinated bench press",
+        "reverse grip bench"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "advanced",
+        "hypertrophy"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_ring_push_up",
+      "title": "Ring Push-Up",
+      "slug": "ring-push-up",
+      "path": "exercises/chest/ring-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "advanced",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "gymnastic ring push-up",
+        "suspended push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_seated_cable_fly",
+      "title": "Seated Cable Fly",
+      "slug": "seated-cable-fly",
+      "path": "exercises/chest/seated-cable-fly.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [
+        "cable",
+        "bench"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "supported cable fly",
+        "bench cable fly"
+      ],
+      "tags": [
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_single_arm_dumbbell_bench_press",
+      "title": "Single-Arm Dumbbell Bench Press",
+      "slug": "single-arm-dumbbell-bench-press",
+      "path": "exercises/chest/single-arm-dumbbell-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "one-arm DB bench",
+        "unilateral dumbbell press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_smith_machine_bench_press",
+      "title": "Smith Machine Bench Press",
+      "slug": "smith-machine-bench-press",
+      "path": "exercises/chest/smith-machine-bench-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "smith bench press",
+        "smith machine bench"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_smith_machine_decline_press",
+      "title": "Smith Machine Decline Press",
+      "slug": "smith-machine-decline-press",
+      "path": "exercises/chest/smith-machine-decline-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "smith decline bench",
+        "smith decline press"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_smith_machine_incline_press",
+      "title": "Smith Machine Incline Press",
+      "slug": "smith-machine-incline-press",
+      "path": "exercises/chest/smith-machine-incline-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "smith incline bench",
+        "smith incline press"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_squeeze_press",
+      "title": "Squeeze Press",
+      "slug": "squeeze-press",
+      "path": "exercises/chest/squeeze-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "hex press",
+        "crush press",
+        "dumbbell squeeze press"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_svend_press",
+      "title": "Svend Press",
+      "slug": "svend-press",
+      "path": "exercises/chest/svend-press.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "front-delts"
+      ],
+      "equipment": [],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "plate pinch press",
+        "squeeze press plate"
+      ],
+      "tags": [
+        "isolation",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "C",
+      "status": "published"
+    },
+    {
+      "id": "exercise_wall_push_up",
+      "title": "Wall Push-Up",
+      "slug": "wall-push-up",
+      "path": "exercises/chest/wall-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "standing wall press-up",
+        "wall press"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_weighted_push_up",
+      "title": "Weighted Push-Up",
+      "slug": "weighted-push-up",
+      "path": "exercises/chest/weighted-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "push-up with vest",
+        "loaded push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "exercise_wide_push_up",
+      "title": "Wide Push-Up",
+      "slug": "wide-push-up",
+      "path": "exercises/chest/wide-push-up.md",
+      "muscle_primary": [
+        "chest"
+      ],
+      "muscle_secondary": [
+        "triceps",
+        "front-delts",
+        "abs"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "difficulty": "beginner",
+      "movement": [
+        "push"
+      ],
+      "plane": [
+        "horizontal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "wide-grip push-up"
+      ],
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy"
+      ],
       "evidence": "B",
       "status": "published"
     },
@@ -145,15 +3581,40 @@
       "title": "Back Squat",
       "slug": "back-squat",
       "path": "exercises/legs/back-squat.md",
-      "muscle_primary": ["legs", "glutes"],
-      "muscle_secondary": ["abs", "back"],
-      "equipment": ["barbell", "rack"],
+      "muscle_primary": [
+        "legs",
+        "glutes"
+      ],
+      "muscle_secondary": [
+        "abs",
+        "back"
+      ],
+      "equipment": [
+        "barbell",
+        "rack"
+      ],
       "difficulty": "intermediate",
-      "movement": ["squat"],
-      "plane": ["sagittal"],
-      "goal": ["hypertrophy", "strength"],
-      "aliases": ["barbell back squat", "high-bar or low-bar squat (variant dependent)"],
-      "tags": ["compound", "free-weight", "intermediate", "strength", "hypertrophy"],
+      "movement": [
+        "squat"
+      ],
+      "plane": [
+        "sagittal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "barbell back squat",
+        "high-bar or low-bar squat (variant dependent)"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
       "evidence": "A",
       "status": "published"
     },
@@ -162,15 +3623,76 @@
       "title": "Leg Press",
       "slug": "leg-press",
       "path": "exercises/legs/leg-press.md",
-      "muscle_primary": ["legs"],
-      "muscle_secondary": ["glutes"],
-      "equipment": ["machine"],
+      "muscle_primary": [
+        "legs"
+      ],
+      "muscle_secondary": [
+        "glutes"
+      ],
+      "equipment": [
+        "machine"
+      ],
       "difficulty": "beginner",
-      "movement": ["squat"],
-      "plane": ["sagittal"],
-      "goal": ["hypertrophy"],
-      "aliases": ["machine leg press", "sled leg press"],
-      "tags": ["compound", "machine", "beginner", "hypertrophy"],
+      "movement": [
+        "squat"
+      ],
+      "plane": [
+        "sagittal"
+      ],
+      "goal": [
+        "hypertrophy"
+      ],
+      "aliases": [
+        "machine leg press",
+        "sled leg press"
+      ],
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy"
+      ],
+      "evidence": "B",
+      "status": "published"
+    },
+    {
+      "id": "exercise_romanian_deadlift",
+      "title": "Romanian Deadlift",
+      "slug": "romanian-deadlift",
+      "path": "exercises/legs/romanian-deadlift.md",
+      "muscle_primary": [
+        "legs",
+        "glutes"
+      ],
+      "muscle_secondary": [
+        "back",
+        "forearms"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "difficulty": "intermediate",
+      "movement": [
+        "hinge"
+      ],
+      "plane": [
+        "sagittal"
+      ],
+      "goal": [
+        "hypertrophy",
+        "strength"
+      ],
+      "aliases": [
+        "RDL",
+        "barbell Romanian deadlift"
+      ],
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
       "evidence": "B",
       "status": "published"
     }

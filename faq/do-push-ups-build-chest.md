@@ -7,12 +7,21 @@ tags:
   - hypertrophy
   - bodyweight
 related:
-  - exercise_push_up
-  - exercise_barbell_bench_press
-  - science_progressive_overload
+  - exercises/chest/push-up.md
+  - exercises/chest/deficit-push-up.md
+  - exercises/chest/barbell-bench-press.md
+  - exercises/chest/weighted-push-up.md
+  - science/training-principles/progressive-overload.md
+  - faq/can-i-build-muscle-at-home.md
+  - exercises/chest/resistance-band-chest-press.md
+  - exercises/chest/plate-loaded-chest-press.md
+  - exercises/chest/machine-chest-press.md
+  - exercises/chest/incline-machine-chest-press.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Do Push-Ups Build Chest?
@@ -40,10 +49,15 @@ EMG and training studies show meaningful pectoralis activation and hypertrophy p
 - Pair with pulling work for balance
 - Add bench pressing when heavier progressive loading is desired
 
-## Related Articles
+## Related
 
-- [Push-Up](../exercises/chest/push-up.md)
-- [Barbell Bench Press](../exercises/chest/barbell-bench-press.md)
-- [Incline Dumbbell Press](../exercises/chest/incline-dumbbell-press.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Can I Build Muscle at Home?](can-i-build-muscle-at-home.md)
+- exercises/chest/push-up.md
+- exercises/chest/deficit-push-up.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/weighted-push-up.md
+- science/training-principles/progressive-overload.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md

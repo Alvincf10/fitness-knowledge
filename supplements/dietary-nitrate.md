@@ -9,8 +9,21 @@ tags:
   - evidence
   - endurance
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - supplements/citrulline.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/carbohydrate.md
+  - supplements/beta-alanine.md
+  - supplements/electrolytes.md
+  - supplements/creatine.md
+  - supplements/caffeine.md
+  - supplements/whey-protein.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
 ---
 
 # Dietary Nitrate
@@ -72,8 +85,13 @@ ISSN and multiple systematic reviews support nitrate/beetroot as an evidence-bas
 
 ## Related
 
-- Citrulline
-- Caffeine
-- Carbohydrate
-- Electrolytes
-- Beta-Alanine
+- supplements/citrulline.md
+- supplements/sodium-bicarbonate.md
+- supplements/carbohydrate.md
+- supplements/beta-alanine.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md

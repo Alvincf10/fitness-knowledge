@@ -10,8 +10,21 @@ tags:
   - protein
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: C
+evidence_level: C
+related:
+  - faq/are-bcaas-worth-it.md
+  - nutrition/protein.md
+  - supplements/whey-protein.md
+  - faq/how-much-protein.md
+  - supplements/casein-protein.md
+  - supplements/hmb.md
+  - supplements/magnesium.md
+  - supplements/fish-oil.md
+  - supplements/creatine.md
+  - supplements/carbohydrate.md
 ---
 
 # BCAAs
@@ -70,8 +83,13 @@ Reviews indicate BCAA supplements are inferior to complete proteins for stimulat
 
 ## Related
 
-- Whey Protein
-- Protein
-- How Much Protein?
-- HMB
-- Creatine
+- faq/are-bcaas-worth-it.md
+- nutrition/protein.md
+- supplements/whey-protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/creatine.md
+- supplements/carbohydrate.md

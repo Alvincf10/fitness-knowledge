@@ -9,8 +9,21 @@ tags:
   - energy-balance
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/cutting.md
+  - nutrition/energy-balance.md
+  - faq/can-i-build-muscle-in-a-deficit.md
+  - faq/how-fast-can-i-lose-fat.md
+  - nutrition/protein.md
+  - nutrition/calorie-surplus.md
+  - nutrition/maintenance.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/body-recomposition.md
 ---
 
 # Calorie Deficit
@@ -71,8 +84,13 @@ Obesity and sports-nutrition literature agree that fat loss requires negative en
 
 ## Related
 
-- Cutting
-- Energy Balance
-- Protein
-- Refeeds and Diet Breaks
-- Maintenance
+- nutrition/cutting.md
+- nutrition/energy-balance.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/protein.md
+- nutrition/calorie-surplus.md
+- nutrition/maintenance.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/intermittent-fasting.md
+- nutrition/body-recomposition.md

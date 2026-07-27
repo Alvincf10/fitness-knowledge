@@ -6,12 +6,19 @@ tags:
   - supplement
   - nutrition
 related:
-  - supplement_whey_protein
-  - nutrition_protein
-  - supplement_casein_protein
+  - supplements/whey-protein.md
+  - nutrition/protein.md
+  - faq/how-much-protein.md
+  - supplements/casein-protein.md
+  - faq/do-i-need-supplements.md
+  - nutrition/plant-based-protein.md
+  - faq/is-more-protein-always-better.md
+  - supplements/bcaas.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Do I Need Whey Protein?
@@ -39,10 +46,13 @@ Protein supplementation meta-analyses show benefits mainly when they raise total
 - 20–40 g servings are typical
 - Dairy-free lifters can use soy/pea blends instead
 
-## Related Articles
+## Related
 
-- [Whey Protein](../supplements/whey-protein.md)
-- [Protein](../nutrition/protein.md)
-- [Casein Protein](../supplements/casein-protein.md)
-- [How Much Protein?](how-much-protein.md)
-- [Plant-Based Protein](../nutrition/plant-based-protein.md)
+- supplements/whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- faq/do-i-need-supplements.md
+- nutrition/plant-based-protein.md
+- faq/is-more-protein-always-better.md
+- supplements/bcaas.md

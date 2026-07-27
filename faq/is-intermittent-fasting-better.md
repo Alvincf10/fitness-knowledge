@@ -6,12 +6,15 @@ tags:
   - nutrition
   - fat-loss
 related:
-  - nutrition_intermittent_fasting
-  - nutrition_calorie_deficit
-  - nutrition_meal_timing
+  - nutrition/intermittent-fasting.md
+  - nutrition/calorie-deficit.md
+  - nutrition/meal-timing.md
+  - faq/how-fast-can-i-lose-fat.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Is Intermittent Fasting Better?
@@ -39,9 +42,9 @@ RCTs generally show similar weight loss for IF versus continuous restriction at 
 - Place workouts where you can fuel them
 - Switch back to regular meals if strength or protein intake suffers
 
-## Related Articles
+## Related
 
-- [Intermittent Fasting](../nutrition/intermittent-fasting.md)
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Meal Timing](../nutrition/meal-timing.md)
-- [Protein](../nutrition/protein.md)
+- nutrition/intermittent-fasting.md
+- nutrition/calorie-deficit.md
+- nutrition/meal-timing.md
+- faq/how-fast-can-i-lose-fat.md

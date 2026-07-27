@@ -29,8 +29,21 @@ tags:
   - hypertrophy
   - pull
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - exercises/back/neutral-grip-pull-up.md
+  - exercises/back/weighted-pull-up.md
+  - exercises/back/negative-pull-up.md
+  - exercises/back/band-assisted-pull-up.md
+  - exercises/back/chin-up.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/can-i-build-muscle-at-home.md
+  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Pull-Up
@@ -161,8 +174,13 @@ A
 
 ## Related
 
-- Lat Pulldown
-- Barbell Row
-- Progressive Overload
-- Strength Adaptation
-- Muscle Hypertrophy
+- exercises/back/neutral-grip-pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/chin-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md

@@ -30,6 +30,19 @@ tags:
 updated: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - exercises/chest/wide-push-up.md
+  - exercises/chest/weighted-push-up.md
+  - exercises/chest/wall-push-up.md
+  - exercises/chest/ring-push-up.md
+  - exercises/chest/knee-push-up.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/do-push-ups-build-chest.md
+  - faq/can-i-build-muscle-at-home.md
+last_review: 2026-07-27
 ---
 
 # Push-Up
@@ -158,8 +171,13 @@ A
 
 ## Related
 
-- Barbell Bench Press
-- Incline Dumbbell Press
-- Progressive Overload
-- Muscle Hypertrophy
-- Can I Build Muscle at Home?
+- exercises/chest/wide-push-up.md
+- exercises/chest/weighted-push-up.md
+- exercises/chest/wall-push-up.md
+- exercises/chest/ring-push-up.md
+- exercises/chest/knee-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md

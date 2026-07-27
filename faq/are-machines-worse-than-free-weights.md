@@ -6,13 +6,21 @@ tags:
   - hypertrophy
   - beginner
 related:
-  - exercise_leg_press
-  - exercise_lat_pulldown
-  - exercise_barbell_bench_press
-  - science_progressive_overload
+  - exercises/chest/machine-chest-press.md
+  - exercises/chest/barbell-bench-press.md
+  - exercises/back/lat-pulldown.md
+  - exercises/legs/leg-press.md
+  - science/training-principles/progressive-overload.md
+  - exercises/chest/smith-machine-incline-press.md
+  - exercises/chest/smith-machine-decline-press.md
+  - exercises/chest/smith-machine-bench-press.md
+  - exercises/chest/incline-machine-chest-press.md
+  - exercises/back/t-bar-row.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Are Machines Worse Than Free Weights?
@@ -40,9 +48,15 @@ Comparative studies frequently show similar hypertrophy when effort and volume a
 - Progress load/reps on both
 - Choose based on joints, preference, and available equipment
 
-## Related Articles
+## Related
 
-- [Leg Press](../exercises/legs/leg-press.md)
-- [Lat Pulldown](../exercises/back/lat-pulldown.md)
-- [Barbell Bench Press](../exercises/chest/barbell-bench-press.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
+- exercises/chest/machine-chest-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/back/lat-pulldown.md
+- exercises/legs/leg-press.md
+- science/training-principles/progressive-overload.md
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/back/t-bar-row.md

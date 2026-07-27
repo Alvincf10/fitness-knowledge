@@ -7,12 +7,15 @@ tags:
   - strength
   - programming
 related:
-  - science_training_volume
-  - exercise_barbell_bench_press
-  - exercise_back_squat
+  - science/training-principles/training-volume.md
+  - exercises/chest/barbell-bench-press.md
+  - exercises/legs/back-squat.md
+  - science/training-principles/progressive-overload.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # How Long Should I Rest Between Sets?
@@ -40,9 +43,9 @@ Rest-interval research and ACSM-style recommendations support longer rests for s
 - Prioritize set quality over rushing
 - Keep rest consistent when tracking progression
 
-## Related Articles
+## Related
 
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Barbell Bench Press](../exercises/chest/barbell-bench-press.md)
-- [Back Squat](../exercises/legs/back-squat.md)
-- [Reps in Reserve](../science/training-principles/reps-in-reserve.md)
+- science/training-principles/training-volume.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- science/training-principles/progressive-overload.md

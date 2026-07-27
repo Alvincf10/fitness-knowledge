@@ -9,8 +9,21 @@ tags:
   - nutrition
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - faq/can-beginners-gain-muscle-and-lose-fat.md
+  - faq/can-i-build-muscle-in-a-deficit.md
+  - nutrition/protein.md
+  - nutrition/calorie-deficit.md
+  - science/training-principles/progressive-overload.md
+  - nutrition/energy-balance.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
 ---
 
 # Body Recomposition
@@ -71,8 +84,13 @@ Research and applied reviews support concurrent fat loss and muscle gain under f
 
 ## Related
 
-- Maintenance
-- Protein
-- Cutting
-- Bulking
-- Energy Balance
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- nutrition/protein.md
+- nutrition/calorie-deficit.md
+- science/training-principles/progressive-overload.md
+- nutrition/energy-balance.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md

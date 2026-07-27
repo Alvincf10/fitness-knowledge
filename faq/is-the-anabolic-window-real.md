@@ -6,12 +6,15 @@ tags:
   - nutrition
   - hypertrophy
 related:
-  - nutrition_meal_timing
-  - nutrition_post_workout_nutrition
-  - nutrition_protein
+  - nutrition/meal-timing.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/protein.md
+  - nutrition/pre-workout-nutrition.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Is the Anabolic Window Real?
@@ -39,9 +42,9 @@ Nutrient-timing reviews (Aragon, Schoenfeld, ISSN) show total daily protein domi
 - Use a shake when whole food will be delayed
 - Fuel harder if you trained fasted
 
-## Related Articles
+## Related
 
-- [Meal Timing](../nutrition/meal-timing.md)
-- [Post-Workout Nutrition](../nutrition/post-workout-nutrition.md)
-- [Protein](../nutrition/protein.md)
-- [Pre-Workout Nutrition](../nutrition/pre-workout-nutrition.md)
+- nutrition/meal-timing.md
+- nutrition/post-workout-nutrition.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md

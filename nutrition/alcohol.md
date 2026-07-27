@@ -9,8 +9,21 @@ tags:
   - nutrition
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/cutting.md
+  - faq/how-important-is-sleep.md
+  - nutrition/protein.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
+  - nutrition/fiber.md
+  - nutrition/fat.md
+  - nutrition/refeeds-and-diet-breaks.md
 ---
 
 # Alcohol
@@ -71,8 +84,13 @@ Research indicates alcohol can reduce rates of muscle protein synthesis and impa
 
 ## Related
 
-- Recovery
-- Post-Workout Nutrition
-- Cutting
-- Energy Balance
-- Sleep-related guidance in Recovery
+- nutrition/cutting.md
+- faq/how-important-is-sleep.md
+- nutrition/protein.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+- nutrition/fiber.md
+- nutrition/fat.md
+- nutrition/refeeds-and-diet-breaks.md

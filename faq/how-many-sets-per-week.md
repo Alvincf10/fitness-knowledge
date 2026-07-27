@@ -6,12 +6,17 @@ tags:
   - hypertrophy
   - programming
 related:
-  - science_training_volume
-  - science_reps_in_reserve
-  - science_progressive_overload
+  - science/training-principles/training-volume.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/what-is-rir.md
+  - faq/how-often-should-i-train.md
+  - faq/how-long-should-i-rest-between-sets.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # How Many Sets Per Week?
@@ -39,9 +44,11 @@ Volume meta-analyses (Schoenfeld and related reviews) support higher weekly sets
 - Reduce volume during poor sleep or high life stress
 - Prioritize compounds, then add isolation for lagging areas
 
-## Related Articles
+## Related
 
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Reps in Reserve](../science/training-principles/reps-in-reserve.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Training Frequency](../science/training-principles/training-frequency.md)
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- faq/what-is-rir.md
+- faq/how-often-should-i-train.md
+- faq/how-long-should-i-rest-between-sets.md

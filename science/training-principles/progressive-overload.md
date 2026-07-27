@@ -11,8 +11,21 @@ tags:
   - evidence
   - programming
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - science/training-principles/training-volume.md
+  - science/training-principles/training-frequency.md
+  - science/training-principles/reps-in-reserve.md
+  - science/training-principles/failure-training.md
+  - faq/how-many-sets-per-week.md
+  - faq/how-often-should-i-train.md
+  - faq/can-i-build-muscle-at-home.md
+  - exercises/chest/barbell-bench-press.md
+  - exercises/legs/back-squat.md
+  - exercises/back/pull-up.md
 ---
 
 # Progressive Overload
@@ -66,8 +79,13 @@ ACSM and NSCA guidance treat progressive resistance exercise as foundational for
 
 ## Related
 
-- Training Volume
-- Training Frequency
-- Reps in Reserve
-- Failure Training
-- Strength Adaptation
+- science/training-principles/training-volume.md
+- science/training-principles/training-frequency.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/failure-training.md
+- faq/how-many-sets-per-week.md
+- faq/how-often-should-i-train.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- exercises/back/pull-up.md

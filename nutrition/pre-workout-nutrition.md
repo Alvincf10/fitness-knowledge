@@ -10,8 +10,21 @@ tags:
   - timing
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/post-workout-nutrition.md
+  - nutrition/meal-timing.md
+  - nutrition/carbohydrates.md
+  - nutrition/protein.md
+  - faq/is-the-anabolic-window-real.md
+  - supplements/caffeine.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/plant-based-protein.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
 ---
 
 # Pre-Workout Nutrition
@@ -73,8 +86,13 @@ ISSN nutrient-timing and ACSM sports-nutrition guidance support carbohydrate ava
 
 ## Related
 
-- Meal Timing
-- Carbohydrates
-- Post-Workout Nutrition
-- Caffeine
-- Hydration
+- nutrition/post-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/carbohydrates.md
+- nutrition/protein.md
+- faq/is-the-anabolic-window-real.md
+- supplements/caffeine.md
+- nutrition/intermittent-fasting.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md

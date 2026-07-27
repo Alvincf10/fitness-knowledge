@@ -6,12 +6,21 @@ tags:
   - fat-loss
   - nutrition
 related:
-  - nutrition_cutting
-  - nutrition_calorie_deficit
-  - nutrition_refeeds_and_diet_breaks
+  - nutrition/cutting.md
+  - nutrition/calorie-deficit.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - faq/is-spot-reduction-possible.md
+  - faq/can-i-build-muscle-in-a-deficit.md
+  - exercises/chest/deficit-push-up.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/energy-balance.md
+  - nutrition/body-recomposition.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # How Fast Can I Lose Fat?
@@ -39,9 +48,15 @@ Physique-athlete and obesity-management literature favor moderate rates for lean
 - Slow down when already lean
 - Expect non-linear weekly scale changes
 
-## Related Articles
+## Related
 
-- [Cutting](../nutrition/cutting.md)
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Refeeds and Diet Breaks](../nutrition/refeeds-and-diet-breaks.md)
-- [Protein](../nutrition/protein.md)
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- nutrition/refeeds-and-diet-breaks.md
+- faq/is-spot-reduction-possible.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- exercises/chest/deficit-push-up.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/body-recomposition.md

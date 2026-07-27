@@ -28,8 +28,21 @@ tags:
   - strength
   - hypertrophy
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - exercises/legs/back-squat.md
+  - exercises/back/rack-pull.md
+  - exercises/legs/leg-press.md
+  - exercises/back/kroc-row.md
+  - exercises/back/t-bar-row.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/how-long-should-i-rest-between-sets.md
+  - faq/how-many-sets-per-week.md
 ---
 
 # Romanian Deadlift
@@ -157,8 +170,13 @@ B
 
 ## Related
 
-- Back Squat
-- Leg Press
-- Barbell Row
-- Progressive Overload
-- Muscle Hypertrophy
+- exercises/legs/back-squat.md
+- exercises/back/rack-pull.md
+- exercises/legs/leg-press.md
+- exercises/back/kroc-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md

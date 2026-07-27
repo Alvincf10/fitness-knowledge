@@ -6,12 +6,14 @@ tags:
   - cardio
   - programming
 related:
-  - faq_is_cardio_bad
-  - science_training_volume
-  - exercise_back_squat
+  - faq/is-cardio-bad.md
+  - faq/how-much-cardio-for-fat-loss.md
+  - science/training-principles/training-volume.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Should I Do Cardio Before or After Weights?
@@ -39,9 +41,8 @@ Concurrent-training research suggests prioritizing the adaptation you care about
 - Keep post-lift cardio moderate when legs were trained hard
 - Separate sessions if both need to be high quality
 
-## Related Articles
+## Related
 
-- [Is Cardio Bad?](is-cardio-bad.md)
-- [Training Volume](../science/training-principles/training-volume.md)
-- [Back Squat](../exercises/legs/back-squat.md)
-- [How Much Cardio for Fat Loss?](how-much-cardio-for-fat-loss.md)
+- faq/is-cardio-bad.md
+- faq/how-much-cardio-for-fat-loss.md
+- science/training-principles/training-volume.md

@@ -9,8 +9,21 @@ tags:
   - supplement
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/protein.md
+  - supplements/creatine.md
+  - faq/can-i-build-muscle-in-a-deficit.md
+  - supplements/whey-protein.md
+  - supplements/casein-protein.md
+  - supplements/bcaas.md
+  - supplements/magnesium.md
+  - supplements/fish-oil.md
+  - supplements/carbohydrate.md
+  - supplements/vitamin-d.md
 ---
 
 # HMB
@@ -68,8 +81,13 @@ Reviews show mixed results: clearer potential in untrained or catabolic settings
 
 ## Related
 
-- Creatine
-- Whey Protein
-- Protein
-- Recovery
-- Calorie Deficit
+- nutrition/protein.md
+- supplements/creatine.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- supplements/whey-protein.md
+- supplements/casein-protein.md
+- supplements/bcaas.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/carbohydrate.md
+- supplements/vitamin-d.md

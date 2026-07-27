@@ -6,13 +6,21 @@ tags:
   - recovery
   - beginner
 related:
-  - science_progressive_overload
-  - nutrition_cutting
-  - nutrition_alcohol
-  - supplement_magnesium
+  - nutrition/cutting.md
+  - nutrition/alcohol.md
+  - supplements/magnesium.md
+  - science/training-principles/progressive-overload.md
+  - supplements/whey-protein.md
+  - supplements/hmb.md
+  - supplements/fish-oil.md
+  - supplements/casein-protein.md
+  - supplements/carbohydrate.md
+  - supplements/bcaas.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # How Important Is Sleep?
@@ -40,10 +48,15 @@ Sleep-restriction studies show negative effects on performance, cognition, and a
 - During cuts, treat sleep as seriously as macros
 - Do not use late-night alcohol as recovery
 
-## Related Articles
+## Related
 
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
-- [Cutting](../nutrition/cutting.md)
-- [Alcohol](../nutrition/alcohol.md)
-- [Refeeds and Diet Breaks](../nutrition/refeeds-and-diet-breaks.md)
-- [Magnesium](../supplements/magnesium.md)
+- nutrition/cutting.md
+- nutrition/alcohol.md
+- supplements/magnesium.md
+- science/training-principles/progressive-overload.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/fish-oil.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md
+- supplements/bcaas.md

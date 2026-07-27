@@ -8,8 +8,21 @@ tags:
   - supplement
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - supplements/dietary-nitrate.md
+  - supplements/caffeine.md
+  - supplements/beta-alanine.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/electrolytes.md
+  - supplements/creatine.md
+  - supplements/carbohydrate.md
+  - supplements/whey-protein.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
 ---
 
 # Citrulline
@@ -67,8 +80,13 @@ Reviews show mixed-to-positive effects on high-intensity performance and trainin
 
 ## Related
 
-- Dietary Nitrate
-- Caffeine
-- Beta-Alanine
-- Creatine
-- Training Volume
+- supplements/dietary-nitrate.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/sodium-bicarbonate.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md

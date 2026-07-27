@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-27",
+  "description": "Catalog of science articles.",
+  "target_count": 120,
+  "published_count": 5,
+  "science": [
+    {
+      "id": "science_failure_training",
+      "title": "Failure Training",
+      "slug": "failure-training",
+      "path": "science/training-principles/failure-training.md",
+      "tags": [
+        "training",
+        "evidence",
+        "programming"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "science_progressive_overload",
+      "title": "Progressive Overload",
+      "slug": "progressive-overload",
+      "path": "science/training-principles/progressive-overload.md",
+      "tags": [
+        "training",
+        "evidence",
+        "programming"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "science_reps_in_reserve",
+      "title": "Reps in Reserve",
+      "slug": "reps-in-reserve",
+      "path": "science/training-principles/reps-in-reserve.md",
+      "tags": [
+        "training",
+        "evidence",
+        "programming",
+        "rir"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "science_training_frequency",
+      "title": "Training Frequency",
+      "slug": "training-frequency",
+      "path": "science/training-principles/training-frequency.md",
+      "tags": [
+        "training",
+        "evidence",
+        "programming"
+      ],
+      "evidence": "A",
+      "status": "published"
+    },
+    {
+      "id": "science_training_volume",
+      "title": "Training Volume",
+      "slug": "training-volume",
+      "path": "science/training-principles/training-volume.md",
+      "tags": [
+        "training",
+        "evidence",
+        "programming",
+        "hypertrophy"
+      ],
+      "evidence": "A",
+      "status": "published"
+    }
+  ]
+}

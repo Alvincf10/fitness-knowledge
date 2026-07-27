@@ -10,8 +10,21 @@ tags:
   - minerals
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/hydration.md
+  - supplements/magnesium.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/dietary-nitrate.md
+  - supplements/creatine.md
+  - supplements/citrulline.md
+  - supplements/carbohydrate.md
+  - supplements/caffeine.md
+  - supplements/beta-alanine.md
+  - supplements/whey-protein.md
 ---
 
 # Electrolytes
@@ -71,8 +84,13 @@ ACSM hydration guidance supports replacing fluid and electrolytes based on sweat
 
 ## Related
 
-- Carbohydrate
-- Magnesium
-- Caffeine
-- Recovery
-- Fat Loss
+- nutrition/hydration.md
+- supplements/magnesium.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/carbohydrate.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md

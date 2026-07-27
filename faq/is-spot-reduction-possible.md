@@ -6,12 +6,21 @@ tags:
   - fat-loss
   - beginner
 related:
-  - nutrition_calorie_deficit
-  - nutrition_cutting
-  - nutrition_energy_balance
+  - nutrition/calorie-deficit.md
+  - nutrition/cutting.md
+  - nutrition/energy-balance.md
+  - faq/how-fast-can-i-lose-fat.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/body-recomposition.md
+  - faq/is-intermittent-fasting-better.md
+  - faq/is-cardio-bad.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Is Spot Reduction Possible?
@@ -39,9 +48,15 @@ Classic and modern studies generally fail to show practical spot reduction from 
 - Train abs/glutes for strength and shape, not as fat burners
 - Be patient with stubborn regions
 
-## Related Articles
+## Related
 
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Cutting](../nutrition/cutting.md)
-- [Energy Balance](../nutrition/energy-balance.md)
-- [Is Cardio Bad?](is-cardio-bad.md)
+- nutrition/calorie-deficit.md
+- nutrition/cutting.md
+- nutrition/energy-balance.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/body-recomposition.md
+- faq/is-intermittent-fasting-better.md
+- faq/is-cardio-bad.md

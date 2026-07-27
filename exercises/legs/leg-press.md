@@ -24,8 +24,21 @@ tags:
   - beginner
   - hypertrophy
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - exercises/legs/back-squat.md
+  - exercises/legs/romanian-deadlift.md
+  - exercises/chest/plate-loaded-chest-press.md
+  - exercises/chest/machine-chest-press.md
+  - exercises/chest/incline-machine-chest-press.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/are-machines-worse-than-free-weights.md
+  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Leg Press
@@ -147,8 +160,13 @@ B
 
 ## Related
 
-- Back Squat
-- Romanian Deadlift
-- Progressive Overload
-- Muscle Hypertrophy
-- Training Volume
+- exercises/legs/back-squat.md
+- exercises/legs/romanian-deadlift.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md

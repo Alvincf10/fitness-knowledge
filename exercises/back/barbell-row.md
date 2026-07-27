@@ -29,8 +29,21 @@ tags:
   - hypertrophy
   - pull
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - exercises/back/t-bar-row.md
+  - exercises/back/pendlay-row.md
+  - exercises/back/yates-row.md
+  - exercises/back/meadows-row.md
+  - exercises/back/weighted-inverted-row.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/how-long-should-i-rest-between-sets.md
+  - faq/how-many-sets-per-week.md
 ---
 
 # Barbell Row
@@ -160,8 +173,13 @@ B
 
 ## Related
 
-- Lat Pulldown
-- Pull-Up
-- Progressive Overload
-- Training Volume
-- Romanian Deadlift
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/yates-row.md
+- exercises/back/meadows-row.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md

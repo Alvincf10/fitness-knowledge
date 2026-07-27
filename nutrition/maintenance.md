@@ -9,8 +9,21 @@ tags:
   - energy-balance
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/energy-balance.md
+  - nutrition/calorie-deficit.md
+  - nutrition/calorie-surplus.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/protein.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/micronutrients.md
 ---
 
 # Maintenance
@@ -72,8 +85,13 @@ Energy balance physics underpin maintenance. Sports-nutrition practice uses main
 
 ## Related
 
-- Energy Balance
-- Cutting
-- Bulking
-- Calorie Deficit
-- Calorie Surplus
+- nutrition/energy-balance.md
+- nutrition/calorie-deficit.md
+- nutrition/calorie-surplus.md
+- nutrition/intermittent-fasting.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md

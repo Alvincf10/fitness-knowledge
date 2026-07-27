@@ -9,8 +9,21 @@ tags:
   - calorie-surplus
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/calorie-surplus.md
+  - faq/do-i-need-to-bulk-to-build-muscle.md
+  - nutrition/protein.md
+  - nutrition/body-recomposition.md
+  - nutrition/maintenance.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/plant-based-protein.md
+  - nutrition/meal-timing.md
+  - nutrition/energy-balance.md
 ---
 
 # Bulking
@@ -71,8 +84,13 @@ Energy surplus supports hypertrophy when resistance training and protein intake 
 
 ## Related
 
-- Calorie Surplus
-- Protein
-- Muscle Hypertrophy
-- Cutting
-- Maintenance
+- nutrition/calorie-surplus.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- nutrition/protein.md
+- nutrition/body-recomposition.md
+- nutrition/maintenance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+- nutrition/energy-balance.md

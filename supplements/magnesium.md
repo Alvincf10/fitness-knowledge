@@ -10,8 +10,21 @@ tags:
   - mineral
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/micronutrients.md
+  - faq/how-important-is-sleep.md
+  - supplements/vitamin-d.md
+  - nutrition/hydration.md
+  - supplements/fish-oil.md
+  - supplements/whey-protein.md
+  - supplements/hmb.md
+  - supplements/casein-protein.md
+  - supplements/carbohydrate.md
+  - supplements/bcaas.md
 ---
 
 # Magnesium
@@ -69,8 +82,13 @@ Magnesium’s physiological importance is clear; athletic performance enhancemen
 
 ## Related
 
-- Electrolytes
-- Vitamin D
-- Recovery
-- Fish Oil
-- Sleep-related recovery practices in Recovery
+- nutrition/micronutrients.md
+- faq/how-important-is-sleep.md
+- supplements/vitamin-d.md
+- nutrition/hydration.md
+- supplements/fish-oil.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md
+- supplements/bcaas.md

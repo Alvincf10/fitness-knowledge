@@ -10,8 +10,21 @@ tags:
   - macronutrient
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/protein.md
+  - nutrition/carbohydrates.md
+  - nutrition/energy-balance.md
+  - nutrition/micronutrients.md
+  - nutrition/plant-based-protein.md
+  - nutrition/hydration.md
+  - nutrition/fiber.md
+  - nutrition/alcohol.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - nutrition/pre-workout-nutrition.md
 ---
 
 # Fat
@@ -73,8 +86,13 @@ Dietary guidelines and ACSM sports-nutrition positions support including adequat
 
 ## Related
 
-- Fish Oil
-- Energy Balance
-- Cutting
-- Bulking
-- Micronutrients
+- nutrition/protein.md
+- nutrition/carbohydrates.md
+- nutrition/energy-balance.md
+- nutrition/micronutrients.md
+- nutrition/plant-based-protein.md
+- nutrition/hydration.md
+- nutrition/fiber.md
+- nutrition/alcohol.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md

@@ -6,12 +6,16 @@ tags:
   - beginner
   - programming
 related:
-  - science_training_frequency
-  - nutrition_pre_workout_nutrition
-  - nutrition_meal_timing
+  - science/training-principles/training-frequency.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/meal-timing.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/intermittent-fasting.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Best Time to Workout?
@@ -39,9 +43,10 @@ Reviews of time-of-day training find measurable but usually small performance di
 - Avoid late caffeine if evening training harms sleep
 - Match meal timing to your chosen session window
 
-## Related Articles
+## Related
 
-- [Training Frequency](../science/training-principles/training-frequency.md)
-- [Pre-Workout Nutrition](../nutrition/pre-workout-nutrition.md)
-- [Meal Timing](../nutrition/meal-timing.md)
-- [Progressive Overload](../science/training-principles/progressive-overload.md)
+- science/training-principles/training-frequency.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/post-workout-nutrition.md
+- nutrition/intermittent-fasting.md

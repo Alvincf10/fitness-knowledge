@@ -12,8 +12,21 @@ tags:
   - programming
   - hypertrophy
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/reps-in-reserve.md
+  - science/training-principles/training-frequency.md
+  - science/training-principles/failure-training.md
+  - faq/how-many-sets-per-week.md
+  - faq/what-is-rir.md
+  - faq/should-i-train-to-failure.md
+  - exercises/chest/dumbbell-bench-press.md
+  - exercises/back/seated-cable-row.md
+  - exercises/legs/back-squat.md
 ---
 
 # Training Volume
@@ -68,8 +81,13 @@ Meta-analyses led by Schoenfeld and related reviews show greater muscle growth w
 
 ## Related
 
-- Progressive Overload
-- Training Frequency
-- Reps in Reserve
-- Muscle Hypertrophy
-- Recovery
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/training-frequency.md
+- science/training-principles/failure-training.md
+- faq/how-many-sets-per-week.md
+- faq/what-is-rir.md
+- faq/should-i-train-to-failure.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/back/seated-cable-row.md
+- exercises/legs/back-squat.md

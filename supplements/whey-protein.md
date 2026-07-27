@@ -10,8 +10,21 @@ tags:
   - protein
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/do-i-need-whey-protein.md
+  - nutrition/protein.md
+  - faq/how-much-protein.md
+  - supplements/casein-protein.md
+  - faq/do-i-need-supplements.md
+  - nutrition/post-workout-nutrition.md
+  - supplements/bcaas.md
+  - supplements/hmb.md
+  - supplements/magnesium.md
+  - supplements/fish-oil.md
 ---
 
 # Whey Protein
@@ -71,8 +84,13 @@ Meta-analyses show protein supplementation augments strength and fat-free mass g
 
 ## Related
 
-- Protein
-- Casein Protein
-- How Much Protein?
-- Creatine
-- Muscle Hypertrophy
+- faq/do-i-need-whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- faq/do-i-need-supplements.md
+- nutrition/post-workout-nutrition.md
+- supplements/bcaas.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md

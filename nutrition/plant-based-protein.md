@@ -10,8 +10,21 @@ tags:
   - macronutrient
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/protein.md
+  - faq/how-much-protein.md
+  - supplements/whey-protein.md
+  - nutrition/meal-timing.md
+  - nutrition/fat.md
+  - nutrition/carbohydrates.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
 ---
 
 # Plant-Based Protein
@@ -74,8 +87,13 @@ Trials and reviews show that when protein quantity is matched and training is pr
 
 ## Related
 
-- Protein
-- How Much Protein?
-- Fiber
-- Micronutrients
-- Whey Protein
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/whey-protein.md
+- nutrition/meal-timing.md
+- nutrition/fat.md
+- nutrition/carbohydrates.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md

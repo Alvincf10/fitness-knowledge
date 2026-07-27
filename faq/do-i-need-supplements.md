@@ -6,12 +6,21 @@ tags:
   - supplement
   - beginner
 related:
-  - supplement_creatine
-  - nutrition_protein
-  - supplement_whey_protein
+  - supplements/creatine.md
+  - supplements/whey-protein.md
+  - faq/do-i-need-creatine.md
+  - faq/do-i-need-whey-protein.md
+  - nutrition/protein.md
+  - faq/are-bcaas-worth-it.md
+  - supplements/vitamin-d.md
+  - supplements/sodium-bicarbonate.md
+  - supplements/magnesium.md
+  - supplements/hmb.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
 ---
 
 # Do I Need Supplements?
@@ -39,10 +48,15 @@ ISSN rankings consistently place creatine, caffeine, and protein among the best-
 - Use protein powder only for convenience
 - Ignore stacks that promise dramatic fat loss without a deficit
 
-## Related Articles
+## Related
 
-- [Creatine](../supplements/creatine.md)
-- [Protein](../nutrition/protein.md)
-- [Whey Protein](../supplements/whey-protein.md)
-- [Caffeine](../supplements/caffeine.md)
-- [Do I Need Creatine?](do-i-need-creatine.md)
+- supplements/creatine.md
+- supplements/whey-protein.md
+- faq/do-i-need-creatine.md
+- faq/do-i-need-whey-protein.md
+- nutrition/protein.md
+- faq/are-bcaas-worth-it.md
+- supplements/vitamin-d.md
+- supplements/sodium-bicarbonate.md
+- supplements/magnesium.md
+- supplements/hmb.md

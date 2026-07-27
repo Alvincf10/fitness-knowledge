@@ -9,8 +9,21 @@ tags:
   - calorie-deficit
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/calorie-deficit.md
+  - faq/how-fast-can-i-lose-fat.md
+  - nutrition/protein.md
+  - nutrition/refeeds-and-diet-breaks.md
+  - faq/is-spot-reduction-possible.md
+  - nutrition/body-recomposition.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/energy-balance.md
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/post-workout-nutrition.md
 ---
 
 # Cutting
@@ -72,8 +85,13 @@ Fat loss requires a calorie deficit. Resistance training plus higher protein imp
 
 ## Related
 
-- Calorie Deficit
-- Protein
-- Refeeds and Diet Breaks
-- Maintenance
-- Body Recomposition
+- nutrition/calorie-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/protein.md
+- nutrition/refeeds-and-diet-breaks.md
+- faq/is-spot-reduction-possible.md
+- nutrition/body-recomposition.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md

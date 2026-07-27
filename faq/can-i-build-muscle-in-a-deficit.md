@@ -6,12 +6,17 @@ tags:
   - hypertrophy
   - fat-loss
 related:
-  - nutrition_body_recomposition
-  - nutrition_calorie_deficit
-  - nutrition_protein
+  - nutrition/body-recomposition.md
+  - nutrition/calorie-deficit.md
+  - nutrition/protein.md
+  - faq/can-beginners-gain-muscle-and-lose-fat.md
+  - faq/how-much-protein.md
+  - exercises/chest/deficit-push-up.md
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
 ---
 
 # Can I Build Muscle in a Deficit?
@@ -39,10 +44,11 @@ Applied reviews and intervention data support concurrent fat loss and muscle gai
 - Expect slower muscle gain than in a bulk
 - Switch to maintenance/surplus if strength and measurements stall for months
 
-## Related Articles
+## Related
 
-- [Body Recomposition](../nutrition/body-recomposition.md)
-- [Calorie Deficit](../nutrition/calorie-deficit.md)
-- [Protein](../nutrition/protein.md)
-- [Cutting](../nutrition/cutting.md)
-- [Bulking](../nutrition/bulking.md)
+- nutrition/body-recomposition.md
+- nutrition/calorie-deficit.md
+- nutrition/protein.md
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/how-much-protein.md
+- exercises/chest/deficit-push-up.md

@@ -11,8 +11,21 @@ tags:
   - evidence
   - programming
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - science/training-principles/training-volume.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/how-often-should-i-train.md
+  - faq/can-i-train-every-day.md
+  - faq/how-many-sets-per-week.md
+  - faq/how-important-is-sleep.md
+  - exercises/chest/push-up.md
+  - exercises/back/pull-up.md
+  - exercises/legs/back-squat.md
 ---
 
 # Training Frequency
@@ -66,8 +79,13 @@ When weekly volume is equated, meta-analyses generally find similar hypertrophy 
 
 ## Related
 
-- Training Volume
-- Progressive Overload
-- Recovery
-- Muscle Hypertrophy
-- Best Time to Workout?
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-often-should-i-train.md
+- faq/can-i-train-every-day.md
+- faq/how-many-sets-per-week.md
+- faq/how-important-is-sleep.md
+- exercises/chest/push-up.md
+- exercises/back/pull-up.md
+- exercises/legs/back-squat.md

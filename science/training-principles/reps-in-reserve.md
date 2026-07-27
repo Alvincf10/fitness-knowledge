@@ -10,10 +10,23 @@ tags:
   - training
   - evidence
   - programming
-  - RIR
+  - rir
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - faq/what-is-rir.md
+  - faq/should-i-train-to-failure.md
+  - science/training-principles/failure-training.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-frequency.md
+  - faq/how-many-sets-per-week.md
+  - exercises/chest/barbell-bench-press.md
+  - exercises/back/barbell-row.md
+  - exercises/legs/back-squat.md
 ---
 
 # Reps in Reserve
@@ -67,8 +80,13 @@ Research on RPE/RIR-based loading shows trained lifters can estimate proximity t
 
 ## Related
 
-- Failure Training
-- Progressive Overload
-- Training Volume
-- Should I Train to Failure?
-- Strength Adaptation
+- faq/what-is-rir.md
+- faq/should-i-train-to-failure.md
+- science/training-principles/failure-training.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-frequency.md
+- faq/how-many-sets-per-week.md
+- exercises/chest/barbell-bench-press.md
+- exercises/back/barbell-row.md
+- exercises/legs/back-squat.md

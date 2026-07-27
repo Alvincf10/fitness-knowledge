@@ -10,8 +10,21 @@ tags:
   - omega-3
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: B
+evidence_level: B
+related:
+  - nutrition/fat.md
+  - nutrition/micronutrients.md
+  - supplements/vitamin-d.md
+  - supplements/magnesium.md
+  - supplements/whey-protein.md
+  - supplements/hmb.md
+  - supplements/casein-protein.md
+  - supplements/carbohydrate.md
+  - supplements/bcaas.md
+  - supplements/sodium-bicarbonate.md
 ---
 
 # Fish Oil
@@ -70,8 +83,13 @@ Omega-3 research is extensive for general health. Sports-performance and hypertr
 
 ## Related
 
-- Fat
-- Vitamin D
-- Magnesium
-- Recovery
-- Whey Protein
+- nutrition/fat.md
+- nutrition/micronutrients.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md
+- supplements/bcaas.md
+- supplements/sodium-bicarbonate.md

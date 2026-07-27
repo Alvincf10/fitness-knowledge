@@ -11,8 +11,21 @@ tags:
   - timing
   - evidence
 updated: 2026-07-27
+last_review: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - nutrition/pre-workout-nutrition.md
+  - nutrition/meal-timing.md
+  - nutrition/protein.md
+  - faq/is-the-anabolic-window-real.md
+  - supplements/whey-protein.md
+  - nutrition/intermittent-fasting.md
+  - nutrition/carbohydrates.md
+  - nutrition/plant-based-protein.md
+  - nutrition/micronutrients.md
+  - nutrition/hydration.md
 ---
 
 # Post-Workout Nutrition
@@ -74,8 +87,13 @@ Reviews show that while peri-workout protein can be useful, total daily protein 
 
 ## Related
 
-- Meal Timing
-- Protein
-- Pre-Workout Nutrition
-- Carbohydrates
-- Whey Protein
+- nutrition/pre-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/protein.md
+- faq/is-the-anabolic-window-real.md
+- supplements/whey-protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/carbohydrates.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md

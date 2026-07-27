@@ -31,6 +31,19 @@ tags:
 updated: 2026-07-27
 reviewed: true
 evidence: A
+evidence_level: A
+related:
+  - exercises/chest/pause-barbell-bench-press.md
+  - exercises/chest/incline-barbell-bench-press.md
+  - exercises/chest/decline-barbell-bench-press.md
+  - exercises/chest/single-arm-dumbbell-bench-press.md
+  - exercises/chest/reverse-grip-bench-press.md
+  - science/training-principles/progressive-overload.md
+  - science/training-principles/training-volume.md
+  - science/training-principles/reps-in-reserve.md
+  - faq/how-long-should-i-rest-between-sets.md
+  - faq/how-many-sets-per-week.md
+last_review: 2026-07-27
 ---
 
 # Barbell Bench Press
@@ -159,8 +172,13 @@ A
 
 ## Related
 
-- Incline Dumbbell Press
-- Push-Up
-- Progressive Overload
-- Training Volume
-- Reps in Reserve
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
