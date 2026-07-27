@@ -2,19 +2,48 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_incline_dumbbell_press
 title: How explosive should the concentric be on the Incline Dumbbell Press?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Incline Dumbbell Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/incline-dumbbell-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/incline-dumbbell-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-dumbbell-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-incline-barbell-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/dumbbell-bench-press.md
+aliases:
+- how explosive should the concentric be on the incline dumbbell press
+- how explosive should the concentric be on the incline press?
+- how explosive should the concentric be on the incline db press?
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- incline
+- dumbbell
+- press
+- technique
+- chest
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Incline Dumbbell Press?
@@ -40,3 +69,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/incline-dumbbell-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-dumbbell-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-incline-barbell-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/dumbbell-bench-press.md
+

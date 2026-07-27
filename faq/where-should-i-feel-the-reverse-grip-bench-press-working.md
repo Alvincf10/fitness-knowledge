@@ -2,19 +2,46 @@
 id: faq_where_should_i_feel_the_reverse_grip_bench_press_working
 title: Where should I feel the Reverse-Grip Bench Press working?
 category: faq
+subcategory: technique
+description: Where should I feel the Reverse-Grip Bench Press working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-barbell-bench-press-working.md
+- faq/where-should-i-feel-the-decline-barbell-bench-press-working.md
+- faq/where-should-i-feel-the-dumbbell-bench-press-working.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+aliases:
+- where should i feel the reverse grip bench press working
+- where should i feel the reversegrip bench press working
+keywords:
+- where
+- should
+- feel
+- the
+- reverse
+- grip
+- bench
+- press
+- working
+- technique
+- chest
+- exercise
+- reversegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Reverse-Grip Bench Press working?
@@ -40,3 +67,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/reverse-grip-bench-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-barbell-bench-press-working.md
+- faq/where-should-i-feel-the-decline-barbell-bench-press-working.md
+- faq/where-should-i-feel-the-dumbbell-bench-press-working.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+

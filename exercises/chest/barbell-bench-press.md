@@ -2,48 +2,68 @@
 id: exercise_barbell_bench_press
 title: Barbell Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
-  - bench
-  - rack
+subcategory: chest
+description: The barbell bench press is a horizontal pressing exercise that loads the pectoralis major with substantial contribution from the triceps brachii and anterior deltoids. It is widely used for upper-body strength and hypertrophy because it allows progressive overload with measurable…
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - bench press
-  - flat barbell bench press
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- bench press
+- flat barbell bench press
+- bbp
+- bb bench press
+keywords:
+- barbell
+- bench
+- press
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- flat
+- bbp
+- bb
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+- bench
+- rack
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
-last_review: 2026-07-27
 ---
 
 # Barbell Bench Press
@@ -170,7 +190,7 @@ A
 - Saeterbakken AH (2011)
 - Lehman GJ (2005)
 
-## Related
+## Related Articles
 
 - exercises/chest/pause-barbell-bench-press.md
 - exercises/chest/incline-barbell-bench-press.md
@@ -182,3 +202,4 @@ A
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+

@@ -2,47 +2,67 @@
 id: exercise_ring_push_up
 title: Ring Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The ring push-up is an unstable closed-chain horizontal press on gymnastic rings. Instability increases demand on the chest, triceps, anterior deltoids, serratus, and trunk versus floor push-ups, making it an advanced progression when volume is controlled.
 difficulty: advanced
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - gymnastic ring push-up
-  - suspended push-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - advanced
-  - hypertrophy
-  - strength
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+related:
+- exercises/chest/weighted-push-up.md
+- exercises/chest/push-up.md
+- exercises/chest/feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/wide-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- gymnastic ring push-up
+- suspended push-up
+- ring push up
+- rpu
+keywords:
+- ring
+- push
+- up
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+- gymnastic
+- suspended
+- rpu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/weighted-push-up.md
-  - exercises/chest/push-up.md
-  - exercises/chest/feet-elevated-push-up.md
-  - exercises/chest/close-grip-push-up.md
-  - exercises/chest/wide-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Ring Push-Up
@@ -168,7 +188,7 @@ Use only if form holds under fatigue.
 
 Inappropriate without solid floor push-up technique, or with symptomatic shoulder instability/pain. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/weighted-push-up.md
 - exercises/chest/push-up.md
@@ -180,6 +200,7 @@ Inappropriate without solid floor push-up technique, or with symptomatic shoulde
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

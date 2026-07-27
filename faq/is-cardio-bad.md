@@ -2,20 +2,41 @@
 id: faq_is_cardio_bad
 title: Is Cardio Bad?
 category: faq
+subcategory: cardio
+description: Does cardio kill muscle gains or ruin strength progress?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - cardio
-  - fat-loss
-  - hypertrophy
+- cardio
+- fat-loss
+- hypertrophy
 related:
-  - faq/how-much-cardio-for-fat-loss.md
-  - faq/should-i-do-cardio-before-or-after-weights.md
-  - nutrition/cutting.md
-  - science/training-principles/training-volume.md
+- faq/how-much-cardio-for-fat-loss.md
+- faq/should-i-do-cardio-before-or-after-weights.md
+- nutrition/cutting.md
+- science/training-principles/training-volume.md
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+aliases:
+- is cardio bad
+- icb
+keywords:
+- is
+- cardio
+- bad
+- fat-loss
+- hypertrophy
+- icb
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is Cardio Bad?
@@ -43,9 +64,16 @@ Concurrent-training reviews show possible interference under high endurance load
 - Separate hard interval cardio from key lower-body strength sessions when possible
 - Raise protein and avoid huge deficits while increasing cardio
 
-## Related
+## Related Articles
 
 - faq/how-much-cardio-for-fat-loss.md
 - faq/should-i-do-cardio-before-or-after-weights.md
 - nutrition/cutting.md
 - science/training-principles/training-volume.md
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+

@@ -2,48 +2,65 @@
 id: exercise_seated_cable_row
 title: Seated Cable Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - cable
-  - machine
+subcategory: back
+description: The seated cable row is a horizontal pulling exercise that loads the latissimus dorsi, rhomboids, trapezius, and elbow flexors under continuous cable tension. It is a foundational machine/cable row for back hypertrophy and pulling strength.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - seated row
-  - cable row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - beginner
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- cable
+- beginner
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/single-arm-cable-row.md
+- exercises/back/standing-cable-row.md
+- exercises/back/plate-loaded-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- seated row
+- cable row
+- scr
+keywords:
+- seated
+- cable
+- row
+- compound
+- beginner
+- hypertrophy
+- strength
+- pull
+- scr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- cable
+- machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/standing-cable-row.md
-  - exercises/back/plate-loaded-row.md
-  - exercises/back/t-bar-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Seated Cable Row
@@ -169,7 +186,7 @@ Efficient back compound.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/wide-grip-seated-cable-row.md
 - exercises/back/single-arm-cable-row.md
@@ -181,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

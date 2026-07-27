@@ -2,46 +2,63 @@
 id: exercise_face_pull
 title: Face Pull
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - rear-delts
-  - shoulders
-equipment:
-  - cable
-  - resistance-band
+subcategory: back
+description: The face pull is a cable or band exercise pulling toward the face with external rotation bias, targeting the rear deltoids, rhomboids, and external rotators. It is widely used for upper-back balance and shoulder-health accessory work alongside heavier vertical and horizontal pull…
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - cable face pull
-  - rope face pull
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - beginner
-  - hypertrophy
-  - pull
+- isolation
+- cable
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/straight-arm-pulldown.md
+- exercises/back/cable-pullover.md
+- exercises/back/prone-trap-raise.md
+- exercises/back/negative-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- cable face pull
+- rope face pull
+- fp
+keywords:
+- face
+- pull
+- isolation
+- cable
+- beginner
+- hypertrophy
+- rope
+- fp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- rear-delts
+- shoulders
+equipment:
+- cable
+- resistance-band
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/straight-arm-pulldown.md
-  - exercises/back/cable-pullover.md
-  - exercises/back/prone-trap-raise.md
-  - exercises/back/negative-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/assisted-pull-up.md
 ---
 
 # Face Pull
@@ -163,7 +180,7 @@ Low-fatigue shoulder-balance work.
 
 Reduce load/ROM if shoulder pain appears. Not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/band-assisted-pull-up.md
 - exercises/back/straight-arm-pulldown.md
@@ -174,6 +191,8 @@ Reduce load/ROM if shoulder pain appears. Not medical diagnosis.
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/assisted-pull-up.md
+- exercises/back/close-grip-lat-pulldown.md
+
 
 ## References
 

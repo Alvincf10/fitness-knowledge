@@ -2,46 +2,67 @@
 id: exercise_plate_loaded_chest_press
 title: Plate-Loaded Chest Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - machine
+subcategory: chest
+description: The plate-loaded chest press (e.g., iso-lateral hammer-style machines) allows independent arm loading with a guided path, combining some free-weight feel with machine stability for chest hypertrophy and strength work.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - hammer chest press
-  - iso-lateral chest press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
-  - strength
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+related:
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/cable-chest-press.md
+- exercises/chest/smith-machine-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- hammer chest press
+- iso-lateral chest press
+- plate loaded chest press
+- plcp
+keywords:
+- plate
+- loaded
+- chest
+- press
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+- hammer
+- iso
+- lateral
+- plcp
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- machine
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/resistance-band-chest-press.md
-  - exercises/chest/cable-chest-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Plate-Loaded Chest Press
@@ -161,7 +182,7 @@ Efficient compound.
 
 Adjust path/seat if shoulders hurt. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/machine-chest-press.md
 - exercises/chest/incline-machine-chest-press.md
@@ -173,6 +194,7 @@ Adjust path/seat if shoulders hurt. This is training guidance, not medical diagn
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

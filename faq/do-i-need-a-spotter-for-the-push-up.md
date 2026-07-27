@@ -2,19 +2,44 @@
 id: faq_do_i_need_a_spotter_for_the_push_up
 title: Do I need a spotter for the Push-Up?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Push-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/push-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/push-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-close-grip-push-up.md
+- faq/do-i-need-a-spotter-for-the-deficit-push-up.md
+- faq/do-i-need-a-spotter-for-the-feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/deficit-push-up.md
+aliases:
+- do i need a spotter for the push up
+- do i need a spotter for the pushup
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- push
+- up
+- technique
+- chest
+- exercise
+- pushup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Push-Up?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/push-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-close-grip-push-up.md
+- faq/do-i-need-a-spotter-for-the-deficit-push-up.md
+- faq/do-i-need-a-spotter-for-the-feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/deficit-push-up.md
+

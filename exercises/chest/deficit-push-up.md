@@ -2,47 +2,67 @@
 id: exercise_deficit_push_up
 title: Deficit Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The deficit push-up elevates the hands so the chest can descend below hand level. Increased ROM provides a larger stretch stimulus to the pectoralis major while retaining closed-chain push-up mechanics.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - push-up with deficit
-  - handle push-up
-  - parallette push-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/weighted-push-up.md
+- exercises/chest/feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/wide-push-up.md
+- exercises/chest/wall-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- push-up with deficit
+- handle push-up
+- parallette push-up
+- deficit push up
+- dpu
+keywords:
+- deficit
+- push
+- up
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- with
+- handle
+- parallette
+- dpu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/weighted-push-up.md
-  - exercises/chest/feet-elevated-push-up.md
-  - exercises/chest/close-grip-push-up.md
-  - exercises/chest/wide-push-up.md
-  - exercises/chest/wall-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Deficit Push-Up
@@ -164,7 +184,7 @@ Effective when standard push-up capacity is already solid.
 
 Avoid large deficits with anterior shoulder pain or poor scapular control at depth. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/weighted-push-up.md
 - exercises/chest/feet-elevated-push-up.md
@@ -176,6 +196,7 @@ Avoid large deficits with anterior shoulder pain or poor scapular control at dep
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

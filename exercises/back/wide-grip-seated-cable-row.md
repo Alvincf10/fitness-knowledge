@@ -2,47 +2,68 @@
 id: exercise_wide_grip_seated_cable_row
 title: Wide-Grip Seated Cable Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - cable
-  - machine
+subcategory: back
+description: The wide-grip seated cable row uses a wider pronated handle to bias upper-back horizontal abduction/retraction patterns, often increasing rear-delt and trapezius demand relative to a narrow V-handle row.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - wide seated row
-  - lat bar seated row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- cable
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/seated-cable-row.md
+- exercises/back/wide-grip-lat-pulldown.md
+- exercises/back/single-arm-cable-row.md
+- exercises/back/standing-cable-row.md
+- exercises/back/reverse-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- wide seated row
+- lat bar seated row
+- wide grip seated cable row
+- wgscr
+keywords:
+- wide
+- grip
+- seated
+- cable
+- row
+- compound
+- beginner
+- hypertrophy
+- pull
+- lat
+- bar
+- wgscr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- cable
+- machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/seated-cable-row.md
-  - exercises/back/wide-grip-lat-pulldown.md
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/standing-cable-row.md
-  - exercises/back/reverse-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Wide-Grip Seated Cable Row
@@ -165,7 +186,7 @@ Accessory/compound hybrid.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/seated-cable-row.md
 - exercises/back/wide-grip-lat-pulldown.md
@@ -177,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

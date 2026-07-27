@@ -2,19 +2,47 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_dumbbell_row
 title: How explosive should the concentric be on the Dumbbell Row?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Dumbbell Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/dumbbell-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/dumbbell-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-chest-supported-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-pullover.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+aliases:
+- how explosive should the concentric be on the dumbbell row
+- how explosive should the concentric be on the row?
+- how explosive should the concentric be on the db row?
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- dumbbell
+- row
+- technique
+- back
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Dumbbell Row?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/dumbbell-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-chest-supported-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-pullover.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+

@@ -2,48 +2,67 @@
 id: exercise_seal_row
 title: Seal Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - barbell
-  - dumbbell
-  - bench
+subcategory: back
+description: The seal row is a chest-supported free-weight row performed lying prone on a raised bench so the weights hang freely. It minimizes momentum and lumbar involvement while heavily loading the back musculature.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - prone bench row
-  - elevated seal row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/helms-row.md
+- exercises/back/yates-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/renegade-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- prone bench row
+- elevated seal row
+- sr
+keywords:
+- seal
+- row
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+- prone
+- bench
+- elevated
+- sr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- barbell
+- dumbbell
+- bench
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/helms-row.md
-  - exercises/back/yates-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/renegade-row.md
-  - exercises/back/pendlay-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Seal Row
@@ -165,7 +184,7 @@ Great when you want back stimulus without hinge fatigue.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/helms-row.md
 - exercises/back/yates-row.md
@@ -177,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

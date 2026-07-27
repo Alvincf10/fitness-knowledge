@@ -2,48 +2,68 @@
 id: exercise_incline_barbell_bench_press
 title: Incline Barbell Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
-  - bench
-  - rack
+subcategory: chest
+description: The incline barbell bench press is performed on an inclined bench and loads the pectoralis major with increased relative demand on the clavicular fibers and anterior deltoids compared with flat pressing. A moderate incline preserves a pressing pattern while allowing precise barbe…
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - incline bench press
-  - incline barbell press
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- incline bench press
+- incline barbell press
+- ibbp
+- incline bb bench press
+keywords:
+- incline
+- barbell
+- bench
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+- ibbp
+- bb
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+- bench
+- rack
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Incline Barbell Bench Press
@@ -173,7 +193,7 @@ Keep as a compound lift in a deficit; manage volume to protect recovery.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis. Very steep inclines may aggravate shoulders in some lifters.
 
-## Related
+## Related Articles
 
 - exercises/chest/pause-barbell-bench-press.md
 - exercises/chest/decline-barbell-bench-press.md
@@ -185,6 +205,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

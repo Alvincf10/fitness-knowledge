@@ -2,19 +2,43 @@
 id: faq_what_grip_width_should_i_use_for_the_chest_dip
 title: What grip width should I use for the Chest Dip?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Chest Dip?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/chest-dip.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/chest-dip.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-fly.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/reverse-grip-bench-press.md
+aliases:
+- what grip width should i use for the chest dip
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- chest
+- dip
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Chest Dip?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/chest-dip.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-fly.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/reverse-grip-bench-press.md
+

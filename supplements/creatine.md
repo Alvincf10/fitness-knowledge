@@ -2,29 +2,38 @@
 id: supplement_creatine
 title: Creatine
 category: supplement
-goals:
-  - strength
-  - hypertrophy
-  - performance
+subcategory: general
+description: Creatine monohydrate is one of the most researched sports supplements. It increases intramuscular phosphocreatine stores, supporting high-intensity efforts, strength gains, and lean mass accrual when combined with resistance training.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
+- supplement
+- evidence
+related:
+- faq/do-i-need-creatine.md
+- faq/do-i-need-supplements.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md
+- supplements/sodium-bicarbonate.md
+- supplements/hmb.md
+- supplements/electrolytes.md
+aliases: []
+keywords:
+- creatine
+- supplement
+- evidence
+goals:
+- strength
+- hypertrophy
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/do-i-need-creatine.md
-  - faq/do-i-need-supplements.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - supplements/caffeine.md
-  - supplements/beta-alanine.md
-  - supplements/whey-protein.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/hmb.md
-  - supplements/electrolytes.md
 ---
 
 # Creatine
@@ -83,7 +92,7 @@ ISSN and multiple meta-analyses rate creatine monohydrate as effective for high-
 - ACSM Position Stand (2022)
 - Buford TW (2007)
 
-## Related
+## Related Articles
 
 - faq/do-i-need-creatine.md
 - faq/do-i-need-supplements.md
@@ -95,3 +104,4 @@ ISSN and multiple meta-analyses rate creatine monohydrate as effective for high-
 - supplements/sodium-bicarbonate.md
 - supplements/hmb.md
 - supplements/electrolytes.md
+

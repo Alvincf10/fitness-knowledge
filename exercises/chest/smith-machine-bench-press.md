@@ -2,47 +2,64 @@
 id: exercise_smith_machine_bench_press
 title: Smith Machine Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - smith-machine
-  - bench
+subcategory: chest
+description: The Smith machine bench press is a rails-guided horizontal bar press. The fixed path reduces some balance demand and can allow confident loading, but it constrains natural bar path and may alter shoulder stress versus a free barbell. Treat it as a guided variation, not a perfect …
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - smith bench press
-  - smith machine bench
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- machine
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- smith bench press
+- smith machine bench
+- smbp
+keywords:
+- smith
+- machine
+- bench
+- press
+- compound
+- intermediate
+- hypertrophy
+- strength
+- smbp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- smith-machine
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/smith-machine-incline-press.md
-  - exercises/chest/smith-machine-decline-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Smith Machine Bench Press
@@ -164,7 +181,7 @@ Acceptable compound when setup is quick and safe.
 
 Discontinue if the fixed path provokes sharp shoulder pain. Verify hooks/safeties. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/smith-machine-incline-press.md
 - exercises/chest/smith-machine-decline-press.md
@@ -176,6 +193,7 @@ Discontinue if the fixed path provokes sharp shoulder pain. Verify hooks/safetie
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

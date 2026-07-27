@@ -2,29 +2,42 @@
 id: nutrition_intermittent_fasting
 title: Intermittent Fasting
 category: nutrition
-goals:
-  - fat-loss
-  - maintenance
+subcategory: nutrition
+description: Intermittent fasting (IF) restricts eating to certain hours or days. For body composition, IF mainly works by helping some people sustain a calorie deficit. It is not inherently superior to conventional meal patterns when calories and protein are equated.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - timing
-  - evidence
+- nutrition
+- timing
+- evidence
+related:
+- faq/is-intermittent-fasting-better.md
+- nutrition/meal-timing.md
+- nutrition/calorie-deficit.md
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/maintenance.md
+- nutrition/cutting.md
+aliases:
+- if
+keywords:
+- intermittent
+- fasting
+- nutrition
+- timing
+- evidence
+- if
+goals:
+- fat-loss
+- maintenance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - faq/is-intermittent-fasting-better.md
-  - nutrition/meal-timing.md
-  - nutrition/calorie-deficit.md
-  - nutrition/energy-balance.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/protein.md
-  - nutrition/maintenance.md
-  - nutrition/cutting.md
 ---
 
 # Intermittent Fasting
@@ -83,7 +96,7 @@ RCTs and reviews generally show similar weight-loss outcomes for IF versus conti
 - ACSM Position Stand (2016)
 - Harris L (2018)
 
-## Related
+## Related Articles
 
 - faq/is-intermittent-fasting-better.md
 - nutrition/meal-timing.md
@@ -95,3 +108,4 @@ RCTs and reviews generally show similar weight-loss outcomes for IF versus conti
 - nutrition/protein.md
 - nutrition/maintenance.md
 - nutrition/cutting.md
+

@@ -2,19 +2,43 @@
 id: faq_should_i_use_a_full_pause_on_the_kroc_row
 title: Should I use a full pause on the Kroc Row?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Kroc Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/kroc-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/kroc-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-barbell-row.md
+- faq/should-i-use-a-full-pause-on-the-chest-supported-row.md
+- faq/should-i-use-a-full-pause-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+aliases:
+- should i use a full pause on the kroc row
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- kroc
+- row
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Kroc Row?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/kroc-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-barbell-row.md
+- faq/should-i-use-a-full-pause-on-the-chest-supported-row.md
+- faq/should-i-use-a-full-pause-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+

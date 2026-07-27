@@ -2,20 +2,43 @@
 id: faq_does_deadlifting_destroy_your_spine
 title: Does deadlifting destroy your spine?
 category: faq
+subcategory: injury
+description: Does deadlifting destroy your spine?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - injury
-  - back
-  - technique
+- injury
+- back
+- technique
 related:
-  - exercises/legs/romanian-deadlift.md
-  - science/training-principles/training-volume.md
-  - faq/how-important-is-sleep.md
-  - science/training-principles/progressive-overload.md
+- exercises/legs/romanian-deadlift.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- science/training-principles/progressive-overload.md
+- faq/do-squats-ruin-your-knees.md
+- faq/can-i-lift-with-lower-back-tightness.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- does deadlifting destroy your spine
+- dddys
+keywords:
+- does
+- deadlifting
+- destroy
+- your
+- spine
+- injury
+- back
+- technique
+- dddys
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Does deadlifting destroy your spine?
@@ -42,3 +65,9 @@ Sports-medicine load-management and tendinopathy principles; referral recommende
 - science/training-principles/training-volume.md
 - faq/how-important-is-sleep.md
 - science/training-principles/progressive-overload.md
+- faq/do-squats-ruin-your-knees.md
+- faq/can-i-lift-with-lower-back-tightness.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

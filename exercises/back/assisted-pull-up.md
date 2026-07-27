@@ -2,48 +2,67 @@
 id: exercise_assisted_pull_up
 title: Assisted Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - machine
-  - pull-up-bar
+subcategory: back
+description: The assisted pull-up reduces effective bodyweight via a machine counterweight or band so trainees can practice full-ROM vertical pulling with proper scapular mechanics before unassisted pull-ups are possible.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - machine-assisted pull-up
-  - gravitron pull-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- machine-assisted pull-up
+- gravitron pull-up
+- assisted pull up
+- apu
+keywords:
+- assisted
+- pull
+- up
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+- gravitron
+- apu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- machine
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/negative-pull-up.md
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Assisted Pull-Up
@@ -165,7 +184,7 @@ Useful pulling option when fatigue is high.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/band-assisted-pull-up.md
 - exercises/back/negative-pull-up.md
@@ -177,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

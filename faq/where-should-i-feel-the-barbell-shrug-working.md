@@ -2,19 +2,45 @@
 id: faq_where_should_i_feel_the_barbell_shrug_working
 title: Where should I feel the Barbell Shrug working?
 category: faq
+subcategory: technique
+description: Where should I feel the Barbell Shrug working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/shrug.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/shrug.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- faq/where-should-i-feel-the-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-back-squat-working.md
+- exercises/back/barbell-row.md
+- exercises/back/landmine-row.md
+aliases:
+- where should i feel the barbell shrug working
+- where should i feel the shrug working?
+- where should i feel the bb shrug working?
+keywords:
+- where
+- should
+- feel
+- the
+- barbell
+- shrug
+- working
+- technique
+- back
+- exercise
+- bb
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Barbell Shrug working?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/shrug.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- faq/where-should-i-feel-the-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-back-squat-working.md
+- exercises/back/barbell-row.md
+- exercises/back/landmine-row.md
+

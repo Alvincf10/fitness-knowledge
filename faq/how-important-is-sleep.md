@@ -2,25 +2,41 @@
 id: faq_how_important_is_sleep
 title: How Important Is Sleep?
 category: faq
+subcategory: recovery
+description: How important is sleep for muscle growth, strength, and fat loss?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - recovery
-  - beginner
+- recovery
+- beginner
 related:
-  - nutrition/cutting.md
-  - nutrition/alcohol.md
-  - supplements/magnesium.md
-  - science/training-principles/progressive-overload.md
-  - supplements/whey-protein.md
-  - supplements/hmb.md
-  - supplements/fish-oil.md
-  - supplements/casein-protein.md
-  - supplements/carbohydrate.md
-  - supplements/bcaas.md
+- faq/is-it-okay-to-ignore-rear-delts.md
+- exercises/back/assisted-pull-up.md
+- nutrition/cutting.md
+- nutrition/alcohol.md
+- supplements/magnesium.md
+- science/training-principles/progressive-overload.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/fish-oil.md
+- supplements/casein-protein.md
+aliases:
+- how important is sleep
+- hiis
+keywords:
+- how
+- important
+- is
+- sleep
+- recovery
+- beginner
+- hiis
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How Important Is Sleep?
@@ -48,8 +64,10 @@ Sleep-restriction studies show negative effects on performance, cognition, and a
 - During cuts, treat sleep as seriously as macros
 - Do not use late-night alcohol as recovery
 
-## Related
+## Related Articles
 
+- faq/is-it-okay-to-ignore-rear-delts.md
+- exercises/back/assisted-pull-up.md
 - nutrition/cutting.md
 - nutrition/alcohol.md
 - supplements/magnesium.md
@@ -58,5 +76,4 @@ Sleep-restriction studies show negative effects on performance, cognition, and a
 - supplements/hmb.md
 - supplements/fish-oil.md
 - supplements/casein-protein.md
-- supplements/carbohydrate.md
-- supplements/bcaas.md
+

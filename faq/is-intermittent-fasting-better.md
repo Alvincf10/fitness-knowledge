@@ -2,19 +2,41 @@
 id: faq_is_intermittent_fasting_better
 title: Is Intermittent Fasting Better?
 category: faq
+subcategory: nutrition
+description: Is intermittent fasting better than a normal meal schedule for fat loss or muscle?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - fat-loss
+- nutrition
+- fat-loss
 related:
-  - nutrition/intermittent-fasting.md
-  - nutrition/calorie-deficit.md
-  - nutrition/meal-timing.md
-  - faq/how-fast-can-i-lose-fat.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/intermittent-fasting.md
+- nutrition/calorie-deficit.md
+- nutrition/meal-timing.md
+- faq/how-fast-can-i-lose-fat.md
+- faq/are-low-carb-diets-better-for-losing-fat.md
+- faq/is-intermittent-fasting-bad-for-muscle-gain.md
+- faq/is-a-500-calorie-deficit-a-good-starting-point.md
+aliases:
+- is intermittent fasting better
+- iifb
+keywords:
+- is
+- intermittent
+- fasting
+- better
+- nutrition
+- fat-loss
+- iifb
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is Intermittent Fasting Better?
@@ -42,9 +64,16 @@ RCTs generally show similar weight loss for IF versus continuous restriction at 
 - Place workouts where you can fuel them
 - Switch back to regular meals if strength or protein intake suffers
 
-## Related
+## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/intermittent-fasting.md
 - nutrition/calorie-deficit.md
 - nutrition/meal-timing.md
 - faq/how-fast-can-i-lose-fat.md
+- faq/are-low-carb-diets-better-for-losing-fat.md
+- faq/is-intermittent-fasting-bad-for-muscle-gain.md
+- faq/is-a-500-calorie-deficit-a-good-starting-point.md
+

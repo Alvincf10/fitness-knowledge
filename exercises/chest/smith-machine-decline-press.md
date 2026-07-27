@@ -2,46 +2,63 @@
 id: exercise_smith_machine_decline_press
 title: Smith Machine Decline Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - smith-machine
-  - bench
+subcategory: chest
+description: The Smith machine decline press combines a declined torso with a rails-guided bar path, often emphasizing sternal pectoralis fibers while providing safeties for guided overload.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - smith decline bench
-  - smith decline press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - intermediate
-  - hypertrophy
+- compound
+- machine
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/machine-chest-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- smith decline bench
+- smith decline press
+- smdp
+keywords:
+- smith
+- machine
+- decline
+- press
+- compound
+- intermediate
+- hypertrophy
+- bench
+- smdp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- smith-machine
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/smith-machine-incline-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - exercises/chest/decline-dumbbell-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/machine-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Smith Machine Decline Press
@@ -161,7 +178,7 @@ Optional compound when setup is safe.
 
 Avoid if decline position causes dizziness or shoulder pain. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/smith-machine-incline-press.md
 - exercises/chest/smith-machine-bench-press.md
@@ -173,6 +190,7 @@ Avoid if decline position causes dizziness or shoulder pain. This is training gu
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

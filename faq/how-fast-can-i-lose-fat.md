@@ -2,25 +2,42 @@
 id: faq_how_fast_can_i_lose_fat
 title: How Fast Can I Lose Fat?
 category: faq
+subcategory: fat-loss
+description: How quickly can I lose fat without wrecking muscle and adherence?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - fat-loss
-  - nutrition
+- fat-loss
+- nutrition
 related:
-  - nutrition/cutting.md
-  - nutrition/calorie-deficit.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - faq/is-spot-reduction-possible.md
-  - faq/can-i-build-muscle-in-a-deficit.md
-  - exercises/chest/deficit-push-up.md
-  - nutrition/protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/energy-balance.md
-  - nutrition/body-recomposition.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- nutrition/refeeds-and-diet-breaks.md
+- faq/is-spot-reduction-possible.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- exercises/chest/deficit-push-up.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+aliases:
+- how fast can i lose fat
+- hfcilf
+keywords:
+- how
+- fast
+- can
+- lose
+- fat
+- fat-loss
+- nutrition
+- hfcilf
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How Fast Can I Lose Fat?
@@ -48,8 +65,10 @@ Physique-athlete and obesity-management literature favor moderate rates for lean
 - Slow down when already lean
 - Expect non-linear weekly scale changes
 
-## Related
+## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
 - nutrition/cutting.md
 - nutrition/calorie-deficit.md
 - nutrition/refeeds-and-diet-breaks.md
@@ -58,5 +77,4 @@ Physique-athlete and obesity-management literature favor moderate rates for lean
 - exercises/chest/deficit-push-up.md
 - nutrition/protein.md
 - nutrition/intermittent-fasting.md
-- nutrition/energy-balance.md
-- nutrition/body-recomposition.md
+

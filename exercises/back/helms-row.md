@@ -2,47 +2,68 @@
 id: exercise_helms_row
 title: Helms Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: back
+description: The Helms row is an elbow-flared, upper-back-biased dumbbell row typically performed chest-supported on an incline bench, emphasizing scapular retraction and rear-delt/upper-back stimulus with a stretch at the bottom.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - incline elbow-flared row
-  - upper-back DB row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/seal-row.md
+- exercises/back/renegade-row.md
+- exercises/back/kroc-row.md
+- exercises/back/gorilla-row.md
+- exercises/back/dumbbell-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- incline elbow-flared row
+- upper-back db row
+- hr
+keywords:
+- helms
+- row
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+- incline
+- elbow
+- flared
+- upper
+- back
+- db
+- hr
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/seal-row.md
-  - exercises/back/renegade-row.md
-  - exercises/back/kroc-row.md
-  - exercises/back/gorilla-row.md
-  - exercises/back/dumbbell-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Helms Row
@@ -163,7 +184,7 @@ Accessory volume tool.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/seal-row.md
 - exercises/back/renegade-row.md
@@ -175,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

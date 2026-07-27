@@ -2,47 +2,67 @@
 id: exercise_landmine_press
 title: Landmine Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-  - triceps
-  - abs
-equipment:
-  - barbell
+subcategory: chest
+description: The landmine press uses a barbell anchored in a landmine attachment, creating an angled pressing path that is often shoulder-friendly. It trains the pectoralis major and anterior deltoids with high stability demands in standing or half-kneeling setups.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - angled barbell press
-  - single-arm landmine press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - beginner
-  - hypertrophy
-  - strength
+- compound
+- free-weight
+- beginner
+- hypertrophy
+- strength
+related:
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/floor-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- angled barbell press
+- single-arm landmine press
+- lp
+keywords:
+- landmine
+- press
+- compound
+- free-weight
+- beginner
+- hypertrophy
+- strength
+- angled
+- barbell
+- single
+- arm
+- lp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+- triceps
+- abs
+equipment:
+- barbell
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/resistance-band-chest-press.md
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/floor-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Landmine Press
@@ -164,7 +184,7 @@ Efficient compound when time-limited.
 
 Avoid if pressing arc provokes shoulder pain; modify stance or choose machine press. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/single-arm-dumbbell-bench-press.md
 - exercises/chest/resistance-band-chest-press.md
@@ -176,6 +196,7 @@ Avoid if pressing arc provokes shoulder pain; modify stance or choose machine pr
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

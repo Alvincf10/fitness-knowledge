@@ -3,29 +3,41 @@ id: science_training_frequency
 title: Training Frequency
 category: science
 subcategory: training-principles
-goal:
-  - hypertrophy
-  - strength
+description: Training frequency is how often a muscle group or lift is trained across a week (for example, chest twice weekly). It is distinct from session count for the whole body, though the two often move together.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - training
-  - evidence
-  - programming
+- training
+- evidence
+- programming
+related:
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-often-should-i-train.md
+- faq/can-i-train-every-day.md
+- faq/how-many-sets-per-week.md
+- faq/how-important-is-sleep.md
+- exercises/chest/push-up.md
+- exercises/back/pull-up.md
+- exercises/legs/back-squat.md
+aliases:
+- tf
+keywords:
+- training
+- frequency
+- evidence
+- programming
+- tf
+- science
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-often-should-i-train.md
-  - faq/can-i-train-every-day.md
-  - faq/how-many-sets-per-week.md
-  - faq/how-important-is-sleep.md
-  - exercises/chest/push-up.md
-  - exercises/back/pull-up.md
-  - exercises/legs/back-squat.md
 ---
 
 # Training Frequency
@@ -77,7 +89,7 @@ When weekly volume is equated, meta-analyses generally find similar hypertrophy 
 - Grgic J (2018)
 - Ralston GW (2018)
 
-## Related
+## Related Articles
 
 - science/training-principles/training-volume.md
 - science/training-principles/progressive-overload.md
@@ -89,3 +101,4 @@ When weekly volume is equated, meta-analyses generally find similar hypertrophy 
 - exercises/chest/push-up.md
 - exercises/back/pull-up.md
 - exercises/legs/back-squat.md
+

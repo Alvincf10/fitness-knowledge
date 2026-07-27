@@ -2,28 +2,39 @@
 id: supplement_vitamin_d
 title: Vitamin D
 category: supplement
-goals:
-  - health
+subcategory: general
+description: Vitamin D is a fat-soluble nutrient involved in bone health, immune function, and musculoskeletal physiology. Supplementation is most justified when status is low due to limited sun exposure, diet, or other risk factors—not as a universal performance enhancer.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - vitamin
-  - evidence
+- supplement
+- vitamin
+- evidence
+related:
+- nutrition/micronutrients.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/whey-protein.md
+- supplements/sodium-bicarbonate.md
+- supplements/hmb.md
+- supplements/electrolytes.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/citrulline.md
+aliases:
+- vd
+keywords:
+- vitamin
+- supplement
+- evidence
+- vd
+goals:
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/micronutrients.md
-  - supplements/magnesium.md
-  - supplements/fish-oil.md
-  - supplements/whey-protein.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/hmb.md
-  - supplements/electrolytes.md
-  - supplements/dietary-nitrate.md
-  - supplements/creatine.md
-  - supplements/citrulline.md
 ---
 
 # Vitamin D
@@ -80,7 +91,7 @@ Evidence is strong that correcting deficiency matters for health. Meta-analyses 
 - ACSM Position Stand (2022)
 - Holick MF (2011)
 
-## Related
+## Related Articles
 
 - nutrition/micronutrients.md
 - supplements/magnesium.md
@@ -92,3 +103,4 @@ Evidence is strong that correcting deficiency matters for health. Meta-analyses 
 - supplements/dietary-nitrate.md
 - supplements/creatine.md
 - supplements/citrulline.md
+

@@ -2,47 +2,66 @@
 id: exercise_incline_push_up
 title: Incline Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
-  - bench
+subcategory: chest
+description: The incline push-up elevates the hands to reduce load versus a floor push-up, serving as a primary regression and a joint-friendly horizontal press for beginners or high-rep accessory work.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - hands-elevated push-up
-  - elevated push-up
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - hypertrophy
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+related:
+- exercises/chest/wide-push-up.md
+- exercises/chest/wall-push-up.md
+- exercises/chest/push-up.md
+- exercises/chest/knee-push-up.md
+- exercises/chest/weighted-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- hands-elevated push-up
+- elevated push-up
+- incline push up
+- ipu
+keywords:
+- incline
+- push
+- up
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- hands
+- elevated
+- ipu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/wide-push-up.md
-  - exercises/chest/wall-push-up.md
-  - exercises/chest/push-up.md
-  - exercises/chest/knee-push-up.md
-  - exercises/chest/weighted-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Incline Push-Up
@@ -162,7 +181,7 @@ Accessible compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/wide-push-up.md
 - exercises/chest/wall-push-up.md
@@ -174,6 +193,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

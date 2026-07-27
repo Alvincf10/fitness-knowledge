@@ -2,46 +2,65 @@
 id: exercise_dumbbell_pullover
 title: Dumbbell Pullover
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - chest
-  - triceps
-  - abs
-equipment:
-  - dumbbell
-  - bench
+subcategory: back
+description: The dumbbell pullover is performed lying across or along a bench while moving a dumbbell through a large shoulder-extension arc. It loads the latissimus dorsi (and can involve the chest depending on technique), providing a stretch-biased upper-body accessory.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - DB pullover
-  - bench pullover
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - free-weight
-  - intermediate
-  - hypertrophy
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/back/machine-pullover.md
+- exercises/back/dumbbell-row.md
+- exercises/back/cable-pullover.md
+- exercises/back/renegade-row.md
+- exercises/back/kroc-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/gorilla-row.md
+- exercises/back/helms-row.md
+aliases:
+- db pullover
+- bench pullover
+- dp
+- pullover
+keywords:
+- dumbbell
+- pullover
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+- db
+- bench
+- dp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- chest
+- triceps
+- abs
+equipment:
+- dumbbell
+- bench
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/machine-pullover.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/cable-pullover.md
-  - exercises/back/renegade-row.md
-  - exercises/back/kroc-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/gorilla-row.md
 ---
 
 # Dumbbell Pullover
@@ -164,7 +183,7 @@ Optional accessory.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Avoid aggressive end ranges with shoulder irritation.
 
-## Related
+## Related Articles
 
 - exercises/back/machine-pullover.md
 - exercises/back/dumbbell-row.md
@@ -175,6 +194,8 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/gorilla-row.md
+- exercises/back/helms-row.md
+
 
 ## References
 

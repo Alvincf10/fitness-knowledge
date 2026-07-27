@@ -2,19 +2,45 @@
 id: faq_do_i_need_a_spotter_for_the_plate_loaded_row
 title: Do I need a spotter for the Plate-Loaded Row?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Plate-Loaded Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/plate-loaded-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/plate-loaded-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-row.md
+- faq/do-i-need-a-spotter-for-the-chest-supported-row.md
+- faq/do-i-need-a-spotter-for-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+aliases:
+- do i need a spotter for the plate loaded row
+- do i need a spotter for the plateloaded row
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- plate
+- loaded
+- row
+- technique
+- back
+- exercise
+- plateloaded
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Plate-Loaded Row?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/plate-loaded-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-row.md
+- faq/do-i-need-a-spotter-for-the-chest-supported-row.md
+- faq/do-i-need-a-spotter-for-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+

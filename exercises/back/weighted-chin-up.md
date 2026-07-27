@@ -2,48 +2,69 @@
 id: exercise_weighted_chin_up
 title: Weighted Chin-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The weighted chin-up adds external load to the supinated-grip chin-up, allowing continued overload of the lats and elbow flexors after bodyweight chin-ups no longer provide sufficient stimulus.
 difficulty: advanced
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - loaded chin-up
-  - weighted underhand pull-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - advanced
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/weighted-pull-up.md
+- exercises/back/chin-up.md
+- exercises/back/weighted-inverted-row.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- loaded chin-up
+- weighted underhand pull-up
+- weighted chin up
+- wcu
+keywords:
+- weighted
+- chin
+- up
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+- pull
+- loaded
+- underhand
+- wcu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/chin-up.md
-  - exercises/back/weighted-inverted-row.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Weighted Chin-Up
@@ -165,7 +186,7 @@ Optional if elbows tolerate loading.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Monitor elbow flexor tendons closely.
 
-## Related
+## Related Articles
 
 - exercises/back/weighted-pull-up.md
 - exercises/back/chin-up.md
@@ -177,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

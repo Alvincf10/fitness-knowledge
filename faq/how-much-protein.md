@@ -2,24 +2,40 @@
 id: faq_how_much_protein
 title: How Much Protein?
 category: faq
+subcategory: nutrition
+description: How much protein should I eat to build muscle?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - hypertrophy
+- nutrition
+- hypertrophy
 related:
-  - nutrition/protein.md
-  - faq/is-more-protein-always-better.md
-  - supplements/whey-protein.md
-  - nutrition/plant-based-protein.md
-  - supplements/casein-protein.md
-  - nutrition/meal-timing.md
-  - faq/do-i-need-whey-protein.md
-  - nutrition/body-recomposition.md
-  - supplements/bcaas.md
+- science/training-principles/progressive-overload.md
+- exercises/legs/back-squat.md
+- nutrition/protein.md
+- faq/is-more-protein-always-better.md
+- supplements/whey-protein.md
+- nutrition/plant-based-protein.md
+- supplements/casein-protein.md
+- nutrition/meal-timing.md
+- faq/do-i-need-whey-protein.md
+- nutrition/body-recomposition.md
+aliases:
+- how much protein
+- hmp
+keywords:
+- how
+- much
+- protein
+- nutrition
+- hypertrophy
+- hmp
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How Much Protein?
@@ -47,8 +63,10 @@ Morton et al. and ISSN position stands support elevated protein for exercising p
 - Raise intake toward the high end while cutting
 - Choose whey, dairy, meat, eggs, soy, or mixed plant sources that you will actually eat
 
-## Related
+## Related Articles
 
+- science/training-principles/progressive-overload.md
+- exercises/legs/back-squat.md
 - nutrition/protein.md
 - faq/is-more-protein-always-better.md
 - supplements/whey-protein.md
@@ -57,4 +75,4 @@ Morton et al. and ISSN position stands support elevated protein for exercising p
 - nutrition/meal-timing.md
 - faq/do-i-need-whey-protein.md
 - nutrition/body-recomposition.md
-- supplements/bcaas.md
+

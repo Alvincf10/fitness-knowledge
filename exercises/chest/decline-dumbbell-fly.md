@@ -2,43 +2,62 @@
 id: exercise_decline_dumbbell_fly
 title: Decline Dumbbell Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The decline dumbbell fly performs the fly pattern on a declined bench, often increasing relative lower-chest stretch and sternal pectoralis emphasis as an isolation accessory.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - decline DB fly
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - free-weight
-  - intermediate
-  - hypertrophy
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/incline-dumbbell-fly.md
+- exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/incline-dumbbell-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+aliases:
+- decline db fly
+- ddf
+- decline fly
+keywords:
+- decline
+- dumbbell
+- fly
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+- db
+- ddf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/chest/incline-dumbbell-fly.md
-  - exercises/chest/dumbbell-fly.md
-  - exercises/chest/decline-dumbbell-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/dumbbell-bench-press.md
 ---
 
 # Decline Dumbbell Fly
@@ -156,7 +175,7 @@ Optional accessory.
 
 Higher stretch stress; avoid with anterior shoulder irritation. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/incline-dumbbell-fly.md
 - exercises/chest/dumbbell-fly.md
@@ -167,6 +186,8 @@ Higher stretch stress; avoid with anterior shoulder irritation. This is training
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/dumbbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+
 
 ## References
 

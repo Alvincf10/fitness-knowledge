@@ -2,19 +2,43 @@
 id: faq_do_i_need_a_spotter_for_the_resistance_band_chest_press
 title: Do I need a spotter for the Resistance Band Chest Press?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Resistance Band Chest Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/resistance-band-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/resistance-band-chest-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-cable-chest-press.md
+- faq/do-i-need-a-spotter-for-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+aliases:
+- do i need a spotter for the resistance band chest press
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- resistance
+- band
+- chest
+- press
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Resistance Band Chest Press?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/resistance-band-chest-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-cable-chest-press.md
+- faq/do-i-need-a-spotter-for-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+

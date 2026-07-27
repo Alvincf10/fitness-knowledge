@@ -2,45 +2,62 @@
 id: exercise_pec_deck
 title: Pec Deck
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - machine
+subcategory: chest
+description: The pec deck (machine fly) isolates the pectoralis major on a fixed arc with back support. Reduced cheating via torso momentum makes it accessible for controlled hypertrophy work.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - pec deck fly
-  - machine fly
-  - butterfly machine
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - machine
-  - beginner
-  - hypertrophy
+- isolation
+- machine
+- beginner
+- hypertrophy
+related:
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/svend-press.md
+- exercises/chest/seated-cable-fly.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- exercises/chest/wide-push-up.md
+aliases:
+- pec deck fly
+- machine fly
+- butterfly machine
+- pd
+keywords:
+- pec
+- deck
+- isolation
+- machine
+- beginner
+- hypertrophy
+- fly
+- butterfly
+- pd
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- machine
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/svend-press.md
-  - exercises/chest/seated-cable-fly.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - exercises/chest/wide-push-up.md
 ---
 
 # Pec Deck
@@ -159,7 +176,7 @@ Optional accessory after presses.
 
 Stop deep stretch if it causes sharp shoulder pain; adjust seat or choose cables. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/plate-loaded-chest-press.md
 - exercises/chest/machine-chest-press.md
@@ -171,6 +188,7 @@ Stop deep stretch if it causes sharp shoulder pain; adjust seat or choose cables
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - exercises/chest/wide-push-up.md
+
 
 ## References
 

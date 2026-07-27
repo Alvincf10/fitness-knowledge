@@ -2,28 +2,41 @@
 id: nutrition_calorie_deficit
 title: Calorie Deficit
 category: nutrition
-goals:
-  - fat-loss
+subcategory: nutrition
+description: A calorie deficit occurs when average energy intake is below average energy expenditure. It is the required condition for net fat loss, regardless of diet style.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - energy-balance
-  - evidence
+- nutrition
+- energy-balance
+- evidence
+related:
+- nutrition/cutting.md
+- nutrition/energy-balance.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/protein.md
+- nutrition/calorie-surplus.md
+- nutrition/maintenance.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/intermittent-fasting.md
+- nutrition/body-recomposition.md
+aliases:
+- cd
+keywords:
+- calorie
+- deficit
+- nutrition
+- energy-balance
+- evidence
+- cd
+goals:
+- fat-loss
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/cutting.md
-  - nutrition/energy-balance.md
-  - faq/can-i-build-muscle-in-a-deficit.md
-  - faq/how-fast-can-i-lose-fat.md
-  - nutrition/protein.md
-  - nutrition/calorie-surplus.md
-  - nutrition/maintenance.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/body-recomposition.md
 ---
 
 # Calorie Deficit
@@ -82,7 +95,7 @@ Obesity and sports-nutrition literature agree that fat loss requires negative en
 - Thomas DT (2016)
 - ISSN Position Stand
 
-## Related
+## Related Articles
 
 - nutrition/cutting.md
 - nutrition/energy-balance.md
@@ -94,3 +107,4 @@ Obesity and sports-nutrition literature agree that fat loss requires negative en
 - nutrition/refeeds-and-diet-breaks.md
 - nutrition/intermittent-fasting.md
 - nutrition/body-recomposition.md
+

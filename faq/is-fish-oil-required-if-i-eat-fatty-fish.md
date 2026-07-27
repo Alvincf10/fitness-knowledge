@@ -2,21 +2,42 @@
 id: faq_is_fish_oil_required_if_i_eat_fatty_fish
 title: Is fish oil required if I eat fatty fish?
 category: faq
+subcategory: supplements
+description: Is fish oil required if I eat fatty fish?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplements
-  - fat
+- supplements
+- fat
 related:
-  - supplements/fish-oil.md
-  - nutrition/fat.md
-  - faq/do-i-need-supplements.md
-  - supplements/creatine.md
-  - nutrition/protein.md
-  - faq/do-i-need-creatine.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/fish-oil.md
+- nutrition/fat.md
+- faq/do-i-need-supplements.md
+- supplements/creatine.md
+- nutrition/protein.md
+- faq/do-i-need-creatine.md
+- faq/what-happens-if-i-stop-taking-fish-oil.md
+aliases:
+- is fish oil required if i eat fatty fish
+keywords:
+- is
+- fish
+- oil
+- required
+- if
+- eat
+- fatty
+- supplements
+- fat
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is fish oil required if I eat fatty fish?
@@ -39,9 +60,14 @@ ISSN sports-supplement position stands and systematic reviews for the specific i
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/fish-oil.md
 - nutrition/fat.md
 - faq/do-i-need-supplements.md
 - supplements/creatine.md
 - nutrition/protein.md
 - faq/do-i-need-creatine.md
+- faq/what-happens-if-i-stop-taking-fish-oil.md
+

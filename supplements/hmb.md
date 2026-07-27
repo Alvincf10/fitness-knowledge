@@ -2,28 +2,37 @@
 id: supplement_hmb
 title: HMB
 category: supplement
-goals:
-  - recovery
-  - hypertrophy
+subcategory: general
+description: β-Hydroxy β-methylbutyrate (HMB) is a leucine metabolite studied for reducing muscle protein breakdown and supporting recovery, especially in untrained people starting hard training or in catabolic contexts. Effects in well-trained lifters on optimal diets are often modest.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
+- supplement
+- evidence
+related:
+- nutrition/protein.md
+- supplements/creatine.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- supplements/whey-protein.md
+- supplements/casein-protein.md
+- supplements/bcaas.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/carbohydrate.md
+- supplements/vitamin-d.md
+aliases: []
+keywords:
+- hmb
+- supplement
+- evidence
+goals:
+- recovery
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/protein.md
-  - supplements/creatine.md
-  - faq/can-i-build-muscle-in-a-deficit.md
-  - supplements/whey-protein.md
-  - supplements/casein-protein.md
-  - supplements/bcaas.md
-  - supplements/magnesium.md
-  - supplements/fish-oil.md
-  - supplements/carbohydrate.md
-  - supplements/vitamin-d.md
 ---
 
 # HMB
@@ -79,7 +88,7 @@ Reviews show mixed results: clearer potential in untrained or catabolic settings
 - Rowlands DS (2009)
 - Holland BM (2022)
 
-## Related
+## Related Articles
 
 - nutrition/protein.md
 - supplements/creatine.md
@@ -91,3 +100,4 @@ Reviews show mixed results: clearer potential in untrained or catabolic settings
 - supplements/fish-oil.md
 - supplements/carbohydrate.md
 - supplements/vitamin-d.md
+

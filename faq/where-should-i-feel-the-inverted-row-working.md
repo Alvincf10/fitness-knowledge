@@ -2,19 +2,42 @@
 id: faq_where_should_i_feel_the_inverted_row_working
 title: Where should I feel the Inverted Row working?
 category: faq
+subcategory: technique
+description: Where should I feel the Inverted Row working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/inverted-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-feet-elevated-inverted-row-working.md
+- faq/where-should-i-feel-the-weighted-inverted-row-working.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/weighted-inverted-row.md
+aliases:
+- where should i feel the inverted row working
+keywords:
+- where
+- should
+- feel
+- the
+- inverted
+- row
+- working
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Inverted Row working?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/inverted-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-feet-elevated-inverted-row-working.md
+- faq/where-should-i-feel-the-weighted-inverted-row-working.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/weighted-inverted-row.md
+

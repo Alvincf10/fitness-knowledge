@@ -2,19 +2,49 @@
 id: faq_what_grip_width_should_i_use_for_the_pause_barbell_bench_press
 title: What grip width should I use for the Pause Barbell Bench Press?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Pause Barbell Bench Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/pause-barbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-incline-barbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- exercises/chest/barbell-bench-press.md
+aliases:
+- what grip width should i use for the pause barbell bench press
+- what grip width should i use for the pause bench press?
+- what grip width should i use for the pause bb bench press?
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- pause
+- barbell
+- bench
+- press
+- technique
+- chest
+- exercise
+- bb
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Pause Barbell Bench Press?
@@ -40,3 +70,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/pause-barbell-bench-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-incline-barbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- exercises/chest/barbell-bench-press.md
+

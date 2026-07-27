@@ -2,18 +2,42 @@
 id: faq_is_stretching_required_before_lifting
 title: Is Stretching Required Before Lifting?
 category: faq
+subcategory: beginner
+description: Do I have to static stretch before lifting weights?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - beginner
-  - programming
+- beginner
+- programming
 related:
-  - exercises/legs/back-squat.md
-  - exercises/chest/barbell-bench-press.md
-  - science/training-principles/progressive-overload.md
+- exercises/legs/back-squat.md
+- exercises/chest/barbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/best-time-to-workout.md
+- faq/can-stretching-prevent-lifting-injuries.md
+- faq/does-muscle-turn-to-fat-if-i-stop-lifting.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+- science/training-principles/reps-in-reserve.md
+aliases:
+- is stretching required before lifting
+- isrbl
+keywords:
+- is
+- stretching
+- required
+- before
+- lifting
+- beginner
+- programming
+- isrbl
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is Stretching Required Before Lifting?
@@ -41,8 +65,16 @@ Warm-up and stretching reviews support activity-specific preparation; prolonged 
 - Stretch after lifting if mobility is a goal
 - Address painful limitations with appropriate professional care when needed
 
-## Related
+## Related Articles
 
 - exercises/legs/back-squat.md
 - exercises/chest/barbell-bench-press.md
 - science/training-principles/progressive-overload.md
+- faq/best-time-to-workout.md
+- faq/can-stretching-prevent-lifting-injuries.md
+- faq/does-muscle-turn-to-fat-if-i-stop-lifting.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+- science/training-principles/reps-in-reserve.md
+

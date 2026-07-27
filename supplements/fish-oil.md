@@ -2,29 +2,42 @@
 id: supplement_fish_oil
 title: Fish Oil
 category: supplement
-goals:
-  - health
-  - recovery
+subcategory: general
+description: Fish oil provides the long-chain omega-3 fatty acids EPA and DHA. In fitness contexts it is used mainly for general health and possible recovery/inflammation support, not as a primary hypertrophy supplement.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - omega-3
-  - evidence
+- supplement
+- omega-3
+- evidence
+related:
+- nutrition/fat.md
+- nutrition/micronutrients.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md
+- supplements/bcaas.md
+- supplements/sodium-bicarbonate.md
+aliases:
+- fo
+keywords:
+- fish
+- oil
+- supplement
+- omega-3
+- evidence
+- fo
+goals:
+- health
+- recovery
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/fat.md
-  - nutrition/micronutrients.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
-  - supplements/whey-protein.md
-  - supplements/hmb.md
-  - supplements/casein-protein.md
-  - supplements/carbohydrate.md
-  - supplements/bcaas.md
-  - supplements/sodium-bicarbonate.md
 ---
 
 # Fish Oil
@@ -81,7 +94,7 @@ Omega-3 research is extensive for general health. Sports-performance and hypertr
 - Calder PC (2017)
 - ACSM Position Stand (2022)
 
-## Related
+## Related Articles
 
 - nutrition/fat.md
 - nutrition/micronutrients.md
@@ -93,3 +106,4 @@ Omega-3 research is extensive for general health. Sports-performance and hypertr
 - supplements/carbohydrate.md
 - supplements/bcaas.md
 - supplements/sodium-bicarbonate.md
+

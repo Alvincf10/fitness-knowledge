@@ -2,47 +2,67 @@
 id: exercise_chest_dip
 title: Chest Dip
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - bodyweight
+subcategory: chest
+description: The chest dip is a parallel-bar press performed with a slight forward torso lean to bias the pectoralis major relative to a more upright triceps-dominant dip. It is a high-tension compound movement for intermediate+ trainees when shoulder comfort allows.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - parallel bar dip
-  - forward-lean dip
-  - pec dip
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/weighted-push-up.md
+- exercises/chest/feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/cable-chest-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- parallel bar dip
+- forward-lean dip
+- pec dip
+- cd
+keywords:
+- chest
+- dip
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- parallel
+- bar
+- forward
+- lean
+- pec
+- cd
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/weighted-push-up.md
-  - exercises/chest/feet-elevated-push-up.md
-  - exercises/chest/close-grip-push-up.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/cable-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Chest Dip
@@ -166,7 +186,7 @@ Keep if recovered; otherwise substitute machine press.
 
 Often poorly tolerated with anterior shoulder irritation, AC joint pain, or inadequate scapular control. Reduce depth or choose another press. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/weighted-push-up.md
 - exercises/chest/feet-elevated-push-up.md
@@ -178,6 +198,7 @@ Often poorly tolerated with anterior shoulder irritation, AC joint pain, or inad
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

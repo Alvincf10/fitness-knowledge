@@ -1,76 +1,197 @@
 {
-  "version": "1.0",
-  "updated": "2026-07-27",
-  "description": "Catalog of science articles.",
-  "target_count": 120,
-  "published_count": 5,
-  "science": [
+  "generated": "2026-07-27",
+  "count": 5,
+  "items": [
     {
       "id": "science_failure_training",
       "title": "Failure Training",
-      "slug": "failure-training",
-      "path": "science/training-principles/failure-training.md",
+      "category": "science",
+      "subcategory": "training-principles",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
       "tags": [
         "training",
         "evidence",
         "programming"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "faq/should-i-train-to-failure.md",
+        "faq/what-is-rir.md",
+        "science/training-principles/reps-in-reserve.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/progressive-overload.md",
+        "faq/how-many-sets-per-week.md",
+        "exercises/chest/push-up.md",
+        "exercises/back/lat-pulldown.md",
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/legs/leg-press.md"
+      ],
+      "aliases": [
+        "ft"
+      ],
+      "keywords": [
+        "failure",
+        "training",
+        "evidence",
+        "programming",
+        "ft",
+        "science"
+      ],
+      "path": "science/training-principles/failure-training.md"
     },
     {
       "id": "science_progressive_overload",
       "title": "Progressive Overload",
-      "slug": "progressive-overload",
-      "path": "science/training-principles/progressive-overload.md",
+      "category": "science",
+      "subcategory": "training-principles",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
       "tags": [
         "training",
         "evidence",
         "programming"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "science/training-principles/training-volume.md",
+        "science/training-principles/training-frequency.md",
+        "science/training-principles/reps-in-reserve.md",
+        "science/training-principles/failure-training.md",
+        "faq/how-many-sets-per-week.md",
+        "faq/how-often-should-i-train.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/legs/back-squat.md",
+        "exercises/back/pull-up.md"
+      ],
+      "aliases": [
+        "po"
+      ],
+      "keywords": [
+        "progressive",
+        "overload",
+        "training",
+        "evidence",
+        "programming",
+        "po",
+        "science"
+      ],
+      "path": "science/training-principles/progressive-overload.md"
     },
     {
       "id": "science_reps_in_reserve",
       "title": "Reps in Reserve",
-      "slug": "reps-in-reserve",
-      "path": "science/training-principles/reps-in-reserve.md",
+      "category": "science",
+      "subcategory": "training-principles",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
       "tags": [
         "training",
         "evidence",
         "programming",
         "rir"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "faq/what-is-rir.md",
+        "faq/should-i-train-to-failure.md",
+        "science/training-principles/failure-training.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-frequency.md",
+        "faq/how-many-sets-per-week.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/back/barbell-row.md",
+        "exercises/legs/back-squat.md"
+      ],
+      "aliases": [
+        "rir"
+      ],
+      "keywords": [
+        "reps",
+        "in",
+        "reserve",
+        "training",
+        "evidence",
+        "programming",
+        "rir",
+        "science"
+      ],
+      "path": "science/training-principles/reps-in-reserve.md"
     },
     {
       "id": "science_training_frequency",
       "title": "Training Frequency",
-      "slug": "training-frequency",
-      "path": "science/training-principles/training-frequency.md",
+      "category": "science",
+      "subcategory": "training-principles",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
       "tags": [
         "training",
         "evidence",
         "programming"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "science/training-principles/training-volume.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-often-should-i-train.md",
+        "faq/can-i-train-every-day.md",
+        "faq/how-many-sets-per-week.md",
+        "faq/how-important-is-sleep.md",
+        "exercises/chest/push-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/legs/back-squat.md"
+      ],
+      "aliases": [
+        "tf"
+      ],
+      "keywords": [
+        "training",
+        "frequency",
+        "evidence",
+        "programming",
+        "tf",
+        "science"
+      ],
+      "path": "science/training-principles/training-frequency.md"
     },
     {
       "id": "science_training_volume",
       "title": "Training Volume",
-      "slug": "training-volume",
-      "path": "science/training-principles/training-volume.md",
+      "category": "science",
+      "subcategory": "training-principles",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
       "tags": [
         "training",
         "evidence",
         "programming",
         "hypertrophy"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/reps-in-reserve.md",
+        "science/training-principles/training-frequency.md",
+        "science/training-principles/failure-training.md",
+        "faq/how-many-sets-per-week.md",
+        "faq/what-is-rir.md",
+        "faq/should-i-train-to-failure.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/back/seated-cable-row.md",
+        "exercises/legs/back-squat.md"
+      ],
+      "aliases": [
+        "tv"
+      ],
+      "keywords": [
+        "training",
+        "volume",
+        "evidence",
+        "programming",
+        "hypertrophy",
+        "tv",
+        "science"
+      ],
+      "path": "science/training-principles/training-volume.md"
     }
   ]
 }

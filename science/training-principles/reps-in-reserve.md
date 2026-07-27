@@ -3,30 +3,44 @@ id: science_reps_in_reserve
 title: Reps in Reserve
 category: science
 subcategory: training-principles
-goal:
-  - hypertrophy
-  - strength
+description: Reps in reserve (RIR) estimates how many additional clean repetitions could still be completed before concentric muscular failure. For example, 2 RIR means the set stopped about two reps short of failure. RIR is closely related to rating of perceived exertion (RPE) scales used in…
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - training
-  - evidence
-  - programming
-  - rir
+- training
+- evidence
+- programming
+- rir
+related:
+- faq/what-is-rir.md
+- faq/should-i-train-to-failure.md
+- science/training-principles/failure-training.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-frequency.md
+- faq/how-many-sets-per-week.md
+- exercises/chest/barbell-bench-press.md
+- exercises/back/barbell-row.md
+- exercises/legs/back-squat.md
+aliases:
+- rir
+keywords:
+- reps
+- in
+- reserve
+- training
+- evidence
+- programming
+- rir
+- science
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/what-is-rir.md
-  - faq/should-i-train-to-failure.md
-  - science/training-principles/failure-training.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-frequency.md
-  - faq/how-many-sets-per-week.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/back/barbell-row.md
-  - exercises/legs/back-squat.md
 ---
 
 # Reps in Reserve
@@ -78,7 +92,7 @@ Research on RPE/RIR-based loading shows trained lifters can estimate proximity t
 - NSCA Essentials
 - ACSM Position Stand (2009)
 
-## Related
+## Related Articles
 
 - faq/what-is-rir.md
 - faq/should-i-train-to-failure.md
@@ -90,3 +104,4 @@ Research on RPE/RIR-based loading shows trained lifters can estimate proximity t
 - exercises/chest/barbell-bench-press.md
 - exercises/back/barbell-row.md
 - exercises/legs/back-squat.md
+

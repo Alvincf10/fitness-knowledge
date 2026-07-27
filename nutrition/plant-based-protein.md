@@ -2,29 +2,44 @@
 id: nutrition_plant_based_protein
 title: Plant-Based Protein
 category: nutrition
-goals:
-  - hypertrophy
-  - health
+subcategory: nutrition
+description: Plant-based proteins can support hypertrophy and strength when total daily protein is high enough and essential amino acid needs are met through food combinations or fortified products. The limiting factor is usually total intake and leucine/EAA content, not training ethics.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - macronutrient
-  - evidence
+- nutrition
+- macronutrient
+- evidence
+related:
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/whey-protein.md
+- nutrition/meal-timing.md
+- nutrition/fat.md
+- nutrition/carbohydrates.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+aliases:
+- plant based protein
+- pbp
+keywords:
+- plant
+- based
+- protein
+- nutrition
+- macronutrient
+- evidence
+- pbp
+goals:
+- hypertrophy
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/protein.md
-  - faq/how-much-protein.md
-  - supplements/whey-protein.md
-  - nutrition/meal-timing.md
-  - nutrition/fat.md
-  - nutrition/carbohydrates.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
 ---
 
 # Plant-Based Protein
@@ -85,7 +100,7 @@ Trials and reviews show that when protein quantity is matched and training is pr
 - Hevia-Larraín V (2021)
 - ACSM Position Stand (2016)
 
-## Related
+## Related Articles
 
 - nutrition/protein.md
 - faq/how-much-protein.md
@@ -97,3 +112,4 @@ Trials and reviews show that when protein quantity is matched and training is pr
 - nutrition/post-workout-nutrition.md
 - nutrition/micronutrients.md
 - nutrition/hydration.md
+

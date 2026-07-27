@@ -2,29 +2,41 @@
 id: supplement_whey_protein
 title: Whey Protein
 category: supplement
-goals:
-  - hypertrophy
-  - recovery
+subcategory: general
+description: Whey protein is a fast-digesting dairy protein used to help people meet daily protein targets that support muscle repair and hypertrophy. It is a convenience tool, not a magic anabolic compound beyond its amino acid content.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - protein
-  - evidence
+- supplement
+- protein
+- evidence
+related:
+- faq/do-i-need-whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- faq/do-i-need-supplements.md
+- nutrition/post-workout-nutrition.md
+- supplements/bcaas.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+aliases:
+- wp
+keywords:
+- whey
+- protein
+- supplement
+- evidence
+- wp
+goals:
+- hypertrophy
+- recovery
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/do-i-need-whey-protein.md
-  - nutrition/protein.md
-  - faq/how-much-protein.md
-  - supplements/casein-protein.md
-  - faq/do-i-need-supplements.md
-  - nutrition/post-workout-nutrition.md
-  - supplements/bcaas.md
-  - supplements/hmb.md
-  - supplements/magnesium.md
-  - supplements/fish-oil.md
 ---
 
 # Whey Protein
@@ -82,7 +94,7 @@ Meta-analyses show protein supplementation augments strength and fat-free mass g
 - Schoenfeld BJ (2018)
 - ACSM Position Stand (2016)
 
-## Related
+## Related Articles
 
 - faq/do-i-need-whey-protein.md
 - nutrition/protein.md
@@ -94,3 +106,4 @@ Meta-analyses show protein supplementation augments strength and fat-free mass g
 - supplements/hmb.md
 - supplements/magnesium.md
 - supplements/fish-oil.md
+

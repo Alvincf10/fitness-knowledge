@@ -2,19 +2,43 @@
 id: faq_how_deep_should_i_go_on_the_machine_pullover
 title: How deep should I go on the Machine Pullover?
 category: faq
+subcategory: technique
+description: How deep should I go on the Machine Pullover?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/machine-pullover.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/machine-pullover.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-cable-pullover.md
+- faq/how-deep-should-i-go-on-the-dumbbell-pullover.md
+- faq/how-deep-should-i-go-on-the-machine-row.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/cable-pullover.md
+aliases:
+- how deep should i go on the machine pullover
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- machine
+- pullover
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Machine Pullover?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/machine-pullover.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-cable-pullover.md
+- faq/how-deep-should-i-go-on-the-dumbbell-pullover.md
+- faq/how-deep-should-i-go-on-the-machine-row.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/cable-pullover.md
+

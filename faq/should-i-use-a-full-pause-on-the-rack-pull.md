@@ -2,19 +2,43 @@
 id: faq_should_i_use_a_full_pause_on_the_rack_pull
 title: Should I use a full pause on the Rack Pull?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Rack Pull?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/rack-pull.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/rack-pull.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-band-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-face-pull.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- should i use a full pause on the rack pull
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- rack
+- pull
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Rack Pull?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/rack-pull.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-band-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-face-pull.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

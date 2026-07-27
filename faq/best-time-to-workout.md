@@ -2,20 +2,41 @@
 id: faq_best_time_to_workout
 title: Best Time to Workout?
 category: faq
+subcategory: beginner
+description: Is there a best time of day to work out for muscle growth or fat loss?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - beginner
-  - programming
+- beginner
+- programming
 related:
-  - science/training-principles/training-frequency.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/meal-timing.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/intermittent-fasting.md
+- science/training-principles/training-frequency.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/post-workout-nutrition.md
+- nutrition/intermittent-fasting.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- faq/how-often-should-i-train.md
+- faq/is-linear-progression-best-for-beginners.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- best time to workout
+- bttw
+keywords:
+- best
+- time
+- to
+- workout
+- beginner
+- programming
+- bttw
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Best Time to Workout?
@@ -43,10 +64,16 @@ Reviews of time-of-day training find measurable but usually small performance di
 - Avoid late caffeine if evening training harms sleep
 - Match meal timing to your chosen session window
 
-## Related
+## Related Articles
 
 - science/training-principles/training-frequency.md
 - nutrition/pre-workout-nutrition.md
 - nutrition/meal-timing.md
 - nutrition/post-workout-nutrition.md
 - nutrition/intermittent-fasting.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- faq/how-often-should-i-train.md
+- faq/is-linear-progression-best-for-beginners.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

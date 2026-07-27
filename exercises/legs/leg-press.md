@@ -2,43 +2,59 @@
 id: exercise_leg_press
 title: Leg Press
 category: exercise
-muscle_primary:
-  - legs
-muscle_secondary:
-  - glutes
-equipment:
-  - machine
+subcategory: legs
+description: The leg press is a machine-based multi-joint lower-body exercise that loads the quadriceps and glutes with reduced balance and axial spinal loading compared with barbell back squats. It is commonly used for hypertrophy volume, beginners learning pressing patterns, and trainees wh…
 difficulty: beginner
-movement:
-  - squat
-plane:
-  - sagittal
-goal:
-  - hypertrophy
-aliases:
-  - machine leg press
-  - sled leg press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
+- compound
+- machine
+- beginner
+- hypertrophy
+related:
+- exercises/legs/back-squat.md
+- exercises/legs/romanian-deadlift.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- machine leg press
+- sled leg press
+- lp
+keywords:
+- leg
+- press
+- compound
+- machine
+- beginner
+- hypertrophy
+- sled
+- lp
+- legs
+- exercise
+- workout
+muscle_primary:
+- legs
+muscle_secondary:
+- glutes
+equipment:
+- machine
+movement:
+- squat
+plane:
+- sagittal
+goal:
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/legs/back-squat.md
-  - exercises/legs/romanian-deadlift.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Leg Press
@@ -158,7 +174,7 @@ B
 - ACSM Position Stand (2022)
 - NSCA Essentials
 
-## Related
+## Related Articles
 
 - exercises/legs/back-squat.md
 - exercises/legs/romanian-deadlift.md
@@ -170,3 +186,4 @@ B
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+

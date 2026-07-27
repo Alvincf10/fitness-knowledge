@@ -2,20 +2,40 @@
 id: faq_do_squats_ruin_your_knees
 title: Do squats ruin your knees?
 category: faq
+subcategory: injury
+description: Do squats ruin your knees?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - injury
-  - knees
-  - technique
+- injury
+- knees
+- technique
 related:
-  - exercises/legs/back-squat.md
-  - science/training-principles/training-volume.md
-  - faq/how-important-is-sleep.md
-  - science/training-principles/progressive-overload.md
+- exercises/legs/back-squat.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- science/training-principles/progressive-overload.md
+- faq/does-deadlifting-destroy-your-spine.md
+- faq/is-cracking-joints-during-lifting-dangerous.md
+- faq/should-my-knees-go-past-my-toes-when-squatting.md
+aliases:
+- do squats ruin your knees
+- dsryk
+keywords:
+- do
+- squats
+- ruin
+- your
+- knees
+- injury
+- technique
+- dsryk
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do squats ruin your knees?
@@ -42,3 +62,7 @@ Sports-medicine load-management and tendinopathy principles; referral recommende
 - science/training-principles/training-volume.md
 - faq/how-important-is-sleep.md
 - science/training-principles/progressive-overload.md
+- faq/does-deadlifting-destroy-your-spine.md
+- faq/is-cracking-joints-during-lifting-dangerous.md
+- faq/should-my-knees-go-past-my-toes-when-squatting.md
+

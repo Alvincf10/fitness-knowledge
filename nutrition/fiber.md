@@ -2,28 +2,38 @@
 id: nutrition_fiber
 title: Fiber
 category: nutrition
-goals:
-  - health
+subcategory: nutrition
+description: Dietary fiber is the indigestible carbohydrate fraction of plant foods that supports digestive health, satiety, and cardiometabolic risk markers. It is a diet-quality target for lifters, not a direct muscle-building nutrient.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - micronutrient-adjacent
-  - evidence
+- nutrition
+- micronutrient-adjacent
+- evidence
+related:
+- nutrition/carbohydrates.md
+- nutrition/micronutrients.md
+- nutrition/fat.md
+- nutrition/plant-based-protein.md
+- nutrition/hydration.md
+- nutrition/alcohol.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+aliases: []
+keywords:
+- fiber
+- nutrition
+- micronutrient-adjacent
+- evidence
+goals:
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/carbohydrates.md
-  - nutrition/micronutrients.md
-  - nutrition/fat.md
-  - nutrition/plant-based-protein.md
-  - nutrition/hydration.md
-  - nutrition/alcohol.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/protein.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
 ---
 
 # Fiber
@@ -83,7 +93,7 @@ Public-health and clinical nutrition evidence strongly supports fiber for health
 - ISSN Position Stand
 - Slavin JL (2013)
 
-## Related
+## Related Articles
 
 - nutrition/carbohydrates.md
 - nutrition/micronutrients.md
@@ -95,3 +105,4 @@ Public-health and clinical nutrition evidence strongly supports fiber for health
 - nutrition/protein.md
 - nutrition/pre-workout-nutrition.md
 - nutrition/post-workout-nutrition.md
+

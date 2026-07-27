@@ -2,47 +2,66 @@
 id: exercise_reverse_grip_bench_press
 title: Reverse-Grip Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
-  - bench
-  - rack
+subcategory: chest
+description: The reverse-grip bench press uses a supinated grip on the barbell, which can increase upper-chest and triceps emphasis for some lifters. It requires careful setup and lower loads than a pronated bench due to grip security and unfamiliar groove.
 difficulty: advanced
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - supinated bench press
-  - reverse grip bench
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - advanced
-  - hypertrophy
+- compound
+- free-weight
+- advanced
+- hypertrophy
+related:
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- supinated bench press
+- reverse grip bench
+- reverse grip bench press
+- rgbp
+keywords:
+- reverse
+- grip
+- bench
+- press
+- compound
+- free-weight
+- advanced
+- hypertrophy
+- supinated
+- rgbp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+- bench
+- rack
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Reverse-Grip Bench Press
@@ -163,7 +182,7 @@ Prefer safer presses when fatigued.
 
 High technical/grip risk. Avoid with wrist issues or without a spotter. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/pause-barbell-bench-press.md
 - exercises/chest/incline-barbell-bench-press.md
@@ -175,6 +194,7 @@ High technical/grip risk. Avoid with wrist issues or without a spotter. This is 
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

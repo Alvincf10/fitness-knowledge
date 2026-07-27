@@ -2,47 +2,67 @@
 id: exercise_landmine_row
 title: Landmine Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
+subcategory: back
+description: The landmine row uses an angled barbell path for bilateral or unilateral horizontal pulling. The fixed arc can feel stable and shoulder-friendly while loading the lats and mid-back.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - angled barbell row
-  - dual-handle landmine row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/yates-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/meadows-row.md
+- exercises/back/dumbbell-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- angled barbell row
+- dual-handle landmine row
+- lr
+keywords:
+- landmine
+- row
+- compound
+- free-weight
+- beginner
+- hypertrophy
+- pull
+- angled
+- barbell
+- dual
+- handle
+- lr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/yates-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/dumbbell-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Landmine Row
@@ -164,7 +184,7 @@ Good compound when bars/cables are limited.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/yates-row.md
 - exercises/back/t-bar-row.md
@@ -176,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

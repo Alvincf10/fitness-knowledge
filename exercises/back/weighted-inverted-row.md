@@ -2,49 +2,69 @@
 id: exercise_weighted_inverted_row
 title: Weighted Inverted Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The weighted inverted row adds a vest or plate to the bodyweight horizontal pull once unweighted inverted rows no longer provide sufficient overload for hypertrophy or strength goals.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - loaded inverted row
-  - vest inverted row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/inverted-row.md
+- exercises/back/ring-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- loaded inverted row
+- vest inverted row
+- wir
+keywords:
+- weighted
+- inverted
+- row
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- pull
+- loaded
+- vest
+- wir
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/feet-elevated-inverted-row.md
-  - exercises/back/inverted-row.md
-  - exercises/back/ring-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Weighted Inverted Row
@@ -166,7 +186,7 @@ Effective minimal-equipment progression.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/feet-elevated-inverted-row.md
 - exercises/back/inverted-row.md
@@ -178,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

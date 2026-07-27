@@ -2,19 +2,44 @@
 id: faq_what_grip_width_should_i_use_for_the_cable_fly
 title: What grip width should I use for the Cable Fly?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Cable Fly?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/cable-fly.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/cable-fly.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-high-cable-fly.md
+- faq/what-grip-width-should-i-use-for-the-low-cable-fly.md
+- faq/what-grip-width-should-i-use-for-the-seated-cable-fly.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/low-cable-fly.md
+aliases:
+- what grip width should i use for the cable fly
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- cable
+- fly
+- technique
+- chest
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Cable Fly?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/cable-fly.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-high-cable-fly.md
+- faq/what-grip-width-should-i-use-for-the-low-cable-fly.md
+- faq/what-grip-width-should-i-use-for-the-seated-cable-fly.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/low-cable-fly.md
+

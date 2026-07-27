@@ -2,45 +2,63 @@
 id: exercise_decline_dumbbell_press
 title: Decline Dumbbell Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The decline dumbbell press loads the pectoralis major on a declined bench with independent dumbbells, often emphasizing sternal fibers while allowing a natural shoulder path and deep stretch.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - decline DB press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/smith-machine-decline-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- decline db press
+- ddp
+- decline press
+keywords:
+- decline
+- dumbbell
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- db
+- ddp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/dumbbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/smith-machine-decline-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Decline Dumbbell Press
@@ -160,7 +178,7 @@ Optional compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/single-arm-dumbbell-bench-press.md
 - exercises/chest/incline-dumbbell-press.md
@@ -172,6 +190,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

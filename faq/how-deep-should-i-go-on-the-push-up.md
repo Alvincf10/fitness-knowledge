@@ -2,19 +2,45 @@
 id: faq_how_deep_should_i_go_on_the_push_up
 title: How deep should I go on the Push-Up?
 category: faq
+subcategory: technique
+description: How deep should I go on the Push-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/push-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/push-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-close-grip-push-up.md
+- faq/how-deep-should-i-go-on-the-deficit-push-up.md
+- faq/how-deep-should-i-go-on-the-feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/deficit-push-up.md
+aliases:
+- how deep should i go on the push up
+- how deep should i go on the pushup
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- push
+- up
+- technique
+- chest
+- exercise
+- pushup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Push-Up?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/push-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-close-grip-push-up.md
+- faq/how-deep-should-i-go-on-the-deficit-push-up.md
+- faq/how-deep-should-i-go-on-the-feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/deficit-push-up.md
+

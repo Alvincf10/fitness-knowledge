@@ -2,19 +2,41 @@
 id: faq_is_creatine_just_water_weight
 title: Is creatine just water weight?
 category: faq
+subcategory: supplements
+description: Is creatine just water weight?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplements
-  - creatine
+- supplements
+- creatine
 related:
-  - supplements/creatine.md
-  - faq/do-i-need-supplements.md
-  - nutrition/protein.md
-  - faq/do-i-need-creatine.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/creatine.md
+- faq/do-i-need-supplements.md
+- nutrition/protein.md
+- faq/do-i-need-creatine.md
+- faq/do-i-need-to-load-creatine.md
+- faq/is-creatine-safe-long-term.md
+- faq/what-happens-if-i-stop-taking-creatine.md
+aliases:
+- is creatine just water weight
+- icjww
+keywords:
+- is
+- creatine
+- just
+- water
+- weight
+- supplements
+- icjww
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is creatine just water weight?
@@ -37,7 +59,14 @@ ISSN sports-supplement position stands and systematic reviews for the specific i
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/creatine.md
 - faq/do-i-need-supplements.md
 - nutrition/protein.md
 - faq/do-i-need-creatine.md
+- faq/do-i-need-to-load-creatine.md
+- faq/is-creatine-safe-long-term.md
+- faq/what-happens-if-i-stop-taking-creatine.md
+

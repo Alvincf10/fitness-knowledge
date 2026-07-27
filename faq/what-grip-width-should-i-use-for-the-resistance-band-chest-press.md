@@ -2,19 +2,45 @@
 id: faq_what_grip_width_should_i_use_for_the_resistance_band_chest_press
 title: What grip width should I use for the Resistance Band Chest Press?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Resistance Band Chest Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/resistance-band-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/resistance-band-chest-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- exercises/chest/barbell-bench-press.md
+aliases:
+- what grip width should i use for the resistance band chest press
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- resistance
+- band
+- chest
+- press
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Resistance Band Chest Press?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/resistance-band-chest-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-cable-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- exercises/chest/barbell-bench-press.md
+

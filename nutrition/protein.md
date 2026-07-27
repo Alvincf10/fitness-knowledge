@@ -2,30 +2,40 @@
 id: nutrition_protein
 title: Protein
 category: nutrition
-goals:
-  - hypertrophy
-  - fat-loss
-  - performance
+subcategory: nutrition
+description: Protein provides essential amino acids required to repair and build muscle tissue. For resistance trainees, total daily protein intake is one of the strongest nutrition levers for hypertrophy and for retaining lean mass during fat loss.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - macronutrient
-  - evidence
+- nutrition
+- macronutrient
+- evidence
+related:
+- faq/how-much-protein.md
+- faq/is-more-protein-always-better.md
+- supplements/whey-protein.md
+- nutrition/plant-based-protein.md
+- supplements/casein-protein.md
+- nutrition/meal-timing.md
+- faq/do-i-need-whey-protein.md
+- nutrition/body-recomposition.md
+- nutrition/cutting.md
+- faq/are-bcaas-worth-it.md
+aliases: []
+keywords:
+- protein
+- nutrition
+- macronutrient
+- evidence
+goals:
+- hypertrophy
+- fat-loss
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/how-much-protein.md
-  - faq/is-more-protein-always-better.md
-  - supplements/whey-protein.md
-  - nutrition/plant-based-protein.md
-  - supplements/casein-protein.md
-  - nutrition/meal-timing.md
-  - faq/do-i-need-whey-protein.md
-  - nutrition/body-recomposition.md
-  - nutrition/cutting.md
-  - faq/are-bcaas-worth-it.md
 ---
 
 # Protein
@@ -86,7 +96,7 @@ Meta-analyses show higher protein intakes augment strength and fat-free mass gai
 - ACSM Position Stand (2016)
 - Thomas DT (2016)
 
-## Related
+## Related Articles
 
 - faq/how-much-protein.md
 - faq/is-more-protein-always-better.md
@@ -98,3 +108,4 @@ Meta-analyses show higher protein intakes augment strength and fat-free mass gai
 - nutrition/body-recomposition.md
 - nutrition/cutting.md
 - faq/are-bcaas-worth-it.md
+

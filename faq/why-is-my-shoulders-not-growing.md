@@ -2,21 +2,42 @@
 id: faq_why_is_my_shoulders_not_growing
 title: Why is my shoulders not growing?
 category: faq
+subcategory: hypertrophy
+description: Why is my shoulders not growing?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - shoulders
+- hypertrophy
+- shoulders
 related:
-  - exercises/chest/landmine-press.md
-  - nutrition/protein.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- exercises/chest/landmine-press.md
+- nutrition/protein.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/why-is-my-arms-not-growing.md
+- faq/why-is-my-back-not-growing.md
+- faq/why-is-my-chest-not-growing.md
+- exercises/back/face-pull.md
+aliases:
+- why is my shoulders not growing
+- wimsng
+keywords:
+- why
+- is
+- my
+- shoulders
+- not
+- growing
+- hypertrophy
+- wimsng
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Why is my shoulders not growing?
@@ -45,3 +66,8 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - science/training-principles/training-volume.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/why-is-my-arms-not-growing.md
+- faq/why-is-my-back-not-growing.md
+- faq/why-is-my-chest-not-growing.md
+- exercises/back/face-pull.md
+

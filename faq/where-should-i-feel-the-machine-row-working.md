@@ -2,19 +2,42 @@
 id: faq_where_should_i_feel_the_machine_row_working
 title: Where should I feel the Machine Row working?
 category: faq
+subcategory: technique
+description: Where should I feel the Machine Row working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/machine-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/machine-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-smith-machine-row-working.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- faq/where-should-i-feel-the-chest-supported-row-working.md
+- exercises/back/chest-supported-row.md
+- exercises/back/plate-loaded-row.md
+aliases:
+- where should i feel the machine row working
+keywords:
+- where
+- should
+- feel
+- the
+- machine
+- row
+- working
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Machine Row working?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/machine-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-smith-machine-row-working.md
+- faq/where-should-i-feel-the-barbell-row-working.md
+- faq/where-should-i-feel-the-chest-supported-row-working.md
+- exercises/back/chest-supported-row.md
+- exercises/back/plate-loaded-row.md
+

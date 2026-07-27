@@ -2,47 +2,68 @@
 id: exercise_single_arm_lat_pulldown
 title: Single-Arm Lat Pulldown
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - cable
+subcategory: back
+description: The single-arm lat pulldown is a unilateral vertical pull that allows independent loading, greater freedom of elbow path, and correction of side-to-side discrepancies in lat engagement.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - one-arm pulldown
-  - unilateral lat pulldown
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - unilateral
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- cable
+- unilateral
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/single-arm-cable-row.md
+- exercises/back/wide-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- one-arm pulldown
+- unilateral lat pulldown
+- single arm lat pulldown
+- salp
+keywords:
+- single
+- arm
+- lat
+- pulldown
+- compound
+- cable
+- unilateral
+- beginner
+- hypertrophy
+- pull
+- one
+- salp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- cable
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/wide-grip-lat-pulldown.md
-  - exercises/back/reverse-grip-lat-pulldown.md
-  - exercises/back/neutral-grip-lat-pulldown.md
-  - exercises/back/close-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Single-Arm Lat Pulldown
@@ -164,7 +185,7 @@ Efficient accessory after bilateral pulls.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/single-arm-cable-row.md
 - exercises/back/wide-grip-lat-pulldown.md
@@ -176,6 +197,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

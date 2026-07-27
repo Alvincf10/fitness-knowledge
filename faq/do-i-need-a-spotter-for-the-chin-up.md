@@ -2,19 +2,44 @@
 id: faq_do_i_need_a_spotter_for_the_chin_up
 title: Do I need a spotter for the Chin-Up?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Chin-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/chin-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/chin-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-weighted-chin-up.md
+- faq/do-i-need-a-spotter-for-the-assisted-pull-up.md
+- faq/do-i-need-a-spotter-for-the-back-squat.md
+- exercises/back/weighted-chin-up.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- do i need a spotter for the chin up
+- do i need a spotter for the chinup
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- chin
+- up
+- technique
+- back
+- exercise
+- chinup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Chin-Up?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/chin-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-weighted-chin-up.md
+- faq/do-i-need-a-spotter-for-the-assisted-pull-up.md
+- faq/do-i-need-a-spotter-for-the-back-squat.md
+- exercises/back/weighted-chin-up.md
+- exercises/back/assisted-pull-up.md
+

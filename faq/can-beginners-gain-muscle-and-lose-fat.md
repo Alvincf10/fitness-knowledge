@@ -2,26 +2,44 @@
 id: faq_can_beginners_gain_muscle_and_lose_fat
 title: Can Beginners Gain Muscle and Lose Fat?
 category: faq
+subcategory: beginner
+description: Can beginners really build muscle and lose fat at the same time?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - beginner
-  - hypertrophy
-  - fat-loss
+- beginner
+- hypertrophy
+- fat-loss
 related:
-  - nutrition/body-recomposition.md
-  - faq/can-i-build-muscle-in-a-deficit.md
-  - nutrition/protein.md
-  - science/training-principles/progressive-overload.md
-  - faq/should-women-train-differently.md
-  - faq/is-stretching-required-before-lifting.md
-  - faq/is-spot-reduction-possible.md
-  - faq/how-often-should-i-train.md
-  - faq/how-important-is-sleep.md
-  - faq/does-muscle-turn-into-fat.md
+- exercises/back/assisted-pull-up.md
+- nutrition/body-recomposition.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- nutrition/protein.md
+- science/training-principles/progressive-overload.md
+- faq/should-women-train-differently.md
+- faq/is-stretching-required-before-lifting.md
+- faq/is-spot-reduction-possible.md
+- faq/how-often-should-i-train.md
+- faq/how-important-is-sleep.md
+aliases:
+- can beginners gain muscle and lose fat
+keywords:
+- can
+- beginners
+- gain
+- muscle
+- and
+- lose
+- fat
+- beginner
+- hypertrophy
+- fat-loss
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can Beginners Gain Muscle and Lose Fat?
@@ -49,8 +67,9 @@ Recomposition literature and practical reviews support concurrent changes in fav
 - Track performance, not only the scale
 - After the honeymoon phase, consider dedicated bulk/cut cycles if needed
 
-## Related
+## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - nutrition/body-recomposition.md
 - faq/can-i-build-muscle-in-a-deficit.md
 - nutrition/protein.md
@@ -60,4 +79,4 @@ Recomposition literature and practical reviews support concurrent changes in fav
 - faq/is-spot-reduction-possible.md
 - faq/how-often-should-i-train.md
 - faq/how-important-is-sleep.md
-- faq/does-muscle-turn-into-fat.md
+

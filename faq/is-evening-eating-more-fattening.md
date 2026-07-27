@@ -2,21 +2,42 @@
 id: faq_is_evening_eating_more_fattening
 title: Is evening eating more fattening?
 category: faq
+subcategory: fat-loss
+description: Is evening eating more fattening?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - fat-loss
-  - nutrition
+- fat-loss
+- nutrition
 related:
-  - nutrition/meal-timing.md
-  - nutrition/calorie-deficit.md
-  - nutrition/cutting.md
-  - nutrition/protein.md
-  - faq/how-fast-can-i-lose-fat.md
-  - faq/is-cardio-bad.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/meal-timing.md
+- nutrition/calorie-deficit.md
+- nutrition/cutting.md
+- nutrition/protein.md
+- faq/how-fast-can-i-lose-fat.md
+- faq/is-cardio-bad.md
+- faq/are-low-carb-diets-better-for-losing-fat.md
+aliases:
+- is evening eating more fattening
+- ieemf
+keywords:
+- is
+- evening
+- eating
+- more
+- fattening
+- fat-loss
+- nutrition
+- ieemf
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is evening eating more fattening?
@@ -39,9 +60,14 @@ Energy-balance principles; ACSM/ISSN guidance on deficits, protein, and resistan
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/meal-timing.md
 - nutrition/calorie-deficit.md
 - nutrition/cutting.md
 - nutrition/protein.md
 - faq/how-fast-can-i-lose-fat.md
 - faq/is-cardio-bad.md
+- faq/are-low-carb-diets-better-for-losing-fat.md
+

@@ -1,58 +1,14 @@
 {
-  "version": "2.0",
-  "updated": "2026-07-27",
-  "description": "Catalog of exercise articles. Paths are relative to repository root.",
-  "schema": {
-    "id": "string",
-    "title": "string",
-    "slug": "string",
-    "path": "string",
-    "muscle_primary": "string[]",
-    "muscle_secondary": "string[]",
-    "equipment": "string[]",
-    "difficulty": "beginner | intermediate | advanced",
-    "movement": "string[]",
-    "plane": "string[]",
-    "goal": "string[]",
-    "aliases": "string[]",
-    "tags": "string[]",
-    "evidence": "A | B | C | D",
-    "status": "planned | draft | published"
-  },
-  "target_count": 350,
-  "published_count": 90,
-  "exercises": [
+  "generated": "2026-07-27",
+  "count": 90,
+  "items": [
     {
       "id": "exercise_assisted_pull_up",
       "title": "Assisted Pull-Up",
-      "slug": "assisted-pull-up",
-      "path": "exercises/back/assisted-pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "machine",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "machine-assisted pull-up",
-        "gravitron pull-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
@@ -61,41 +17,55 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "machine-assisted pull-up",
+        "gravitron pull-up",
+        "assisted pull up",
+        "apu"
+      ],
+      "keywords": [
+        "assisted",
+        "pull",
+        "up",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "gravitron",
+        "apu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "machine",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/assisted-pull-up.md"
     },
     {
       "id": "exercise_band_assisted_pull_up",
       "title": "Band-Assisted Pull-Up",
-      "slug": "band-assisted-pull-up",
-      "path": "exercises/back/band-assisted-pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar",
-        "resistance-band"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "band pull-up",
-        "loop-band assisted pull-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -103,40 +73,56 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/assisted-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "band pull-up",
+        "loop-band assisted pull-up",
+        "band assisted pull up",
+        "bapu"
+      ],
+      "keywords": [
+        "band",
+        "assisted",
+        "pull",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "loop",
+        "bapu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar",
+        "resistance-band"
+      ],
+      "path": "exercises/back/band-assisted-pull-up.md"
     },
     {
       "id": "exercise_barbell_row",
       "title": "Barbell Row",
-      "slug": "barbell-row",
-      "path": "exercises/back/barbell-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "bent-over row",
-        "barbell bent-over row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -145,39 +131,57 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/weighted-inverted-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "bent-over row",
+        "barbell bent-over row",
+        "br",
+        "row",
+        "bb row"
+      ],
+      "keywords": [
+        "barbell",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "pull",
+        "bent",
+        "over",
+        "br",
+        "bb",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/barbell-row.md"
     },
     {
       "id": "exercise_cable_pullover",
       "title": "Cable Pullover",
-      "slug": "cable-pullover",
-      "path": "exercises/back/cable-pullover.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "kneeling cable pullover",
-        "rope pullover"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
@@ -185,83 +189,111 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/standing-cable-row.md",
+        "exercises/back/straight-arm-pulldown.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/seated-cable-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/face-pull.md",
+        "exercises/back/close-grip-lat-pulldown.md"
+      ],
+      "aliases": [
+        "kneeling cable pullover",
+        "rope pullover",
+        "cp"
+      ],
+      "keywords": [
+        "cable",
+        "pullover",
+        "isolation",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "kneeling",
+        "rope",
+        "cp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/back/cable-pullover.md"
     },
     {
       "id": "exercise_chest_supported_row",
       "title": "Chest-Supported Row",
-      "slug": "chest-supported-row",
-      "path": "exercises/back/chest-supported-row.md",
+      "category": "exercise",
+      "subcategory": "back",
+      "difficulty": "beginner",
+      "evidence_level": "B",
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull"
+      ],
+      "related": [
+        "exercises/back/plate-loaded-row.md",
+        "exercises/back/machine-row.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/seated-cable-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "supported row",
+        "prone row machine",
+        "chest pad row",
+        "chest supported row",
+        "csr"
+      ],
+      "keywords": [
+        "chest",
+        "supported",
+        "row",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "prone",
+        "pad",
+        "csr",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
       ],
       "equipment": [
         "machine",
         "bench",
         "dumbbell"
       ],
-      "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "supported row",
-        "prone row machine",
-        "chest pad row"
-      ],
-      "tags": [
-        "compound",
-        "machine",
-        "beginner",
-        "hypertrophy",
-        "pull"
-      ],
-      "evidence": "B",
-      "status": "published"
+      "path": "exercises/back/chest-supported-row.md"
     },
     {
       "id": "exercise_chin_up",
       "title": "Chin-Up",
-      "slug": "chin-up",
-      "path": "exercises/back/chin-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "underhand pull-up",
-        "supinated pull-up"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "bodyweight",
@@ -270,40 +302,56 @@
         "strength",
         "pull"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-chin-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "underhand pull-up",
+        "supinated pull-up",
+        "chin up",
+        "cu"
+      ],
+      "keywords": [
+        "chin",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "underhand",
+        "supinated",
+        "cu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/chin-up.md"
     },
     {
       "id": "exercise_close_grip_lat_pulldown",
       "title": "Close-Grip Lat Pulldown",
-      "slug": "close-grip-lat-pulldown",
-      "path": "exercises/back/close-grip-lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "V-bar pulldown",
-        "close-grip pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -312,83 +360,111 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/lat-pulldown.md",
+        "exercises/back/single-arm-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "v-bar pulldown",
+        "close-grip pulldown",
+        "close grip lat pulldown",
+        "cglp"
+      ],
+      "keywords": [
+        "close",
+        "grip",
+        "lat",
+        "pulldown",
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "bar",
+        "cglp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/close-grip-lat-pulldown.md"
     },
     {
       "id": "exercise_dumbbell_pullover",
       "title": "Dumbbell Pullover",
-      "slug": "dumbbell-pullover",
-      "path": "exercises/back/dumbbell-pullover.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "chest",
-        "triceps",
-        "abs"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "DB pullover",
-        "bench pullover"
-      ],
+      "evidence_level": "C",
       "tags": [
         "isolation",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "C",
-      "status": "published"
-    },
-    {
-      "id": "exercise_dumbbell_row",
-      "title": "Dumbbell Row",
-      "slug": "dumbbell-row",
-      "path": "exercises/back/dumbbell-row.md",
+      "related": [
+        "exercises/back/machine-pullover.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/cable-pullover.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/kroc-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/gorilla-row.md",
+        "exercises/back/helms-row.md"
+      ],
+      "aliases": [
+        "db pullover",
+        "bench pullover",
+        "dp",
+        "pullover"
+      ],
+      "keywords": [
+        "dumbbell",
+        "pullover",
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "db",
+        "bench",
+        "dp",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
       ],
       "equipment": [
         "dumbbell",
         "bench"
       ],
+      "path": "exercises/back/dumbbell-pullover.md"
+    },
+    {
+      "id": "exercise_dumbbell_row",
+      "title": "Dumbbell Row",
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "one-arm dumbbell row",
-        "single-arm DB row",
-        "bent-over dumbbell row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -398,40 +474,63 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/kroc-row.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/gorilla-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/single-arm-cable-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "one-arm dumbbell row",
+        "single-arm db row",
+        "bent-over dumbbell row",
+        "dr",
+        "row",
+        "db row"
+      ],
+      "keywords": [
+        "dumbbell",
+        "row",
+        "compound",
+        "free-weight",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "one",
+        "arm",
+        "single",
+        "db",
+        "bent",
+        "over",
+        "dr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/back/dumbbell-row.md"
     },
     {
       "id": "exercise_face_pull",
       "title": "Face Pull",
-      "slug": "face-pull",
-      "path": "exercises/back/face-pull.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "rear-delts",
-        "shoulders"
-      ],
-      "equipment": [
-        "cable",
-        "resistance-band"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "cable face pull",
-        "rope face pull"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
@@ -439,84 +538,113 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/straight-arm-pulldown.md",
+        "exercises/back/cable-pullover.md",
+        "exercises/back/prone-trap-raise.md",
+        "exercises/back/negative-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/assisted-pull-up.md",
+        "exercises/back/close-grip-lat-pulldown.md"
+      ],
+      "aliases": [
+        "cable face pull",
+        "rope face pull",
+        "fp"
+      ],
+      "keywords": [
+        "face",
+        "pull",
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "rope",
+        "fp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "resistance-band"
+      ],
+      "path": "exercises/back/face-pull.md"
     },
     {
       "id": "exercise_feet_elevated_inverted_row",
       "title": "Feet-Elevated Inverted Row",
-      "slug": "feet-elevated-inverted-row",
-      "path": "exercises/back/feet-elevated-inverted-row.md",
+      "category": "exercise",
+      "subcategory": "back",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull"
+      ],
+      "related": [
+        "exercises/back/weighted-inverted-row.md",
+        "exercises/back/inverted-row.md",
+        "exercises/back/ring-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "decline inverted row",
+        "feet-up bodyweight row",
+        "feet elevated inverted row",
+        "feir"
+      ],
+      "keywords": [
+        "feet",
+        "elevated",
+        "inverted",
+        "row",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "decline",
+        "up",
+        "feir",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
       ],
       "equipment": [
         "bodyweight",
         "pull-up-bar",
         "bench"
       ],
-      "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "decline inverted row",
-        "feet-up bodyweight row"
-      ],
-      "tags": [
-        "compound",
-        "bodyweight",
-        "intermediate",
-        "hypertrophy",
-        "strength",
-        "pull"
-      ],
-      "evidence": "B",
-      "status": "published"
+      "path": "exercises/back/feet-elevated-inverted-row.md"
     },
     {
       "id": "exercise_gorilla_row",
       "title": "Gorilla Row",
-      "slug": "gorilla-row",
-      "path": "exercises/back/gorilla-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "dumbbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "alternating hinged DB row",
-        "double DB gorilla row"
-      ],
+      "evidence_level": "C",
       "tags": [
         "compound",
         "free-weight",
@@ -525,40 +653,56 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/renegade-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/kroc-row.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/yates-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "alternating hinged db row",
+        "double db gorilla row",
+        "gr"
+      ],
+      "keywords": [
+        "gorilla",
+        "row",
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "alternating",
+        "hinged",
+        "db",
+        "double",
+        "gr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "path": "exercises/back/gorilla-row.md"
     },
     {
       "id": "exercise_helms_row",
       "title": "Helms Row",
-      "slug": "helms-row",
-      "path": "exercises/back/helms-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "incline elbow-flared row",
-        "upper-back DB row"
-      ],
+      "evidence_level": "C",
       "tags": [
         "compound",
         "free-weight",
@@ -566,42 +710,57 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/seal-row.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/kroc-row.md",
+        "exercises/back/gorilla-row.md",
+        "exercises/back/dumbbell-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "incline elbow-flared row",
+        "upper-back db row",
+        "hr"
+      ],
+      "keywords": [
+        "helms",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "incline",
+        "elbow",
+        "flared",
+        "upper",
+        "back",
+        "db",
+        "hr",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/back/helms-row.md"
     },
     {
       "id": "exercise_inverted_row",
       "title": "Inverted Row",
-      "slug": "inverted-row",
-      "path": "exercises/back/inverted-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "bodyweight row",
-        "Australian pull-up",
-        "supine row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -610,41 +769,57 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-inverted-row.md",
+        "exercises/back/feet-elevated-inverted-row.md",
+        "exercises/back/ring-row.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "bodyweight row",
+        "australian pull-up",
+        "supine row",
+        "ir"
+      ],
+      "keywords": [
+        "inverted",
+        "row",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "australian",
+        "up",
+        "supine",
+        "ir",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/inverted-row.md"
     },
     {
       "id": "exercise_kroc_row",
       "title": "Kroc Row",
-      "slug": "kroc-row",
-      "path": "exercises/back/kroc-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs",
-        "forearms"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "advanced",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "heavy high-rep dumbbell row"
-      ],
+      "evidence_level": "C",
       "tags": [
         "compound",
         "free-weight",
@@ -654,40 +829,57 @@
         "strength",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/gorilla-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "heavy high-rep dumbbell row",
+        "kr"
+      ],
+      "keywords": [
+        "kroc",
+        "row",
+        "compound",
+        "free-weight",
+        "unilateral",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "heavy",
+        "high",
+        "rep",
+        "dumbbell",
+        "kr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/back/kroc-row.md"
     },
     {
       "id": "exercise_landmine_row",
       "title": "Landmine Row",
-      "slug": "landmine-row",
-      "path": "exercises/back/landmine-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "angled barbell row",
-        "dual-handle landmine row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -695,39 +887,55 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/yates-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/dumbbell-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "angled barbell row",
+        "dual-handle landmine row",
+        "lr"
+      ],
+      "keywords": [
+        "landmine",
+        "row",
+        "compound",
+        "free-weight",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "angled",
+        "barbell",
+        "dual",
+        "handle",
+        "lr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/landmine-row.md"
     },
     {
       "id": "exercise_lat_pulldown",
       "title": "Lat Pulldown",
-      "slug": "lat-pulldown",
-      "path": "exercises/back/lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy"
-      ],
-      "aliases": [
-        "lat pull-down",
-        "lat pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
@@ -735,120 +943,159 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md",
+        "exercises/back/single-arm-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "lat pull-down",
+        "lp"
+      ],
+      "keywords": [
+        "lat",
+        "pulldown",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "down",
+        "lp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/lat-pulldown.md"
     },
     {
       "id": "exercise_machine_pullover",
       "title": "Machine Pullover",
-      "slug": "machine-pullover",
-      "path": "exercises/back/machine-pullover.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "chest",
-        "triceps"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "nautilus pullover",
-        "selectorized pullover"
-      ],
+      "evidence_level": "C",
       "tags": [
         "isolation",
         "machine",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/dumbbell-pullover.md",
+        "exercises/back/machine-row.md",
+        "exercises/back/cable-pullover.md",
+        "exercises/back/smith-machine-row.md",
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "exercises/back/reverse-grip-lat-pulldown.md"
+      ],
+      "aliases": [
+        "nautilus pullover",
+        "selectorized pullover",
+        "mp"
+      ],
+      "keywords": [
+        "machine",
+        "pullover",
+        "isolation",
+        "beginner",
+        "hypertrophy",
+        "nautilus",
+        "selectorized",
+        "mp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/back/machine-pullover.md"
     },
     {
       "id": "exercise_machine_row",
       "title": "Machine Row",
-      "slug": "machine-row",
-      "path": "exercises/back/machine-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
+      "evidence_level": "B",
+      "tags": [
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
         "pull"
       ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
+      "related": [
+        "exercises/back/smith-machine-row.md",
+        "exercises/back/plate-loaded-row.md",
+        "exercises/back/chest-supported-row.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/seated-cable-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
       ],
       "aliases": [
         "seated machine row",
         "hammer row",
-        "iso-lateral row"
+        "iso-lateral row",
+        "mr"
       ],
-      "tags": [
-        "compound",
+      "keywords": [
         "machine",
+        "row",
+        "compound",
         "beginner",
         "hypertrophy",
-        "pull"
+        "pull",
+        "seated",
+        "hammer",
+        "iso",
+        "lateral",
+        "mr",
+        "back",
+        "exercise",
+        "workout"
       ],
-      "evidence": "B",
-      "status": "published"
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/back/machine-row.md"
     },
     {
       "id": "exercise_meadows_row",
       "title": "Meadows Row",
-      "slug": "meadows-row",
-      "path": "exercises/back/meadows-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "landmine meadows row",
-        "one-arm landmine row (meadows)"
-      ],
+      "evidence_level": "C",
       "tags": [
         "compound",
         "free-weight",
@@ -857,40 +1104,55 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/yates-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/pendlay-row.md",
+        "exercises/back/gorilla-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "landmine meadows row",
+        "one-arm landmine row (meadows)",
+        "mr"
+      ],
+      "keywords": [
+        "meadows",
+        "row",
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "landmine",
+        "one",
+        "arm",
+        "mr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/meadows-row.md"
     },
     {
       "id": "exercise_negative_pull_up",
       "title": "Negative Pull-Up",
-      "slug": "negative-pull-up",
-      "path": "exercises/back/negative-pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "eccentric pull-up",
-        "pull-up negative"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -899,40 +1161,55 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/assisted-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "eccentric pull-up",
+        "pull-up negative",
+        "negative pull up",
+        "npu"
+      ],
+      "keywords": [
+        "negative",
+        "pull",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "strength",
+        "hypertrophy",
+        "eccentric",
+        "npu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/negative-pull-up.md"
     },
     {
       "id": "exercise_neutral_grip_lat_pulldown",
       "title": "Neutral-Grip Lat Pulldown",
-      "slug": "neutral-grip-lat-pulldown",
-      "path": "exercises/back/neutral-grip-lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "parallel-grip pulldown",
-        "hammer-grip pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -941,40 +1218,58 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md",
+        "exercises/back/lat-pulldown.md",
+        "exercises/back/single-arm-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "parallel-grip pulldown",
+        "hammer-grip pulldown",
+        "neutral grip lat pulldown",
+        "nglp"
+      ],
+      "keywords": [
+        "neutral",
+        "grip",
+        "lat",
+        "pulldown",
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "parallel",
+        "hammer",
+        "nglp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/neutral-grip-lat-pulldown.md"
     },
     {
       "id": "exercise_neutral_grip_pull_up",
       "title": "Neutral-Grip Pull-Up",
-      "slug": "neutral-grip-pull-up",
-      "path": "exercises/back/neutral-grip-pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "hammer-grip pull-up",
-        "parallel-grip pull-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -983,40 +1278,57 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/chin-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "hammer-grip pull-up",
+        "parallel-grip pull-up",
+        "neutral grip pull up",
+        "ngpu"
+      ],
+      "keywords": [
+        "neutral",
+        "grip",
+        "pull",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "hammer",
+        "parallel",
+        "ngpu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/neutral-grip-pull-up.md"
     },
     {
       "id": "exercise_pendlay_row",
       "title": "Pendlay Row",
-      "slug": "pendlay-row",
-      "path": "exercises/back/pendlay-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "dead-stop barbell row",
-        "floor-pause row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -1025,39 +1337,57 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/t-bar-row.md",
+        "exercises/back/barbell-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/weighted-inverted-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "dead-stop barbell row",
+        "floor-pause row",
+        "pr"
+      ],
+      "keywords": [
+        "pendlay",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "pull",
+        "dead",
+        "stop",
+        "barbell",
+        "floor",
+        "pause",
+        "pr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/pendlay-row.md"
     },
     {
       "id": "exercise_plate_loaded_row",
       "title": "Plate-Loaded Row",
-      "slug": "plate-loaded-row",
-      "path": "exercises/back/plate-loaded-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "iso-lateral row",
-        "hammer strength row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
@@ -1066,79 +1396,108 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/seated-cable-row.md",
+        "exercises/back/machine-row.md",
+        "exercises/back/chest-supported-row.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "iso-lateral row",
+        "hammer strength row",
+        "plate loaded row",
+        "plr"
+      ],
+      "keywords": [
+        "plate",
+        "loaded",
+        "row",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "iso",
+        "lateral",
+        "hammer",
+        "plr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/back/plate-loaded-row.md"
     },
     {
       "id": "exercise_prone_trap_raise",
       "title": "Prone Trap Raise",
-      "slug": "prone-trap-raise",
-      "path": "exercises/back/prone-trap-raise.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "rear-delts",
-        "shoulders"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "prone Y raise",
-        "lower trap raise"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/face-pull.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/chest-supported-row.md",
+        "exercises/back/straight-arm-pulldown.md",
+        "exercises/back/seal-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/kroc-row.md",
+        "exercises/back/cable-pullover.md"
+      ],
+      "aliases": [
+        "prone y raise",
+        "lower trap raise",
+        "ptr"
+      ],
+      "keywords": [
+        "prone",
+        "trap",
+        "raise",
+        "isolation",
+        "beginner",
+        "hypertrophy",
+        "lower",
+        "ptr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/back/prone-trap-raise.md"
     },
     {
       "id": "exercise_pull_up",
       "title": "Pull-Up",
-      "slug": "pull-up",
-      "path": "exercises/back/pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "overhand pull-up",
-        "chin-up variant dependent"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "bodyweight",
@@ -1147,41 +1506,57 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/back/neutral-grip-pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/chin-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "overhand pull-up",
+        "chin-up variant dependent",
+        "pull up",
+        "pu"
+      ],
+      "keywords": [
+        "pull",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "overhand",
+        "chin",
+        "variant",
+        "dependent",
+        "pu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/pull-up.md"
     },
     {
       "id": "exercise_rack_pull",
       "title": "Rack Pull",
-      "slug": "rack-pull",
-      "path": "exercises/back/rack-pull.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "forearms",
-        "glutes",
-        "abs"
-      ],
-      "equipment": [
-        "barbell",
-        "rack"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "hinge"
-      ],
-      "plane": [
-        "sagittal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "block pull",
-        "partial deadlift from pins"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -1189,82 +1564,113 @@
         "strength",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/kroc-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "exercises/back/barbell-row.md",
+        "exercises/back/yates-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "block pull",
+        "partial deadlift from pins",
+        "rp"
+      ],
+      "keywords": [
+        "rack",
+        "pull",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "block",
+        "partial",
+        "deadlift",
+        "from",
+        "pins",
+        "rp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell",
+        "rack"
+      ],
+      "path": "exercises/back/rack-pull.md"
     },
     {
       "id": "exercise_renegade_row",
       "title": "Renegade Row",
-      "slug": "renegade-row",
-      "path": "exercises/back/renegade-row.md",
+      "category": "exercise",
+      "subcategory": "back",
+      "difficulty": "intermediate",
+      "evidence_level": "C",
+      "tags": [
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "related": [
+        "exercises/back/gorilla-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/kroc-row.md",
+        "exercises/back/dumbbell-row.md",
+        "exercises/back/yates-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "plank row",
+        "alternating renegade row",
+        "rr"
+      ],
+      "keywords": [
+        "renegade",
+        "row",
+        "compound",
+        "free-weight",
+        "unilateral",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "plank",
+        "alternating",
+        "rr",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
       ],
       "equipment": [
         "dumbbell"
       ],
-      "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "plank row",
-        "alternating renegade row"
-      ],
-      "tags": [
-        "compound",
-        "free-weight",
-        "unilateral",
-        "intermediate",
-        "hypertrophy",
-        "pull"
-      ],
-      "evidence": "C",
-      "status": "published"
+      "path": "exercises/back/renegade-row.md"
     },
     {
       "id": "exercise_reverse_grip_lat_pulldown",
       "title": "Reverse-Grip Lat Pulldown",
-      "slug": "reverse-grip-lat-pulldown",
-      "path": "exercises/back/reverse-grip-lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "underhand pulldown",
-        "supinated lat pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1273,41 +1679,58 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md",
+        "exercises/back/lat-pulldown.md",
+        "exercises/back/single-arm-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "underhand pulldown",
+        "supinated lat pulldown",
+        "reverse grip lat pulldown",
+        "rglp"
+      ],
+      "keywords": [
+        "reverse",
+        "grip",
+        "lat",
+        "pulldown",
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "underhand",
+        "supinated",
+        "rglp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/reverse-grip-lat-pulldown.md"
     },
     {
       "id": "exercise_ring_row",
       "title": "Ring Row",
-      "slug": "ring-row",
-      "path": "exercises/back/ring-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "TRX row",
-        "suspension row",
-        "gymnastic ring row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -1315,79 +1738,110 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-inverted-row.md",
+        "exercises/back/feet-elevated-inverted-row.md",
+        "exercises/back/inverted-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "trx row",
+        "suspension row",
+        "gymnastic ring row",
+        "rr"
+      ],
+      "keywords": [
+        "ring",
+        "row",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "trx",
+        "suspension",
+        "gymnastic",
+        "rr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/back/ring-row.md"
     },
     {
       "id": "exercise_scapular_pull_up",
       "title": "Scapular Pull-Up",
-      "slug": "scapular-pull-up",
-      "path": "exercises/back/scapular-pull-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "scap pull",
-        "shoulder-pack hang drill"
-      ],
+      "evidence_level": "C",
       "tags": [
         "bodyweight",
         "beginner",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/band-assisted-pull-up.md",
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "exercises/back/assisted-pull-up.md"
+      ],
+      "aliases": [
+        "scap pull",
+        "shoulder-pack hang drill",
+        "scapular pull up",
+        "spu"
+      ],
+      "keywords": [
+        "scapular",
+        "pull",
+        "up",
+        "bodyweight",
+        "beginner",
+        "scap",
+        "shoulder",
+        "pack",
+        "hang",
+        "drill",
+        "spu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/scapular-pull-up.md"
     },
     {
       "id": "exercise_seal_row",
       "title": "Seal Row",
-      "slug": "seal-row",
-      "path": "exercises/back/seal-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "barbell",
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "prone bench row",
-        "elevated seal row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -1395,40 +1849,56 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/helms-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/renegade-row.md",
+        "exercises/back/pendlay-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "prone bench row",
+        "elevated seal row",
+        "sr"
+      ],
+      "keywords": [
+        "seal",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "prone",
+        "bench",
+        "elevated",
+        "sr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell",
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/back/seal-row.md"
     },
     {
       "id": "exercise_seated_cable_row",
       "title": "Seated Cable Row",
-      "slug": "seated-cable-row",
-      "path": "exercises/back/seated-cable-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "seated row",
-        "cable row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1437,78 +1907,110 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/standing-cable-row.md",
+        "exercises/back/plate-loaded-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "seated row",
+        "cable row",
+        "scr"
+      ],
+      "keywords": [
+        "seated",
+        "cable",
+        "row",
+        "compound",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "scr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/seated-cable-row.md"
     },
     {
       "id": "exercise_shrug",
       "title": "Barbell Shrug",
-      "slug": "shrug",
-      "path": "exercises/back/shrug.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "forearms"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "trap shrug",
-        "DB shrug variant dependent"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "free-weight",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/kroc-row.md",
+        "exercises/back/landmine-row.md",
+        "exercises/back/rack-pull.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/straight-arm-pulldown.md",
+        "exercises/back/barbell-row.md"
+      ],
+      "aliases": [
+        "trap shrug",
+        "db shrug variant dependent",
+        "shrug",
+        "bs",
+        "bb shrug"
+      ],
+      "keywords": [
+        "barbell",
+        "shrug",
+        "isolation",
+        "free-weight",
+        "beginner",
+        "hypertrophy",
+        "trap",
+        "db",
+        "variant",
+        "dependent",
+        "bs",
+        "bb",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/shrug.md"
     },
     {
       "id": "exercise_single_arm_cable_row",
       "title": "Single-Arm Cable Row",
-      "slug": "single-arm-cable-row",
-      "path": "exercises/back/single-arm-cable-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "one-arm cable row",
-        "unilateral cable row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1517,39 +2019,55 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/standing-cable-row.md",
+        "exercises/back/single-arm-lat-pulldown.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/seated-cable-row.md",
+        "exercises/back/dumbbell-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "one-arm cable row",
+        "unilateral cable row",
+        "single arm cable row",
+        "sacr"
+      ],
+      "keywords": [
+        "single",
+        "arm",
+        "cable",
+        "row",
+        "compound",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "one",
+        "sacr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/back/single-arm-cable-row.md"
     },
     {
       "id": "exercise_single_arm_lat_pulldown",
       "title": "Single-Arm Lat Pulldown",
-      "slug": "single-arm-lat-pulldown",
-      "path": "exercises/back/single-arm-lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "one-arm pulldown",
-        "unilateral lat pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1558,79 +2076,109 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "one-arm pulldown",
+        "unilateral lat pulldown",
+        "single arm lat pulldown",
+        "salp"
+      ],
+      "keywords": [
+        "single",
+        "arm",
+        "lat",
+        "pulldown",
+        "compound",
+        "cable",
+        "unilateral",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "one",
+        "salp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/back/single-arm-lat-pulldown.md"
     },
     {
       "id": "exercise_smith_machine_row",
       "title": "Smith Machine Row",
-      "slug": "smith-machine-row",
-      "path": "exercises/back/smith-machine-row.md",
+      "category": "exercise",
+      "subcategory": "back",
+      "difficulty": "intermediate",
+      "evidence_level": "C",
+      "tags": [
+        "compound",
+        "machine",
+        "intermediate",
+        "hypertrophy",
+        "pull"
+      ],
+      "related": [
+        "exercises/back/yates-row.md",
+        "exercises/back/weighted-inverted-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/standing-cable-row.md",
+        "exercises/back/ring-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "smith bent-over row",
+        "smr"
+      ],
+      "keywords": [
+        "smith",
+        "machine",
+        "row",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "bent",
+        "over",
+        "smr",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
       ],
       "equipment": [
         "smith-machine"
       ],
-      "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "smith bent-over row"
-      ],
-      "tags": [
-        "compound",
-        "machine",
-        "intermediate",
-        "hypertrophy",
-        "pull"
-      ],
-      "evidence": "C",
-      "status": "published"
+      "path": "exercises/back/smith-machine-row.md"
     },
     {
       "id": "exercise_standing_cable_row",
       "title": "Standing Cable Row",
-      "slug": "standing-cable-row",
-      "path": "exercises/back/standing-cable-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "athletic stance cable row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1638,39 +2186,52 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/seated-cable-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/weighted-inverted-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "athletic stance cable row",
+        "scr"
+      ],
+      "keywords": [
+        "standing",
+        "cable",
+        "row",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "athletic",
+        "stance",
+        "scr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/back/standing-cable-row.md"
     },
     {
       "id": "exercise_straight_arm_pulldown",
       "title": "Straight-Arm Pulldown",
-      "slug": "straight-arm-pulldown",
-      "path": "exercises/back/straight-arm-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "stiff-arm pulldown",
-        "lat isolation pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
@@ -1678,41 +2239,55 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/single-arm-lat-pulldown.md",
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/cable-pullover.md",
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md"
+      ],
+      "aliases": [
+        "stiff-arm pulldown",
+        "lat isolation pulldown",
+        "straight arm pulldown",
+        "sap"
+      ],
+      "keywords": [
+        "straight",
+        "arm",
+        "pulldown",
+        "isolation",
+        "cable",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "stiff",
+        "lat",
+        "sap",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/back/straight-arm-pulldown.md"
     },
     {
       "id": "exercise_t_bar_row",
       "title": "T-Bar Row",
-      "slug": "t-bar-row",
-      "path": "exercises/back/t-bar-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "landmine t-bar row",
-        "plate-loaded t-bar row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -1721,40 +2296,57 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/pendlay-row.md",
+        "exercises/back/barbell-row.md",
+        "exercises/back/yates-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/weighted-inverted-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "landmine t-bar row",
+        "plate-loaded t-bar row",
+        "t bar row",
+        "tbr"
+      ],
+      "keywords": [
+        "bar",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "landmine",
+        "plate",
+        "loaded",
+        "tbr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell",
+        "machine"
+      ],
+      "path": "exercises/back/t-bar-row.md"
     },
     {
       "id": "exercise_weighted_chin_up",
       "title": "Weighted Chin-Up",
-      "slug": "weighted-chin-up",
-      "path": "exercises/back/weighted-chin-up.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "advanced",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "loaded chin-up",
-        "weighted underhand pull-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -1763,41 +2355,57 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-pull-up.md",
+        "exercises/back/chin-up.md",
+        "exercises/back/weighted-inverted-row.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "loaded chin-up",
+        "weighted underhand pull-up",
+        "weighted chin up",
+        "wcu"
+      ],
+      "keywords": [
+        "weighted",
+        "chin",
+        "up",
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "loaded",
+        "underhand",
+        "wcu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/weighted-chin-up.md"
     },
     {
       "id": "exercise_weighted_inverted_row",
       "title": "Weighted Inverted Row",
-      "slug": "weighted-inverted-row",
-      "path": "exercises/back/weighted-inverted-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight",
-        "pull-up-bar"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "loaded inverted row",
-        "vest inverted row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -1806,41 +2414,56 @@
         "strength",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "exercise_weighted_pull_up",
-      "title": "Weighted Pull-Up",
-      "slug": "weighted-pull-up",
-      "path": "exercises/back/weighted-pull-up.md",
+      "related": [
+        "exercises/back/feet-elevated-inverted-row.md",
+        "exercises/back/inverted-row.md",
+        "exercises/back/ring-row.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "loaded inverted row",
+        "vest inverted row",
+        "wir"
+      ],
+      "keywords": [
+        "weighted",
+        "inverted",
+        "row",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "pull",
+        "loaded",
+        "vest",
+        "wir",
+        "back",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
       ],
       "equipment": [
         "bodyweight",
         "pull-up-bar"
       ],
+      "path": "exercises/back/weighted-inverted-row.md"
+    },
+    {
+      "id": "exercise_weighted_pull_up",
+      "title": "Weighted Pull-Up",
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "advanced",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "pull-up with weight",
-        "belt pull-up",
-        "loaded pull-up"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "bodyweight",
@@ -1849,40 +2472,59 @@
         "strength",
         "pull"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/back/weighted-chin-up.md",
+        "exercises/back/pull-up.md",
+        "exercises/back/neutral-grip-pull-up.md",
+        "exercises/back/negative-pull-up.md",
+        "exercises/back/band-assisted-pull-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "pull-up with weight",
+        "belt pull-up",
+        "loaded pull-up",
+        "weighted pull up",
+        "wpu"
+      ],
+      "keywords": [
+        "weighted",
+        "pull",
+        "up",
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "with",
+        "weight",
+        "belt",
+        "loaded",
+        "wpu",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "bodyweight",
+        "pull-up-bar"
+      ],
+      "path": "exercises/back/weighted-pull-up.md"
     },
     {
       "id": "exercise_wide_grip_lat_pulldown",
       "title": "Wide-Grip Lat Pulldown",
-      "slug": "wide-grip-lat-pulldown",
-      "path": "exercises/back/wide-grip-lat-pulldown.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "vertical"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "wide pulldown",
-        "wide-grip pulldown"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1891,40 +2533,56 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "exercises/back/neutral-grip-lat-pulldown.md",
+        "exercises/back/close-grip-lat-pulldown.md",
+        "exercises/back/wide-grip-seated-cable-row.md",
+        "exercises/back/lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "wide pulldown",
+        "wide-grip pulldown",
+        "wide grip lat pulldown",
+        "wglp"
+      ],
+      "keywords": [
+        "wide",
+        "grip",
+        "lat",
+        "pulldown",
+        "compound",
+        "cable",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "wglp",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/wide-grip-lat-pulldown.md"
     },
     {
       "id": "exercise_wide_grip_seated_cable_row",
       "title": "Wide-Grip Seated Cable Row",
-      "slug": "wide-grip-seated-cable-row",
-      "path": "exercises/back/wide-grip-seated-cable-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts"
-      ],
-      "equipment": [
-        "cable",
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "beginner",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "wide seated row",
-        "lat bar seated row"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
@@ -1932,40 +2590,57 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/back/seated-cable-row.md",
+        "exercises/back/wide-grip-lat-pulldown.md",
+        "exercises/back/single-arm-cable-row.md",
+        "exercises/back/standing-cable-row.md",
+        "exercises/back/reverse-grip-lat-pulldown.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "wide seated row",
+        "lat bar seated row",
+        "wide grip seated cable row",
+        "wgscr"
+      ],
+      "keywords": [
+        "wide",
+        "grip",
+        "seated",
+        "cable",
+        "row",
+        "compound",
+        "beginner",
+        "hypertrophy",
+        "pull",
+        "lat",
+        "bar",
+        "wgscr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "cable",
+        "machine"
+      ],
+      "path": "exercises/back/wide-grip-seated-cable-row.md"
     },
     {
       "id": "exercise_yates_row",
       "title": "Yates Row",
-      "slug": "yates-row",
-      "path": "exercises/back/yates-row.md",
-      "muscle_primary": [
-        "back"
-      ],
-      "muscle_secondary": [
-        "biceps",
-        "rear-delts",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "back",
       "difficulty": "intermediate",
-      "movement": [
-        "pull"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "underhand barbell row",
-        "supinated bent-over row"
-      ],
+      "evidence_level": "C",
       "tags": [
         "compound",
         "free-weight",
@@ -1973,41 +2648,56 @@
         "hypertrophy",
         "pull"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "exercises/back/meadows-row.md",
+        "exercises/back/barbell-row.md",
+        "exercises/back/renegade-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "underhand barbell row",
+        "supinated bent-over row",
+        "yr"
+      ],
+      "keywords": [
+        "yates",
+        "row",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "pull",
+        "underhand",
+        "barbell",
+        "supinated",
+        "bent",
+        "over",
+        "yr",
+        "back",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "back"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/back/yates-row.md"
     },
     {
       "id": "exercise_barbell_bench_press",
       "title": "Barbell Bench Press",
-      "slug": "barbell-bench-press",
-      "path": "exercises/chest/barbell-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "barbell",
-        "bench",
-        "rack"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "bench press",
-        "flat barbell bench press"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "free-weight",
@@ -2015,159 +2705,218 @@
         "strength",
         "hypertrophy"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/reverse-grip-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "bench press",
+        "flat barbell bench press",
+        "bbp",
+        "bb bench press"
+      ],
+      "keywords": [
+        "barbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "flat",
+        "bbp",
+        "bb",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "path": "exercises/chest/barbell-bench-press.md"
     },
     {
       "id": "exercise_cable_chest_press",
       "title": "Cable Chest Press",
-      "slug": "cable-chest-press",
-      "path": "exercises/chest/cable-chest-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "standing cable press",
-        "dual cable chest press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "cable",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/resistance-band-chest-press.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/squeeze-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "standing cable press",
+        "dual cable chest press",
+        "ccp"
+      ],
+      "keywords": [
+        "cable",
+        "chest",
+        "press",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "standing",
+        "dual",
+        "ccp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/chest/cable-chest-press.md"
     },
     {
       "id": "exercise_cable_fly",
       "title": "Cable Fly",
-      "slug": "cable-fly",
-      "path": "exercises/chest/cable-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
+      "evidence_level": "B",
+      "tags": [
+        "isolation",
+        "cable",
+        "intermediate",
+        "hypertrophy"
       ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
+      "related": [
+        "exercises/chest/low-cable-fly.md",
+        "exercises/chest/high-cable-fly.md",
+        "exercises/chest/seated-cable-fly.md",
+        "exercises/chest/cable-chest-press.md",
+        "exercises/chest/incline-dumbbell-fly.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-fly.md"
       ],
       "aliases": [
         "cable crossover mid",
         "mid cable fly",
-        "standing cable fly"
+        "standing cable fly",
+        "cf"
       ],
-      "tags": [
-        "isolation",
+      "keywords": [
         "cable",
+        "fly",
+        "isolation",
         "intermediate",
-        "hypertrophy"
+        "hypertrophy",
+        "crossover",
+        "mid",
+        "standing",
+        "cf",
+        "chest",
+        "exercise",
+        "workout"
       ],
-      "evidence": "B",
-      "status": "published"
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/chest/cable-fly.md"
     },
     {
       "id": "exercise_chest_dip",
       "title": "Chest Dip",
-      "slug": "chest-dip",
-      "path": "exercises/chest/chest-dip.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
+      "evidence_level": "B",
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
         "hypertrophy",
         "strength"
+      ],
+      "related": [
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/feet-elevated-push-up.md",
+        "exercises/chest/close-grip-push-up.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/cable-chest-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/can-i-build-muscle-at-home.md",
+        "faq/how-long-should-i-rest-between-sets.md"
       ],
       "aliases": [
         "parallel bar dip",
         "forward-lean dip",
-        "pec dip"
+        "pec dip",
+        "cd"
       ],
-      "tags": [
+      "keywords": [
+        "chest",
+        "dip",
         "compound",
         "bodyweight",
         "intermediate",
         "hypertrophy",
-        "strength"
+        "strength",
+        "parallel",
+        "bar",
+        "forward",
+        "lean",
+        "pec",
+        "cd",
+        "exercise",
+        "workout"
       ],
-      "evidence": "B",
-      "status": "published"
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/chest-dip.md"
     },
     {
       "id": "exercise_close_grip_push_up",
       "title": "Close-Grip Push-Up",
-      "slug": "close-grip-push-up",
-      "path": "exercises/chest/close-grip-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "narrow push-up",
-        "diamond push-up adjacent"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -2175,41 +2924,57 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/feet-elevated-push-up.md",
+        "exercises/chest/ring-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/deficit-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "narrow push-up",
+        "diamond push-up adjacent",
+        "close grip push up",
+        "cgpu"
+      ],
+      "keywords": [
+        "close",
+        "grip",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "narrow",
+        "diamond",
+        "adjacent",
+        "cgpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/close-grip-push-up.md"
     },
     {
       "id": "exercise_decline_barbell_bench_press",
       "title": "Decline Barbell Bench Press",
-      "slug": "decline-barbell-bench-press",
-      "path": "exercises/chest/decline-barbell-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "barbell",
-        "bench",
-        "rack"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "decline bench press",
-        "decline barbell press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -2217,159 +2982,219 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/reverse-grip-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "decline bench press",
+        "decline barbell press",
+        "dbbp",
+        "decline bb bench press"
+      ],
+      "keywords": [
+        "decline",
+        "barbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "dbbp",
+        "bb",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "path": "exercises/chest/decline-barbell-bench-press.md"
     },
     {
       "id": "exercise_decline_dumbbell_fly",
       "title": "Decline Dumbbell Fly",
-      "slug": "decline-dumbbell-fly",
-      "path": "exercises/chest/decline-dumbbell-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "decline DB fly"
-      ],
+      "evidence_level": "C",
       "tags": [
         "isolation",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/chest/incline-dumbbell-fly.md",
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md"
+      ],
+      "aliases": [
+        "decline db fly",
+        "ddf",
+        "decline fly"
+      ],
+      "keywords": [
+        "decline",
+        "dumbbell",
+        "fly",
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "db",
+        "ddf",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/decline-dumbbell-fly.md"
     },
     {
       "id": "exercise_decline_dumbbell_press",
       "title": "Decline Dumbbell Press",
-      "slug": "decline-dumbbell-press",
-      "path": "exercises/chest/decline-dumbbell-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "decline DB press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/smith-machine-decline-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "decline db press",
+        "ddp",
+        "decline press"
+      ],
+      "keywords": [
+        "decline",
+        "dumbbell",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "db",
+        "ddp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/decline-dumbbell-press.md"
     },
     {
       "id": "exercise_deficit_push_up",
       "title": "Deficit Push-Up",
-      "slug": "deficit-push-up",
-      "path": "exercises/chest/deficit-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
+      "evidence_level": "B",
+      "tags": [
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy"
       ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
+      "related": [
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/feet-elevated-push-up.md",
+        "exercises/chest/close-grip-push-up.md",
+        "exercises/chest/wide-push-up.md",
+        "exercises/chest/wall-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
       ],
       "aliases": [
         "push-up with deficit",
         "handle push-up",
-        "parallette push-up"
+        "parallette push-up",
+        "deficit push up",
+        "dpu"
       ],
-      "tags": [
+      "keywords": [
+        "deficit",
+        "push",
+        "up",
         "compound",
         "bodyweight",
         "intermediate",
-        "hypertrophy"
+        "hypertrophy",
+        "with",
+        "handle",
+        "parallette",
+        "dpu",
+        "chest",
+        "exercise",
+        "workout"
       ],
-      "evidence": "B",
-      "status": "published"
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/deficit-push-up.md"
     },
     {
       "id": "exercise_dumbbell_bench_press",
       "title": "Dumbbell Bench Press",
-      "slug": "dumbbell-bench-press",
-      "path": "exercises/chest/dumbbell-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "flat dumbbell press",
-        "DB bench press",
-        "dumbbell chest press"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "free-weight",
@@ -2377,79 +3202,111 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "flat dumbbell press",
+        "db bench press",
+        "dumbbell chest press",
+        "dbp",
+        "bench press"
+      ],
+      "keywords": [
+        "dumbbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "flat",
+        "db",
+        "chest",
+        "dbp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/dumbbell-bench-press.md"
     },
     {
       "id": "exercise_dumbbell_fly",
       "title": "Dumbbell Fly",
-      "slug": "dumbbell-fly",
-      "path": "exercises/chest/dumbbell-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "flat dumbbell fly",
-        "DB fly"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/incline-dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-fly.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/squeeze-press.md"
+      ],
+      "aliases": [
+        "flat dumbbell fly",
+        "db fly",
+        "df",
+        "fly"
+      ],
+      "keywords": [
+        "dumbbell",
+        "fly",
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "flat",
+        "db",
+        "df",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/dumbbell-fly.md"
     },
     {
       "id": "exercise_feet_elevated_push_up",
       "title": "Feet-Elevated Push-Up",
-      "slug": "feet-elevated-push-up",
-      "path": "exercises/chest/feet-elevated-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "decline push-up",
-        "feet-elevated press-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -2457,39 +3314,56 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/close-grip-push-up.md",
+        "exercises/chest/ring-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/deficit-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "decline push-up",
+        "feet-elevated press-up",
+        "feet elevated push up",
+        "fepu"
+      ],
+      "keywords": [
+        "feet",
+        "elevated",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "decline",
+        "press",
+        "fepu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/feet-elevated-push-up.md"
     },
     {
       "id": "exercise_floor_press",
       "title": "Floor Press",
-      "slug": "floor-press",
-      "path": "exercises/chest/floor-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "barbell floor press",
-        "dumbbell floor press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -2497,316 +3371,430 @@
         "strength",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "barbell floor press",
+        "dumbbell floor press",
+        "fp"
+      ],
+      "keywords": [
+        "floor",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "barbell",
+        "dumbbell",
+        "fp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/chest/floor-press.md"
     },
     {
       "id": "exercise_high_cable_fly",
       "title": "High Cable Fly",
-      "slug": "high-cable-fly",
-      "path": "exercises/chest/high-cable-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "high-to-low cable fly",
-        "high cable crossover"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/low-cable-fly.md",
+        "exercises/chest/cable-fly.md",
+        "exercises/chest/seated-cable-fly.md",
+        "exercises/chest/cable-chest-press.md",
+        "exercises/chest/incline-dumbbell-fly.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-fly.md"
+      ],
+      "aliases": [
+        "high-to-low cable fly",
+        "high cable crossover",
+        "hcf"
+      ],
+      "keywords": [
+        "high",
+        "cable",
+        "fly",
+        "isolation",
+        "intermediate",
+        "hypertrophy",
+        "to",
+        "low",
+        "crossover",
+        "hcf",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/chest/high-cable-fly.md"
     },
     {
       "id": "exercise_incline_barbell_bench_press",
       "title": "Incline Barbell Bench Press",
-      "slug": "incline-barbell-bench-press",
-      "path": "exercises/chest/incline-barbell-bench-press.md",
+      "category": "exercise",
+      "subcategory": "chest",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength"
+      ],
+      "related": [
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/reverse-grip-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "incline bench press",
+        "incline barbell press",
+        "ibbp",
+        "incline bb bench press"
+      ],
+      "keywords": [
+        "incline",
+        "barbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "ibbp",
+        "bb",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
       ],
       "equipment": [
         "barbell",
         "bench",
         "rack"
       ],
-      "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "incline bench press",
-        "incline barbell press"
-      ],
-      "tags": [
-        "compound",
-        "free-weight",
-        "intermediate",
-        "hypertrophy",
-        "strength"
-      ],
-      "evidence": "A",
-      "status": "published"
+      "path": "exercises/chest/incline-barbell-bench-press.md"
     },
     {
       "id": "exercise_incline_dumbbell_fly",
       "title": "Incline Dumbbell Fly",
-      "slug": "incline-dumbbell-fly",
-      "path": "exercises/chest/incline-dumbbell-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "incline DB fly"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "exercise_incline_dumbbell_press",
-      "title": "Incline Dumbbell Press",
-      "slug": "incline-dumbbell-press",
-      "path": "exercises/chest/incline-dumbbell-press.md",
+      "related": [
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-fly.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/incline-barbell-bench-press.md"
+      ],
+      "aliases": [
+        "incline db fly",
+        "idf",
+        "incline fly"
+      ],
+      "keywords": [
+        "incline",
+        "dumbbell",
+        "fly",
+        "isolation",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "db",
+        "idf",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
       ],
       "equipment": [
         "dumbbell",
         "bench"
       ],
+      "path": "exercises/chest/incline-dumbbell-fly.md"
+    },
+    {
+      "id": "exercise_incline_dumbbell_press",
+      "title": "Incline Dumbbell Press",
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy"
-      ],
-      "aliases": [
-        "incline DB press",
-        "incline dumbbell bench press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/smith-machine-incline-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "incline db press",
+        "incline dumbbell bench press",
+        "idp",
+        "incline press"
+      ],
+      "keywords": [
+        "incline",
+        "dumbbell",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "db",
+        "bench",
+        "idp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/incline-dumbbell-press.md"
     },
     {
       "id": "exercise_incline_machine_chest_press",
       "title": "Incline Machine Chest Press",
-      "slug": "incline-machine-chest-press",
-      "path": "exercises/chest/incline-machine-chest-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "incline chest press machine"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/smith-machine-incline-press.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/smith-machine-decline-press.md",
+        "exercises/chest/smith-machine-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "incline chest press machine",
+        "imcp"
+      ],
+      "keywords": [
+        "incline",
+        "machine",
+        "chest",
+        "press",
+        "compound",
+        "beginner",
+        "hypertrophy",
+        "imcp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/chest/incline-machine-chest-press.md"
     },
     {
       "id": "exercise_incline_push_up",
       "title": "Incline Push-Up",
-      "slug": "incline-push-up",
-      "path": "exercises/chest/incline-push-up.md",
+      "category": "exercise",
+      "subcategory": "chest",
+      "difficulty": "beginner",
+      "evidence_level": "A",
+      "tags": [
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy"
+      ],
+      "related": [
+        "exercises/chest/wide-push-up.md",
+        "exercises/chest/wall-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/knee-push-up.md",
+        "exercises/chest/weighted-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "hands-elevated push-up",
+        "elevated push-up",
+        "incline push up",
+        "ipu"
+      ],
+      "keywords": [
+        "incline",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "hands",
+        "elevated",
+        "ipu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
       ],
       "equipment": [
         "bodyweight",
         "bench"
       ],
-      "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "hands-elevated push-up",
-        "elevated push-up"
-      ],
-      "tags": [
-        "compound",
-        "bodyweight",
-        "beginner",
-        "hypertrophy"
-      ],
-      "evidence": "A",
-      "status": "published"
+      "path": "exercises/chest/incline-push-up.md"
     },
     {
       "id": "exercise_knee_push_up",
       "title": "Knee Push-Up",
-      "slug": "knee-push-up",
-      "path": "exercises/chest/knee-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "modified push-up",
-        "kneeling push-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/wide-push-up.md",
+        "exercises/chest/wall-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/incline-push-up.md",
+        "exercises/chest/weighted-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "modified push-up",
+        "kneeling push-up",
+        "knee push up",
+        "kpu"
+      ],
+      "keywords": [
+        "knee",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "modified",
+        "kneeling",
+        "kpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/knee-push-up.md"
     },
     {
       "id": "exercise_landmine_press",
       "title": "Landmine Press",
-      "slug": "landmine-press",
-      "path": "exercises/chest/landmine-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts",
-        "triceps",
-        "abs"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "angled barbell press",
-        "single-arm landmine press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -2814,118 +3802,158 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/resistance-band-chest-press.md",
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/floor-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "angled barbell press",
+        "single-arm landmine press",
+        "lp"
+      ],
+      "keywords": [
+        "landmine",
+        "press",
+        "compound",
+        "free-weight",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "angled",
+        "barbell",
+        "single",
+        "arm",
+        "lp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/chest/landmine-press.md"
     },
     {
       "id": "exercise_low_cable_fly",
       "title": "Low Cable Fly",
-      "slug": "low-cable-fly",
-      "path": "exercises/chest/low-cable-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "cable"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "low-to-high cable fly",
-        "low cable crossover"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/high-cable-fly.md",
+        "exercises/chest/cable-fly.md",
+        "exercises/chest/seated-cable-fly.md",
+        "exercises/chest/cable-chest-press.md",
+        "exercises/chest/incline-dumbbell-fly.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/dumbbell-fly.md",
+        "exercises/chest/decline-dumbbell-fly.md"
+      ],
+      "aliases": [
+        "low-to-high cable fly",
+        "low cable crossover",
+        "lcf"
+      ],
+      "keywords": [
+        "low",
+        "cable",
+        "fly",
+        "isolation",
+        "intermediate",
+        "hypertrophy",
+        "to",
+        "high",
+        "crossover",
+        "lcf",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "path": "exercises/chest/low-cable-fly.md"
     },
     {
       "id": "exercise_machine_chest_press",
       "title": "Machine Chest Press",
-      "slug": "machine-chest-press",
-      "path": "exercises/chest/machine-chest-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "seated chest press",
-        "chest press machine"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/smith-machine-incline-press.md",
+        "exercises/chest/smith-machine-decline-press.md",
+        "exercises/chest/smith-machine-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "seated chest press",
+        "chest press machine",
+        "mcp"
+      ],
+      "keywords": [
+        "machine",
+        "chest",
+        "press",
+        "compound",
+        "beginner",
+        "hypertrophy",
+        "seated",
+        "mcp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/chest/machine-chest-press.md"
     },
     {
       "id": "exercise_pause_barbell_bench_press",
       "title": "Pause Barbell Bench Press",
-      "slug": "pause-barbell-bench-press",
-      "path": "exercises/chest/pause-barbell-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "barbell",
-        "bench",
-        "rack"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "paused bench press",
-        "competition pause bench"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "free-weight",
@@ -2933,78 +3961,113 @@
         "strength",
         "hypertrophy"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/reverse-grip-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "paused bench press",
+        "competition pause bench",
+        "pbbp",
+        "pause bench press",
+        "pause bb bench press"
+      ],
+      "keywords": [
+        "pause",
+        "barbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "paused",
+        "competition",
+        "pbbp",
+        "bb",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "barbell",
+        "bench",
+        "rack"
+      ],
+      "path": "exercises/chest/pause-barbell-bench-press.md"
     },
     {
       "id": "exercise_pec_deck",
       "title": "Pec Deck",
-      "slug": "pec-deck",
-      "path": "exercises/chest/pec-deck.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "pec deck fly",
-        "machine fly",
-        "butterfly machine"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "machine",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "exercise_plate_loaded_chest_press",
-      "title": "Plate-Loaded Chest Press",
-      "slug": "plate-loaded-chest-press",
-      "path": "exercises/chest/plate-loaded-chest-press.md",
+      "related": [
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/svend-press.md",
+        "exercises/chest/seated-cable-fly.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "exercises/chest/wide-push-up.md"
+      ],
+      "aliases": [
+        "pec deck fly",
+        "machine fly",
+        "butterfly machine",
+        "pd"
+      ],
+      "keywords": [
+        "pec",
+        "deck",
+        "isolation",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "fly",
+        "butterfly",
+        "pd",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
       ],
       "equipment": [
         "machine"
       ],
+      "path": "exercises/chest/pec-deck.md"
+    },
+    {
+      "id": "exercise_plate_loaded_chest_press",
+      "title": "Plate-Loaded Chest Press",
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "hammer chest press",
-        "iso-lateral chest press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
@@ -3012,40 +4075,56 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/resistance-band-chest-press.md",
+        "exercises/chest/cable-chest-press.md",
+        "exercises/chest/smith-machine-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "hammer chest press",
+        "iso-lateral chest press",
+        "plate loaded chest press",
+        "plcp"
+      ],
+      "keywords": [
+        "plate",
+        "loaded",
+        "chest",
+        "press",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "hammer",
+        "iso",
+        "lateral",
+        "plcp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/chest/plate-loaded-chest-press.md"
     },
     {
       "id": "exercise_push_up",
       "title": "Push-Up",
-      "slug": "push-up",
-      "path": "exercises/chest/push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "pushup",
-        "press-up"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "bodyweight",
@@ -3053,121 +4132,161 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "A",
-      "status": "published"
+      "related": [
+        "exercises/chest/wide-push-up.md",
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/wall-push-up.md",
+        "exercises/chest/ring-push-up.md",
+        "exercises/chest/knee-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "pushup",
+        "press-up",
+        "push up",
+        "pu"
+      ],
+      "keywords": [
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "strength",
+        "pushup",
+        "press",
+        "pu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/push-up.md"
     },
     {
       "id": "exercise_resistance_band_chest_press",
       "title": "Resistance Band Chest Press",
-      "slug": "resistance-band-chest-press",
-      "path": "exercises/chest/resistance-band-chest-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "resistance-band"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "band chest press",
-        "elastic chest press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "band",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/landmine-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "band chest press",
+        "elastic chest press",
+        "rbcp"
+      ],
+      "keywords": [
+        "resistance",
+        "band",
+        "chest",
+        "press",
+        "compound",
+        "beginner",
+        "hypertrophy",
+        "elastic",
+        "rbcp",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "resistance-band"
+      ],
+      "path": "exercises/chest/resistance-band-chest-press.md"
     },
     {
       "id": "exercise_reverse_grip_bench_press",
       "title": "Reverse-Grip Bench Press",
-      "slug": "reverse-grip-bench-press",
-      "path": "exercises/chest/reverse-grip-bench-press.md",
+      "category": "exercise",
+      "subcategory": "chest",
+      "difficulty": "advanced",
+      "evidence_level": "C",
+      "tags": [
+        "compound",
+        "free-weight",
+        "advanced",
+        "hypertrophy"
+      ],
+      "related": [
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/barbell-bench-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "supinated bench press",
+        "reverse grip bench",
+        "reverse grip bench press",
+        "rgbp"
+      ],
+      "keywords": [
+        "reverse",
+        "grip",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "advanced",
+        "hypertrophy",
+        "supinated",
+        "rgbp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
       ],
       "equipment": [
         "barbell",
         "bench",
         "rack"
       ],
-      "difficulty": "advanced",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "supinated bench press",
-        "reverse grip bench"
-      ],
-      "tags": [
-        "compound",
-        "free-weight",
-        "advanced",
-        "hypertrophy"
-      ],
-      "evidence": "C",
-      "status": "published"
+      "path": "exercises/chest/reverse-grip-bench-press.md"
     },
     {
       "id": "exercise_ring_push_up",
       "title": "Ring Push-Up",
-      "slug": "ring-push-up",
-      "path": "exercises/chest/ring-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "advanced",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "gymnastic ring push-up",
-        "suspended push-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
@@ -3175,80 +4294,108 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/weighted-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/feet-elevated-push-up.md",
+        "exercises/chest/close-grip-push-up.md",
+        "exercises/chest/wide-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "gymnastic ring push-up",
+        "suspended push-up",
+        "ring push up",
+        "rpu"
+      ],
+      "keywords": [
+        "ring",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "advanced",
+        "hypertrophy",
+        "strength",
+        "gymnastic",
+        "suspended",
+        "rpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/ring-push-up.md"
     },
     {
       "id": "exercise_seated_cable_fly",
       "title": "Seated Cable Fly",
-      "slug": "seated-cable-fly",
-      "path": "exercises/chest/seated-cable-fly.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [
-        "cable",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "supported cable fly",
-        "bench cable fly"
-      ],
+      "evidence_level": "B",
       "tags": [
         "isolation",
         "cable",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/low-cable-fly.md",
+        "exercises/chest/high-cable-fly.md",
+        "exercises/chest/cable-fly.md",
+        "exercises/chest/incline-dumbbell-fly.md",
+        "exercises/chest/dumbbell-fly.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/decline-dumbbell-fly.md",
+        "exercises/chest/incline-push-up.md"
+      ],
+      "aliases": [
+        "supported cable fly",
+        "bench cable fly",
+        "scf"
+      ],
+      "keywords": [
+        "seated",
+        "cable",
+        "fly",
+        "isolation",
+        "beginner",
+        "hypertrophy",
+        "supported",
+        "bench",
+        "scf",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "cable",
+        "bench"
+      ],
+      "path": "exercises/chest/seated-cable-fly.md"
     },
     {
       "id": "exercise_single_arm_dumbbell_bench_press",
       "title": "Single-Arm Dumbbell Bench Press",
-      "slug": "single-arm-dumbbell-bench-press",
-      "path": "exercises/chest/single-arm-dumbbell-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "one-arm DB bench",
-        "unilateral dumbbell press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -3256,40 +4403,61 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "one-arm db bench",
+        "unilateral dumbbell press",
+        "single arm dumbbell bench press",
+        "sadbp",
+        "single-arm bench press",
+        "single-arm db bench press"
+      ],
+      "keywords": [
+        "single",
+        "arm",
+        "dumbbell",
+        "bench",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "one",
+        "db",
+        "unilateral",
+        "sadbp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/single-arm-dumbbell-bench-press.md"
     },
     {
       "id": "exercise_smith_machine_bench_press",
       "title": "Smith Machine Bench Press",
-      "slug": "smith-machine-bench-press",
-      "path": "exercises/chest/smith-machine-bench-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "smith-machine",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "smith bench press",
-        "smith machine bench"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
@@ -3297,236 +4465,317 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/smith-machine-incline-press.md",
+        "exercises/chest/smith-machine-decline-press.md",
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/pause-barbell-bench-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "smith bench press",
+        "smith machine bench",
+        "smbp"
+      ],
+      "keywords": [
+        "smith",
+        "machine",
+        "bench",
+        "press",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "smbp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "path": "exercises/chest/smith-machine-bench-press.md"
     },
     {
       "id": "exercise_smith_machine_decline_press",
       "title": "Smith Machine Decline Press",
-      "slug": "smith-machine-decline-press",
-      "path": "exercises/chest/smith-machine-decline-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "smith-machine",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "smith decline bench",
-        "smith decline press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/smith-machine-incline-press.md",
+        "exercises/chest/smith-machine-bench-press.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/decline-barbell-bench-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "smith decline bench",
+        "smith decline press",
+        "smdp"
+      ],
+      "keywords": [
+        "smith",
+        "machine",
+        "decline",
+        "press",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "bench",
+        "smdp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "path": "exercises/chest/smith-machine-decline-press.md"
     },
     {
       "id": "exercise_smith_machine_incline_press",
       "title": "Smith Machine Incline Press",
-      "slug": "smith-machine-incline-press",
-      "path": "exercises/chest/smith-machine-incline-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "smith-machine",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "smith incline bench",
-        "smith incline press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/smith-machine-decline-press.md",
+        "exercises/chest/smith-machine-bench-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/incline-barbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "smith incline bench",
+        "smith incline press",
+        "smip"
+      ],
+      "keywords": [
+        "smith",
+        "machine",
+        "incline",
+        "press",
+        "compound",
+        "intermediate",
+        "hypertrophy",
+        "bench",
+        "smip",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "smith-machine",
+        "bench"
+      ],
+      "path": "exercises/chest/smith-machine-incline-press.md"
     },
     {
       "id": "exercise_squeeze_press",
       "title": "Squeeze Press",
-      "slug": "squeeze-press",
-      "path": "exercises/chest/squeeze-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts"
-      ],
-      "equipment": [
-        "dumbbell",
-        "bench"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "hex press",
-        "crush press",
-        "dumbbell squeeze press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
         "intermediate",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/single-arm-dumbbell-bench-press.md",
+        "exercises/chest/incline-dumbbell-press.md",
+        "exercises/chest/dumbbell-bench-press.md",
+        "exercises/chest/decline-dumbbell-press.md",
+        "exercises/chest/pause-barbell-bench-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "hex press",
+        "crush press",
+        "dumbbell squeeze press",
+        "sp"
+      ],
+      "keywords": [
+        "squeeze",
+        "press",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "hypertrophy",
+        "hex",
+        "crush",
+        "dumbbell",
+        "sp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "dumbbell",
+        "bench"
+      ],
+      "path": "exercises/chest/squeeze-press.md"
     },
     {
       "id": "exercise_svend_press",
       "title": "Svend Press",
-      "slug": "svend-press",
-      "path": "exercises/chest/svend-press.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "front-delts"
-      ],
-      "equipment": [],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "plate pinch press",
-        "squeeze press plate"
-      ],
+      "evidence_level": "C",
       "tags": [
         "isolation",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "C",
-      "status": "published"
+      "related": [
+        "exercises/chest/resistance-band-chest-press.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/landmine-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "exercises/chest/squeeze-press.md",
+        "exercises/chest/pec-deck.md"
+      ],
+      "aliases": [
+        "plate pinch press",
+        "squeeze press plate",
+        "sp"
+      ],
+      "keywords": [
+        "svend",
+        "press",
+        "isolation",
+        "beginner",
+        "hypertrophy",
+        "plate",
+        "pinch",
+        "squeeze",
+        "sp",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [],
+      "path": "exercises/chest/svend-press.md"
     },
     {
       "id": "exercise_wall_push_up",
       "title": "Wall Push-Up",
-      "slug": "wall-push-up",
-      "path": "exercises/chest/wall-push-up.md",
-      "muscle_primary": [
-        "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
-      ],
-      "equipment": [
-        "bodyweight"
-      ],
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "standing wall press-up",
-        "wall press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "exercise_weighted_push_up",
-      "title": "Weighted Push-Up",
-      "slug": "weighted-push-up",
-      "path": "exercises/chest/weighted-push-up.md",
+      "related": [
+        "exercises/chest/wide-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/knee-push-up.md",
+        "exercises/chest/incline-push-up.md",
+        "exercises/chest/weighted-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "standing wall press-up",
+        "wall press",
+        "wall push up",
+        "wpu"
+      ],
+      "keywords": [
+        "wall",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "standing",
+        "press",
+        "wpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
       ],
       "equipment": [
         "bodyweight"
       ],
+      "path": "exercises/chest/wall-push-up.md"
+    },
+    {
+      "id": "exercise_weighted_push_up",
+      "title": "Weighted Push-Up",
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "intermediate",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "push-up with vest",
-        "loaded push-up"
-      ],
+      "evidence_level": "A",
       "tags": [
         "compound",
         "bodyweight",
@@ -3534,158 +4783,220 @@
         "hypertrophy",
         "strength"
       ],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "exercise_wide_push_up",
-      "title": "Wide Push-Up",
-      "slug": "wide-push-up",
-      "path": "exercises/chest/wide-push-up.md",
+      "related": [
+        "exercises/chest/feet-elevated-push-up.md",
+        "exercises/chest/close-grip-push-up.md",
+        "exercises/chest/ring-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/deficit-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "push-up with vest",
+        "loaded push-up",
+        "weighted push up",
+        "wpu"
+      ],
+      "keywords": [
+        "weighted",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "intermediate",
+        "hypertrophy",
+        "strength",
+        "with",
+        "vest",
+        "loaded",
+        "wpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "chest"
-      ],
-      "muscle_secondary": [
-        "triceps",
-        "front-delts",
-        "abs"
       ],
       "equipment": [
         "bodyweight"
       ],
+      "path": "exercises/chest/weighted-push-up.md"
+    },
+    {
+      "id": "exercise_wide_push_up",
+      "title": "Wide Push-Up",
+      "category": "exercise",
+      "subcategory": "chest",
       "difficulty": "beginner",
-      "movement": [
-        "push"
-      ],
-      "plane": [
-        "horizontal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "wide-grip push-up"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "bodyweight",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/chest/wall-push-up.md",
+        "exercises/chest/push-up.md",
+        "exercises/chest/knee-push-up.md",
+        "exercises/chest/incline-push-up.md",
+        "exercises/chest/weighted-push-up.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/do-push-ups-build-chest.md",
+        "faq/can-i-build-muscle-at-home.md"
+      ],
+      "aliases": [
+        "wide-grip push-up",
+        "wide push up",
+        "wpu"
+      ],
+      "keywords": [
+        "wide",
+        "push",
+        "up",
+        "compound",
+        "bodyweight",
+        "beginner",
+        "hypertrophy",
+        "grip",
+        "wpu",
+        "chest",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "chest"
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "path": "exercises/chest/wide-push-up.md"
     },
     {
       "id": "exercise_back_squat",
       "title": "Back Squat",
-      "slug": "back-squat",
-      "path": "exercises/legs/back-squat.md",
+      "category": "exercise",
+      "subcategory": "legs",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy"
+      ],
+      "related": [
+        "exercises/legs/romanian-deadlift.md",
+        "exercises/legs/leg-press.md",
+        "exercises/back/rack-pull.md",
+        "exercises/back/t-bar-row.md",
+        "exercises/back/pendlay-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "barbell back squat",
+        "high-bar or low-bar squat (variant dependent)",
+        "bs"
+      ],
+      "keywords": [
+        "back",
+        "squat",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "barbell",
+        "high",
+        "bar",
+        "or",
+        "low",
+        "variant",
+        "dependent",
+        "bs",
+        "legs",
+        "exercise",
+        "workout"
+      ],
       "muscle_primary": [
         "legs",
         "glutes"
-      ],
-      "muscle_secondary": [
-        "abs",
-        "back"
       ],
       "equipment": [
         "barbell",
         "rack"
       ],
-      "difficulty": "intermediate",
-      "movement": [
-        "squat"
-      ],
-      "plane": [
-        "sagittal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "barbell back squat",
-        "high-bar or low-bar squat (variant dependent)"
-      ],
-      "tags": [
-        "compound",
-        "free-weight",
-        "intermediate",
-        "strength",
-        "hypertrophy"
-      ],
-      "evidence": "A",
-      "status": "published"
+      "path": "exercises/legs/back-squat.md"
     },
     {
       "id": "exercise_leg_press",
       "title": "Leg Press",
-      "slug": "leg-press",
-      "path": "exercises/legs/leg-press.md",
-      "muscle_primary": [
-        "legs"
-      ],
-      "muscle_secondary": [
-        "glutes"
-      ],
-      "equipment": [
-        "machine"
-      ],
+      "category": "exercise",
+      "subcategory": "legs",
       "difficulty": "beginner",
-      "movement": [
-        "squat"
-      ],
-      "plane": [
-        "sagittal"
-      ],
-      "goal": [
-        "hypertrophy"
-      ],
-      "aliases": [
-        "machine leg press",
-        "sled leg press"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "machine",
         "beginner",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/legs/back-squat.md",
+        "exercises/legs/romanian-deadlift.md",
+        "exercises/chest/plate-loaded-chest-press.md",
+        "exercises/chest/machine-chest-press.md",
+        "exercises/chest/incline-machine-chest-press.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/are-machines-worse-than-free-weights.md",
+        "faq/how-long-should-i-rest-between-sets.md"
+      ],
+      "aliases": [
+        "machine leg press",
+        "sled leg press",
+        "lp"
+      ],
+      "keywords": [
+        "leg",
+        "press",
+        "compound",
+        "machine",
+        "beginner",
+        "hypertrophy",
+        "sled",
+        "lp",
+        "legs",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "legs"
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "path": "exercises/legs/leg-press.md"
     },
     {
       "id": "exercise_romanian_deadlift",
       "title": "Romanian Deadlift",
-      "slug": "romanian-deadlift",
-      "path": "exercises/legs/romanian-deadlift.md",
-      "muscle_primary": [
-        "legs",
-        "glutes"
-      ],
-      "muscle_secondary": [
-        "back",
-        "forearms"
-      ],
-      "equipment": [
-        "barbell"
-      ],
+      "category": "exercise",
+      "subcategory": "legs",
       "difficulty": "intermediate",
-      "movement": [
-        "hinge"
-      ],
-      "plane": [
-        "sagittal"
-      ],
-      "goal": [
-        "hypertrophy",
-        "strength"
-      ],
-      "aliases": [
-        "RDL",
-        "barbell Romanian deadlift"
-      ],
+      "evidence_level": "B",
       "tags": [
         "compound",
         "free-weight",
@@ -3693,8 +5004,46 @@
         "strength",
         "hypertrophy"
       ],
-      "evidence": "B",
-      "status": "published"
+      "related": [
+        "exercises/legs/back-squat.md",
+        "exercises/back/rack-pull.md",
+        "exercises/legs/leg-press.md",
+        "exercises/back/kroc-row.md",
+        "exercises/back/t-bar-row.md",
+        "science/training-principles/progressive-overload.md",
+        "science/training-principles/training-volume.md",
+        "science/training-principles/reps-in-reserve.md",
+        "faq/how-long-should-i-rest-between-sets.md",
+        "faq/how-many-sets-per-week.md"
+      ],
+      "aliases": [
+        "rdl",
+        "barbell romanian deadlift",
+        "rd"
+      ],
+      "keywords": [
+        "romanian",
+        "deadlift",
+        "compound",
+        "free-weight",
+        "intermediate",
+        "strength",
+        "hypertrophy",
+        "rdl",
+        "barbell",
+        "rd",
+        "legs",
+        "exercise",
+        "workout"
+      ],
+      "muscle_primary": [
+        "legs",
+        "glutes"
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "path": "exercises/legs/romanian-deadlift.md"
     }
   ]
 }

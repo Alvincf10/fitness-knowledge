@@ -2,44 +2,59 @@
 id: exercise_incline_machine_chest_press
 title: Incline Machine Chest Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - machine
+subcategory: chest
+description: The incline machine chest press provides guided upper-horizontal pressing with elevated relative clavicular pectoralis and anterior deltoid demand, with lower skill requirements than free-weight incline presses.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - incline chest press machine
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
+- compound
+- machine
+- beginner
+- hypertrophy
+related:
+- exercises/chest/machine-chest-press.md
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- incline chest press machine
+- imcp
+keywords:
+- incline
+- machine
+- chest
+- press
+- compound
+- beginner
+- hypertrophy
+- imcp
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- machine
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/smith-machine-incline-press.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/smith-machine-decline-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Incline Machine Chest Press
@@ -158,7 +173,7 @@ Efficient accessory/compound hybrid.
 
 Adjust or avoid if path irritates shoulders. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/machine-chest-press.md
 - exercises/chest/smith-machine-incline-press.md
@@ -170,6 +185,7 @@ Adjust or avoid if path irritates shoulders. This is training guidance, not medi
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

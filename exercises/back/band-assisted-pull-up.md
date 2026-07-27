@@ -2,48 +2,67 @@
 id: exercise_band_assisted_pull_up
 title: Band-Assisted Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
-  - resistance-band
+subcategory: back
+description: The band-assisted pull-up uses a looped resistance band to provide accommodating assistance (more help at the bottom, less near the top), bridging bodyweight vertical pulling skill and strength.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - band pull-up
-  - loop-band assisted pull-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/assisted-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- band pull-up
+- loop-band assisted pull-up
+- band assisted pull up
+- bapu
+keywords:
+- band
+- assisted
+- pull
+- up
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- loop
+- bapu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+- resistance-band
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/assisted-pull-up.md
-  - exercises/back/negative-pull-up.md
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Band-Assisted Pull-Up
@@ -165,7 +184,7 @@ Convenient when a machine is unavailable.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Ensure band and anchor integrity before each set.
 
-## Related
+## Related Articles
 
 - exercises/back/assisted-pull-up.md
 - exercises/back/negative-pull-up.md
@@ -177,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

@@ -2,19 +2,48 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_reverse_grip_bench_press
 title: How explosive should the concentric be on the Reverse-Grip Bench Press?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Reverse-Grip Bench Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-reverse-grip-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+aliases:
+- how explosive should the concentric be on the reverse grip bench press
+- how explosive should the concentric be on the reversegrip bench press
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- reverse
+- grip
+- bench
+- press
+- technique
+- chest
+- exercise
+- reversegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Reverse-Grip Bench Press?
@@ -40,3 +69,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/reverse-grip-bench-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-reverse-grip-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+

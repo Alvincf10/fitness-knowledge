@@ -2,19 +2,52 @@
 id: faq_is_it_okay_if_the_neutral_grip_pull_up_feels_harder_on_one_side
 title: Is it okay if the Neutral-Grip Pull-Up feels harder on one side?
 category: faq
+subcategory: technique
+description: Is it okay if the Neutral-Grip Pull-Up feels harder on one side?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/neutral-grip-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/neutral-grip-pull-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-neutral-grip-lat-pulldown-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-assisted-pull-up-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-band-assisted-pull-up-feels-harder-on-one-side.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- is it okay if the neutral grip pull up feels harder on one side
+- is it okay if the neutralgrip pullup feels harder on one side
+keywords:
+- is
+- it
+- okay
+- if
+- the
+- neutral
+- grip
+- pull
+- up
+- feels
+- harder
+- 'on'
+- one
+- side
+- technique
+- back
+- exercise
+- neutralgrip
+- pullup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is it okay if the Neutral-Grip Pull-Up feels harder on one side?
@@ -40,3 +73,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/neutral-grip-pull-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-neutral-grip-lat-pulldown-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-assisted-pull-up-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-band-assisted-pull-up-feels-harder-on-one-side.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+

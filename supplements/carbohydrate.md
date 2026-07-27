@@ -2,29 +2,39 @@
 id: supplement_carbohydrate
 title: Carbohydrate
 category: supplement
-goals:
-  - performance
-  - recovery
+subcategory: general
+description: Carbohydrate supplements (gels, drinks, powders) provide rapidly available fuel for training and competition. They are among the most evidence-based performance nutrition tools for glycogen-demanding sessions, not a requirement for every short lifting workout.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
-  - endurance
+- supplement
+- evidence
+- endurance
+related:
+- nutrition/carbohydrates.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- supplements/electrolytes.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md
+- supplements/magnesium.md
+- supplements/hmb.md
+aliases: []
+keywords:
+- carbohydrate
+- supplement
+- evidence
+- endurance
+goals:
+- performance
+- recovery
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/carbohydrates.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - supplements/electrolytes.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/dietary-nitrate.md
-  - supplements/beta-alanine.md
-  - supplements/whey-protein.md
-  - supplements/magnesium.md
-  - supplements/hmb.md
 ---
 
 # Carbohydrate
@@ -84,7 +94,7 @@ ACSM and ISSN guidance strongly support carbohydrate for endurance performance a
 - Jeukendrup AE (2014)
 - Kerksick CM (2018)
 
-## Related
+## Related Articles
 
 - nutrition/carbohydrates.md
 - nutrition/pre-workout-nutrition.md
@@ -96,3 +106,4 @@ ACSM and ISSN guidance strongly support carbohydrate for endurance performance a
 - supplements/whey-protein.md
 - supplements/magnesium.md
 - supplements/hmb.md
+

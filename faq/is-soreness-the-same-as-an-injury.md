@@ -2,18 +2,38 @@
 id: faq_is_soreness_the_same_as_an_injury
 title: Is soreness the same as an injury?
 category: faq
+subcategory: injury
+description: Is soreness the same as an injury?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - injury
-  - recovery
+- injury
+- recovery
 related:
-  - science/training-principles/training-volume.md
-  - faq/how-important-is-sleep.md
-  - science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- science/training-principles/progressive-overload.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- faq/can-stress-outside-the-gym-limit-gains.md
+aliases:
+- is soreness the same as an injury
+keywords:
+- is
+- soreness
+- the
+- same
+- as
+- an
+- injury
+- recovery
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is soreness the same as an injury?
@@ -36,6 +56,11 @@ Sports-medicine load-management and tendinopathy principles; referral recommende
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - science/training-principles/training-volume.md
 - faq/how-important-is-sleep.md
 - science/training-principles/progressive-overload.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- faq/can-stress-outside-the-gym-limit-gains.md
+

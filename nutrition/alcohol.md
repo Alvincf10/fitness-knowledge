@@ -2,28 +2,37 @@
 id: nutrition_alcohol
 title: Alcohol
 category: nutrition
-goals:
-  - recovery
-  - health
+subcategory: nutrition
+description: Alcohol is an energy-containing compound that can impair recovery, sleep quality, and training adaptations when intake is high or poorly timed. Occasional low intake may fit some lifestyles, but it is not performance-enhancing.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - evidence
+- nutrition
+- evidence
+related:
+- nutrition/cutting.md
+- faq/how-important-is-sleep.md
+- nutrition/protein.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+- nutrition/fiber.md
+- nutrition/fat.md
+- nutrition/refeeds-and-diet-breaks.md
+aliases: []
+keywords:
+- alcohol
+- nutrition
+- evidence
+goals:
+- recovery
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/cutting.md
-  - faq/how-important-is-sleep.md
-  - nutrition/protein.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
-  - nutrition/fiber.md
-  - nutrition/fat.md
-  - nutrition/refeeds-and-diet-breaks.md
 ---
 
 # Alcohol
@@ -82,7 +91,7 @@ Research indicates alcohol can reduce rates of muscle protein synthesis and impa
 - ISSN Position Stand
 - Vella LD (2010)
 
-## Related
+## Related Articles
 
 - nutrition/cutting.md
 - faq/how-important-is-sleep.md
@@ -94,3 +103,4 @@ Research indicates alcohol can reduce rates of muscle protein synthesis and impa
 - nutrition/fiber.md
 - nutrition/fat.md
 - nutrition/refeeds-and-diet-breaks.md
+

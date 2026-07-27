@@ -2,20 +2,41 @@
 id: faq_are_bcaas_worth_it
 title: Are BCAAs Worth It?
 category: faq
+subcategory: supplement
+description: Should I buy BCAA supplements for muscle growth?
+difficulty: beginner
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - nutrition
+- supplement
+- nutrition
 related:
-  - supplements/bcaas.md
-  - nutrition/protein.md
-  - supplements/whey-protein.md
-  - faq/how-much-protein.md
-  - faq/do-i-need-supplements.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/bcaas.md
+- nutrition/protein.md
+- supplements/whey-protein.md
+- faq/how-much-protein.md
+- faq/do-i-need-supplements.md
+- faq/are-eggs-bad-for-lifters-because-of-cholesterol.md
+- faq/are-fat-burners-worth-it.md
+aliases:
+- are bcaas worth it
+- abwi
+keywords:
+- are
+- bcaas
+- worth
+- it
+- supplement
+- nutrition
+- abwi
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
 ---
 
 # Are BCAAs Worth It?
@@ -43,10 +64,16 @@ Reviews (including Wolfe and ISSN-aligned protein literature) argue BCAA supplem
 - Use whole protein peri-workout instead of BCAA sips
 - Reassess only if clinical or dietary constraints limit complete protein
 
-## Related
+## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/bcaas.md
 - nutrition/protein.md
 - supplements/whey-protein.md
 - faq/how-much-protein.md
 - faq/do-i-need-supplements.md
+- faq/are-eggs-bad-for-lifters-because-of-cholesterol.md
+- faq/are-fat-burners-worth-it.md
+

@@ -2,28 +2,41 @@
 id: supplement_dietary_nitrate
 title: Dietary Nitrate
 category: supplement
-goals:
-  - performance
+subcategory: general
+description: Dietary nitrate, often from beetroot juice concentrates, can improve exercise economy and endurance performance by increasing nitric oxide bioavailability via the nitrate–nitrite–NO pathway. It is one of the better-supported ergogenic aids for endurance and some high-intensity ef…
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
-  - endurance
+- supplement
+- evidence
+- endurance
+related:
+- supplements/citrulline.md
+- supplements/sodium-bicarbonate.md
+- supplements/carbohydrate.md
+- supplements/beta-alanine.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+aliases:
+- dn
+keywords:
+- dietary
+- nitrate
+- supplement
+- evidence
+- endurance
+- dn
+goals:
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - supplements/citrulline.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/carbohydrate.md
-  - supplements/beta-alanine.md
-  - supplements/electrolytes.md
-  - supplements/creatine.md
-  - supplements/caffeine.md
-  - supplements/whey-protein.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
 ---
 
 # Dietary Nitrate
@@ -83,7 +96,7 @@ ISSN and multiple systematic reviews support nitrate/beetroot as an evidence-bas
 - McMahon NF (2017)
 - Larsen FJ (2007)
 
-## Related
+## Related Articles
 
 - supplements/citrulline.md
 - supplements/sodium-bicarbonate.md
@@ -95,3 +108,4 @@ ISSN and multiple systematic reviews support nitrate/beetroot as an evidence-bas
 - supplements/whey-protein.md
 - supplements/vitamin-d.md
 - supplements/magnesium.md
+

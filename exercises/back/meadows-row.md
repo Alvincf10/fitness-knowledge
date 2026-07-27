@@ -2,48 +2,68 @@
 id: exercise_meadows_row
 title: Meadows Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
+subcategory: back
+description: The Meadows row is a unilateral landmine row performed with a staggered stance and an overhand grip on the bar sleeve, emphasizing lat stretch and upper-back thickness through a long ROM.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - landmine meadows row
-  - one-arm landmine row (meadows)
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - unilateral
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/yates-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/renegade-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/gorilla-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- landmine meadows row
+- one-arm landmine row (meadows)
+- mr
+keywords:
+- meadows
+- row
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+- landmine
+- one
+- arm
+- mr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/yates-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/renegade-row.md
-  - exercises/back/pendlay-row.md
-  - exercises/back/gorilla-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Meadows Row
@@ -167,7 +187,7 @@ Accessory compound.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/yates-row.md
 - exercises/back/t-bar-row.md
@@ -179,6 +199,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

@@ -2,48 +2,71 @@
 id: exercise_back_squat
 title: Back Squat
 category: exercise
-muscle_primary:
-  - legs
-  - glutes
-muscle_secondary:
-  - abs
-  - back
-equipment:
-  - barbell
-  - rack
+subcategory: legs
+description: The back squat is a barbell squat variation with the load supported across the upper back. It is one of the most researched lower-body compound exercises for developing quadriceps, glute, and overall lower-body strength and hypertrophy, with substantial trunk stabilization demand…
 difficulty: intermediate
-movement:
-  - squat
-plane:
-  - sagittal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - barbell back squat
-  - high-bar or low-bar squat (variant dependent)
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/legs/romanian-deadlift.md
+- exercises/legs/leg-press.md
+- exercises/back/rack-pull.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- barbell back squat
+- high-bar or low-bar squat (variant dependent)
+- bs
+keywords:
+- back
+- squat
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- barbell
+- high
+- bar
+- or
+- low
+- variant
+- dependent
+- bs
+- legs
+- exercise
+- workout
+muscle_primary:
+- legs
+- glutes
+muscle_secondary:
+- abs
+- back
+equipment:
+- barbell
+- rack
+movement:
+- squat
+plane:
+- sagittal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/legs/romanian-deadlift.md
-  - exercises/legs/leg-press.md
-  - exercises/back/rack-pull.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Back Squat
@@ -173,7 +196,7 @@ A
 - Bryanton MA (2012)
 - Kubo K (2019)
 
-## Related
+## Related Articles
 
 - exercises/legs/romanian-deadlift.md
 - exercises/legs/leg-press.md
@@ -185,3 +208,4 @@ A
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+

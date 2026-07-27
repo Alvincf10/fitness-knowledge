@@ -2,19 +2,39 @@
 id: faq_can_naps_replace_nighttime_sleep_for_lifters
 title: Can naps replace nighttime sleep for lifters?
 category: faq
+subcategory: recovery
+description: Can naps replace nighttime sleep for lifters?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - recovery
-  - sleep
+- recovery
+- sleep
 related:
-  - faq/how-important-is-sleep.md
-  - science/training-principles/training-frequency.md
-  - nutrition/alcohol.md
-  - faq/can-i-train-every-day.md
+- exercises/back/assisted-pull-up.md
+- faq/how-important-is-sleep.md
+- science/training-principles/training-frequency.md
+- nutrition/alcohol.md
+- faq/can-i-train-every-day.md
+- faq/how-many-hours-of-sleep-do-lifters-need.md
+- faq/are-eggs-bad-for-lifters-because-of-cholesterol.md
+- faq/can-i-grow-muscle-without-getting-sore.md
+aliases:
+- can naps replace nighttime sleep for lifters
+keywords:
+- can
+- naps
+- replace
+- nighttime
+- sleep
+- for
+- lifters
+- recovery
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Can naps replace nighttime sleep for lifters?
@@ -37,7 +57,12 @@ Sleep and recovery reviews; overreaching literature; ACSM recovery consideration
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - faq/how-important-is-sleep.md
 - science/training-principles/training-frequency.md
 - nutrition/alcohol.md
 - faq/can-i-train-every-day.md
+- faq/how-many-hours-of-sleep-do-lifters-need.md
+- faq/are-eggs-bad-for-lifters-because-of-cholesterol.md
+- faq/can-i-grow-muscle-without-getting-sore.md
+

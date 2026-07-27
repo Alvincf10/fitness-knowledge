@@ -2,19 +2,45 @@
 id: faq_what_grip_width_should_i_use_for_the_standing_cable_row
 title: What grip width should I use for the Standing Cable Row?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Standing Cable Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/standing-cable-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/standing-cable-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-seated-cable-row.md
+- faq/what-grip-width-should-i-use-for-the-single-arm-cable-row.md
+- faq/what-grip-width-should-i-use-for-the-wide-grip-seated-cable-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- what grip width should i use for the standing cable row
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- standing
+- cable
+- row
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Standing Cable Row?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/standing-cable-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-seated-cable-row.md
+- faq/what-grip-width-should-i-use-for-the-single-arm-cable-row.md
+- faq/what-grip-width-should-i-use-for-the-wide-grip-seated-cable-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/close-grip-lat-pulldown.md
+

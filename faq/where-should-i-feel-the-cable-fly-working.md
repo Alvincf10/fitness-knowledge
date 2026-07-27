@@ -2,19 +2,42 @@
 id: faq_where_should_i_feel_the_cable_fly_working
 title: Where should I feel the Cable Fly working?
 category: faq
+subcategory: technique
+description: Where should I feel the Cable Fly working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/cable-fly.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/cable-fly.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-high-cable-fly-working.md
+- faq/where-should-i-feel-the-low-cable-fly-working.md
+- faq/where-should-i-feel-the-seated-cable-fly-working.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/low-cable-fly.md
+aliases:
+- where should i feel the cable fly working
+keywords:
+- where
+- should
+- feel
+- the
+- cable
+- fly
+- working
+- technique
+- chest
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Cable Fly working?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/cable-fly.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-high-cable-fly-working.md
+- faq/where-should-i-feel-the-low-cable-fly-working.md
+- faq/where-should-i-feel-the-seated-cable-fly-working.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/low-cable-fly.md
+

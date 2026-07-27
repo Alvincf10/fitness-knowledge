@@ -2,29 +2,39 @@
 id: supplement_electrolytes
 title: Electrolytes
 category: supplement
-goals:
-  - hydration
-  - performance
+subcategory: general
+description: Electrolyte supplements provide sodium, potassium, magnesium, and sometimes calcium to replace minerals lost in sweat and support fluid balance during prolonged or high-sweat training. They are situational tools, not mandatory for every gym session.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - minerals
-  - evidence
+- supplement
+- minerals
+- evidence
+related:
+- nutrition/hydration.md
+- supplements/magnesium.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/carbohydrate.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/whey-protein.md
+aliases: []
+keywords:
+- electrolytes
+- supplement
+- minerals
+- evidence
+goals:
+- hydration
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/hydration.md
-  - supplements/magnesium.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/dietary-nitrate.md
-  - supplements/creatine.md
-  - supplements/citrulline.md
-  - supplements/carbohydrate.md
-  - supplements/caffeine.md
-  - supplements/beta-alanine.md
-  - supplements/whey-protein.md
 ---
 
 # Electrolytes
@@ -82,7 +92,7 @@ ACSM hydration guidance supports replacing fluid and electrolytes based on sweat
 - Shirreffs SM (2009)
 - ISSN exercise hydration-related position literature
 
-## Related
+## Related Articles
 
 - nutrition/hydration.md
 - supplements/magnesium.md
@@ -94,3 +104,4 @@ ACSM hydration guidance supports replacing fluid and electrolytes based on sweat
 - supplements/caffeine.md
 - supplements/beta-alanine.md
 - supplements/whey-protein.md
+

@@ -2,19 +2,44 @@
 id: faq_what_grip_width_should_i_use_for_the_gorilla_row
 title: What grip width should I use for the Gorilla Row?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Gorilla Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/gorilla-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/gorilla-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-row.md
+- faq/what-grip-width-should-i-use-for-the-chest-supported-row.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/barbell-row.md
+aliases:
+- what grip width should i use for the gorilla row
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- gorilla
+- row
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Gorilla Row?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/gorilla-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-row.md
+- faq/what-grip-width-should-i-use-for-the-chest-supported-row.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/barbell-row.md
+

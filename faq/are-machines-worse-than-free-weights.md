@@ -2,25 +2,43 @@
 id: faq_are_machines_worse_than_free_weights
 title: Are Machines Worse Than Free Weights?
 category: faq
+subcategory: hypertrophy
+description: Are machines inferior to free weights for building muscle?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - beginner
+- hypertrophy
+- beginner
 related:
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/back/lat-pulldown.md
-  - exercises/legs/leg-press.md
-  - science/training-principles/progressive-overload.md
-  - exercises/chest/smith-machine-incline-press.md
-  - exercises/chest/smith-machine-decline-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/back/t-bar-row.md
+- faq/is-it-okay-to-ignore-rear-delts.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/back/lat-pulldown.md
+- exercises/legs/leg-press.md
+- science/training-principles/progressive-overload.md
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- exercises/chest/incline-machine-chest-press.md
+aliases:
+- are machines worse than free weights
+- amwtfw
+keywords:
+- are
+- machines
+- worse
+- than
+- free
+- weights
+- hypertrophy
+- beginner
+- amwtfw
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Are Machines Worse Than Free Weights?
@@ -48,8 +66,9 @@ Comparative studies frequently show similar hypertrophy when effort and volume a
 - Progress load/reps on both
 - Choose based on joints, preference, and available equipment
 
-## Related
+## Related Articles
 
+- faq/is-it-okay-to-ignore-rear-delts.md
 - exercises/chest/machine-chest-press.md
 - exercises/chest/barbell-bench-press.md
 - exercises/back/lat-pulldown.md
@@ -59,4 +78,4 @@ Comparative studies frequently show similar hypertrophy when effort and volume a
 - exercises/chest/smith-machine-decline-press.md
 - exercises/chest/smith-machine-bench-press.md
 - exercises/chest/incline-machine-chest-press.md
-- exercises/back/t-bar-row.md
+

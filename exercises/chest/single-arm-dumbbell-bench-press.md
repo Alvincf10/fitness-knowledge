@@ -2,48 +2,73 @@
 id: exercise_single_arm_dumbbell_bench_press
 title: Single-Arm Dumbbell Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The single-arm dumbbell bench press loads one side at a time, increasing anti-rotation core demand and allowing unilateral strength/hypertrophy work to address side-to-side asymmetries.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - one-arm DB bench
-  - unilateral dumbbell press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/dumbbell-bench-press.md
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- one-arm db bench
+- unilateral dumbbell press
+- single arm dumbbell bench press
+- sadbp
+- single-arm bench press
+- single-arm db bench press
+keywords:
+- single
+- arm
+- dumbbell
+- bench
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+- one
+- db
+- unilateral
+- sadbp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/dumbbell-bench-press.md
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/decline-dumbbell-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Single-Arm Dumbbell Bench Press
@@ -165,7 +190,7 @@ Time-efficient if rest is managed.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/dumbbell-bench-press.md
 - exercises/chest/pause-barbell-bench-press.md
@@ -177,6 +202,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

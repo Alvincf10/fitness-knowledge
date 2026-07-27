@@ -2,19 +2,44 @@
 id: faq_what_grip_width_should_i_use_for_the_romanian_deadlift
 title: What grip width should I use for the Romanian Deadlift?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Romanian Deadlift?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - legs
-  - exercise
+- technique
+- legs
+- exercise
 related:
-  - exercises/legs/romanian-deadlift.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/legs/romanian-deadlift.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-back-squat.md
+- faq/what-grip-width-should-i-use-for-the-leg-press.md
+- faq/what-grip-width-should-i-use-for-the-assisted-pull-up.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+aliases:
+- what grip width should i use for the romanian deadlift
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- romanian
+- deadlift
+- technique
+- legs
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Romanian Deadlift?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/legs/romanian-deadlift.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-back-squat.md
+- faq/what-grip-width-should-i-use-for-the-leg-press.md
+- faq/what-grip-width-should-i-use-for-the-assisted-pull-up.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+

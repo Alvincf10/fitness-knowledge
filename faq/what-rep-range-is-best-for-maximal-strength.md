@@ -2,20 +2,42 @@
 id: faq_what_rep_range_is_best_for_maximal_strength
 title: What rep range is best for maximal strength?
 category: faq
+subcategory: strength
+description: What rep range is best for maximal strength?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - strength
-  - programming
+- strength
+- programming
 related:
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/legs/back-squat.md
-  - faq/what-is-rir.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- faq/what-is-rir.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- faq/should-i-deadlift-every-week-for-strength.md
+- faq/should-i-train-explosively-for-strength.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- what rep range is best for maximal strength
+keywords:
+- what
+- rep
+- range
+- is
+- best
+- for
+- maximal
+- strength
+- programming
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # What rep range is best for maximal strength?
@@ -43,3 +65,9 @@ ACSM progression models; NSCA strength literature; load-specificity research for
 - exercises/chest/barbell-bench-press.md
 - exercises/legs/back-squat.md
 - faq/what-is-rir.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- faq/should-i-deadlift-every-week-for-strength.md
+- faq/should-i-train-explosively-for-strength.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

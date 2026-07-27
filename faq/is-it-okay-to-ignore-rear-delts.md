@@ -2,20 +2,45 @@
 id: faq_is_it_okay_to_ignore_rear_delts
 title: Is it okay to ignore rear delts?
 category: faq
+subcategory: hypertrophy
+description: Is it okay to ignore rear delts?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/should-i-ignore-rear-delts.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-shorter-rest-periods-build-more-muscle.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- is it okay to ignore rear delts
+- should i ignore rear delts?
+keywords:
+- is
+- it
+- okay
+- to
+- ignore
+- rear
+- delts
+- hypertrophy
+- programming
+- should
+- faq
+redirects_to: faq/should-i-ignore-rear-delts.md
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is it okay to ignore rear delts?
@@ -43,3 +68,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/should-i-ignore-rear-delts.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-shorter-rest-periods-build-more-muscle.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

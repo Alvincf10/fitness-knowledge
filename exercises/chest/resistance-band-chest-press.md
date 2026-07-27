@@ -2,46 +2,62 @@
 id: exercise_resistance_band_chest_press
 title: Resistance Band Chest Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - resistance-band
+subcategory: chest
+description: The resistance band chest press is a portable horizontal press using elastic resistance. Accommodating resistance increases load toward lockout and provides a home-training or warm-up option for the pectoralis major, triceps, and anterior deltoids.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - band chest press
-  - elastic chest press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - band
-  - beginner
-  - hypertrophy
+- compound
+- band
+- beginner
+- hypertrophy
+related:
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/landmine-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- band chest press
+- elastic chest press
+- rbcp
+keywords:
+- resistance
+- band
+- chest
+- press
+- compound
+- beginner
+- hypertrophy
+- elastic
+- rbcp
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- resistance-band
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/landmine-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Resistance Band Chest Press
@@ -163,7 +179,7 @@ Useful minimal-equipment compound.
 
 Ensure anchors are secure. Stop if shoulder pain appears. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/plate-loaded-chest-press.md
 - exercises/chest/machine-chest-press.md
@@ -175,6 +191,7 @@ Ensure anchors are secure. Stop if shoulder pain appears. This is training guida
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

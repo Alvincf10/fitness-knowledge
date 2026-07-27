@@ -2,21 +2,40 @@
 id: faq_can_i_build_muscle_in_a_deficit
 title: Can I Build Muscle in a Deficit?
 category: faq
+subcategory: hypertrophy
+description: Can I build muscle while eating in a calorie deficit?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - fat-loss
+- hypertrophy
+- fat-loss
 related:
-  - nutrition/body-recomposition.md
-  - nutrition/calorie-deficit.md
-  - nutrition/protein.md
-  - faq/can-beginners-gain-muscle-and-lose-fat.md
-  - faq/how-much-protein.md
-  - exercises/chest/deficit-push-up.md
+- science/training-principles/progressive-overload.md
+- nutrition/body-recomposition.md
+- nutrition/calorie-deficit.md
+- nutrition/protein.md
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/how-much-protein.md
+- exercises/chest/deficit-push-up.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- faq/can-i-build-muscle-at-home.md
+- faq/can-i-build-muscle-with-light-weights.md
+aliases:
+- can i build muscle in a deficit
+keywords:
+- can
+- build
+- muscle
+- in
+- deficit
+- hypertrophy
+- fat-loss
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I Build Muscle in a Deficit?
@@ -44,11 +63,16 @@ Applied reviews and intervention data support concurrent fat loss and muscle gai
 - Expect slower muscle gain than in a bulk
 - Switch to maintenance/surplus if strength and measurements stall for months
 
-## Related
+## Related Articles
 
+- science/training-principles/progressive-overload.md
 - nutrition/body-recomposition.md
 - nutrition/calorie-deficit.md
 - nutrition/protein.md
 - faq/can-beginners-gain-muscle-and-lose-fat.md
 - faq/how-much-protein.md
 - exercises/chest/deficit-push-up.md
+- faq/can-i-lose-fat-and-build-muscle-at-the-same-time.md
+- faq/can-i-build-muscle-at-home.md
+- faq/can-i-build-muscle-with-light-weights.md
+

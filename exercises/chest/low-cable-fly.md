@@ -2,43 +2,62 @@
 id: exercise_low_cable_fly
 title: Low Cable Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - cable
+subcategory: chest
+description: The low cable fly uses low pulleys and a low-to-high arc, often increasing relative emphasis on the clavicular (upper) pectoralis fibers. It pairs well with incline pressing in hypertrophy programs.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - low-to-high cable fly
-  - low cable crossover
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - intermediate
-  - hypertrophy
+- isolation
+- cable
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/high-cable-fly.md
+- exercises/chest/cable-fly.md
+- exercises/chest/seated-cable-fly.md
+- exercises/chest/cable-chest-press.md
+- exercises/chest/incline-dumbbell-fly.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+aliases:
+- low-to-high cable fly
+- low cable crossover
+- lcf
+keywords:
+- low
+- cable
+- fly
+- isolation
+- intermediate
+- hypertrophy
+- to
+- high
+- crossover
+- lcf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- cable
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/high-cable-fly.md
-  - exercises/chest/cable-fly.md
-  - exercises/chest/seated-cable-fly.md
-  - exercises/chest/cable-chest-press.md
-  - exercises/chest/incline-dumbbell-fly.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/dumbbell-fly.md
 ---
 
 # Low Cable Fly
@@ -158,7 +177,7 @@ Use as accessory volume only.
 
 Avoid if low-to-high arcs provoke shoulder discomfort; shorten ROM. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/high-cable-fly.md
 - exercises/chest/cable-fly.md
@@ -169,6 +188,8 @@ Avoid if low-to-high arcs provoke shoulder discomfort; shorten ROM. This is trai
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+
 
 ## References
 

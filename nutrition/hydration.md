@@ -2,28 +2,37 @@
 id: nutrition_hydration
 title: Hydration
 category: nutrition
-goals:
-  - performance
-  - health
+subcategory: nutrition
+description: Hydration status affects training performance, cognition, and heat tolerance. Most lifters need consistent daily fluid intake plus extra replacement around heavy sweating—not constant overdrinking.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - evidence
+- nutrition
+- evidence
+related:
+- supplements/electrolytes.md
+- nutrition/micronutrients.md
+- supplements/magnesium.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+- nutrition/fiber.md
+- nutrition/fat.md
+aliases: []
+keywords:
+- hydration
+- nutrition
+- evidence
+goals:
+- performance
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - supplements/electrolytes.md
-  - nutrition/micronutrients.md
-  - supplements/magnesium.md
-  - nutrition/protein.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/meal-timing.md
-  - nutrition/fiber.md
-  - nutrition/fat.md
 ---
 
 # Hydration
@@ -81,7 +90,7 @@ ACSM hydration position stands show that dehydration can impair performance, esp
 - Thomas DT (2016)
 - ISSN exercise hydration-related position literature
 
-## Related
+## Related Articles
 
 - supplements/electrolytes.md
 - nutrition/micronutrients.md
@@ -93,3 +102,4 @@ ACSM hydration position stands show that dehydration can impair performance, esp
 - nutrition/meal-timing.md
 - nutrition/fiber.md
 - nutrition/fat.md
+

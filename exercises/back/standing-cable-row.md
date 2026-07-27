@@ -2,46 +2,64 @@
 id: exercise_standing_cable_row
 title: Standing Cable Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - cable
+subcategory: back
+description: The standing cable row is a horizontal pull performed in a staggered or athletic stance, increasing core demand versus seated rows while loading the lats and upper back under continuous tension.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - athletic stance cable row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- cable
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/single-arm-cable-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/seated-cable-row.md
+- exercises/back/yates-row.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- athletic stance cable row
+- scr
+keywords:
+- standing
+- cable
+- row
+- compound
+- intermediate
+- hypertrophy
+- pull
+- athletic
+- stance
+- scr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- cable
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/seated-cable-row.md
-  - exercises/back/yates-row.md
-  - exercises/back/weighted-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Standing Cable Row
@@ -163,7 +181,7 @@ Good when you want combined pull + brace work.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/single-arm-cable-row.md
 - exercises/back/wide-grip-seated-cable-row.md
@@ -175,6 +193,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

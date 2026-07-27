@@ -2,19 +2,42 @@
 id: faq_when_should_i_take_beta_alanine
 title: When should I take beta-alanine?
 category: faq
+subcategory: supplements
+description: When should I take beta-alanine?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplements
+- supplements
 related:
-  - supplements/beta-alanine.md
-  - faq/do-i-need-supplements.md
-  - supplements/creatine.md
-  - nutrition/protein.md
-  - faq/do-i-need-creatine.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/beta-alanine.md
+- faq/do-i-need-supplements.md
+- supplements/creatine.md
+- nutrition/protein.md
+- faq/do-i-need-creatine.md
+- faq/when-should-i-take-caffeine.md
+- faq/when-should-i-take-casein.md
+aliases:
+- when should i take beta alanine
+- wsitba
+- when should i take betaalanine
+keywords:
+- when
+- should
+- take
+- beta
+- alanine
+- supplements
+- wsitba
+- betaalanine
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # When should I take beta-alanine?
@@ -37,8 +60,14 @@ ISSN sports-supplement position stands and systematic reviews for the specific i
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/beta-alanine.md
 - faq/do-i-need-supplements.md
 - supplements/creatine.md
 - nutrition/protein.md
 - faq/do-i-need-creatine.md
+- faq/when-should-i-take-caffeine.md
+- faq/when-should-i-take-casein.md
+

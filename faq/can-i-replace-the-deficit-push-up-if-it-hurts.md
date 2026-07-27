@@ -2,19 +2,47 @@
 id: faq_can_i_replace_the_deficit_push_up_if_it_hurts
 title: Can I replace the Deficit Push-Up if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Deficit Push-Up if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/deficit-push-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/deficit-push-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-close-grip-push-up-if-it-hurts.md
+- faq/can-i-replace-the-feet-elevated-push-up-if-it-hurts.md
+- faq/can-i-replace-the-incline-push-up-if-it-hurts.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/feet-elevated-push-up.md
+- nutrition/calorie-deficit.md
+aliases:
+- can i replace the deficit push up if it hurts
+- can i replace the deficit pushup if it hurts
+keywords:
+- can
+- replace
+- the
+- deficit
+- push
+- up
+- if
+- it
+- hurts
+- technique
+- chest
+- exercise
+- pushup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Deficit Push-Up if it hurts?
@@ -40,3 +68,10 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/deficit-push-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-close-grip-push-up-if-it-hurts.md
+- faq/can-i-replace-the-feet-elevated-push-up-if-it-hurts.md
+- faq/can-i-replace-the-incline-push-up-if-it-hurts.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/feet-elevated-push-up.md
+- nutrition/calorie-deficit.md
+

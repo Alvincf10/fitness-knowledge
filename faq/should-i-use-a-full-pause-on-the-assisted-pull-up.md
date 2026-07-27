@@ -2,19 +2,46 @@
 id: faq_should_i_use_a_full_pause_on_the_assisted_pull_up
 title: Should I use a full pause on the Assisted Pull-Up?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Assisted Pull-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/assisted-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-band-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-face-pull.md
+- faq/should-i-use-a-full-pause-on-the-negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/barbell-row.md
+aliases:
+- should i use a full pause on the assisted pull up
+- should i use a full pause on the assisted pullup
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- assisted
+- pull
+- up
+- technique
+- back
+- exercise
+- pullup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Assisted Pull-Up?
@@ -40,3 +67,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/assisted-pull-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-band-assisted-pull-up.md
+- faq/should-i-use-a-full-pause-on-the-face-pull.md
+- faq/should-i-use-a-full-pause-on-the-negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/barbell-row.md
+

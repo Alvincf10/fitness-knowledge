@@ -2,19 +2,40 @@
 id: faq_what_happens_if_i_stop_taking_fish_oil
 title: What happens if I stop taking fish oil?
 category: faq
+subcategory: supplements
+description: What happens if I stop taking fish oil?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplements
+- supplements
 related:
-  - supplements/fish-oil.md
-  - faq/do-i-need-supplements.md
-  - supplements/creatine.md
-  - nutrition/protein.md
-  - faq/do-i-need-creatine.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/fish-oil.md
+- faq/do-i-need-supplements.md
+- supplements/creatine.md
+- nutrition/protein.md
+- faq/do-i-need-creatine.md
+- faq/what-happens-if-i-stop-taking-beta-alanine.md
+- faq/what-happens-if-i-stop-taking-caffeine.md
+aliases:
+- what happens if i stop taking fish oil
+keywords:
+- what
+- happens
+- if
+- stop
+- taking
+- fish
+- oil
+- supplements
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What happens if I stop taking fish oil?
@@ -37,8 +58,14 @@ ISSN sports-supplement position stands and systematic reviews for the specific i
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/fish-oil.md
 - faq/do-i-need-supplements.md
 - supplements/creatine.md
 - nutrition/protein.md
 - faq/do-i-need-creatine.md
+- faq/what-happens-if-i-stop-taking-beta-alanine.md
+- faq/what-happens-if-i-stop-taking-caffeine.md
+

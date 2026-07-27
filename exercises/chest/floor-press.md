@@ -2,46 +2,64 @@
 id: exercise_floor_press
 title: Floor Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
+subcategory: chest
+description: The floor press is a horizontal press performed lying on the floor, which shortens ROM by stopping when the triceps meet the floor. It reduces shoulder extension demand and emphasizes mid-range pressing strength for the chest and triceps.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - barbell floor press
-  - dumbbell floor press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- barbell floor press
+- dumbbell floor press
+- fp
+keywords:
+- floor
+- press
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- barbell
+- dumbbell
+- fp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Floor Press
@@ -163,7 +181,7 @@ Optional compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/pause-barbell-bench-press.md
 - exercises/chest/incline-barbell-bench-press.md
@@ -175,6 +193,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

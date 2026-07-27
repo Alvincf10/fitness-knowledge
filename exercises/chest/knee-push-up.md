@@ -2,46 +2,65 @@
 id: exercise_knee_push_up
 title: Knee Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The knee push-up is a regression of the standard push-up that shortens the lever, reducing load while teaching the horizontal press pattern and trunk control for beginners.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - modified push-up
-  - kneeling push-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - hypertrophy
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+related:
+- exercises/chest/wide-push-up.md
+- exercises/chest/wall-push-up.md
+- exercises/chest/push-up.md
+- exercises/chest/incline-push-up.md
+- exercises/chest/weighted-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- modified push-up
+- kneeling push-up
+- knee push up
+- kpu
+keywords:
+- knee
+- push
+- up
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- modified
+- kneeling
+- kpu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/wide-push-up.md
-  - exercises/chest/wall-push-up.md
-  - exercises/chest/push-up.md
-  - exercises/chest/incline-push-up.md
-  - exercises/chest/weighted-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Knee Push-Up
@@ -159,7 +178,7 @@ Accessible conditioning/press work.
 
 Wrist/shoulder pain may require elevation or handles. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/wide-push-up.md
 - exercises/chest/wall-push-up.md
@@ -171,6 +190,7 @@ Wrist/shoulder pain may require elevation or handles. This is training guidance,
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

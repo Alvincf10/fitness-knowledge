@@ -2,19 +2,46 @@
 id: faq_how_deep_should_i_go_on_the_chest_supported_row
 title: How deep should I go on the Chest-Supported Row?
 category: faq
+subcategory: technique
+description: How deep should I go on the Chest-Supported Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/chest-supported-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/chest-supported-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-chest-supported-row.md
+- faq/how-deep-should-i-go-on-the-barbell-row.md
+- faq/how-deep-should-i-go-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/dumbbell-pullover.md
+aliases:
+- how deep should i go on the chest supported row
+- how deep should i go on the chestsupported row
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- chest
+- supported
+- row
+- technique
+- back
+- exercise
+- chestsupported
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Chest-Supported Row?
@@ -40,3 +67,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/chest-supported-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-chest-supported-row.md
+- faq/how-deep-should-i-go-on-the-barbell-row.md
+- faq/how-deep-should-i-go-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/dumbbell-pullover.md
+

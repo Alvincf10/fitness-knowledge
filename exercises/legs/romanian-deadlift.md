@@ -2,47 +2,65 @@
 id: exercise_romanian_deadlift
 title: Romanian Deadlift
 category: exercise
-muscle_primary:
-  - legs
-  - glutes
-muscle_secondary:
-  - back
-  - forearms
-equipment:
-  - barbell
+subcategory: legs
+description: The Romanian deadlift (RDL) is a hip-hinge exercise that emphasizes the hamstrings and glutes while training isometric trunk stability. Unlike a conventional deadlift from the floor, the RDL typically starts from standing and lowers the load through a controlled hip flexion patte…
 difficulty: intermediate
-movement:
-  - hinge
-plane:
-  - sagittal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - RDL
-  - barbell Romanian deadlift
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/legs/back-squat.md
+- exercises/back/rack-pull.md
+- exercises/legs/leg-press.md
+- exercises/back/kroc-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- rdl
+- barbell romanian deadlift
+- rd
+keywords:
+- romanian
+- deadlift
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- rdl
+- barbell
+- rd
+- legs
+- exercise
+- workout
+muscle_primary:
+- legs
+- glutes
+muscle_secondary:
+- back
+- forearms
+equipment:
+- barbell
+movement:
+- hinge
+plane:
+- sagittal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/legs/back-squat.md
-  - exercises/back/rack-pull.md
-  - exercises/legs/leg-press.md
-  - exercises/back/kroc-row.md
-  - exercises/back/t-bar-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Romanian Deadlift
@@ -168,7 +186,7 @@ B
 - NSCA Essentials
 - Hegyi A (2019)
 
-## Related
+## Related Articles
 
 - exercises/legs/back-squat.md
 - exercises/back/rack-pull.md
@@ -180,3 +198,4 @@ B
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+

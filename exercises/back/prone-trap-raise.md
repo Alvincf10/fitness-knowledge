@@ -2,44 +2,61 @@
 id: exercise_prone_trap_raise
 title: Prone Trap Raise
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - rear-delts
-  - shoulders
-equipment:
-  - dumbbell
-  - bench
+subcategory: back
+description: The prone trap raise (prone Y raise) is a light upper-back and lower-trapezius accessory performed face-down, raising the arms into a Y pattern to improve scapular control and balance heavy pulling programs.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - prone Y raise
-  - lower trap raise
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - beginner
-  - hypertrophy
+- isolation
+- beginner
+- hypertrophy
+related:
+- exercises/back/face-pull.md
+- exercises/back/dumbbell-row.md
+- exercises/back/chest-supported-row.md
+- exercises/back/straight-arm-pulldown.md
+- exercises/back/seal-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/kroc-row.md
+- exercises/back/cable-pullover.md
+aliases:
+- prone y raise
+- lower trap raise
+- ptr
+keywords:
+- prone
+- trap
+- raise
+- isolation
+- beginner
+- hypertrophy
+- lower
+- ptr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- rear-delts
+- shoulders
+equipment:
+- dumbbell
+- bench
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/face-pull.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/chest-supported-row.md
-  - exercises/back/straight-arm-pulldown.md
-  - exercises/back/seal-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/kroc-row.md
 ---
 
 # Prone Trap Raise
@@ -160,7 +177,7 @@ Low-fatigue accessory.
 
 Stop if shoulder pain appears; reduce ROM/load. Not medical advice.
 
-## Related
+## Related Articles
 
 - exercises/back/face-pull.md
 - exercises/back/dumbbell-row.md
@@ -171,6 +188,8 @@ Stop if shoulder pain appears; reduce ROM/load. Not medical advice.
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/kroc-row.md
+- exercises/back/cable-pullover.md
+
 
 ## References
 

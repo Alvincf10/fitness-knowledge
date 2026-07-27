@@ -2,19 +2,40 @@
 id: faq_can_i_train_two_days_in_a_row
 title: Can I train two days in a row?
 category: faq
+subcategory: recovery
+description: Can I train two days in a row?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - recovery
-  - frequency
+- recovery
+- frequency
 related:
-  - faq/can-i-train-every-day.md
-  - science/training-principles/training-frequency.md
-  - faq/how-important-is-sleep.md
-  - nutrition/alcohol.md
+- faq/can-i-train-every-day.md
+- science/training-principles/training-frequency.md
+- faq/how-important-is-sleep.md
+- nutrition/alcohol.md
+- faq/can-i-train-arms-every-day.md
+- faq/can-i-train-back-every-day.md
+- faq/can-i-train-chest-every-day.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+aliases:
+- can i train two days in a row
+keywords:
+- can
+- train
+- two
+- days
+- in
+- row
+- recovery
+- frequency
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Can I train two days in a row?
@@ -41,3 +62,9 @@ Sleep and recovery reviews; overreaching literature; ACSM recovery consideration
 - science/training-principles/training-frequency.md
 - faq/how-important-is-sleep.md
 - nutrition/alcohol.md
+- faq/can-i-train-arms-every-day.md
+- faq/can-i-train-back-every-day.md
+- faq/can-i-train-chest-every-day.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+

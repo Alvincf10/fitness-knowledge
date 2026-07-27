@@ -2,47 +2,68 @@
 id: exercise_weighted_push_up
 title: Weighted Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The weighted push-up adds external load via vest, plate, or backpack to progress the classic push-up after bodyweight reps become too easy for hypertrophy or strength goals.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - push-up with vest
-  - loaded push-up
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/feet-elevated-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/ring-push-up.md
+- exercises/chest/push-up.md
+- exercises/chest/deficit-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- push-up with vest
+- loaded push-up
+- weighted push up
+- wpu
+keywords:
+- weighted
+- push
+- up
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- with
+- vest
+- loaded
+- wpu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/feet-elevated-push-up.md
-  - exercises/chest/close-grip-push-up.md
-  - exercises/chest/ring-push-up.md
-  - exercises/chest/push-up.md
-  - exercises/chest/deficit-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Weighted Push-Up
@@ -163,7 +184,7 @@ Excellent minimal-equipment compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/feet-elevated-push-up.md
 - exercises/chest/close-grip-push-up.md
@@ -175,6 +196,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

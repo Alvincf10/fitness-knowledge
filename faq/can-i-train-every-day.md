@@ -2,25 +2,41 @@
 id: faq_can_i_train_every_day
 title: Can I Train Every Day?
 category: faq
+subcategory: programming
+description: Is it okay to lift every day?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - programming
-  - recovery
+- programming
+- recovery
 related:
-  - science/training-principles/training-frequency.md
-  - faq/how-often-should-i-train.md
-  - science/training-principles/training-volume.md
-  - faq/how-important-is-sleep.md
-  - supplements/whey-protein.md
-  - supplements/magnesium.md
-  - supplements/hmb.md
-  - supplements/fish-oil.md
-  - supplements/casein-protein.md
-  - supplements/carbohydrate.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/training-frequency.md
+- faq/how-often-should-i-train.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- supplements/whey-protein.md
+- supplements/magnesium.md
+- supplements/hmb.md
+- supplements/fish-oil.md
+- supplements/casein-protein.md
+aliases:
+- can i train every day
+- cited
+keywords:
+- can
+- train
+- every
+- day
+- programming
+- recovery
+- cited
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I Train Every Day?
@@ -48,8 +64,9 @@ Frequency research supports distributing volume; it does not require seven hard 
 - Take a full rest day when performance drops across sessions
 - Track sleep and joint pain as guardrails
 
-## Related
+## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - science/training-principles/training-frequency.md
 - faq/how-often-should-i-train.md
 - science/training-principles/training-volume.md
@@ -59,4 +76,4 @@ Frequency research supports distributing volume; it does not require seven hard 
 - supplements/hmb.md
 - supplements/fish-oil.md
 - supplements/casein-protein.md
-- supplements/carbohydrate.md
+

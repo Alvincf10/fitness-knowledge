@@ -2,20 +2,43 @@
 id: faq_how_long_should_i_rest_between_sets
 title: How Long Should I Rest Between Sets?
 category: faq
+subcategory: hypertrophy
+description: How long should I rest between sets for muscle and strength?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - strength
-  - programming
+- hypertrophy
+- strength
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/legs/back-squat.md
-  - science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- science/training-principles/progressive-overload.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- faq/how-many-sets-per-week.md
+- faq/how-often-should-i-test-a-true-1rm.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+aliases:
+- how long should i rest between sets
+keywords:
+- how
+- long
+- should
+- rest
+- between
+- sets
+- hypertrophy
+- strength
+- programming
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How Long Should I Rest Between Sets?
@@ -43,9 +66,16 @@ Rest-interval research and ACSM-style recommendations support longer rests for s
 - Prioritize set quality over rushing
 - Keep rest consistent when tracking progression
 
-## Related
+## Related Articles
 
 - science/training-principles/training-volume.md
 - exercises/chest/barbell-bench-press.md
 - exercises/legs/back-squat.md
 - science/training-principles/progressive-overload.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- faq/how-many-sets-per-week.md
+- faq/how-often-should-i-test-a-true-1rm.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+

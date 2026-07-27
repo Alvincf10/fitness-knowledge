@@ -3,29 +3,42 @@ id: science_progressive_overload
 title: Progressive Overload
 category: science
 subcategory: training-principles
-goal:
-  - hypertrophy
-  - strength
+description: Progressive overload is the planned increase of training stress over time so the neuromuscular system continues adapting. Overload can be applied through heavier loads, more repetitions, more sets, greater range of motion, slower eccentrics, shorter rests when appropriate, or har…
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - training
-  - evidence
-  - programming
+- training
+- evidence
+- programming
+related:
+- science/training-principles/training-volume.md
+- science/training-principles/training-frequency.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/failure-training.md
+- faq/how-many-sets-per-week.md
+- faq/how-often-should-i-train.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- exercises/back/pull-up.md
+aliases:
+- po
+keywords:
+- progressive
+- overload
+- training
+- evidence
+- programming
+- po
+- science
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/training-frequency.md
-  - science/training-principles/reps-in-reserve.md
-  - science/training-principles/failure-training.md
-  - faq/how-many-sets-per-week.md
-  - faq/how-often-should-i-train.md
-  - faq/can-i-build-muscle-at-home.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/legs/back-squat.md
-  - exercises/back/pull-up.md
 ---
 
 # Progressive Overload
@@ -77,7 +90,7 @@ ACSM and NSCA guidance treat progressive resistance exercise as foundational for
 - Kraemer WJ (2004)
 - Peterson MD (2005)
 
-## Related
+## Related Articles
 
 - science/training-principles/training-volume.md
 - science/training-principles/training-frequency.md
@@ -89,3 +102,4 @@ ACSM and NSCA guidance treat progressive resistance exercise as foundational for
 - exercises/chest/barbell-bench-press.md
 - exercises/legs/back-squat.md
 - exercises/back/pull-up.md
+

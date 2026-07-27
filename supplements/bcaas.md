@@ -2,29 +2,39 @@
 id: supplement_bcaas
 title: BCAAs
 category: supplement
-goals:
-  - recovery
-  - hypertrophy
+subcategory: general
+description: Branched-chain amino acids (leucine, isoleucine, and valine) are marketed for muscle growth and fatigue reduction. When total daily protein and essential amino acid intake are already adequate, isolated BCAA supplements usually add little for hypertrophy.
+difficulty: intermediate
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - protein
-  - evidence
+- supplement
+- protein
+- evidence
+related:
+- faq/are-bcaas-worth-it.md
+- nutrition/protein.md
+- supplements/whey-protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+aliases: []
+keywords:
+- bcaas
+- supplement
+- protein
+- evidence
+goals:
+- recovery
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - faq/are-bcaas-worth-it.md
-  - nutrition/protein.md
-  - supplements/whey-protein.md
-  - faq/how-much-protein.md
-  - supplements/casein-protein.md
-  - supplements/hmb.md
-  - supplements/magnesium.md
-  - supplements/fish-oil.md
-  - supplements/creatine.md
-  - supplements/carbohydrate.md
 ---
 
 # BCAAs
@@ -81,7 +91,7 @@ Reviews indicate BCAA supplements are inferior to complete proteins for stimulat
 - Morton RW (2018)
 - Churchward-Venne TA (2012)
 
-## Related
+## Related Articles
 
 - faq/are-bcaas-worth-it.md
 - nutrition/protein.md
@@ -93,3 +103,4 @@ Reviews indicate BCAA supplements are inferior to complete proteins for stimulat
 - supplements/fish-oil.md
 - supplements/creatine.md
 - supplements/carbohydrate.md
+

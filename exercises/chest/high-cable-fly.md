@@ -2,43 +2,62 @@
 id: exercise_high_cable_fly
 title: High Cable Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - cable
+subcategory: chest
+description: The high cable fly uses high pulleys and a high-to-low arc, often increasing relative emphasis on the sternal/lower pectoralis fibers while maintaining continuous cable tension through adduction.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - high-to-low cable fly
-  - high cable crossover
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - intermediate
-  - hypertrophy
+- isolation
+- cable
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/low-cable-fly.md
+- exercises/chest/cable-fly.md
+- exercises/chest/seated-cable-fly.md
+- exercises/chest/cable-chest-press.md
+- exercises/chest/incline-dumbbell-fly.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+aliases:
+- high-to-low cable fly
+- high cable crossover
+- hcf
+keywords:
+- high
+- cable
+- fly
+- isolation
+- intermediate
+- hypertrophy
+- to
+- low
+- crossover
+- hcf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- cable
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/low-cable-fly.md
-  - exercises/chest/cable-fly.md
-  - exercises/chest/seated-cable-fly.md
-  - exercises/chest/cable-chest-press.md
-  - exercises/chest/incline-dumbbell-fly.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/dumbbell-fly.md
 ---
 
 # High Cable Fly
@@ -158,7 +177,7 @@ Accessory after compounds.
 
 Reduce ROM or avoid if overhead-open positions irritate the shoulder. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/low-cable-fly.md
 - exercises/chest/cable-fly.md
@@ -169,6 +188,8 @@ Reduce ROM or avoid if overhead-open positions irritate the shoulder. This is tr
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+
 
 ## References
 

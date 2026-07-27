@@ -2,19 +2,45 @@
 id: faq_do_i_need_a_spotter_for_the_straight_arm_pulldown
 title: Do I need a spotter for the Straight-Arm Pulldown?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Straight-Arm Pulldown?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/straight-arm-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/straight-arm-pulldown.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-single-arm-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-close-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-lat-pulldown.md
+- exercises/back/single-arm-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- do i need a spotter for the straight arm pulldown
+- do i need a spotter for the straightarm pulldown
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- straight
+- arm
+- pulldown
+- technique
+- back
+- exercise
+- straightarm
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Straight-Arm Pulldown?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/straight-arm-pulldown.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-single-arm-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-close-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-lat-pulldown.md
+- exercises/back/single-arm-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+

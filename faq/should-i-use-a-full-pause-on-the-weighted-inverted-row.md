@@ -2,19 +2,44 @@
 id: faq_should_i_use_a_full_pause_on_the_weighted_inverted_row
 title: Should I use a full pause on the Weighted Inverted Row?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Weighted Inverted Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/weighted-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-feet-elevated-inverted-row.md
+- faq/should-i-use-a-full-pause-on-the-inverted-row.md
+- faq/should-i-use-a-full-pause-on-the-barbell-row.md
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/inverted-row.md
+aliases:
+- should i use a full pause on the weighted inverted row
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- weighted
+- inverted
+- row
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Weighted Inverted Row?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/weighted-inverted-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-feet-elevated-inverted-row.md
+- faq/should-i-use-a-full-pause-on-the-inverted-row.md
+- faq/should-i-use-a-full-pause-on-the-barbell-row.md
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/inverted-row.md
+

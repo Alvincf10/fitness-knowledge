@@ -2,48 +2,67 @@
 id: exercise_negative_pull_up
 title: Negative Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The negative pull-up emphasizes the eccentric phase by starting at the top (jump or step to chin-over-bar) and lowering slowly. Eccentric-focused practice builds pull-up strength and control when concentric pull-ups are not yet achievable.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - eccentric pull-up
-  - pull-up negative
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - strength
-  - hypertrophy
-  - pull
+- compound
+- bodyweight
+- beginner
+- strength
+- hypertrophy
+- pull
+related:
+- exercises/back/weighted-pull-up.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- eccentric pull-up
+- pull-up negative
+- negative pull up
+- npu
+keywords:
+- negative
+- pull
+- up
+- compound
+- bodyweight
+- beginner
+- strength
+- hypertrophy
+- eccentric
+- npu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/assisted-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Negative Pull-Up
@@ -166,7 +185,7 @@ Use sparingly if sore; prefer pulldowns when fatigued.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. High eccentric stress—manage volume carefully.
 
-## Related
+## Related Articles
 
 - exercises/back/weighted-pull-up.md
 - exercises/back/pull-up.md
@@ -178,6 +197,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

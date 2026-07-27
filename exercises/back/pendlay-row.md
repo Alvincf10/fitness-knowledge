@@ -2,48 +2,70 @@
 id: exercise_pendlay_row
 title: Pendlay Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
+subcategory: back
+description: The Pendlay row is a strict bent-over barbell row performed from a dead stop on the floor each rep. Removing stretch-reflex contribution emphasizes explosive upper-back/lat force production and technique discipline.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - dead-stop barbell row
-  - floor-pause row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- pull
+related:
+- exercises/back/t-bar-row.md
+- exercises/back/barbell-row.md
+- exercises/back/yates-row.md
+- exercises/back/meadows-row.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- dead-stop barbell row
+- floor-pause row
+- pr
+keywords:
+- pendlay
+- row
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- pull
+- dead
+- stop
+- barbell
+- floor
+- pause
+- pr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/t-bar-row.md
-  - exercises/back/barbell-row.md
-  - exercises/back/yates-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/weighted-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Pendlay Row
@@ -168,7 +190,7 @@ Use lighter technique work if fatigued.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/t-bar-row.md
 - exercises/back/barbell-row.md
@@ -180,6 +202,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

@@ -2,19 +2,47 @@
 id: faq_what_grip_width_should_i_use_for_the_reverse_grip_bench_press
 title: What grip width should I use for the Reverse-Grip Bench Press?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Reverse-Grip Bench Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+aliases:
+- what grip width should i use for the reverse grip bench press
+- what grip width should i use for the reversegrip bench press
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- reverse
+- bench
+- press
+- technique
+- chest
+- exercise
+- reversegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Reverse-Grip Bench Press?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/reverse-grip-bench-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-decline-barbell-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+

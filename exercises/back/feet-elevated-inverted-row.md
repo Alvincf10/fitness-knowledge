@@ -2,50 +2,72 @@
 id: exercise_feet_elevated_inverted_row
 title: Feet-Elevated Inverted Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - bodyweight
-  - pull-up-bar
-  - bench
+subcategory: back
+description: The feet-elevated inverted row increases the difficulty of the bodyweight horizontal pull by raising the feet, shifting more load through the upper body and increasing demand on the lats and upper back.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - decline inverted row
-  - feet-up bodyweight row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/weighted-inverted-row.md
+- exercises/back/inverted-row.md
+- exercises/back/ring-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- decline inverted row
+- feet-up bodyweight row
+- feet elevated inverted row
+- feir
+keywords:
+- feet
+- elevated
+- inverted
+- row
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- pull
+- decline
+- up
+- feir
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- bodyweight
+- pull-up-bar
+- bench
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/weighted-inverted-row.md
-  - exercises/back/inverted-row.md
-  - exercises/back/ring-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Feet-Elevated Inverted Row
@@ -168,7 +190,7 @@ Effective when equipment is limited.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/weighted-inverted-row.md
 - exercises/back/inverted-row.md
@@ -180,6 +202,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

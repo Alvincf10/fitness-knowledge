@@ -2,44 +2,63 @@
 id: exercise_dumbbell_fly
 title: Dumbbell Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The dumbbell fly is an isolation exercise emphasizing pectoralis major lengthening and adduction on a flat bench. Resistance is highest near the stretch and decreases toward the top, so control and moderate loads matter more than heavy loading.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - flat dumbbell fly
-  - DB fly
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - free-weight
-  - intermediate
-  - hypertrophy
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/incline-dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/dumbbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/squeeze-press.md
+aliases:
+- flat dumbbell fly
+- db fly
+- df
+- fly
+keywords:
+- dumbbell
+- fly
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+- flat
+- db
+- df
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/incline-dumbbell-fly.md
-  - exercises/chest/decline-dumbbell-fly.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/dumbbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/decline-dumbbell-press.md
 ---
 
 # Dumbbell Fly
@@ -159,7 +178,7 @@ Accessory only.
 
 Avoid aggressive end-range stretches with shoulder irritation. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/incline-dumbbell-fly.md
 - exercises/chest/decline-dumbbell-fly.md
@@ -170,6 +189,8 @@ Avoid aggressive end-range stretches with shoulder irritation. This is training 
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/decline-dumbbell-press.md
+- exercises/chest/squeeze-press.md
+
 
 ## References
 

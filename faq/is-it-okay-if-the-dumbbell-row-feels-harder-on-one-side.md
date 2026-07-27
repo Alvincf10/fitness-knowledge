@@ -2,19 +2,50 @@
 id: faq_is_it_okay_if_the_dumbbell_row_feels_harder_on_one_side
 title: Is it okay if the Dumbbell Row feels harder on one side?
 category: faq
+subcategory: technique
+description: Is it okay if the Dumbbell Row feels harder on one side?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/dumbbell-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/dumbbell-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-barbell-row-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-chest-supported-row-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-dumbbell-pullover-feels-harder-on-one-side.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+aliases:
+- is it okay if the dumbbell row feels harder on one side
+- is it okay if the row feels harder on one side?
+- is it okay if the db row feels harder on one side?
+keywords:
+- is
+- it
+- okay
+- if
+- the
+- dumbbell
+- row
+- feels
+- harder
+- 'on'
+- one
+- side
+- technique
+- back
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is it okay if the Dumbbell Row feels harder on one side?
@@ -40,3 +71,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/dumbbell-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-barbell-row-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-chest-supported-row-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-dumbbell-pullover-feels-harder-on-one-side.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+

@@ -2,19 +2,47 @@
 id: faq_can_i_replace_the_feet_elevated_inverted_row_if_it_hurts
 title: Can I replace the Feet-Elevated Inverted Row if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Feet-Elevated Inverted Row if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/feet-elevated-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/feet-elevated-inverted-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-inverted-row-if-it-hurts.md
+- faq/can-i-replace-the-weighted-inverted-row-if-it-hurts.md
+- faq/can-i-replace-the-barbell-row-if-it-hurts.md
+- exercises/back/inverted-row.md
+- exercises/back/weighted-inverted-row.md
+aliases:
+- can i replace the feet elevated inverted row if it hurts
+- can i replace the feetelevated inverted row if it hurts
+keywords:
+- can
+- replace
+- the
+- feet
+- elevated
+- inverted
+- row
+- if
+- it
+- hurts
+- technique
+- back
+- exercise
+- feetelevated
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Feet-Elevated Inverted Row if it hurts?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/feet-elevated-inverted-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-inverted-row-if-it-hurts.md
+- faq/can-i-replace-the-weighted-inverted-row-if-it-hurts.md
+- faq/can-i-replace-the-barbell-row-if-it-hurts.md
+- exercises/back/inverted-row.md
+- exercises/back/weighted-inverted-row.md
+

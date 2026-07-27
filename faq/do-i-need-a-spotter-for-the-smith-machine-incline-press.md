@@ -2,19 +2,44 @@
 id: faq_do_i_need_a_spotter_for_the_smith_machine_incline_press
 title: Do I need a spotter for the Smith Machine Incline Press?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Smith Machine Incline Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/smith-machine-incline-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/smith-machine-incline-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-incline-machine-chest-press.md
+- faq/do-i-need-a-spotter-for-the-smith-machine-bench-press.md
+- faq/do-i-need-a-spotter-for-the-smith-machine-decline-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/smith-machine-bench-press.md
+aliases:
+- do i need a spotter for the smith machine incline press
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- smith
+- machine
+- incline
+- press
+- technique
+- chest
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Smith Machine Incline Press?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/smith-machine-incline-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-incline-machine-chest-press.md
+- faq/do-i-need-a-spotter-for-the-smith-machine-bench-press.md
+- faq/do-i-need-a-spotter-for-the-smith-machine-decline-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/smith-machine-bench-press.md
+

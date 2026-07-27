@@ -2,21 +2,45 @@
 id: faq_how_many_times_per_week_should_i_practice_the_squat_for_strength
 title: How many times per week should I practice the squat for strength?
 category: faq
+subcategory: strength
+description: How many times per week should I practice the squat for strength?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - strength
-  - frequency
+- strength
+- frequency
 related:
-  - exercises/legs/back-squat.md
-  - science/training-principles/training-frequency.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/barbell-bench-press.md
-  - faq/what-is-rir.md
+- exercises/legs/back-squat.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/barbell-bench-press.md
+- faq/what-is-rir.md
+- faq/how-many-times-per-week-should-i-practice-the-bench-press-for-strength.md
+- faq/how-many-times-per-week-should-i-practice-the-deadlift-for-strength.md
+- faq/how-many-times-per-week-should-i-practice-the-pull-up-for-strength.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- how many times per week should i practice the squat for strength
+keywords:
+- how
+- many
+- times
+- per
+- week
+- should
+- practice
+- the
+- squat
+- for
+- strength
+- frequency
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How many times per week should I practice the squat for strength?
@@ -45,3 +69,8 @@ ACSM progression models; NSCA strength literature; load-specificity research for
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/barbell-bench-press.md
 - faq/what-is-rir.md
+- faq/how-many-times-per-week-should-i-practice-the-bench-press-for-strength.md
+- faq/how-many-times-per-week-should-i-practice-the-deadlift-for-strength.md
+- faq/how-many-times-per-week-should-i-practice-the-pull-up-for-strength.md
+- exercises/back/assisted-pull-up.md
+

@@ -2,19 +2,47 @@
 id: faq_should_i_use_a_full_pause_on_the_neutral_grip_lat_pulldown
 title: Should I use a full pause on the Neutral-Grip Lat Pulldown?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Neutral-Grip Lat Pulldown?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/neutral-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-close-grip-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-reverse-grip-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-wide-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+aliases:
+- should i use a full pause on the neutral grip lat pulldown
+- should i use a full pause on the neutralgrip lat pulldown
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- neutral
+- grip
+- lat
+- pulldown
+- technique
+- back
+- exercise
+- neutralgrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Neutral-Grip Lat Pulldown?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/neutral-grip-lat-pulldown.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-close-grip-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-reverse-grip-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-wide-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+

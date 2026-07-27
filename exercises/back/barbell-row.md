@@ -2,48 +2,70 @@
 id: exercise_barbell_row
 title: Barbell Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
+subcategory: back
+description: The barbell row is a bent-over horizontal pulling exercise that loads the upper and mid-back, lats, and elbow flexors while demanding isometric trunk and hip stability. It is a primary free-weight row for building pulling strength and back hypertrophy and pairs well with vertical…
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - bent-over row
-  - barbell bent-over row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- pull
+related:
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/yates-row.md
+- exercises/back/meadows-row.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- bent-over row
+- barbell bent-over row
+- br
+- row
+- bb row
+keywords:
+- barbell
+- row
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- pull
+- bent
+- over
+- br
+- bb
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - exercises/back/yates-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/weighted-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Barbell Row
@@ -171,7 +193,7 @@ B
 - ACSM Position Stand (2022)
 - NSCA Essentials
 
-## Related
+## Related Articles
 
 - exercises/back/t-bar-row.md
 - exercises/back/pendlay-row.md
@@ -183,3 +205,4 @@ B
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+

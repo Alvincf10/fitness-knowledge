@@ -2,45 +2,61 @@
 id: exercise_cable_chest_press
 title: Cable Chest Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - cable
+subcategory: chest
+description: The cable chest press is a standing or seated horizontal press using dual cables, providing continuous tension and a customizable path for pectoralis major loading with elevated core demand when standing.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - standing cable press
-  - dual cable chest press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - intermediate
-  - hypertrophy
+- compound
+- cable
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/squeeze-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- standing cable press
+- dual cable chest press
+- ccp
+keywords:
+- cable
+- chest
+- press
+- compound
+- intermediate
+- hypertrophy
+- standing
+- dual
+- ccp
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- cable
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/resistance-band-chest-press.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/squeeze-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Cable Chest Press
@@ -160,7 +176,7 @@ Useful when free weights are limited.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/resistance-band-chest-press.md
 - exercises/chest/plate-loaded-chest-press.md
@@ -172,6 +188,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

@@ -2,21 +2,42 @@
 id: faq_how_many_sets_per_week
 title: How Many Sets Per Week?
 category: faq
+subcategory: hypertrophy
+description: How many sets per muscle group per week should I do to grow?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/what-is-rir.md
-  - faq/how-often-should-i-train.md
-  - faq/how-long-should-i-rest-between-sets.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- faq/what-is-rir.md
+- faq/how-often-should-i-train.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- how many sets per week
+- hmspw
+keywords:
+- how
+- many
+- sets
+- per
+- week
+- hypertrophy
+- programming
+- hmspw
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How Many Sets Per Week?
@@ -44,7 +65,7 @@ Volume meta-analyses (Schoenfeld and related reviews) support higher weekly sets
 - Reduce volume during poor sleep or high life stress
 - Prioritize compounds, then add isolation for lagging areas
 
-## Related
+## Related Articles
 
 - science/training-principles/training-volume.md
 - science/training-principles/progressive-overload.md
@@ -52,3 +73,8 @@ Volume meta-analyses (Schoenfeld and related reviews) support higher weekly sets
 - faq/what-is-rir.md
 - faq/how-often-should-i-train.md
 - faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+- exercises/back/assisted-pull-up.md
+

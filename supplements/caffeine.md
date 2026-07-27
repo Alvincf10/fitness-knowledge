@@ -2,28 +2,38 @@
 id: supplement_caffeine
 title: Caffeine
 category: supplement
-goals:
-  - performance
+subcategory: general
+description: Caffeine is a well-supported ergogenic aid for endurance, high-intensity, and strength-power performance in many athletes. Effects depend on dose, habituation, timing, and individual tolerance.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - stimulant
-  - evidence
+- supplement
+- stimulant
+- evidence
+related:
+- nutrition/pre-workout-nutrition.md
+- supplements/citrulline.md
+- supplements/beta-alanine.md
+- faq/best-time-to-workout.md
+- supplements/sodium-bicarbonate.md
+- supplements/electrolytes.md
+- supplements/dietary-nitrate.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+- supplements/whey-protein.md
+aliases: []
+keywords:
+- caffeine
+- supplement
+- stimulant
+- evidence
+goals:
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/pre-workout-nutrition.md
-  - supplements/citrulline.md
-  - supplements/beta-alanine.md
-  - faq/best-time-to-workout.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/electrolytes.md
-  - supplements/dietary-nitrate.md
-  - supplements/creatine.md
-  - supplements/carbohydrate.md
-  - supplements/whey-protein.md
 ---
 
 # Caffeine
@@ -84,7 +94,7 @@ ISSN and multiple meta-analyses support caffeine as an effective ergogenic aid a
 - ACSM Position Stand-related sports nutrition guidance
 - Doherty M (2005)
 
-## Related
+## Related Articles
 
 - nutrition/pre-workout-nutrition.md
 - supplements/citrulline.md
@@ -96,3 +106,4 @@ ISSN and multiple meta-analyses support caffeine as an effective ergogenic aid a
 - supplements/creatine.md
 - supplements/carbohydrate.md
 - supplements/whey-protein.md
+

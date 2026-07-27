@@ -2,19 +2,44 @@
 id: faq_what_grip_width_should_i_use_for_the_machine_chest_press
 title: What grip width should I use for the Machine Chest Press?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Machine Chest Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/machine-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/machine-chest-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-incline-machine-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-smith-machine-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-smith-machine-decline-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+aliases:
+- what grip width should i use for the machine chest press
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- machine
+- chest
+- press
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Machine Chest Press?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/machine-chest-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-incline-machine-chest-press.md
+- faq/what-grip-width-should-i-use-for-the-smith-machine-bench-press.md
+- faq/what-grip-width-should-i-use-for-the-smith-machine-decline-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+

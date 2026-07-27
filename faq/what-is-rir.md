@@ -2,21 +2,40 @@
 id: faq_what_is_rir
 title: What Is RIR?
 category: faq
+subcategory: programming
+description: What does reps in reserve (RIR) mean, and how should I use it?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - programming
-  - hypertrophy
+- programming
+- hypertrophy
 related:
-  - science/training-principles/reps-in-reserve.md
-  - science/training-principles/failure-training.md
-  - faq/should-i-train-to-failure.md
-  - science/training-principles/training-volume.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/failure-training.md
+- faq/should-i-train-to-failure.md
+- science/training-principles/training-volume.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/progressive-overload.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-shorter-rest-periods-build-more-muscle.md
+- faq/do-drop-sets-build-more-muscle-than-straight-sets.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- what is rir
+- wir
+keywords:
+- what
+- is
+- rir
+- programming
+- hypertrophy
+- wir
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # What Is RIR?
@@ -44,7 +63,7 @@ RPE/RIR research shows useful estimation accuracy near failure in trained lifter
 - Leave more reps in reserve on technical heavy compounds when needed
 - Log RIR beside load and reps
 
-## Related
+## Related Articles
 
 - science/training-principles/reps-in-reserve.md
 - science/training-principles/failure-training.md
@@ -52,3 +71,8 @@ RPE/RIR research shows useful estimation accuracy near failure in trained lifter
 - science/training-principles/training-volume.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/progressive-overload.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-shorter-rest-periods-build-more-muscle.md
+- faq/do-drop-sets-build-more-muscle-than-straight-sets.md
+- exercises/back/assisted-pull-up.md
+

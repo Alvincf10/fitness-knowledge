@@ -2,20 +2,41 @@
 id: faq_should_i_stop_weight_training_while_cutting
 title: Should I stop weight training while cutting?
 category: faq
+subcategory: fat-loss
+description: Should I stop weight training while cutting?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - fat-loss
-  - programming
+- fat-loss
+- programming
 related:
-  - nutrition/calorie-deficit.md
-  - nutrition/cutting.md
-  - nutrition/protein.md
-  - faq/how-fast-can-i-lose-fat.md
-  - faq/is-cardio-bad.md
+- exercises/back/assisted-pull-up.md
+- nutrition/calorie-deficit.md
+- nutrition/cutting.md
+- nutrition/protein.md
+- faq/how-fast-can-i-lose-fat.md
+- faq/is-cardio-bad.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- faq/should-i-eat-back-exercise-calories-when-cutting.md
+- faq/should-i-train-while-traveling-with-resistance-bands-only.md
+- science/training-principles/failure-training.md
+aliases:
+- should i stop weight training while cutting
+keywords:
+- should
+- stop
+- weight
+- training
+- while
+- cutting
+- fat-loss
+- programming
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Should I stop weight training while cutting?
@@ -38,8 +59,14 @@ Energy-balance principles; ACSM/ISSN guidance on deficits, protein, and resistan
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - nutrition/calorie-deficit.md
 - nutrition/cutting.md
 - nutrition/protein.md
 - faq/how-fast-can-i-lose-fat.md
 - faq/is-cardio-bad.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- faq/should-i-eat-back-exercise-calories-when-cutting.md
+- faq/should-i-train-while-traveling-with-resistance-bands-only.md
+- science/training-principles/failure-training.md
+

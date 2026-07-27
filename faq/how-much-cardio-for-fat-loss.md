@@ -2,25 +2,42 @@
 id: faq_how_much_cardio_for_fat_loss
 title: How Much Cardio for Fat Loss?
 category: faq
+subcategory: cardio
+description: How much cardio do I need to lose fat?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - cardio
-  - fat-loss
+- cardio
+- fat-loss
 related:
-  - nutrition/cutting.md
-  - nutrition/calorie-deficit.md
-  - faq/is-cardio-bad.md
-  - faq/should-i-do-cardio-before-or-after-weights.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/energy-balance.md
-  - nutrition/body-recomposition.md
-  - faq/is-spot-reduction-possible.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- faq/is-cardio-bad.md
+- faq/should-i-do-cardio-before-or-after-weights.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+aliases:
+- how much cardio for fat loss
+- hmcffl
+keywords:
+- how
+- much
+- cardio
+- for
+- fat
+- loss
+- fat-loss
+- hmcffl
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How Much Cardio for Fat Loss?
@@ -48,8 +65,11 @@ Energy-balance and ACSM guidance show exercise helps weight management, with die
 - Keep progressive resistance training
 - Increase cardio gradually if fat loss stalls and recovery allows
 
-## Related
+## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/cutting.md
 - nutrition/calorie-deficit.md
 - faq/is-cardio-bad.md
@@ -57,6 +77,4 @@ Energy-balance and ACSM guidance show exercise helps weight management, with die
 - nutrition/refeeds-and-diet-breaks.md
 - nutrition/protein.md
 - nutrition/intermittent-fasting.md
-- nutrition/energy-balance.md
-- nutrition/body-recomposition.md
-- faq/is-spot-reduction-possible.md
+

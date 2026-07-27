@@ -2,19 +2,47 @@
 id: faq_what_grip_width_should_i_use_for_the_dumbbell_row
 title: What grip width should I use for the Dumbbell Row?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Dumbbell Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/dumbbell-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/dumbbell-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-row.md
+- faq/what-grip-width-should-i-use-for-the-chest-supported-row.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-pullover.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+aliases:
+- what grip width should i use for the dumbbell row
+- what grip width should i use for the row?
+- what grip width should i use for the db row?
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- dumbbell
+- row
+- technique
+- back
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Dumbbell Row?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/dumbbell-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-barbell-row.md
+- faq/what-grip-width-should-i-use-for-the-chest-supported-row.md
+- faq/what-grip-width-should-i-use-for-the-dumbbell-pullover.md
+- exercises/back/chest-supported-row.md
+- exercises/back/gorilla-row.md
+

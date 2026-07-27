@@ -1,0 +1,56 @@
+{
+  "generated": "2026-07-27",
+  "total_markdown_knowledge": 1130,
+  "by_category": {
+    "exercises": 90,
+    "faq": 1000,
+    "nutrition": 20,
+    "science": 5,
+    "supplements": 15
+  },
+  "exercises": 90,
+  "science": 5,
+  "faq": 1000,
+  "nutrition": 20,
+  "supplements": 15,
+  "empty_categories": [
+    "anatomy",
+    "injuries",
+    "programming",
+    "decision-trees"
+  ],
+  "articles_updated": 1130,
+  "redirects_marked": 40,
+  "near_duplicate_groups": 10,
+  "knowledge_graph_nodes": 1134,
+  "knowledge_graph_edges": 10238,
+  "faq_mapping_ok": 1000,
+  "faq_mapping_fail": 0,
+  "issues_by_severity": {
+    "High": 29,
+    "Medium": 46
+  },
+  "issues_by_kind": {
+    "empty_category": 4,
+    "chunking_oversized": 4,
+    "near_duplicate": 40,
+    "missing_metadata": 24,
+    "missing_tags": 2,
+    "faq_mapping": 1
+  },
+  "scores": {
+    "Metadata": 99.0,
+    "Evidence": 100,
+    "Internal Linking": 100,
+    "Consistency": 99.5,
+    "Naming": 100,
+    "Chunking": 80.0,
+    "Retrieval": 98.0,
+    "Embedding": 85,
+    "Knowledge Graph": 95.0,
+    "References": 100,
+    "Maintainability": 84,
+    "Coverage": 84
+  },
+  "overall_score": 93.7
+}

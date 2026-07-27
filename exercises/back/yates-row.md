@@ -2,47 +2,68 @@
 id: exercise_yates_row
 title: Yates Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
+subcategory: back
+description: The Yates row is an underhand (supinated) bent-over barbell row typically performed with a more upright torso angle than a near-parallel Pendlay-style row, emphasizing lat thickness and elbow-flexor involvement.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - underhand barbell row
-  - supinated bent-over row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/meadows-row.md
+- exercises/back/barbell-row.md
+- exercises/back/renegade-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- underhand barbell row
+- supinated bent-over row
+- yr
+keywords:
+- yates
+- row
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- pull
+- underhand
+- barbell
+- supinated
+- bent
+- over
+- yr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/barbell-row.md
-  - exercises/back/renegade-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Yates Row
@@ -166,7 +187,7 @@ Optional if elbows tolerate underhand loading.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Supinated gripping may aggravate elbow flexor tendons.
 
-## Related
+## Related Articles
 
 - exercises/back/t-bar-row.md
 - exercises/back/pendlay-row.md
@@ -178,6 +199,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

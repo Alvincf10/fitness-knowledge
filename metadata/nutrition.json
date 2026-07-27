@@ -1,218 +1,703 @@
 {
-  "version": "1.0",
-  "updated": "2026-07-27",
-  "description": "Catalog of nutrition articles. Paths are relative to repository root.",
-  "schema": {
-    "id": "string",
-    "title": "string",
-    "slug": "string",
-    "path": "string",
-    "goals": "string[]",
-    "tags": "string[]",
-    "evidence": "A | B | C | D",
-    "status": "planned | draft | published"
-  },
-  "target_count": 20,
-  "nutrition": [
-    {
-      "id": "nutrition_protein",
-      "title": "Protein",
-      "slug": "protein",
-      "path": "nutrition/protein.md",
-      "goals": ["hypertrophy", "fat-loss", "performance"],
-      "tags": ["nutrition", "macronutrient", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_carbohydrates",
-      "title": "Carbohydrates",
-      "slug": "carbohydrates",
-      "path": "nutrition/carbohydrates.md",
-      "goals": ["performance", "hypertrophy"],
-      "tags": ["nutrition", "macronutrient", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_fat",
-      "title": "Fat",
-      "slug": "fat",
-      "path": "nutrition/fat.md",
-      "goals": ["health", "hormones"],
-      "tags": ["nutrition", "macronutrient", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_meal_timing",
-      "title": "Meal Timing",
-      "slug": "meal-timing",
-      "path": "nutrition/meal-timing.md",
-      "goals": ["hypertrophy", "performance"],
-      "tags": ["nutrition", "timing", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_bulking",
-      "title": "Bulking",
-      "slug": "bulking",
-      "path": "nutrition/bulking.md",
-      "goals": ["hypertrophy"],
-      "tags": ["nutrition", "calorie-surplus", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_cutting",
-      "title": "Cutting",
-      "slug": "cutting",
-      "path": "nutrition/cutting.md",
-      "goals": ["fat-loss"],
-      "tags": ["nutrition", "calorie-deficit", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_maintenance",
-      "title": "Maintenance",
-      "slug": "maintenance",
-      "path": "nutrition/maintenance.md",
-      "goals": ["maintenance"],
-      "tags": ["nutrition", "energy-balance", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_calorie_deficit",
-      "title": "Calorie Deficit",
-      "slug": "calorie-deficit",
-      "path": "nutrition/calorie-deficit.md",
-      "goals": ["fat-loss"],
-      "tags": ["nutrition", "energy-balance", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_calorie_surplus",
-      "title": "Calorie Surplus",
-      "slug": "calorie-surplus",
-      "path": "nutrition/calorie-surplus.md",
-      "goals": ["hypertrophy"],
-      "tags": ["nutrition", "energy-balance", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_fiber",
-      "title": "Fiber",
-      "slug": "fiber",
-      "path": "nutrition/fiber.md",
-      "goals": ["health"],
-      "tags": ["nutrition", "micronutrient-adjacent", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_hydration",
-      "title": "Hydration",
-      "slug": "hydration",
-      "path": "nutrition/hydration.md",
-      "goals": ["performance", "health"],
-      "tags": ["nutrition", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_energy_balance",
-      "title": "Energy Balance",
-      "slug": "energy-balance",
-      "path": "nutrition/energy-balance.md",
-      "goals": ["hypertrophy", "fat-loss", "maintenance"],
-      "tags": ["nutrition", "energy-balance", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_micronutrients",
-      "title": "Micronutrients",
-      "slug": "micronutrients",
-      "path": "nutrition/micronutrients.md",
-      "goals": ["health", "performance"],
-      "tags": ["nutrition", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_pre_workout_nutrition",
-      "title": "Pre-Workout Nutrition",
-      "slug": "pre-workout-nutrition",
-      "path": "nutrition/pre-workout-nutrition.md",
-      "goals": ["performance", "hypertrophy"],
-      "tags": ["nutrition", "timing", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_post_workout_nutrition",
-      "title": "Post-Workout Nutrition",
-      "slug": "post-workout-nutrition",
-      "path": "nutrition/post-workout-nutrition.md",
-      "goals": ["recovery", "hypertrophy", "performance"],
-      "tags": ["nutrition", "timing", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_intermittent_fasting",
-      "title": "Intermittent Fasting",
-      "slug": "intermittent-fasting",
-      "path": "nutrition/intermittent-fasting.md",
-      "goals": ["fat-loss", "maintenance"],
-      "tags": ["nutrition", "timing", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_refeeds_and_diet_breaks",
-      "title": "Refeeds and Diet Breaks",
-      "slug": "refeeds-and-diet-breaks",
-      "path": "nutrition/refeeds-and-diet-breaks.md",
-      "goals": ["fat-loss"],
-      "tags": ["nutrition", "calorie-deficit", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
+  "generated": "2026-07-27",
+  "count": 20,
+  "items": [
     {
       "id": "nutrition_alcohol",
       "title": "Alcohol",
-      "slug": "alcohol",
-      "path": "nutrition/alcohol.md",
-      "goals": ["recovery", "health"],
-      "tags": ["nutrition", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "nutrition_plant_based_protein",
-      "title": "Plant-Based Protein",
-      "slug": "plant-based-protein",
-      "path": "nutrition/plant-based-protein.md",
-      "goals": ["hypertrophy", "health"],
-      "tags": ["nutrition", "macronutrient", "evidence"],
-      "evidence": "A",
-      "status": "published"
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "nutrition",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/cutting.md",
+        "faq/how-important-is-sleep.md",
+        "nutrition/protein.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md",
+        "nutrition/fiber.md",
+        "nutrition/fat.md",
+        "nutrition/refeeds-and-diet-breaks.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "alcohol",
+        "nutrition",
+        "evidence"
+      ],
+      "path": "nutrition/alcohol.md"
     },
     {
       "id": "nutrition_body_recomposition",
       "title": "Body Recomposition",
-      "slug": "body-recomposition",
-      "path": "nutrition/body-recomposition.md",
-      "goals": ["hypertrophy", "fat-loss"],
-      "tags": ["nutrition", "evidence"],
-      "evidence": "B",
-      "status": "published"
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "nutrition",
+        "evidence"
+      ],
+      "related": [
+        "faq/can-beginners-gain-muscle-and-lose-fat.md",
+        "faq/can-i-build-muscle-in-a-deficit.md",
+        "nutrition/protein.md",
+        "nutrition/calorie-deficit.md",
+        "science/training-principles/progressive-overload.md",
+        "nutrition/energy-balance.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md"
+      ],
+      "aliases": [
+        "br"
+      ],
+      "keywords": [
+        "body",
+        "recomposition",
+        "nutrition",
+        "evidence",
+        "br"
+      ],
+      "path": "nutrition/body-recomposition.md"
+    },
+    {
+      "id": "nutrition_bulking",
+      "title": "Bulking",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "calorie-surplus",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/calorie-surplus.md",
+        "faq/do-i-need-to-bulk-to-build-muscle.md",
+        "nutrition/protein.md",
+        "nutrition/body-recomposition.md",
+        "nutrition/maintenance.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/meal-timing.md",
+        "nutrition/energy-balance.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "bulking",
+        "nutrition",
+        "calorie-surplus",
+        "evidence"
+      ],
+      "path": "nutrition/bulking.md"
+    },
+    {
+      "id": "nutrition_calorie_deficit",
+      "title": "Calorie Deficit",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "energy-balance",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/cutting.md",
+        "nutrition/energy-balance.md",
+        "faq/can-i-build-muscle-in-a-deficit.md",
+        "faq/how-fast-can-i-lose-fat.md",
+        "nutrition/protein.md",
+        "nutrition/calorie-surplus.md",
+        "nutrition/maintenance.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/body-recomposition.md"
+      ],
+      "aliases": [
+        "cd"
+      ],
+      "keywords": [
+        "calorie",
+        "deficit",
+        "nutrition",
+        "energy-balance",
+        "evidence",
+        "cd"
+      ],
+      "path": "nutrition/calorie-deficit.md"
+    },
+    {
+      "id": "nutrition_calorie_surplus",
+      "title": "Calorie Surplus",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "energy-balance",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/bulking.md",
+        "nutrition/energy-balance.md",
+        "faq/do-i-need-to-bulk-to-build-muscle.md",
+        "nutrition/protein.md",
+        "nutrition/calorie-deficit.md",
+        "nutrition/maintenance.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/meal-timing.md"
+      ],
+      "aliases": [
+        "cs"
+      ],
+      "keywords": [
+        "calorie",
+        "surplus",
+        "nutrition",
+        "energy-balance",
+        "evidence",
+        "cs"
+      ],
+      "path": "nutrition/calorie-surplus.md"
+    },
+    {
+      "id": "nutrition_carbohydrates",
+      "title": "Carbohydrates",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/energy-balance.md",
+        "nutrition/pre-workout-nutrition.md",
+        "supplements/carbohydrate.md",
+        "nutrition/fat.md",
+        "nutrition/protein.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/meal-timing.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "carbohydrates",
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "path": "nutrition/carbohydrates.md"
+    },
+    {
+      "id": "nutrition_cutting",
+      "title": "Cutting",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "calorie-deficit",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/calorie-deficit.md",
+        "faq/how-fast-can-i-lose-fat.md",
+        "nutrition/protein.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "faq/is-spot-reduction-possible.md",
+        "nutrition/body-recomposition.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/energy-balance.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "cutting",
+        "nutrition",
+        "calorie-deficit",
+        "evidence"
+      ],
+      "path": "nutrition/cutting.md"
+    },
+    {
+      "id": "nutrition_energy_balance",
+      "title": "Energy Balance",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "energy-balance",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/maintenance.md",
+        "nutrition/calorie-deficit.md",
+        "nutrition/calorie-surplus.md",
+        "faq/does-muscle-turn-into-fat.md",
+        "nutrition/protein.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/body-recomposition.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md"
+      ],
+      "aliases": [
+        "eb"
+      ],
+      "keywords": [
+        "energy",
+        "balance",
+        "nutrition",
+        "energy-balance",
+        "evidence",
+        "eb"
+      ],
+      "path": "nutrition/energy-balance.md"
+    },
+    {
+      "id": "nutrition_fat",
+      "title": "Fat",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/protein.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/energy-balance.md",
+        "nutrition/micronutrients.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/hydration.md",
+        "nutrition/fiber.md",
+        "nutrition/alcohol.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/pre-workout-nutrition.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "fat",
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "path": "nutrition/fat.md"
+    },
+    {
+      "id": "nutrition_fiber",
+      "title": "Fiber",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "micronutrient-adjacent",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/carbohydrates.md",
+        "nutrition/micronutrients.md",
+        "nutrition/fat.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/hydration.md",
+        "nutrition/alcohol.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/protein.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "fiber",
+        "nutrition",
+        "micronutrient-adjacent",
+        "evidence"
+      ],
+      "path": "nutrition/fiber.md"
+    },
+    {
+      "id": "nutrition_hydration",
+      "title": "Hydration",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "evidence"
+      ],
+      "related": [
+        "supplements/electrolytes.md",
+        "nutrition/micronutrients.md",
+        "supplements/magnesium.md",
+        "nutrition/protein.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/meal-timing.md",
+        "nutrition/fiber.md",
+        "nutrition/fat.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "hydration",
+        "nutrition",
+        "evidence"
+      ],
+      "path": "nutrition/hydration.md"
+    },
+    {
+      "id": "nutrition_intermittent_fasting",
+      "title": "Intermittent Fasting",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "nutrition",
+        "timing",
+        "evidence"
+      ],
+      "related": [
+        "faq/is-intermittent-fasting-better.md",
+        "nutrition/meal-timing.md",
+        "nutrition/calorie-deficit.md",
+        "nutrition/energy-balance.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/protein.md",
+        "nutrition/maintenance.md",
+        "nutrition/cutting.md"
+      ],
+      "aliases": [
+        "if"
+      ],
+      "keywords": [
+        "intermittent",
+        "fasting",
+        "nutrition",
+        "timing",
+        "evidence",
+        "if"
+      ],
+      "path": "nutrition/intermittent-fasting.md"
+    },
+    {
+      "id": "nutrition_maintenance",
+      "title": "Maintenance",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "energy-balance",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/energy-balance.md",
+        "nutrition/calorie-deficit.md",
+        "nutrition/calorie-surplus.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/refeeds-and-diet-breaks.md",
+        "nutrition/protein.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/micronutrients.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "maintenance",
+        "nutrition",
+        "energy-balance",
+        "evidence"
+      ],
+      "path": "nutrition/maintenance.md"
+    },
+    {
+      "id": "nutrition_meal_timing",
+      "title": "Meal Timing",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "timing",
+        "evidence"
+      ],
+      "related": [
+        "faq/is-the-anabolic-window-real.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/protein.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md",
+        "nutrition/energy-balance.md"
+      ],
+      "aliases": [
+        "mt"
+      ],
+      "keywords": [
+        "meal",
+        "timing",
+        "nutrition",
+        "evidence",
+        "mt"
+      ],
+      "path": "nutrition/meal-timing.md"
+    },
+    {
+      "id": "nutrition_micronutrients",
+      "title": "Micronutrients",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/fiber.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md",
+        "nutrition/hydration.md",
+        "supplements/fish-oil.md",
+        "nutrition/protein.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/meal-timing.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "micronutrients",
+        "nutrition",
+        "evidence"
+      ],
+      "path": "nutrition/micronutrients.md"
+    },
+    {
+      "id": "nutrition_plant_based_protein",
+      "title": "Plant-Based Protein",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/protein.md",
+        "faq/how-much-protein.md",
+        "supplements/whey-protein.md",
+        "nutrition/meal-timing.md",
+        "nutrition/fat.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md"
+      ],
+      "aliases": [
+        "plant based protein",
+        "pbp"
+      ],
+      "keywords": [
+        "plant",
+        "based",
+        "protein",
+        "nutrition",
+        "macronutrient",
+        "evidence",
+        "pbp"
+      ],
+      "path": "nutrition/plant-based-protein.md"
+    },
+    {
+      "id": "nutrition_post_workout_nutrition",
+      "title": "Post-Workout Nutrition",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "timing",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/meal-timing.md",
+        "nutrition/protein.md",
+        "faq/is-the-anabolic-window-real.md",
+        "supplements/whey-protein.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md"
+      ],
+      "aliases": [
+        "post workout nutrition",
+        "pwn"
+      ],
+      "keywords": [
+        "post",
+        "workout",
+        "nutrition",
+        "timing",
+        "evidence",
+        "pwn"
+      ],
+      "path": "nutrition/post-workout-nutrition.md"
+    },
+    {
+      "id": "nutrition_pre_workout_nutrition",
+      "title": "Pre-Workout Nutrition",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "timing",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/post-workout-nutrition.md",
+        "nutrition/meal-timing.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/protein.md",
+        "faq/is-the-anabolic-window-real.md",
+        "supplements/caffeine.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/plant-based-protein.md",
+        "nutrition/micronutrients.md",
+        "nutrition/hydration.md"
+      ],
+      "aliases": [
+        "pre workout nutrition",
+        "pwn"
+      ],
+      "keywords": [
+        "pre",
+        "workout",
+        "nutrition",
+        "timing",
+        "evidence",
+        "pwn"
+      ],
+      "path": "nutrition/pre-workout-nutrition.md"
+    },
+    {
+      "id": "nutrition_protein",
+      "title": "Protein",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "related": [
+        "faq/how-much-protein.md",
+        "faq/is-more-protein-always-better.md",
+        "supplements/whey-protein.md",
+        "nutrition/plant-based-protein.md",
+        "supplements/casein-protein.md",
+        "nutrition/meal-timing.md",
+        "faq/do-i-need-whey-protein.md",
+        "nutrition/body-recomposition.md",
+        "nutrition/cutting.md",
+        "faq/are-bcaas-worth-it.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "protein",
+        "nutrition",
+        "macronutrient",
+        "evidence"
+      ],
+      "path": "nutrition/protein.md"
+    },
+    {
+      "id": "nutrition_refeeds_and_diet_breaks",
+      "title": "Refeeds and Diet Breaks",
+      "category": "nutrition",
+      "subcategory": "nutrition",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "nutrition",
+        "calorie-deficit",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/cutting.md",
+        "nutrition/calorie-deficit.md",
+        "faq/how-fast-can-i-lose-fat.md",
+        "nutrition/carbohydrates.md",
+        "nutrition/protein.md",
+        "nutrition/intermittent-fasting.md",
+        "nutrition/energy-balance.md",
+        "nutrition/body-recomposition.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md"
+      ],
+      "aliases": [
+        "radb"
+      ],
+      "keywords": [
+        "refeeds",
+        "and",
+        "diet",
+        "breaks",
+        "nutrition",
+        "calorie-deficit",
+        "evidence",
+        "radb"
+      ],
+      "path": "nutrition/refeeds-and-diet-breaks.md"
     }
   ]
 }

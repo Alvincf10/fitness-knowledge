@@ -2,29 +2,43 @@
 id: nutrition_pre_workout_nutrition
 title: Pre-Workout Nutrition
 category: nutrition
-goals:
-  - performance
-  - hypertrophy
+subcategory: nutrition
+description: Pre-workout nutrition fuels the upcoming session and helps avoid hunger or GI distress during training. For most lifters, a digestible mix of carbohydrate and protein eaten in a practical window beats complicated stacks.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - timing
-  - evidence
+- nutrition
+- timing
+- evidence
+related:
+- nutrition/post-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/carbohydrates.md
+- nutrition/protein.md
+- faq/is-the-anabolic-window-real.md
+- supplements/caffeine.md
+- nutrition/intermittent-fasting.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+aliases:
+- pre workout nutrition
+- pwn
+keywords:
+- pre
+- workout
+- nutrition
+- timing
+- evidence
+- pwn
+goals:
+- performance
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/post-workout-nutrition.md
-  - nutrition/meal-timing.md
-  - nutrition/carbohydrates.md
-  - nutrition/protein.md
-  - faq/is-the-anabolic-window-real.md
-  - supplements/caffeine.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/plant-based-protein.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
 ---
 
 # Pre-Workout Nutrition
@@ -84,7 +98,7 @@ ISSN nutrient-timing and ACSM sports-nutrition guidance support carbohydrate ava
 - Burke LM (2011)
 - Aragon AA (2013)
 
-## Related
+## Related Articles
 
 - nutrition/post-workout-nutrition.md
 - nutrition/meal-timing.md
@@ -96,3 +110,4 @@ ISSN nutrient-timing and ACSM sports-nutrition guidance support carbohydrate ava
 - nutrition/plant-based-protein.md
 - nutrition/micronutrients.md
 - nutrition/hydration.md
+

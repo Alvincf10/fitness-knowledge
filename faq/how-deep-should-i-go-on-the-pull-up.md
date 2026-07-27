@@ -2,19 +2,45 @@
 id: faq_how_deep_should_i_go_on_the_pull_up
 title: How deep should I go on the Pull-Up?
 category: faq
+subcategory: technique
+description: How deep should I go on the Pull-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/pull-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/pull-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-assisted-pull-up.md
+- faq/how-deep-should-i-go-on-the-band-assisted-pull-up.md
+- faq/how-deep-should-i-go-on-the-face-pull.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- how deep should i go on the pull up
+- how deep should i go on the pullup
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- pull
+- up
+- technique
+- back
+- exercise
+- pullup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Pull-Up?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/pull-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-assisted-pull-up.md
+- faq/how-deep-should-i-go-on-the-band-assisted-pull-up.md
+- faq/how-deep-should-i-go-on-the-face-pull.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

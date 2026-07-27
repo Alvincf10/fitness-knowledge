@@ -2,28 +2,38 @@
 id: nutrition_maintenance
 title: Maintenance
 category: nutrition
-goals:
-  - maintenance
+subcategory: nutrition
+description: Maintenance is the energy intake level that keeps body weight and body composition relatively stable over time. It is used between growth and fat-loss phases to consolidate results and restore training quality.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - energy-balance
-  - evidence
+- nutrition
+- energy-balance
+- evidence
+related:
+- nutrition/energy-balance.md
+- nutrition/calorie-deficit.md
+- nutrition/calorie-surplus.md
+- nutrition/intermittent-fasting.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+aliases: []
+keywords:
+- maintenance
+- nutrition
+- energy-balance
+- evidence
+goals:
+- maintenance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/energy-balance.md
-  - nutrition/calorie-deficit.md
-  - nutrition/calorie-surplus.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/protein.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/micronutrients.md
 ---
 
 # Maintenance
@@ -83,7 +93,7 @@ Energy balance physics underpin maintenance. Sports-nutrition practice uses main
 - ISSN Position Stand
 - Hall KD (2012)
 
-## Related
+## Related Articles
 
 - nutrition/energy-balance.md
 - nutrition/calorie-deficit.md
@@ -95,3 +105,4 @@ Energy balance physics underpin maintenance. Sports-nutrition practice uses main
 - nutrition/post-workout-nutrition.md
 - nutrition/plant-based-protein.md
 - nutrition/micronutrients.md
+

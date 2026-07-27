@@ -2,18 +2,43 @@
 id: faq_what_should_i_do_if_my_lower_back_hurt_during_lifting
 title: What should I do if my lower back hurt during lifting?
 category: faq
+subcategory: injury
+description: What should I do if my lower back hurt during lifting?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - injury
-  - lower-back
+- injury
+- lower-back
 related:
-  - science/training-principles/training-volume.md
-  - faq/how-important-is-sleep.md
-  - science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- faq/how-important-is-sleep.md
+- science/training-principles/progressive-overload.md
+- faq/what-should-i-do-if-my-ankles-hurt-during-lifting.md
+- faq/what-should-i-do-if-my-elbows-hurt-during-lifting.md
+- faq/what-should-i-do-if-my-hips-hurt-during-lifting.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- what should i do if my lower back hurt during lifting
+keywords:
+- what
+- should
+- do
+- if
+- my
+- lower
+- back
+- hurt
+- during
+- lifting
+- injury
+- lower-back
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What should I do if my lower back hurt during lifting?
@@ -39,3 +64,9 @@ Sports-medicine load-management and tendinopathy principles; referral recommende
 - science/training-principles/training-volume.md
 - faq/how-important-is-sleep.md
 - science/training-principles/progressive-overload.md
+- faq/what-should-i-do-if-my-ankles-hurt-during-lifting.md
+- faq/what-should-i-do-if-my-elbows-hurt-during-lifting.md
+- faq/what-should-i-do-if-my-hips-hurt-during-lifting.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

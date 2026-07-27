@@ -3,29 +3,41 @@ id: science_failure_training
 title: Failure Training
 category: science
 subcategory: training-principles
-goal:
-  - hypertrophy
-  - strength
+description: Failure training means continuing a set until another concentric repetition cannot be completed with acceptable technique (momentary concentric failure). It is distinct from form failure or sticking-point grinding that changes the intended movement pattern.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - training
-  - evidence
-  - programming
+- training
+- evidence
+- programming
+related:
+- faq/should-i-train-to-failure.md
+- faq/what-is-rir.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- faq/how-many-sets-per-week.md
+- exercises/chest/push-up.md
+- exercises/back/lat-pulldown.md
+- exercises/chest/dumbbell-fly.md
+- exercises/legs/leg-press.md
+aliases:
+- ft
+keywords:
+- failure
+- training
+- evidence
+- programming
+- ft
+- science
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/should-i-train-to-failure.md
-  - faq/what-is-rir.md
-  - science/training-principles/reps-in-reserve.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - faq/how-many-sets-per-week.md
-  - exercises/chest/push-up.md
-  - exercises/back/lat-pulldown.md
-  - exercises/chest/dumbbell-fly.md
-  - exercises/legs/leg-press.md
 ---
 
 # Failure Training
@@ -78,7 +90,7 @@ Systematic reviews and meta-analyses comparing failure versus non-failure traini
 - NSCA Essentials
 - Helms ER (2016)
 
-## Related
+## Related Articles
 
 - faq/should-i-train-to-failure.md
 - faq/what-is-rir.md
@@ -90,3 +102,4 @@ Systematic reviews and meta-analyses comparing failure versus non-failure traini
 - exercises/back/lat-pulldown.md
 - exercises/chest/dumbbell-fly.md
 - exercises/legs/leg-press.md
+

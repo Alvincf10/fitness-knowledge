@@ -2,19 +2,43 @@
 id: faq_how_deep_should_i_go_on_the_landmine_row
 title: How deep should I go on the Landmine Row?
 category: faq
+subcategory: technique
+description: How deep should I go on the Landmine Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/landmine-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/landmine-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-row.md
+- faq/how-deep-should-i-go-on-the-chest-supported-row.md
+- faq/how-deep-should-i-go-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+aliases:
+- how deep should i go on the landmine row
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- landmine
+- row
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Landmine Row?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/landmine-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-row.md
+- faq/how-deep-should-i-go-on-the-chest-supported-row.md
+- faq/how-deep-should-i-go-on-the-dumbbell-row.md
+- exercises/back/barbell-row.md
+- exercises/back/chest-supported-row.md
+

@@ -2,19 +2,42 @@
 id: faq_do_i_need_a_spotter_for_the_pec_deck
 title: Do I need a spotter for the Pec Deck?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Pec Deck?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/pec-deck.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/pec-deck.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-cable-chest-press.md
+- faq/do-i-need-a-spotter-for-the-cable-fly.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+aliases:
+- do i need a spotter for the pec deck
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- pec
+- deck
+- technique
+- chest
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Pec Deck?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/pec-deck.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-cable-chest-press.md
+- faq/do-i-need-a-spotter-for-the-cable-fly.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+

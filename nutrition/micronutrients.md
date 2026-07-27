@@ -2,28 +2,37 @@
 id: nutrition_micronutrients
 title: Micronutrients
 category: nutrition
-goals:
-  - health
-  - performance
+subcategory: nutrition
+description: Micronutrients are vitamins and minerals required in small amounts for energy metabolism, bone health, oxygen transport, immune function, and recovery. Deficiencies can impair training; megadosing extras rarely boost performance in already sufficient athletes.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - evidence
+- nutrition
+- evidence
+related:
+- nutrition/fiber.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+- nutrition/hydration.md
+- supplements/fish-oil.md
+- nutrition/protein.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+aliases: []
+keywords:
+- micronutrients
+- nutrition
+- evidence
+goals:
+- health
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/fiber.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
-  - nutrition/hydration.md
-  - supplements/fish-oil.md
-  - nutrition/protein.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/meal-timing.md
 ---
 
 # Micronutrients
@@ -83,7 +92,7 @@ Sports-nutrition position stands emphasize food-first micronutrient adequacy. Pe
 - Close GL (2013)
 - Volpe SL (2015)
 
-## Related
+## Related Articles
 
 - nutrition/fiber.md
 - supplements/vitamin-d.md
@@ -95,3 +104,4 @@ Sports-nutrition position stands emphasize food-first micronutrient adequacy. Pe
 - nutrition/post-workout-nutrition.md
 - nutrition/plant-based-protein.md
 - nutrition/meal-timing.md
+

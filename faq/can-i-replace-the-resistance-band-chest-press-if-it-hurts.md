@@ -2,19 +2,44 @@
 id: faq_can_i_replace_the_resistance_band_chest_press_if_it_hurts
 title: Can I replace the Resistance Band Chest Press if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Resistance Band Chest Press if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/resistance-band-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/resistance-band-chest-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-barbell-bench-press-if-it-hurts.md
+- faq/can-i-replace-the-cable-chest-press-if-it-hurts.md
+- faq/can-i-replace-the-decline-barbell-bench-press-if-it-hurts.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+aliases:
+- can i replace the resistance band chest press if it hurts
+keywords:
+- can
+- replace
+- the
+- resistance
+- band
+- chest
+- press
+- if
+- it
+- hurts
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Resistance Band Chest Press if it hurts?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/resistance-band-chest-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-barbell-bench-press-if-it-hurts.md
+- faq/can-i-replace-the-cable-chest-press-if-it-hurts.md
+- faq/can-i-replace-the-decline-barbell-bench-press-if-it-hurts.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+

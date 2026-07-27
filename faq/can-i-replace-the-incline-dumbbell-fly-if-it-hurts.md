@@ -2,19 +2,47 @@
 id: faq_can_i_replace_the_incline_dumbbell_fly_if_it_hurts
 title: Can I replace the Incline Dumbbell Fly if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Incline Dumbbell Fly if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/incline-dumbbell-fly.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/incline-dumbbell-fly.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-decline-dumbbell-fly-if-it-hurts.md
+- faq/can-i-replace-the-dumbbell-fly-if-it-hurts.md
+- faq/can-i-replace-the-incline-dumbbell-press-if-it-hurts.md
+- exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/dumbbell-fly.md
+aliases:
+- can i replace the incline dumbbell fly if it hurts
+- can i replace the incline fly if it hurts?
+- can i replace the incline db fly if it hurts?
+keywords:
+- can
+- replace
+- the
+- incline
+- dumbbell
+- fly
+- if
+- it
+- hurts
+- technique
+- chest
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Incline Dumbbell Fly if it hurts?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/incline-dumbbell-fly.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-decline-dumbbell-fly-if-it-hurts.md
+- faq/can-i-replace-the-dumbbell-fly-if-it-hurts.md
+- faq/can-i-replace-the-incline-dumbbell-press-if-it-hurts.md
+- exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/dumbbell-fly.md
+

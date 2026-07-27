@@ -2,20 +2,42 @@
 id: faq_how_can_i_break_a_plateau_on_my_squat
 title: How can I break a plateau on my squat?
 category: faq
+subcategory: strength
+description: How can I break a plateau on my squat?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - strength
-  - progression
+- strength
+- progression
 related:
-  - exercises/legs/back-squat.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/barbell-bench-press.md
-  - faq/what-is-rir.md
+- exercises/legs/back-squat.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/barbell-bench-press.md
+- faq/what-is-rir.md
+- faq/how-can-i-break-a-plateau-on-my-bench-press.md
+- faq/how-can-i-break-a-plateau-on-my-deadlift.md
+- faq/how-can-i-break-a-plateau-on-my-pull-up.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- how can i break a plateau on my squat
+keywords:
+- how
+- can
+- break
+- plateau
+- 'on'
+- my
+- squat
+- strength
+- progression
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How can I break a plateau on my squat?
@@ -43,3 +65,9 @@ ACSM progression models; NSCA strength literature; load-specificity research for
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/barbell-bench-press.md
 - faq/what-is-rir.md
+- faq/how-can-i-break-a-plateau-on-my-bench-press.md
+- faq/how-can-i-break-a-plateau-on-my-deadlift.md
+- faq/how-can-i-break-a-plateau-on-my-pull-up.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

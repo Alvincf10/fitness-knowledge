@@ -2,19 +2,47 @@
 id: faq_what_grip_width_should_i_use_for_the_wide_grip_lat_pulldown
 title: What grip width should I use for the Wide-Grip Lat Pulldown?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Wide-Grip Lat Pulldown?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/wide-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/wide-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-close-grip-lat-pulldown.md
+- faq/what-grip-width-should-i-use-for-the-lat-pulldown.md
+- faq/what-grip-width-should-i-use-for-the-neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+aliases:
+- what grip width should i use for the wide grip lat pulldown
+- what grip width should i use for the widegrip lat pulldown
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- wide
+- lat
+- pulldown
+- technique
+- back
+- exercise
+- widegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Wide-Grip Lat Pulldown?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/wide-grip-lat-pulldown.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-close-grip-lat-pulldown.md
+- faq/what-grip-width-should-i-use-for-the-lat-pulldown.md
+- faq/what-grip-width-should-i-use-for-the-neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+

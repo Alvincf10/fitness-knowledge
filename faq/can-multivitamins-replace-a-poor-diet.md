@@ -2,20 +2,42 @@
 id: faq_can_multivitamins_replace_a_poor_diet
 title: Can multivitamins replace a poor diet?
 category: faq
+subcategory: supplements
+description: Can multivitamins replace a poor diet?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplements
-  - nutrition
+- supplements
+- nutrition
 related:
-  - nutrition/micronutrients.md
-  - faq/do-i-need-supplements.md
-  - supplements/creatine.md
-  - nutrition/protein.md
-  - faq/do-i-need-creatine.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/micronutrients.md
+- faq/do-i-need-supplements.md
+- supplements/creatine.md
+- nutrition/protein.md
+- faq/do-i-need-creatine.md
+- faq/can-high-protein-hurt-my-kidneys-if-i-am-healthy.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+aliases:
+- can multivitamins replace a poor diet
+- cmrapd
+keywords:
+- can
+- multivitamins
+- replace
+- poor
+- diet
+- supplements
+- nutrition
+- cmrapd
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can multivitamins replace a poor diet?
@@ -38,8 +60,14 @@ ISSN sports-supplement position stands and systematic reviews for the specific i
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/micronutrients.md
 - faq/do-i-need-supplements.md
 - supplements/creatine.md
 - nutrition/protein.md
 - faq/do-i-need-creatine.md
+- faq/can-high-protein-hurt-my-kidneys-if-i-am-healthy.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+

@@ -2,47 +2,68 @@
 id: exercise_feet_elevated_push_up
 title: Feet-Elevated Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The feet-elevated push-up raises the feet to increase load through the upper body and shift demand somewhat toward the upper chest and shoulders relative to a floor push-up.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - decline push-up
-  - feet-elevated press-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/weighted-push-up.md
+- exercises/chest/close-grip-push-up.md
+- exercises/chest/ring-push-up.md
+- exercises/chest/push-up.md
+- exercises/chest/deficit-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- decline push-up
+- feet-elevated press-up
+- feet elevated push up
+- fepu
+keywords:
+- feet
+- elevated
+- push
+- up
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- decline
+- press
+- fepu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/weighted-push-up.md
-  - exercises/chest/close-grip-push-up.md
-  - exercises/chest/ring-push-up.md
-  - exercises/chest/push-up.md
-  - exercises/chest/deficit-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
 ---
 
 # Feet-Elevated Push-Up
@@ -162,7 +183,7 @@ Good when equipment is limited.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/weighted-push-up.md
 - exercises/chest/close-grip-push-up.md
@@ -174,6 +195,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+
 
 ## References
 

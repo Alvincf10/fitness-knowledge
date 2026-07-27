@@ -2,45 +2,61 @@
 id: exercise_machine_pullover
 title: Machine Pullover
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - chest
-  - triceps
-equipment:
-  - machine
+subcategory: back
+description: The machine pullover uses a guided arc to load shoulder extension for the latissimus dorsi with supported positioning, reducing skill demand versus free-weight pullovers while providing consistent tension.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - nautilus pullover
-  - selectorized pullover
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - machine
-  - beginner
-  - hypertrophy
+- isolation
+- machine
+- beginner
+- hypertrophy
+related:
+- exercises/back/dumbbell-pullover.md
+- exercises/back/machine-row.md
+- exercises/back/cable-pullover.md
+- exercises/back/smith-machine-row.md
+- exercises/back/wide-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- exercises/back/reverse-grip-lat-pulldown.md
+aliases:
+- nautilus pullover
+- selectorized pullover
+- mp
+keywords:
+- machine
+- pullover
+- isolation
+- beginner
+- hypertrophy
+- nautilus
+- selectorized
+- mp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- chest
+- triceps
+equipment:
+- machine
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/dumbbell-pullover.md
-  - exercises/back/machine-row.md
-  - exercises/back/cable-pullover.md
-  - exercises/back/smith-machine-row.md
-  - exercises/back/wide-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - exercises/back/reverse-grip-lat-pulldown.md
 ---
 
 # Machine Pullover
@@ -161,7 +177,7 @@ Optional accessory.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/dumbbell-pullover.md
 - exercises/back/machine-row.md
@@ -173,6 +189,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - exercises/back/reverse-grip-lat-pulldown.md
+
 
 ## References
 

@@ -2,19 +2,42 @@
 id: faq_how_many_meals_per_day_are_optimal
 title: How many meals per day are optimal?
 category: faq
+subcategory: nutrition
+description: How many meals per day are optimal?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - meal-timing
+- nutrition
+- meal-timing
 related:
-  - nutrition/meal-timing.md
-  - nutrition/protein.md
-  - nutrition/energy-balance.md
-  - faq/how-much-protein.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/meal-timing.md
+- nutrition/protein.md
+- nutrition/energy-balance.md
+- faq/how-much-protein.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+aliases:
+- how many meals per day are optimal
+keywords:
+- how
+- many
+- meals
+- per
+- day
+- are
+- optimal
+- nutrition
+- meal-timing
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How many meals per day are optimal?
@@ -37,7 +60,14 @@ ISSN and ACSM nutrition position stands; protein and energy-balance meta-analyse
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/meal-timing.md
 - nutrition/protein.md
 - nutrition/energy-balance.md
 - faq/how-much-protein.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+

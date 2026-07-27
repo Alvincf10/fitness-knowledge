@@ -2,29 +2,39 @@
 id: nutrition_fat
 title: Fat
 category: nutrition
-goals:
-  - health
-  - hormones
+subcategory: nutrition
+description: Dietary fat supplies energy, supports absorption of fat-soluble vitamins, and provides essential fatty acids. For lifters, fat is rarely the main driver of hypertrophy, but chronically very low intakes can impair diet quality and health.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - macronutrient
-  - evidence
+- nutrition
+- macronutrient
+- evidence
+related:
+- nutrition/protein.md
+- nutrition/carbohydrates.md
+- nutrition/energy-balance.md
+- nutrition/micronutrients.md
+- nutrition/plant-based-protein.md
+- nutrition/hydration.md
+- nutrition/fiber.md
+- nutrition/alcohol.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md
+aliases: []
+keywords:
+- fat
+- nutrition
+- macronutrient
+- evidence
+goals:
+- health
+- hormones
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/protein.md
-  - nutrition/carbohydrates.md
-  - nutrition/energy-balance.md
-  - nutrition/micronutrients.md
-  - nutrition/plant-based-protein.md
-  - nutrition/hydration.md
-  - nutrition/fiber.md
-  - nutrition/alcohol.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/pre-workout-nutrition.md
 ---
 
 # Fat
@@ -84,7 +94,7 @@ Dietary guidelines and ACSM sports-nutrition positions support including adequat
 - Calder PC (2017)
 - Helms ER (2014)
 
-## Related
+## Related Articles
 
 - nutrition/protein.md
 - nutrition/carbohydrates.md
@@ -96,3 +106,4 @@ Dietary guidelines and ACSM sports-nutrition positions support including adequat
 - nutrition/alcohol.md
 - nutrition/refeeds-and-diet-breaks.md
 - nutrition/pre-workout-nutrition.md
+

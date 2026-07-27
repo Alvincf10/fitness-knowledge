@@ -2,45 +2,60 @@
 id: exercise_machine_chest_press
 title: Machine Chest Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - machine
+subcategory: chest
+description: The machine chest press is a guided horizontal press that loads the pectoralis major with triceps and anterior deltoid contribution. Fixed paths reduce stability demand versus free weights, supporting beginners, higher-rep hypertrophy work, and training without a spotter.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - seated chest press
-  - chest press machine
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
+- compound
+- machine
+- beginner
+- hypertrophy
+related:
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/smith-machine-incline-press.md
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- seated chest press
+- chest press machine
+- mcp
+keywords:
+- machine
+- chest
+- press
+- compound
+- beginner
+- hypertrophy
+- seated
+- mcp
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- machine
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/smith-machine-incline-press.md
-  - exercises/chest/smith-machine-decline-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Machine Chest Press
@@ -162,7 +177,7 @@ Efficient compound option when energy is limited.
 
 Avoid if the machine path forces painful shoulder positions; adjust seat or choose another press. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/incline-machine-chest-press.md
 - exercises/chest/plate-loaded-chest-press.md
@@ -174,6 +189,7 @@ Avoid if the machine path forces painful shoulder positions; adjust seat or choo
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

@@ -3,30 +3,43 @@ id: science_training_volume
 title: Training Volume
 category: science
 subcategory: training-principles
-goal:
-  - hypertrophy
-  - strength
+description: Training volume is the total amount of work performed. In resistance training it is commonly expressed as weekly sets per muscle group, or as sets × reps × load. For hypertrophy research and programming, hard weekly sets per muscle are the most practical currency.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - training
-  - evidence
-  - programming
-  - hypertrophy
+- training
+- evidence
+- programming
+- hypertrophy
+related:
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- science/training-principles/training-frequency.md
+- science/training-principles/failure-training.md
+- faq/how-many-sets-per-week.md
+- faq/what-is-rir.md
+- faq/should-i-train-to-failure.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/back/seated-cable-row.md
+- exercises/legs/back-squat.md
+aliases:
+- tv
+keywords:
+- training
+- volume
+- evidence
+- programming
+- hypertrophy
+- tv
+- science
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - science/training-principles/training-frequency.md
-  - science/training-principles/failure-training.md
-  - faq/how-many-sets-per-week.md
-  - faq/what-is-rir.md
-  - faq/should-i-train-to-failure.md
-  - exercises/chest/dumbbell-bench-press.md
-  - exercises/back/seated-cable-row.md
-  - exercises/legs/back-squat.md
 ---
 
 # Training Volume
@@ -79,7 +92,7 @@ Meta-analyses led by Schoenfeld and related reviews show greater muscle growth w
 - Krieger JW (2010)
 - Baz-Valle E (2022)
 
-## Related
+## Related Articles
 
 - science/training-principles/progressive-overload.md
 - science/training-principles/reps-in-reserve.md
@@ -91,3 +104,4 @@ Meta-analyses led by Schoenfeld and related reviews show greater muscle growth w
 - exercises/chest/dumbbell-bench-press.md
 - exercises/back/seated-cable-row.md
 - exercises/legs/back-squat.md
+

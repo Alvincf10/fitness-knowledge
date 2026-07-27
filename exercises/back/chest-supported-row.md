@@ -2,49 +2,69 @@
 id: exercise_chest_supported_row
 title: Chest-Supported Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - machine
-  - bench
-  - dumbbell
+subcategory: back
+description: The chest-supported row (machine or bench-supported free weights) removes much of the lower-back demand from rowing, allowing focused loading of the upper and mid-back and lats with less systemic fatigue from hip hinging.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - supported row
-  - prone row machine
-  - chest pad row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- machine
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/plate-loaded-row.md
+- exercises/back/machine-row.md
+- exercises/back/dumbbell-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/seated-cable-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- supported row
+- prone row machine
+- chest pad row
+- chest supported row
+- csr
+keywords:
+- chest
+- supported
+- row
+- compound
+- machine
+- beginner
+- hypertrophy
+- pull
+- prone
+- pad
+- csr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- machine
+- bench
+- dumbbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/plate-loaded-row.md
-  - exercises/back/machine-row.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/seated-cable-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Chest-Supported Row
@@ -165,7 +185,7 @@ Useful when low-back fatigue is limiting.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/plate-loaded-row.md
 - exercises/back/machine-row.md
@@ -177,6 +197,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

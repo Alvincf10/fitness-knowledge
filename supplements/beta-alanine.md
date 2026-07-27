@@ -2,28 +2,42 @@
 id: supplement_beta_alanine
 title: Beta-Alanine
 category: supplement
-goals:
-  - performance
+subcategory: general
+description: Beta-alanine is an amino acid supplement that raises muscle carnosine, a buffer against exercise-induced acidosis. It is most useful for efforts lasting roughly 1–4 minutes and for high-volume training with strong glycolytic demand.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - endurance
-  - evidence
+- supplement
+- endurance
+- evidence
+related:
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/sodium-bicarbonate.md
+- supplements/dietary-nitrate.md
+- supplements/carbohydrate.md
+- supplements/electrolytes.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+aliases:
+- beta alanine
+- ba
+keywords:
+- beta
+- alanine
+- supplement
+- endurance
+- evidence
+- ba
+goals:
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - supplements/creatine.md
-  - supplements/citrulline.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/dietary-nitrate.md
-  - supplements/carbohydrate.md
-  - supplements/electrolytes.md
-  - supplements/caffeine.md
-  - supplements/whey-protein.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
 ---
 
 # Beta-Alanine
@@ -78,7 +92,7 @@ ISSN position stands and meta-analyses support beta-alanine for high-intensity e
 - Saunders B (2017)
 - Harris RC (2006)
 
-## Related
+## Related Articles
 
 - supplements/creatine.md
 - supplements/citrulline.md
@@ -90,3 +104,4 @@ ISSN position stands and meta-analyses support beta-alanine for high-intensity e
 - supplements/whey-protein.md
 - supplements/vitamin-d.md
 - supplements/magnesium.md
+

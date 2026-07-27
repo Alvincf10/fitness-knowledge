@@ -2,44 +2,64 @@
 id: exercise_scapular_pull_up
 title: Scapular Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The scapular pull-up is a partial-range drill performed from a dead hang by depressing and retracting the scapulae without bending the elbows. It teaches shoulder packing and initiates lat engagement for pull-up progressions and scapular control.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - scap pull
-  - shoulder-pack hang drill
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - bodyweight
-  - beginner
-  - pull
+- bodyweight
+- beginner
+- pull
+related:
+- exercises/back/negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- scap pull
+- shoulder-pack hang drill
+- scapular pull up
+- spu
+keywords:
+- scapular
+- pull
+- up
+- bodyweight
+- beginner
+- scap
+- shoulder
+- pack
+- hang
+- drill
+- spu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/negative-pull-up.md
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - exercises/back/assisted-pull-up.md
 ---
 
 # Scapular Pull-Up
@@ -159,7 +179,7 @@ Low-cost primer before pulling.
 
 Avoid if hanging aggravates shoulders; use supported regressions. Not medical advice.
 
-## Related
+## Related Articles
 
 - exercises/back/negative-pull-up.md
 - exercises/back/band-assisted-pull-up.md
@@ -171,6 +191,7 @@ Avoid if hanging aggravates shoulders; use supported regressions. Not medical ad
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - exercises/back/assisted-pull-up.md
+
 
 ## References
 

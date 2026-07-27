@@ -2,20 +2,41 @@
 id: faq_how_often_should_i_train
 title: How Often Should I Train?
 category: faq
+subcategory: beginner
+description: How many days per week should I lift for muscle growth?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - beginner
-  - programming
+- beginner
+- programming
 related:
-  - science/training-principles/training-frequency.md
-  - science/training-principles/training-volume.md
-  - faq/can-i-train-every-day.md
-  - science/training-principles/progressive-overload.md
-  - faq/how-many-sets-per-week.md
+- science/training-principles/training-frequency.md
+- science/training-principles/training-volume.md
+- faq/can-i-train-every-day.md
+- science/training-principles/progressive-overload.md
+- faq/how-many-sets-per-week.md
+- faq/how-often-should-i-test-a-true-1rm.md
+- faq/should-women-train-differently.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- how often should i train
+- hosit
+keywords:
+- how
+- often
+- should
+- train
+- beginner
+- programming
+- hosit
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How Often Should I Train?
@@ -43,10 +64,16 @@ Frequency meta-analyses show similar hypertrophy when weekly volume is equated, 
 - Split high weekly volumes across sessions
 - Add a day only if recovery and progression remain solid
 
-## Related
+## Related Articles
 
 - science/training-principles/training-frequency.md
 - science/training-principles/training-volume.md
 - faq/can-i-train-every-day.md
 - science/training-principles/progressive-overload.md
 - faq/how-many-sets-per-week.md
+- faq/how-often-should-i-test-a-true-1rm.md
+- faq/should-women-train-differently.md
+- faq/how-long-should-a-training-program-run-before-i-change-it.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

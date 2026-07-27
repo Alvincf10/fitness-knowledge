@@ -2,19 +2,43 @@
 id: faq_how_deep_should_i_go_on_the_cable_chest_press
 title: How deep should I go on the Cable Chest Press?
 category: faq
+subcategory: technique
+description: How deep should I go on the Cable Chest Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/cable-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/cable-chest-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-bench-press.md
+- faq/how-deep-should-i-go-on-the-cable-fly.md
+- faq/how-deep-should-i-go-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-fly.md
+aliases:
+- how deep should i go on the cable chest press
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- cable
+- chest
+- press
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Cable Chest Press?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/cable-chest-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-bench-press.md
+- faq/how-deep-should-i-go-on-the-cable-fly.md
+- faq/how-deep-should-i-go-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-fly.md
+

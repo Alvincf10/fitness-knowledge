@@ -2,28 +2,40 @@
 id: nutrition_body_recomposition
 title: Body Recomposition
 category: nutrition
-goals:
-  - hypertrophy
-  - fat-loss
+subcategory: nutrition
+description: Body recomposition means gaining muscle and losing fat at the same time. It is most realistic for beginners, people returning after layoffs, those with higher body fat, or trainees improving protein intake and training quality—less so for advanced lean lifters.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - evidence
+- nutrition
+- evidence
+related:
+- faq/can-beginners-gain-muscle-and-lose-fat.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- nutrition/protein.md
+- nutrition/calorie-deficit.md
+- science/training-principles/progressive-overload.md
+- nutrition/energy-balance.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+aliases:
+- br
+keywords:
+- body
+- recomposition
+- nutrition
+- evidence
+- br
+goals:
+- hypertrophy
+- fat-loss
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - faq/can-beginners-gain-muscle-and-lose-fat.md
-  - faq/can-i-build-muscle-in-a-deficit.md
-  - nutrition/protein.md
-  - nutrition/calorie-deficit.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/energy-balance.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
 ---
 
 # Body Recomposition
@@ -82,7 +94,7 @@ Research and applied reviews support concurrent fat loss and muscle gain under f
 - ISSN Position Stand
 - Slater GJ (2019)
 
-## Related
+## Related Articles
 
 - faq/can-beginners-gain-muscle-and-lose-fat.md
 - faq/can-i-build-muscle-in-a-deficit.md
@@ -94,3 +106,4 @@ Research and applied reviews support concurrent fat loss and muscle gain under f
 - nutrition/pre-workout-nutrition.md
 - nutrition/post-workout-nutrition.md
 - nutrition/plant-based-protein.md
+

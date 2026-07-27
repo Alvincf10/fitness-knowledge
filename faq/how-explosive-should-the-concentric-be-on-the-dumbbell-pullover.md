@@ -2,19 +2,47 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_dumbbell_pullover
 title: How explosive should the concentric be on the Dumbbell Pullover?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Dumbbell Pullover?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/dumbbell-pullover.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/dumbbell-pullover.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-cable-pullover.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-machine-pullover.md
+- exercises/back/cable-pullover.md
+- exercises/back/chest-supported-row.md
+aliases:
+- how explosive should the concentric be on the dumbbell pullover
+- how explosive should the concentric be on the pullover?
+- how explosive should the concentric be on the db pullover?
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- dumbbell
+- pullover
+- technique
+- back
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Dumbbell Pullover?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/dumbbell-pullover.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-cable-pullover.md
+- faq/how-explosive-should-the-concentric-be-on-the-dumbbell-row.md
+- faq/how-explosive-should-the-concentric-be-on-the-machine-pullover.md
+- exercises/back/cable-pullover.md
+- exercises/back/chest-supported-row.md
+

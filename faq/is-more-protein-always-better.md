@@ -2,23 +2,42 @@
 id: faq_is_more_protein_always_better
 title: Is More Protein Always Better?
 category: faq
+subcategory: nutrition
+description: If 2 g/kg is good, is 4 g/kg better for muscle growth?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - hypertrophy
+- nutrition
+- hypertrophy
 related:
-  - nutrition/protein.md
-  - faq/how-much-protein.md
-  - nutrition/calorie-surplus.md
-  - supplements/whey-protein.md
-  - supplements/casein-protein.md
-  - nutrition/plant-based-protein.md
-  - faq/do-i-need-whey-protein.md
-  - supplements/bcaas.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- nutrition/calorie-surplus.md
+- supplements/whey-protein.md
+- supplements/casein-protein.md
+- nutrition/plant-based-protein.md
+- faq/do-i-need-whey-protein.md
+- supplements/bcaas.md
+aliases:
+- is more protein always better
+- impab
+keywords:
+- is
+- more
+- protein
+- always
+- better
+- nutrition
+- hypertrophy
+- impab
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is More Protein Always Better?
@@ -46,8 +65,10 @@ Protein supplementation meta-analyses show diminishing returns above evidence-ba
 - Do not neglect carbs needed for hard training
 - Focus next upgrades on progressive overload and sleep
 
-## Related
+## Related Articles
 
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - nutrition/protein.md
 - faq/how-much-protein.md
 - nutrition/calorie-surplus.md
@@ -56,3 +77,4 @@ Protein supplementation meta-analyses show diminishing returns above evidence-ba
 - nutrition/plant-based-protein.md
 - faq/do-i-need-whey-protein.md
 - supplements/bcaas.md
+

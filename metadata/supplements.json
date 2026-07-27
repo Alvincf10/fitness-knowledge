@@ -1,168 +1,520 @@
 {
-  "version": "1.0",
-  "updated": "2026-07-27",
-  "description": "Catalog of supplement articles. Paths are relative to repository root.",
-  "schema": {
-    "id": "string",
-    "title": "string",
-    "slug": "string",
-    "path": "string",
-    "goals": "string[]",
-    "tags": "string[]",
-    "evidence": "A | B | C | D",
-    "status": "planned | draft | published"
-  },
-  "target_count": 15,
-  "supplements": [
+  "generated": "2026-07-27",
+  "count": 15,
+  "items": [
     {
-      "id": "supplement_creatine",
-      "title": "Creatine",
-      "slug": "creatine",
-      "path": "supplements/creatine.md",
-      "goals": ["strength", "hypertrophy", "performance"],
-      "tags": ["supplement", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "supplement_whey_protein",
-      "title": "Whey Protein",
-      "slug": "whey-protein",
-      "path": "supplements/whey-protein.md",
-      "goals": ["hypertrophy", "recovery"],
-      "tags": ["supplement", "protein", "evidence"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "supplement_caffeine",
-      "title": "Caffeine",
-      "slug": "caffeine",
-      "path": "supplements/caffeine.md",
-      "goals": ["performance"],
-      "tags": ["supplement", "stimulant", "evidence"],
-      "evidence": "A",
-      "status": "published"
+      "id": "supplement_bcaas",
+      "title": "BCAAs",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "C",
+      "tags": [
+        "supplement",
+        "protein",
+        "evidence"
+      ],
+      "related": [
+        "faq/are-bcaas-worth-it.md",
+        "nutrition/protein.md",
+        "supplements/whey-protein.md",
+        "faq/how-much-protein.md",
+        "supplements/casein-protein.md",
+        "supplements/hmb.md",
+        "supplements/magnesium.md",
+        "supplements/fish-oil.md",
+        "supplements/creatine.md",
+        "supplements/carbohydrate.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "bcaas",
+        "supplement",
+        "protein",
+        "evidence"
+      ],
+      "path": "supplements/bcaas.md"
     },
     {
       "id": "supplement_beta_alanine",
       "title": "Beta-Alanine",
-      "slug": "beta-alanine",
-      "path": "supplements/beta-alanine.md",
-      "goals": ["performance"],
-      "tags": ["supplement", "endurance", "evidence"],
-      "evidence": "A",
-      "status": "published"
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "endurance",
+        "evidence"
+      ],
+      "related": [
+        "supplements/creatine.md",
+        "supplements/citrulline.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/carbohydrate.md",
+        "supplements/electrolytes.md",
+        "supplements/caffeine.md",
+        "supplements/whey-protein.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md"
+      ],
+      "aliases": [
+        "beta alanine",
+        "ba"
+      ],
+      "keywords": [
+        "beta",
+        "alanine",
+        "supplement",
+        "endurance",
+        "evidence",
+        "ba"
+      ],
+      "path": "supplements/beta-alanine.md"
     },
     {
-      "id": "supplement_citrulline",
-      "title": "Citrulline",
-      "slug": "citrulline",
-      "path": "supplements/citrulline.md",
-      "goals": ["performance"],
-      "tags": ["supplement", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_electrolytes",
-      "title": "Electrolytes",
-      "slug": "electrolytes",
-      "path": "supplements/electrolytes.md",
-      "goals": ["hydration", "performance"],
-      "tags": ["supplement", "minerals", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_fish_oil",
-      "title": "Fish Oil",
-      "slug": "fish-oil",
-      "path": "supplements/fish-oil.md",
-      "goals": ["health", "recovery"],
-      "tags": ["supplement", "omega-3", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_vitamin_d",
-      "title": "Vitamin D",
-      "slug": "vitamin-d",
-      "path": "supplements/vitamin-d.md",
-      "goals": ["health"],
-      "tags": ["supplement", "vitamin", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_magnesium",
-      "title": "Magnesium",
-      "slug": "magnesium",
-      "path": "supplements/magnesium.md",
-      "goals": ["recovery", "health"],
-      "tags": ["supplement", "mineral", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_casein_protein",
-      "title": "Casein Protein",
-      "slug": "casein-protein",
-      "path": "supplements/casein-protein.md",
-      "goals": ["hypertrophy", "recovery"],
-      "tags": ["supplement", "protein", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_hmb",
-      "title": "HMB",
-      "slug": "hmb",
-      "path": "supplements/hmb.md",
-      "goals": ["recovery", "hypertrophy"],
-      "tags": ["supplement", "evidence"],
-      "evidence": "B",
-      "status": "published"
-    },
-    {
-      "id": "supplement_dietary_nitrate",
-      "title": "Dietary Nitrate",
-      "slug": "dietary-nitrate",
-      "path": "supplements/dietary-nitrate.md",
-      "goals": ["performance"],
-      "tags": ["supplement", "evidence", "endurance"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "supplement_sodium_bicarbonate",
-      "title": "Sodium Bicarbonate",
-      "slug": "sodium-bicarbonate",
-      "path": "supplements/sodium-bicarbonate.md",
-      "goals": ["performance"],
-      "tags": ["supplement", "evidence", "endurance"],
-      "evidence": "A",
-      "status": "published"
-    },
-    {
-      "id": "supplement_bcaas",
-      "title": "BCAAs",
-      "slug": "bcaas",
-      "path": "supplements/bcaas.md",
-      "goals": ["recovery", "hypertrophy"],
-      "tags": ["supplement", "protein", "evidence"],
-      "evidence": "C",
-      "status": "published"
+      "id": "supplement_caffeine",
+      "title": "Caffeine",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "stimulant",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/pre-workout-nutrition.md",
+        "supplements/citrulline.md",
+        "supplements/beta-alanine.md",
+        "faq/best-time-to-workout.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/electrolytes.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/creatine.md",
+        "supplements/carbohydrate.md",
+        "supplements/whey-protein.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "caffeine",
+        "supplement",
+        "stimulant",
+        "evidence"
+      ],
+      "path": "supplements/caffeine.md"
     },
     {
       "id": "supplement_carbohydrate",
       "title": "Carbohydrate",
-      "slug": "carbohydrate",
-      "path": "supplements/carbohydrate.md",
-      "goals": ["performance", "recovery"],
-      "tags": ["supplement", "evidence", "endurance"],
-      "evidence": "A",
-      "status": "published"
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "evidence",
+        "endurance"
+      ],
+      "related": [
+        "nutrition/carbohydrates.md",
+        "nutrition/pre-workout-nutrition.md",
+        "nutrition/post-workout-nutrition.md",
+        "supplements/electrolytes.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/beta-alanine.md",
+        "supplements/whey-protein.md",
+        "supplements/magnesium.md",
+        "supplements/hmb.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "carbohydrate",
+        "supplement",
+        "evidence",
+        "endurance"
+      ],
+      "path": "supplements/carbohydrate.md"
+    },
+    {
+      "id": "supplement_casein_protein",
+      "title": "Casein Protein",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "protein",
+        "evidence"
+      ],
+      "related": [
+        "supplements/whey-protein.md",
+        "nutrition/protein.md",
+        "faq/how-much-protein.md",
+        "nutrition/meal-timing.md",
+        "supplements/bcaas.md",
+        "supplements/hmb.md",
+        "supplements/magnesium.md",
+        "supplements/fish-oil.md",
+        "supplements/creatine.md",
+        "supplements/carbohydrate.md"
+      ],
+      "aliases": [
+        "cp"
+      ],
+      "keywords": [
+        "casein",
+        "protein",
+        "supplement",
+        "evidence",
+        "cp"
+      ],
+      "path": "supplements/casein-protein.md"
+    },
+    {
+      "id": "supplement_citrulline",
+      "title": "Citrulline",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "evidence"
+      ],
+      "related": [
+        "supplements/dietary-nitrate.md",
+        "supplements/caffeine.md",
+        "supplements/beta-alanine.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/electrolytes.md",
+        "supplements/creatine.md",
+        "supplements/carbohydrate.md",
+        "supplements/whey-protein.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "citrulline",
+        "supplement",
+        "evidence"
+      ],
+      "path": "supplements/citrulline.md"
+    },
+    {
+      "id": "supplement_creatine",
+      "title": "Creatine",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "evidence"
+      ],
+      "related": [
+        "faq/do-i-need-creatine.md",
+        "faq/do-i-need-supplements.md",
+        "science/training-principles/progressive-overload.md",
+        "nutrition/protein.md",
+        "supplements/caffeine.md",
+        "supplements/beta-alanine.md",
+        "supplements/whey-protein.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/hmb.md",
+        "supplements/electrolytes.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "creatine",
+        "supplement",
+        "evidence"
+      ],
+      "path": "supplements/creatine.md"
+    },
+    {
+      "id": "supplement_dietary_nitrate",
+      "title": "Dietary Nitrate",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "evidence",
+        "endurance"
+      ],
+      "related": [
+        "supplements/citrulline.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/carbohydrate.md",
+        "supplements/beta-alanine.md",
+        "supplements/electrolytes.md",
+        "supplements/creatine.md",
+        "supplements/caffeine.md",
+        "supplements/whey-protein.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md"
+      ],
+      "aliases": [
+        "dn"
+      ],
+      "keywords": [
+        "dietary",
+        "nitrate",
+        "supplement",
+        "evidence",
+        "endurance",
+        "dn"
+      ],
+      "path": "supplements/dietary-nitrate.md"
+    },
+    {
+      "id": "supplement_electrolytes",
+      "title": "Electrolytes",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "minerals",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/hydration.md",
+        "supplements/magnesium.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/creatine.md",
+        "supplements/citrulline.md",
+        "supplements/carbohydrate.md",
+        "supplements/caffeine.md",
+        "supplements/beta-alanine.md",
+        "supplements/whey-protein.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "electrolytes",
+        "supplement",
+        "minerals",
+        "evidence"
+      ],
+      "path": "supplements/electrolytes.md"
+    },
+    {
+      "id": "supplement_fish_oil",
+      "title": "Fish Oil",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "omega-3",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/fat.md",
+        "nutrition/micronutrients.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md",
+        "supplements/whey-protein.md",
+        "supplements/hmb.md",
+        "supplements/casein-protein.md",
+        "supplements/carbohydrate.md",
+        "supplements/bcaas.md",
+        "supplements/sodium-bicarbonate.md"
+      ],
+      "aliases": [
+        "fo"
+      ],
+      "keywords": [
+        "fish",
+        "oil",
+        "supplement",
+        "omega-3",
+        "evidence",
+        "fo"
+      ],
+      "path": "supplements/fish-oil.md"
+    },
+    {
+      "id": "supplement_hmb",
+      "title": "HMB",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/protein.md",
+        "supplements/creatine.md",
+        "faq/can-i-build-muscle-in-a-deficit.md",
+        "supplements/whey-protein.md",
+        "supplements/casein-protein.md",
+        "supplements/bcaas.md",
+        "supplements/magnesium.md",
+        "supplements/fish-oil.md",
+        "supplements/carbohydrate.md",
+        "supplements/vitamin-d.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "hmb",
+        "supplement",
+        "evidence"
+      ],
+      "path": "supplements/hmb.md"
+    },
+    {
+      "id": "supplement_magnesium",
+      "title": "Magnesium",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "mineral",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/micronutrients.md",
+        "faq/how-important-is-sleep.md",
+        "supplements/vitamin-d.md",
+        "nutrition/hydration.md",
+        "supplements/fish-oil.md",
+        "supplements/whey-protein.md",
+        "supplements/hmb.md",
+        "supplements/casein-protein.md",
+        "supplements/carbohydrate.md",
+        "supplements/bcaas.md"
+      ],
+      "aliases": [],
+      "keywords": [
+        "magnesium",
+        "supplement",
+        "mineral",
+        "evidence"
+      ],
+      "path": "supplements/magnesium.md"
+    },
+    {
+      "id": "supplement_sodium_bicarbonate",
+      "title": "Sodium Bicarbonate",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "evidence",
+        "endurance"
+      ],
+      "related": [
+        "supplements/beta-alanine.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/carbohydrate.md",
+        "supplements/electrolytes.md",
+        "supplements/creatine.md",
+        "supplements/citrulline.md",
+        "supplements/caffeine.md",
+        "supplements/whey-protein.md",
+        "supplements/vitamin-d.md",
+        "supplements/magnesium.md"
+      ],
+      "aliases": [
+        "sb"
+      ],
+      "keywords": [
+        "sodium",
+        "bicarbonate",
+        "supplement",
+        "evidence",
+        "endurance",
+        "sb"
+      ],
+      "path": "supplements/sodium-bicarbonate.md"
+    },
+    {
+      "id": "supplement_vitamin_d",
+      "title": "Vitamin D",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "B",
+      "tags": [
+        "supplement",
+        "vitamin",
+        "evidence"
+      ],
+      "related": [
+        "nutrition/micronutrients.md",
+        "supplements/magnesium.md",
+        "supplements/fish-oil.md",
+        "supplements/whey-protein.md",
+        "supplements/sodium-bicarbonate.md",
+        "supplements/hmb.md",
+        "supplements/electrolytes.md",
+        "supplements/dietary-nitrate.md",
+        "supplements/creatine.md",
+        "supplements/citrulline.md"
+      ],
+      "aliases": [
+        "vd"
+      ],
+      "keywords": [
+        "vitamin",
+        "supplement",
+        "evidence",
+        "vd"
+      ],
+      "path": "supplements/vitamin-d.md"
+    },
+    {
+      "id": "supplement_whey_protein",
+      "title": "Whey Protein",
+      "category": "supplement",
+      "subcategory": "general",
+      "difficulty": "intermediate",
+      "evidence_level": "A",
+      "tags": [
+        "supplement",
+        "protein",
+        "evidence"
+      ],
+      "related": [
+        "faq/do-i-need-whey-protein.md",
+        "nutrition/protein.md",
+        "faq/how-much-protein.md",
+        "supplements/casein-protein.md",
+        "faq/do-i-need-supplements.md",
+        "nutrition/post-workout-nutrition.md",
+        "supplements/bcaas.md",
+        "supplements/hmb.md",
+        "supplements/magnesium.md",
+        "supplements/fish-oil.md"
+      ],
+      "aliases": [
+        "wp"
+      ],
+      "keywords": [
+        "whey",
+        "protein",
+        "supplement",
+        "evidence",
+        "wp"
+      ],
+      "path": "supplements/whey-protein.md"
     }
   ]
 }

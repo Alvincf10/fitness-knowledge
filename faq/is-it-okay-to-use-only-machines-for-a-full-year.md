@@ -2,20 +2,48 @@
 id: faq_is_it_okay_to_use_only_machines_for_a_full_year
 title: Is it okay to use only machines for a full year?
 category: faq
+subcategory: hypertrophy
+description: Is it okay to use only machines for a full year?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/should-i-use-only-machines-for-a-full-year.md
+- faq/should-i-use-pause-reps-for-chest-growth.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- is it okay to use only machines for a full year
+- should i use only machines for a full year?
+keywords:
+- is
+- it
+- okay
+- to
+- use
+- only
+- machines
+- for
+- full
+- year
+- hypertrophy
+- programming
+- should
+- faq
+redirects_to: faq/should-i-use-only-machines-for-a-full-year.md
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is it okay to use only machines for a full year?
@@ -43,3 +71,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/should-i-use-only-machines-for-a-full-year.md
+- faq/should-i-use-pause-reps-for-chest-growth.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

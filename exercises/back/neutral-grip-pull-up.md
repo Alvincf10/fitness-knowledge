@@ -2,48 +2,69 @@
 id: exercise_neutral_grip_pull_up
 title: Neutral-Grip Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The neutral-grip pull-up uses a parallel (palms-facing) grip, often feeling more shoulder- and elbow-friendly than fully pronated or supinated variations while still loading the lats, upper back, and elbow flexors.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - hammer-grip pull-up
-  - parallel-grip pull-up
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/chin-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- hammer-grip pull-up
+- parallel-grip pull-up
+- neutral grip pull up
+- ngpu
+keywords:
+- neutral
+- grip
+- pull
+- up
+- compound
+- bodyweight
+- intermediate
+- hypertrophy
+- strength
+- hammer
+- parallel
+- ngpu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/pull-up.md
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/negative-pull-up.md
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/chin-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Neutral-Grip Pull-Up
@@ -165,7 +186,7 @@ Solid primary pull when recovered.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/pull-up.md
 - exercises/back/weighted-pull-up.md
@@ -177,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

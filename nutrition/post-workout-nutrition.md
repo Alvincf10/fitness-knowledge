@@ -2,30 +2,44 @@
 id: nutrition_post_workout_nutrition
 title: Post-Workout Nutrition
 category: nutrition
-goals:
-  - recovery
-  - hypertrophy
-  - performance
+subcategory: nutrition
+description: Post-workout nutrition helps meet daily protein needs and restores carbohydrate when sessions are demanding or closely spaced. The old “anabolic window closes in 30 minutes” claim overstates urgency for most fed trainees.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - timing
-  - evidence
+- nutrition
+- timing
+- evidence
+related:
+- nutrition/pre-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/protein.md
+- faq/is-the-anabolic-window-real.md
+- supplements/whey-protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/carbohydrates.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+aliases:
+- post workout nutrition
+- pwn
+keywords:
+- post
+- workout
+- nutrition
+- timing
+- evidence
+- pwn
+goals:
+- recovery
+- hypertrophy
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/meal-timing.md
-  - nutrition/protein.md
-  - faq/is-the-anabolic-window-real.md
-  - supplements/whey-protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/carbohydrates.md
-  - nutrition/plant-based-protein.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
 ---
 
 # Post-Workout Nutrition
@@ -85,7 +99,7 @@ Reviews show that while peri-workout protein can be useful, total daily protein 
 - ISSN Position Stand
 - Thomas DT (2016)
 
-## Related
+## Related Articles
 
 - nutrition/pre-workout-nutrition.md
 - nutrition/meal-timing.md
@@ -97,3 +111,4 @@ Reviews show that while peri-workout protein can be useful, total daily protein 
 - nutrition/plant-based-protein.md
 - nutrition/micronutrients.md
 - nutrition/hydration.md
+

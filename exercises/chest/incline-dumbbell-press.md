@@ -2,45 +2,64 @@
 id: exercise_incline_dumbbell_press
 title: Incline Dumbbell Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The incline dumbbell press is an upper-horizontal pressing variation performed on an inclined bench. Compared with flat pressing, a moderate incline increases relative demand on the clavicular fibers of the pectoralis major and the anterior deltoids while still loading the tricep…
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-aliases:
-  - incline DB press
-  - incline dumbbell bench press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/smith-machine-incline-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- incline db press
+- incline dumbbell bench press
+- idp
+- incline press
+keywords:
+- incline
+- dumbbell
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- db
+- bench
+- idp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
 updated: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/dumbbell-bench-press.md
-  - exercises/chest/decline-dumbbell-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/smith-machine-incline-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
-last_review: 2026-07-27
 ---
 
 # Incline Dumbbell Press
@@ -161,7 +180,7 @@ B
 - ACSM Position Stand (2009)
 - NSCA Essentials
 
-## Related
+## Related Articles
 
 - exercises/chest/single-arm-dumbbell-bench-press.md
 - exercises/chest/dumbbell-bench-press.md
@@ -173,3 +192,4 @@ B
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+

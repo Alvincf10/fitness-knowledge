@@ -2,29 +2,41 @@
 id: nutrition_meal_timing
 title: Meal Timing
 category: nutrition
-goals:
-  - hypertrophy
-  - performance
+subcategory: nutrition
+description: Meal timing refers to when protein, carbohydrate, and calories are consumed relative to workouts and across the day. Timing can refine performance and recovery, but daily totals usually matter more for long-term body composition.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - timing
-  - evidence
+- nutrition
+- timing
+- evidence
+related:
+- faq/is-the-anabolic-window-real.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/carbohydrates.md
+- nutrition/plant-based-protein.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+- nutrition/energy-balance.md
+aliases:
+- mt
+keywords:
+- meal
+- timing
+- nutrition
+- evidence
+- mt
+goals:
+- hypertrophy
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - faq/is-the-anabolic-window-real.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/carbohydrates.md
-  - nutrition/plant-based-protein.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
-  - nutrition/energy-balance.md
 ---
 
 # Meal Timing
@@ -84,7 +96,7 @@ Reviews indicate that while peri-workout nutrition can matter acutely, hypertrop
 - Jäger R (2017)
 - Thomas DT (2016)
 
-## Related
+## Related Articles
 
 - faq/is-the-anabolic-window-real.md
 - nutrition/pre-workout-nutrition.md
@@ -96,3 +108,4 @@ Reviews indicate that while peri-workout nutrition can matter acutely, hypertrop
 - nutrition/micronutrients.md
 - nutrition/hydration.md
 - nutrition/energy-balance.md
+

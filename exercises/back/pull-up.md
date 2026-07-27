@@ -2,48 +2,69 @@
 id: exercise_pull_up
 title: Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The pull-up is a closed-chain vertical pulling exercise performed from a dead hang to chin-over-bar (or chest-to-bar in advanced variations). It heavily loads the latissimus dorsi and upper-back musculature with substantial elbow-flexor involvement. It is a foundational relative-…
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - overhand pull-up
-  - chin-up variant dependent
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - intermediate
-  - strength
-  - hypertrophy
-  - pull
+- compound
+- bodyweight
+- intermediate
+- strength
+- hypertrophy
+- pull
+related:
+- exercises/back/neutral-grip-pull-up.md
+- exercises/back/weighted-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- exercises/back/chin-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- overhand pull-up
+- chin-up variant dependent
+- pull up
+- pu
+keywords:
+- pull
+- up
+- compound
+- bodyweight
+- intermediate
+- strength
+- hypertrophy
+- overhand
+- chin
+- variant
+- dependent
+- pu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/back/neutral-grip-pull-up.md
-  - exercises/back/weighted-pull-up.md
-  - exercises/back/negative-pull-up.md
-  - exercises/back/band-assisted-pull-up.md
-  - exercises/back/chin-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Pull-Up
@@ -172,7 +193,7 @@ A
 - ACSM Position Stand (2022)
 - NSCA Essentials
 
-## Related
+## Related Articles
 
 - exercises/back/neutral-grip-pull-up.md
 - exercises/back/weighted-pull-up.md
@@ -184,3 +205,4 @@ A
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+

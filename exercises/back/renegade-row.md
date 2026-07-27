@@ -2,48 +2,67 @@
 id: exercise_renegade_row
 title: Renegade Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - dumbbell
+subcategory: back
+description: The renegade row is a plank-based alternating dumbbell row that combines horizontal pulling with high anti-rotation and anti-extension core demand. Back loading is typically lighter than dedicated rows because stability limits the weight.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - plank row
-  - alternating renegade row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - unilateral
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/gorilla-row.md
+- exercises/back/meadows-row.md
+- exercises/back/kroc-row.md
+- exercises/back/dumbbell-row.md
+- exercises/back/yates-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- plank row
+- alternating renegade row
+- rr
+keywords:
+- renegade
+- row
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+- plank
+- alternating
+- rr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- dumbbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/gorilla-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/kroc-row.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/yates-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Renegade Row
@@ -165,7 +184,7 @@ Conditioning-friendly hybrid if technique holds.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Avoid if plank positions aggravate wrists/shoulders/low back.
 
-## Related
+## Related Articles
 
 - exercises/back/gorilla-row.md
 - exercises/back/meadows-row.md
@@ -177,6 +196,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

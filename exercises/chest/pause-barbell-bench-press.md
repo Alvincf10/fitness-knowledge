@@ -2,48 +2,71 @@
 id: exercise_pause_barbell_bench_press
 title: Pause Barbell Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
-  - bench
-  - rack
+subcategory: chest
+description: The pause barbell bench press inserts a deliberate pause on the chest, removing stretch-reflex contribution and increasing control demands. It is a strength and hypertrophy variation of the flat barbell bench press used to improve technique and pressing power off the chest.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - paused bench press
-  - competition pause bench
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- paused bench press
+- competition pause bench
+- pbbp
+- pause bench press
+- pause bb bench press
+keywords:
+- pause
+- barbell
+- bench
+- press
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- paused
+- competition
+- pbbp
+- bb
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+- bench
+- rack
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/decline-barbell-bench-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Pause Barbell Bench Press
@@ -165,7 +188,7 @@ Use lighter paused technique work if fatigued.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/incline-barbell-bench-press.md
 - exercises/chest/decline-barbell-bench-press.md
@@ -177,6 +200,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

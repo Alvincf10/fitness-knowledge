@@ -2,19 +2,46 @@
 id: faq_do_i_need_a_spotter_for_the_reverse_grip_bench_press
 title: Do I need a spotter for the Reverse-Grip Bench Press?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Reverse-Grip Bench Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-decline-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-dumbbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+aliases:
+- do i need a spotter for the reverse grip bench press
+- do i need a spotter for the reversegrip bench press
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- reverse
+- grip
+- bench
+- press
+- technique
+- chest
+- exercise
+- reversegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Reverse-Grip Bench Press?
@@ -40,3 +67,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/reverse-grip-bench-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-decline-barbell-bench-press.md
+- faq/do-i-need-a-spotter-for-the-dumbbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/decline-barbell-bench-press.md
+

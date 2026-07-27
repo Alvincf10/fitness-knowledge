@@ -2,28 +2,41 @@
 id: supplement_sodium_bicarbonate
 title: Sodium Bicarbonate
 category: supplement
-goals:
-  - performance
+subcategory: general
+description: Sodium bicarbonate (baking soda) is an extracellular buffer used to improve performance in high-intensity efforts that produce substantial metabolic acidosis. It is effective for some anaerobic and middle-distance style efforts but has a notable gastrointestinal side-effect profi…
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
-  - endurance
+- supplement
+- evidence
+- endurance
+related:
+- supplements/beta-alanine.md
+- supplements/dietary-nitrate.md
+- supplements/carbohydrate.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/citrulline.md
+- supplements/caffeine.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+aliases:
+- sb
+keywords:
+- sodium
+- bicarbonate
+- supplement
+- evidence
+- endurance
+- sb
+goals:
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - supplements/beta-alanine.md
-  - supplements/dietary-nitrate.md
-  - supplements/carbohydrate.md
-  - supplements/electrolytes.md
-  - supplements/creatine.md
-  - supplements/citrulline.md
-  - supplements/caffeine.md
-  - supplements/whey-protein.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
 ---
 
 # Sodium Bicarbonate
@@ -81,7 +94,7 @@ Meta-analyses and ISSN-related sports nutrition literature support sodium bicarb
 - Saunders B (2017)
 - McNaughton LR (2016)
 
-## Related
+## Related Articles
 
 - supplements/beta-alanine.md
 - supplements/dietary-nitrate.md
@@ -93,3 +106,4 @@ Meta-analyses and ISSN-related sports nutrition literature support sodium bicarb
 - supplements/whey-protein.md
 - supplements/vitamin-d.md
 - supplements/magnesium.md
+

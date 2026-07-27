@@ -2,47 +2,69 @@
 id: exercise_plate_loaded_row
 title: Plate-Loaded Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - machine
+subcategory: back
+description: The plate-loaded row (often iso-lateral) allows independent arm loading on a guided path, combining heavy overload potential with machine stability for lat and mid-back development.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - iso-lateral row
-  - hammer strength row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/seated-cable-row.md
+- exercises/back/machine-row.md
+- exercises/back/chest-supported-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- iso-lateral row
+- hammer strength row
+- plate loaded row
+- plr
+keywords:
+- plate
+- loaded
+- row
+- compound
+- machine
+- beginner
+- hypertrophy
+- strength
+- pull
+- iso
+- lateral
+- hammer
+- plr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/seated-cable-row.md
-  - exercises/back/machine-row.md
-  - exercises/back/chest-supported-row.md
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/t-bar-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Plate-Loaded Row
@@ -163,7 +185,7 @@ Efficient compound.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/seated-cable-row.md
 - exercises/back/machine-row.md
@@ -175,6 +197,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

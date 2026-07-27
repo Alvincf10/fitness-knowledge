@@ -2,19 +2,46 @@
 id: faq_what_grip_width_should_i_use_for_the_chin_up
 title: What grip width should I use for the Chin-Up?
 category: faq
+subcategory: technique
+description: What grip width should I use for the Chin-Up?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/chin-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/chin-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-weighted-chin-up.md
+- faq/what-grip-width-should-i-use-for-the-assisted-pull-up.md
+- faq/what-grip-width-should-i-use-for-the-back-squat.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+aliases:
+- what grip width should i use for the chin up
+- what grip width should i use for the chinup
+keywords:
+- what
+- grip
+- width
+- should
+- use
+- for
+- the
+- chin
+- up
+- technique
+- back
+- exercise
+- chinup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # What grip width should I use for the Chin-Up?
@@ -40,3 +67,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/chin-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/what-grip-width-should-i-use-for-the-weighted-chin-up.md
+- faq/what-grip-width-should-i-use-for-the-assisted-pull-up.md
+- faq/what-grip-width-should-i-use-for-the-back-squat.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+

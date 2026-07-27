@@ -2,44 +2,62 @@
 id: exercise_cable_fly
 title: Cable Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - cable
+subcategory: chest
+description: The cable fly (often a mid-height standing cable crossover/fly) isolates the pectoralis major through humeral adduction under continuous tension. Unlike dumbbell flies, cables maintain resistance near peak contraction, which is useful for hypertrophy accessories.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - cable crossover mid
-  - mid cable fly
-  - standing cable fly
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - intermediate
-  - hypertrophy
+- isolation
+- cable
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/low-cable-fly.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/seated-cable-fly.md
+- exercises/chest/cable-chest-press.md
+- exercises/chest/incline-dumbbell-fly.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+aliases:
+- cable crossover mid
+- mid cable fly
+- standing cable fly
+- cf
+keywords:
+- cable
+- fly
+- isolation
+- intermediate
+- hypertrophy
+- crossover
+- mid
+- standing
+- cf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- cable
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/low-cable-fly.md
-  - exercises/chest/high-cable-fly.md
-  - exercises/chest/seated-cable-fly.md
-  - exercises/chest/cable-chest-press.md
-  - exercises/chest/incline-dumbbell-fly.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/dumbbell-fly.md
 ---
 
 # Cable Fly
@@ -162,7 +180,7 @@ Useful accessory after compound presses.
 
 Avoid deep stretch positions that provoke shoulder pain; reduce ROM or use supported machine fly. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/low-cable-fly.md
 - exercises/chest/high-cable-fly.md
@@ -173,6 +191,8 @@ Avoid deep stretch positions that provoke shoulder pain; reduce ROM or use suppo
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+
 
 ## References
 

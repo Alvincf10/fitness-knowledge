@@ -2,28 +2,38 @@
 id: nutrition_cutting
 title: Cutting
 category: nutrition
-goals:
-  - fat-loss
+subcategory: nutrition
+description: Cutting is a planned fat-loss phase using a calorie deficit while preserving as much muscle and training performance as possible through high protein intake and continued resistance training.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - calorie-deficit
-  - evidence
+- nutrition
+- calorie-deficit
+- evidence
+related:
+- nutrition/calorie-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/protein.md
+- nutrition/refeeds-and-diet-breaks.md
+- faq/is-spot-reduction-possible.md
+- nutrition/body-recomposition.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+aliases: []
+keywords:
+- cutting
+- nutrition
+- calorie-deficit
+- evidence
+goals:
+- fat-loss
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/calorie-deficit.md
-  - faq/how-fast-can-i-lose-fat.md
-  - nutrition/protein.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - faq/is-spot-reduction-possible.md
-  - nutrition/body-recomposition.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/energy-balance.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
 ---
 
 # Cutting
@@ -83,7 +93,7 @@ Fat loss requires a calorie deficit. Resistance training plus higher protein imp
 - ISSN Position Stand
 - Thomas DT (2016)
 
-## Related
+## Related Articles
 
 - nutrition/calorie-deficit.md
 - faq/how-fast-can-i-lose-fat.md
@@ -95,3 +105,4 @@ Fat loss requires a calorie deficit. Resistance training plus higher protein imp
 - nutrition/energy-balance.md
 - nutrition/pre-workout-nutrition.md
 - nutrition/post-workout-nutrition.md
+

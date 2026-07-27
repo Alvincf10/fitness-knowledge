@@ -2,19 +2,39 @@
 id: faq_what_is_a_deload_week
 title: What is a deload week?
 category: faq
+subcategory: progression
+description: What is a deload week?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - progression
-  - recovery
+- progression
+- recovery
 related:
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - faq/what-is-rir.md
-  - science/training-principles/reps-in-reserve.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- faq/what-is-rir.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-do-i-know-if-i-need-a-deload.md
+- faq/should-i-add-sets-every-week-forever.md
+- faq/what-is-a-mesocycle.md
+aliases:
+- what is a deload week
+- wiadw
+keywords:
+- what
+- is
+- deload
+- week
+- progression
+- recovery
+- wiadw
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # What is a deload week?
@@ -37,7 +57,12 @@ ACSM progressive-overload principles; periodization and autoregulation (RIR/RPE)
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - science/training-principles/progressive-overload.md
 - science/training-principles/training-volume.md
 - faq/what-is-rir.md
 - science/training-principles/reps-in-reserve.md
+- faq/how-do-i-know-if-i-need-a-deload.md
+- faq/should-i-add-sets-every-week-forever.md
+- faq/what-is-a-mesocycle.md
+

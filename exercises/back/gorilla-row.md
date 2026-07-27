@@ -2,48 +2,69 @@
 id: exercise_gorilla_row
 title: Gorilla Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - dumbbell
+subcategory: back
+description: The gorilla row is a hinged double-dumbbell row alternating sides from a wide stance, combining bilateral hinge bracing with unilateral rowing for lat and mid-back stimulus plus anti-rotation demand.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - alternating hinged DB row
-  - double DB gorilla row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - unilateral
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/renegade-row.md
+- exercises/back/meadows-row.md
+- exercises/back/kroc-row.md
+- exercises/back/dumbbell-row.md
+- exercises/back/yates-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- alternating hinged db row
+- double db gorilla row
+- gr
+keywords:
+- gorilla
+- row
+- compound
+- free-weight
+- unilateral
+- intermediate
+- hypertrophy
+- pull
+- alternating
+- hinged
+- db
+- double
+- gr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- dumbbell
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/renegade-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/kroc-row.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/yates-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Gorilla Row
@@ -165,7 +186,7 @@ Efficient if hinge quality holds.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/renegade-row.md
 - exercises/back/meadows-row.md
@@ -177,6 +198,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

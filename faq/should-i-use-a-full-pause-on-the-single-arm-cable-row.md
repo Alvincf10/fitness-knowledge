@@ -2,19 +2,47 @@
 id: faq_should_i_use_a_full_pause_on_the_single_arm_cable_row
 title: Should I use a full pause on the Single-Arm Cable Row?
 category: faq
+subcategory: technique
+description: Should I use a full pause on the Single-Arm Cable Row?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/single-arm-cable-row.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/single-arm-cable-row.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-seated-cable-row.md
+- faq/should-i-use-a-full-pause-on-the-single-arm-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-standing-cable-row.md
+- exercises/back/single-arm-lat-pulldown.md
+- exercises/back/seated-cable-row.md
+aliases:
+- should i use a full pause on the single arm cable row
+- should i use a full pause on the singlearm cable row
+keywords:
+- should
+- use
+- full
+- pause
+- 'on'
+- the
+- single
+- arm
+- cable
+- row
+- technique
+- back
+- exercise
+- singlearm
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Should I use a full pause on the Single-Arm Cable Row?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/single-arm-cable-row.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/should-i-use-a-full-pause-on-the-seated-cable-row.md
+- faq/should-i-use-a-full-pause-on-the-single-arm-lat-pulldown.md
+- faq/should-i-use-a-full-pause-on-the-standing-cable-row.md
+- exercises/back/single-arm-lat-pulldown.md
+- exercises/back/seated-cable-row.md
+

@@ -2,18 +2,37 @@
 id: faq_are_rest_days_wasted_days
 title: Are rest days wasted days?
 category: faq
+subcategory: recovery
+description: Are rest days wasted days?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - recovery
+- recovery
 related:
-  - faq/how-important-is-sleep.md
-  - science/training-principles/training-frequency.md
-  - nutrition/alcohol.md
-  - faq/can-i-train-every-day.md
+- exercises/back/assisted-pull-up.md
+- faq/how-important-is-sleep.md
+- science/training-principles/training-frequency.md
+- nutrition/alcohol.md
+- faq/can-i-train-every-day.md
+- faq/is-active-recovery-better-than-full-rest-days.md
+- faq/should-i-take-rest-days-if-i-feel-fine.md
+- faq/can-i-train-two-days-in-a-row.md
+aliases:
+- are rest days wasted days
+- ardwd
+keywords:
+- are
+- rest
+- days
+- wasted
+- recovery
+- ardwd
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Are rest days wasted days?
@@ -36,7 +55,12 @@ Sleep and recovery reviews; overreaching literature; ACSM recovery consideration
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - faq/how-important-is-sleep.md
 - science/training-principles/training-frequency.md
 - nutrition/alcohol.md
 - faq/can-i-train-every-day.md
+- faq/is-active-recovery-better-than-full-rest-days.md
+- faq/should-i-take-rest-days-if-i-feel-fine.md
+- faq/can-i-train-two-days-in-a-row.md
+

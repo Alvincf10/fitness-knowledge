@@ -2,19 +2,39 @@
 id: faq_how_do_i_know_if_i_need_a_deload
 title: How do I know if I need a deload?
 category: faq
+subcategory: progression
+description: How do I know if I need a deload?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - progression
-  - recovery
+- progression
+- recovery
 related:
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - faq/what-is-rir.md
-  - science/training-principles/reps-in-reserve.md
+- exercises/back/assisted-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- faq/what-is-rir.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-many-hours-of-sleep-do-lifters-need.md
+- faq/what-is-a-deload-week.md
+- faq/do-i-need-ice-baths-for-better-gains.md
+aliases:
+- how do i know if i need a deload
+keywords:
+- how
+- do
+- know
+- if
+- need
+- deload
+- progression
+- recovery
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How do I know if I need a deload?
@@ -37,7 +57,12 @@ ACSM progressive-overload principles; periodization and autoregulation (RIR/RPE)
 
 ## Related Articles
 
+- exercises/back/assisted-pull-up.md
 - science/training-principles/progressive-overload.md
 - science/training-principles/training-volume.md
 - faq/what-is-rir.md
 - science/training-principles/reps-in-reserve.md
+- faq/how-many-hours-of-sleep-do-lifters-need.md
+- faq/what-is-a-deload-week.md
+- faq/do-i-need-ice-baths-for-better-gains.md
+

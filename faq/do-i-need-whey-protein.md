@@ -2,23 +2,41 @@
 id: faq_do_i_need_whey_protein
 title: Do I Need Whey Protein?
 category: faq
+subcategory: supplement
+description: Do I need whey protein powder to build muscle?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - nutrition
+- supplement
+- nutrition
 related:
-  - supplements/whey-protein.md
-  - nutrition/protein.md
-  - faq/how-much-protein.md
-  - supplements/casein-protein.md
-  - faq/do-i-need-supplements.md
-  - nutrition/plant-based-protein.md
-  - faq/is-more-protein-always-better.md
-  - supplements/bcaas.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- supplements/whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- supplements/casein-protein.md
+- faq/do-i-need-supplements.md
+- nutrition/plant-based-protein.md
+- faq/is-more-protein-always-better.md
+aliases:
+- do i need whey protein
+- dinwp
+keywords:
+- do
+- need
+- whey
+- protein
+- supplement
+- nutrition
+- dinwp
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Do I Need Whey Protein?
@@ -46,8 +64,11 @@ Protein supplementation meta-analyses show benefits mainly when they raise total
 - 20–40 g servings are typical
 - Dairy-free lifters can use soy/pea blends instead
 
-## Related
+## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - supplements/whey-protein.md
 - nutrition/protein.md
 - faq/how-much-protein.md
@@ -55,4 +76,4 @@ Protein supplementation meta-analyses show benefits mainly when they raise total
 - faq/do-i-need-supplements.md
 - nutrition/plant-based-protein.md
 - faq/is-more-protein-always-better.md
-- supplements/bcaas.md
+

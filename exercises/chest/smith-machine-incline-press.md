@@ -2,46 +2,63 @@
 id: exercise_smith_machine_incline_press
 title: Smith Machine Incline Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - smith-machine
-  - bench
+subcategory: chest
+description: The Smith machine incline press combines an inclined torso with a rails-guided bar path for upper-chest biased pressing when free-weight spotting is limited.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - smith incline bench
-  - smith incline press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - intermediate
-  - hypertrophy
+- compound
+- machine
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/smith-machine-decline-press.md
+- exercises/chest/smith-machine-bench-press.md
+- exercises/chest/incline-machine-chest-press.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- smith incline bench
+- smith incline press
+- smip
+keywords:
+- smith
+- machine
+- incline
+- press
+- compound
+- intermediate
+- hypertrophy
+- bench
+- smip
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- smith-machine
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/smith-machine-decline-press.md
-  - exercises/chest/smith-machine-bench-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Smith Machine Incline Press
@@ -161,7 +178,7 @@ Optional compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/smith-machine-decline-press.md
 - exercises/chest/smith-machine-bench-press.md
@@ -173,6 +190,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

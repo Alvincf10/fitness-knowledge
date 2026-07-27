@@ -2,19 +2,44 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_leg_press
 title: How explosive should the concentric be on the Leg Press?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Leg Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - legs
-  - exercise
+- technique
+- legs
+- exercise
 related:
-  - exercises/legs/leg-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/legs/leg-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-leg-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-back-squat.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+aliases:
+- how explosive should the concentric be on the leg press
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- leg
+- press
+- technique
+- legs
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Leg Press?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/legs/leg-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-leg-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-back-squat.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+

@@ -2,30 +2,43 @@
 id: nutrition_energy_balance
 title: Energy Balance
 category: nutrition
-goals:
-  - hypertrophy
-  - fat-loss
-  - maintenance
+subcategory: nutrition
+description: Energy balance is the relationship between calories consumed and calories expended. It is the primary determinant of long-term weight change and the framework behind bulking, cutting, and maintenance.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - energy-balance
-  - evidence
+- nutrition
+- energy-balance
+- evidence
+related:
+- nutrition/maintenance.md
+- nutrition/calorie-deficit.md
+- nutrition/calorie-surplus.md
+- faq/does-muscle-turn-into-fat.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/body-recomposition.md
+- nutrition/refeeds-and-diet-breaks.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+aliases:
+- eb
+keywords:
+- energy
+- balance
+- nutrition
+- energy-balance
+- evidence
+- eb
+goals:
+- hypertrophy
+- fat-loss
+- maintenance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/maintenance.md
-  - nutrition/calorie-deficit.md
-  - nutrition/calorie-surplus.md
-  - faq/does-muscle-turn-into-fat.md
-  - nutrition/protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/body-recomposition.md
-  - nutrition/refeeds-and-diet-breaks.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
 ---
 
 # Energy Balance
@@ -84,7 +97,7 @@ Human energy-balance research confirms that sustained mismatches between intake 
 - Speakman JR (2019)
 - ISSN Position Stand
 
-## Related
+## Related Articles
 
 - nutrition/maintenance.md
 - nutrition/calorie-deficit.md
@@ -96,3 +109,4 @@ Human energy-balance research confirms that sustained mismatches between intake 
 - nutrition/refeeds-and-diet-breaks.md
 - nutrition/pre-workout-nutrition.md
 - nutrition/post-workout-nutrition.md
+

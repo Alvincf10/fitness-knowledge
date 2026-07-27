@@ -2,27 +2,36 @@
 id: supplement_citrulline
 title: Citrulline
 category: supplement
-goals:
-  - performance
+subcategory: general
+description: L-citrulline and citrulline malate are used to support nitric-oxide related blood flow, reduce fatigue, and potentially improve high-intensity training performance. Evidence is promising but less consistent than for creatine or caffeine.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - evidence
+- supplement
+- evidence
+related:
+- supplements/dietary-nitrate.md
+- supplements/caffeine.md
+- supplements/beta-alanine.md
+- supplements/sodium-bicarbonate.md
+- supplements/electrolytes.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+- supplements/whey-protein.md
+- supplements/vitamin-d.md
+- supplements/magnesium.md
+aliases: []
+keywords:
+- citrulline
+- supplement
+- evidence
+goals:
+- performance
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - supplements/dietary-nitrate.md
-  - supplements/caffeine.md
-  - supplements/beta-alanine.md
-  - supplements/sodium-bicarbonate.md
-  - supplements/electrolytes.md
-  - supplements/creatine.md
-  - supplements/carbohydrate.md
-  - supplements/whey-protein.md
-  - supplements/vitamin-d.md
-  - supplements/magnesium.md
 ---
 
 # Citrulline
@@ -78,7 +87,7 @@ Reviews show mixed-to-positive effects on high-intensity performance and trainin
 - ISSN Position Stand-related performance nutrition literature
 - Gonzalez AM (2023)
 
-## Related
+## Related Articles
 
 - supplements/dietary-nitrate.md
 - supplements/caffeine.md
@@ -90,3 +99,4 @@ Reviews show mixed-to-positive effects on high-intensity performance and trainin
 - supplements/whey-protein.md
 - supplements/vitamin-d.md
 - supplements/magnesium.md
+

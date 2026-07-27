@@ -2,41 +2,59 @@
 id: exercise_svend_press
 title: Svend Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment: []
+subcategory: chest
+description: The Svend press is a low-load chest isolation/activation drill performed by pressing plates together while extending the arms forward, emphasizing pectoralis major isometric adduction with a pressing component.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - plate pinch press
-  - squeeze press plate
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - beginner
-  - hypertrophy
+- isolation
+- beginner
+- hypertrophy
+related:
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/landmine-press.md
+- exercises/chest/incline-machine-chest-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/squeeze-press.md
+- exercises/chest/pec-deck.md
+aliases:
+- plate pinch press
+- squeeze press plate
+- sp
+keywords:
+- svend
+- press
+- isolation
+- beginner
+- hypertrophy
+- plate
+- pinch
+- squeeze
+- sp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment: []
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/chest/resistance-band-chest-press.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/landmine-press.md
-  - exercises/chest/incline-machine-chest-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/squeeze-press.md
 ---
 
 # Svend Press
@@ -155,7 +173,7 @@ Optional low-stress accessory.
 
 Stop if shoulder or wrist pain appears. Evidence for hypertrophy stimulus is limited versus loaded presses/flies. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/resistance-band-chest-press.md
 - exercises/chest/plate-loaded-chest-press.md
@@ -166,6 +184,8 @@ Stop if shoulder or wrist pain appears. Evidence for hypertrophy stimulus is lim
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/squeeze-press.md
+- exercises/chest/pec-deck.md
+
 
 ## References
 

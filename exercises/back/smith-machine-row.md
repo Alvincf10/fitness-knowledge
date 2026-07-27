@@ -2,46 +2,64 @@
 id: exercise_smith_machine_row
 title: Smith Machine Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - smith-machine
+subcategory: back
+description: The Smith machine row is a rails-guided bent-over or upright-supported row variation. The fixed path can help some lifters overload horizontal pulling, but it constrains natural bar path and requires careful torso setup.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - smith bent-over row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - intermediate
-  - hypertrophy
-  - pull
+- compound
+- machine
+- intermediate
+- hypertrophy
+- pull
+related:
+- exercises/back/yates-row.md
+- exercises/back/weighted-inverted-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/standing-cable-row.md
+- exercises/back/ring-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- smith bent-over row
+- smr
+keywords:
+- smith
+- machine
+- row
+- compound
+- intermediate
+- hypertrophy
+- pull
+- bent
+- over
+- smr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- smith-machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/yates-row.md
-  - exercises/back/weighted-inverted-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/standing-cable-row.md
-  - exercises/back/ring-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Smith Machine Row
@@ -164,7 +182,7 @@ Optional compound.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/yates-row.md
 - exercises/back/weighted-inverted-row.md
@@ -176,6 +194,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

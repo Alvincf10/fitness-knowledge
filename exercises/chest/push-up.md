@@ -2,47 +2,66 @@
 id: exercise_push_up
 title: Push-Up
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-  - abs
-equipment:
-  - bodyweight
+subcategory: chest
+description: The push-up is a closed-chain horizontal pressing exercise that loads the pectoralis major, triceps, and anterior deltoids while requiring trunk stability. It is scalable from wall or knee variations to advanced loaded or deficit versions, making it suitable for beginners and as …
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - pushup
-  - press-up
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - hypertrophy
-  - strength
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- strength
+related:
+- exercises/chest/wide-push-up.md
+- exercises/chest/weighted-push-up.md
+- exercises/chest/wall-push-up.md
+- exercises/chest/ring-push-up.md
+- exercises/chest/knee-push-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/do-push-ups-build-chest.md
+- faq/can-i-build-muscle-at-home.md
+aliases:
+- pushup
+- press-up
+- push up
+- pu
+keywords:
+- push
+- up
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- strength
+- pushup
+- press
+- pu
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+- abs
+equipment:
+- bodyweight
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/chest/wide-push-up.md
-  - exercises/chest/weighted-push-up.md
-  - exercises/chest/wall-push-up.md
-  - exercises/chest/ring-push-up.md
-  - exercises/chest/knee-push-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/do-push-ups-build-chest.md
-  - faq/can-i-build-muscle-at-home.md
-last_review: 2026-07-27
 ---
 
 # Push-Up
@@ -169,7 +188,7 @@ A
 - ACSM Position Stand (2022)
 - NSCA Essentials
 
-## Related
+## Related Articles
 
 - exercises/chest/wide-push-up.md
 - exercises/chest/weighted-push-up.md
@@ -181,3 +200,4 @@ A
 - science/training-principles/reps-in-reserve.md
 - faq/do-push-ups-build-chest.md
 - faq/can-i-build-muscle-at-home.md
+

@@ -2,19 +2,51 @@
 id: faq_is_it_okay_if_the_decline_dumbbell_press_feels_harder_on_one_side
 title: Is it okay if the Decline Dumbbell Press feels harder on one side?
 category: faq
+subcategory: technique
+description: Is it okay if the Decline Dumbbell Press feels harder on one side?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/decline-dumbbell-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/decline-dumbbell-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-decline-barbell-bench-press-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-decline-dumbbell-fly-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-dumbbell-bench-press-feels-harder-on-one-side.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/decline-dumbbell-fly.md
+aliases:
+- is it okay if the decline dumbbell press feels harder on one side
+- is it okay if the decline press feels harder on one side?
+- is it okay if the decline db press feels harder on one side?
+keywords:
+- is
+- it
+- okay
+- if
+- the
+- decline
+- dumbbell
+- press
+- feels
+- harder
+- 'on'
+- one
+- side
+- technique
+- chest
+- exercise
+- db
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Is it okay if the Decline Dumbbell Press feels harder on one side?
@@ -40,3 +72,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/decline-dumbbell-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/is-it-okay-if-the-decline-barbell-bench-press-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-decline-dumbbell-fly-feels-harder-on-one-side.md
+- faq/is-it-okay-if-the-dumbbell-bench-press-feels-harder-on-one-side.md
+- exercises/chest/decline-barbell-bench-press.md
+- exercises/chest/decline-dumbbell-fly.md
+

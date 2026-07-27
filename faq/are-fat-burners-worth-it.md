@@ -2,22 +2,42 @@
 id: faq_are_fat_burners_worth_it
 title: Are fat burners worth it?
 category: faq
+subcategory: fat-loss
+description: Are fat burners worth it?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - fat-loss
-  - supplements
+- fat-loss
+- supplements
 related:
-  - faq/do-i-need-supplements.md
-  - supplements/caffeine.md
-  - nutrition/calorie-deficit.md
-  - nutrition/cutting.md
-  - nutrition/protein.md
-  - faq/how-fast-can-i-lose-fat.md
-  - faq/is-cardio-bad.md
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
+- faq/do-i-need-supplements.md
+- supplements/caffeine.md
+- nutrition/calorie-deficit.md
+- nutrition/cutting.md
+- nutrition/protein.md
+- faq/how-fast-can-i-lose-fat.md
+- faq/is-cardio-bad.md
+aliases:
+- are fat burners worth it
+- afbwi
+keywords:
+- are
+- fat
+- burners
+- worth
+- it
+- fat-loss
+- supplements
+- afbwi
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Are fat burners worth it?
@@ -40,6 +60,9 @@ Energy-balance principles; ACSM/ISSN guidance on deficits, protein, and resistan
 
 ## Related Articles
 
+- science/training-principles/training-frequency.md
+- science/training-principles/progressive-overload.md
+- exercises/back/assisted-pull-up.md
 - faq/do-i-need-supplements.md
 - supplements/caffeine.md
 - nutrition/calorie-deficit.md
@@ -47,3 +70,4 @@ Energy-balance principles; ACSM/ISSN guidance on deficits, protein, and resistan
 - nutrition/protein.md
 - faq/how-fast-can-i-lose-fat.md
 - faq/is-cardio-bad.md
+

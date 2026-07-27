@@ -2,21 +2,42 @@
 id: faq_do_i_need_free_weights_to_build_muscle
 title: Do I need free weights to build muscle?
 category: faq
+subcategory: hypertrophy
+description: Do I need free weights to build muscle?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - equipment
+- hypertrophy
+- equipment
 related:
-  - faq/are-machines-worse-than-free-weights.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-with-light-weights.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- do i need free weights to build muscle
+keywords:
+- do
+- need
+- free
+- weights
+- to
+- build
+- muscle
+- hypertrophy
+- equipment
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Do I need free weights to build muscle?
@@ -45,3 +66,8 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-with-light-weights.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/back/assisted-pull-up.md
+

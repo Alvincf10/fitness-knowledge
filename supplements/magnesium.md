@@ -2,29 +2,39 @@
 id: supplement_magnesium
 title: Magnesium
 category: supplement
-goals:
-  - recovery
-  - health
+subcategory: general
+description: Magnesium is an essential mineral involved in energy metabolism, nerve function, and muscle contraction. Supplementation helps when dietary intake or status is inadequate; it is not a guaranteed sleep or pump solution for replete athletes.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - mineral
-  - evidence
+- supplement
+- mineral
+- evidence
+related:
+- nutrition/micronutrients.md
+- faq/how-important-is-sleep.md
+- supplements/vitamin-d.md
+- nutrition/hydration.md
+- supplements/fish-oil.md
+- supplements/whey-protein.md
+- supplements/hmb.md
+- supplements/casein-protein.md
+- supplements/carbohydrate.md
+- supplements/bcaas.md
+aliases: []
+keywords:
+- magnesium
+- supplement
+- mineral
+- evidence
+goals:
+- recovery
+- health
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/micronutrients.md
-  - faq/how-important-is-sleep.md
-  - supplements/vitamin-d.md
-  - nutrition/hydration.md
-  - supplements/fish-oil.md
-  - supplements/whey-protein.md
-  - supplements/hmb.md
-  - supplements/casein-protein.md
-  - supplements/carbohydrate.md
-  - supplements/bcaas.md
 ---
 
 # Magnesium
@@ -80,7 +90,7 @@ Magnesium’s physiological importance is clear; athletic performance enhancemen
 - ACSM Position Stand (2022)
 - Nielsen FH (2006)
 
-## Related
+## Related Articles
 
 - nutrition/micronutrients.md
 - faq/how-important-is-sleep.md
@@ -92,3 +102,4 @@ Magnesium’s physiological importance is clear; athletic performance enhancemen
 - supplements/casein-protein.md
 - supplements/carbohydrate.md
 - supplements/bcaas.md
+

@@ -2,20 +2,43 @@
 id: faq_how_many_reps_are_best_for_muscle_growth
 title: How many reps are best for muscle growth?
 category: faq
+subcategory: hypertrophy
+description: How many reps are best for muscle growth?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- how many reps are best for muscle growth
+keywords:
+- how
+- many
+- reps
+- are
+- best
+- for
+- muscle
+- growth
+- hypertrophy
+- programming
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How many reps are best for muscle growth?
@@ -43,3 +66,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/how-many-sets-per-week-are-enough-for-arms-growth.md
+- faq/how-many-sets-per-week-are-enough-for-back-growth.md
+- faq/how-many-sets-per-week-are-enough-for-chest-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

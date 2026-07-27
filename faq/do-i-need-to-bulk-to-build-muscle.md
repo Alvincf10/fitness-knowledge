@@ -2,19 +2,41 @@
 id: faq_do_i_need_to_bulk_to_build_muscle
 title: Do I Need to Bulk to Build Muscle?
 category: faq
+subcategory: hypertrophy
+description: Must I eat in a calorie surplus to build muscle?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - nutrition
+- hypertrophy
+- nutrition
 related:
-  - nutrition/bulking.md
-  - nutrition/calorie-surplus.md
-  - nutrition/body-recomposition.md
-  - faq/can-i-build-muscle-in-a-deficit.md
+- nutrition/bulking.md
+- nutrition/calorie-surplus.md
+- nutrition/body-recomposition.md
+- faq/can-i-build-muscle-in-a-deficit.md
+- faq/do-i-need-free-weights-to-build-muscle.md
+- faq/can-i-build-muscle-at-home.md
+- faq/can-i-build-muscle-with-light-weights.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+aliases:
+- do i need to bulk to build muscle
+keywords:
+- do
+- need
+- to
+- bulk
+- build
+- muscle
+- hypertrophy
+- nutrition
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I Need to Bulk to Build Muscle?
@@ -42,9 +64,16 @@ Reviews on energy surplus and physique development support faster gains with con
 - Avoid dreamer bulks
 - Use maintenance between phases
 
-## Related
+## Related Articles
 
 - nutrition/bulking.md
 - nutrition/calorie-surplus.md
 - nutrition/body-recomposition.md
 - faq/can-i-build-muscle-in-a-deficit.md
+- faq/do-i-need-free-weights-to-build-muscle.md
+- faq/can-i-build-muscle-at-home.md
+- faq/can-i-build-muscle-with-light-weights.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+

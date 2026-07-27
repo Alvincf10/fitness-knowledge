@@ -2,19 +2,40 @@
 id: faq_do_i_need_creatine
 title: Do I Need Creatine?
 category: faq
+subcategory: supplement
+description: Do I need creatine to build muscle or get stronger?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - strength
+- supplement
+- strength
 related:
-  - supplements/creatine.md
-  - faq/do-i-need-supplements.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
+- supplements/creatine.md
+- faq/do-i-need-supplements.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/do-i-need-a-lifting-belt-to-get-strong.md
+- faq/do-i-need-a-pre-workout-supplement.md
+- faq/do-i-need-olympic-lifts-to-be-athletic.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+aliases:
+- do i need creatine
+- dinc
+keywords:
+- do
+- need
+- creatine
+- supplement
+- strength
+- dinc
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Do I Need Creatine?
@@ -42,9 +63,16 @@ ISSN position stands and multiple meta-analyses support creatine monohydrate for
 - Keep training progressive; creatine cannot replace effort
 - People with kidney disease should seek clinical advice before use
 
-## Related
+## Related Articles
 
 - supplements/creatine.md
 - faq/do-i-need-supplements.md
 - science/training-principles/progressive-overload.md
 - nutrition/protein.md
+- faq/do-i-need-a-lifting-belt-to-get-strong.md
+- faq/do-i-need-a-pre-workout-supplement.md
+- faq/do-i-need-olympic-lifts-to-be-athletic.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/failure-training.md
+

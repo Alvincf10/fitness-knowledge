@@ -2,19 +2,45 @@
 id: faq_where_should_i_feel_the_weighted_pull_up_working
 title: Where should I feel the Weighted Pull-Up working?
 category: faq
+subcategory: technique
+description: Where should I feel the Weighted Pull-Up working?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/weighted-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/weighted-pull-up.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-band-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-face-pull-working.md
+- exercises/back/weighted-chin-up.md
+- exercises/back/weighted-inverted-row.md
+aliases:
+- where should i feel the weighted pull up working
+- where should i feel the weighted pullup working
+keywords:
+- where
+- should
+- feel
+- the
+- weighted
+- pull
+- up
+- working
+- technique
+- back
+- exercise
+- pullup
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Where should I feel the Weighted Pull-Up working?
@@ -40,3 +66,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/weighted-pull-up.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/where-should-i-feel-the-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-band-assisted-pull-up-working.md
+- faq/where-should-i-feel-the-face-pull-working.md
+- exercises/back/weighted-chin-up.md
+- exercises/back/weighted-inverted-row.md
+

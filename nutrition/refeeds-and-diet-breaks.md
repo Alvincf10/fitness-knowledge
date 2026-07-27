@@ -2,28 +2,43 @@
 id: nutrition_refeeds_and_diet_breaks
 title: Refeeds and Diet Breaks
 category: nutrition
-goals:
-  - fat-loss
+subcategory: nutrition
+description: Refeeds and diet breaks are planned pauses or temporary calorie increases during a fat-loss phase. They are used to support adherence, training performance, and psychological sustainability—not to “reset metabolism” overnight.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - calorie-deficit
-  - evidence
+- nutrition
+- calorie-deficit
+- evidence
+related:
+- nutrition/cutting.md
+- nutrition/calorie-deficit.md
+- faq/how-fast-can-i-lose-fat.md
+- nutrition/carbohydrates.md
+- nutrition/protein.md
+- nutrition/intermittent-fasting.md
+- nutrition/energy-balance.md
+- nutrition/body-recomposition.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+aliases:
+- radb
+keywords:
+- refeeds
+- and
+- diet
+- breaks
+- nutrition
+- calorie-deficit
+- evidence
+- radb
+goals:
+- fat-loss
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - nutrition/cutting.md
-  - nutrition/calorie-deficit.md
-  - faq/how-fast-can-i-lose-fat.md
-  - nutrition/carbohydrates.md
-  - nutrition/protein.md
-  - nutrition/intermittent-fasting.md
-  - nutrition/energy-balance.md
-  - nutrition/body-recomposition.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
 ---
 
 # Refeeds and Diet Breaks
@@ -83,7 +98,7 @@ Emerging research on intermittent diet breaks suggests possible adherence and fa
 - ACSM Position Stand (2016)
 - ISSN Position Stand-related physique athlete literature
 
-## Related
+## Related Articles
 
 - nutrition/cutting.md
 - nutrition/calorie-deficit.md
@@ -95,3 +110,4 @@ Emerging research on intermittent diet breaks suggests possible adherence and fa
 - nutrition/body-recomposition.md
 - nutrition/pre-workout-nutrition.md
 - nutrition/post-workout-nutrition.md
+

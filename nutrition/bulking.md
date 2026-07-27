@@ -2,28 +2,38 @@
 id: nutrition_bulking
 title: Bulking
 category: nutrition
-goals:
-  - hypertrophy
+subcategory: nutrition
+description: Bulking is a planned calorie surplus combined with progressive resistance training to maximize muscle gain. A controlled surplus favors lean gains better than unstructured overeating.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - calorie-surplus
-  - evidence
+- nutrition
+- calorie-surplus
+- evidence
+related:
+- nutrition/calorie-surplus.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- nutrition/protein.md
+- nutrition/body-recomposition.md
+- nutrition/maintenance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+- nutrition/energy-balance.md
+aliases: []
+keywords:
+- bulking
+- nutrition
+- calorie-surplus
+- evidence
+goals:
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/calorie-surplus.md
-  - faq/do-i-need-to-bulk-to-build-muscle.md
-  - nutrition/protein.md
-  - nutrition/body-recomposition.md
-  - nutrition/maintenance.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/meal-timing.md
-  - nutrition/energy-balance.md
 ---
 
 # Bulking
@@ -82,7 +92,7 @@ Energy surplus supports hypertrophy when resistance training and protein intake 
 - ACSM Position Stand (2016)
 - Helms ER (2014)
 
-## Related
+## Related Articles
 
 - nutrition/calorie-surplus.md
 - faq/do-i-need-to-bulk-to-build-muscle.md
@@ -94,3 +104,4 @@ Energy surplus supports hypertrophy when resistance training and protein intake 
 - nutrition/plant-based-protein.md
 - nutrition/meal-timing.md
 - nutrition/energy-balance.md
+

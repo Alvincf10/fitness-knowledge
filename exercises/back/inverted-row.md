@@ -2,50 +2,70 @@
 id: exercise_inverted_row
 title: Inverted Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The inverted row is a closed-chain horizontal pull performed under a bar or suspension trainer. It builds upper-back and lat strength with scalable bodyweight loading and is a key progression toward pull-ups for many beginners.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - bodyweight row
-  - Australian pull-up
-  - supine row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - beginner
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/weighted-inverted-row.md
+- exercises/back/feet-elevated-inverted-row.md
+- exercises/back/ring-row.md
+- exercises/back/dumbbell-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- bodyweight row
+- australian pull-up
+- supine row
+- ir
+keywords:
+- inverted
+- row
+- compound
+- bodyweight
+- beginner
+- hypertrophy
+- strength
+- pull
+- australian
+- up
+- supine
+- ir
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/weighted-inverted-row.md
-  - exercises/back/feet-elevated-inverted-row.md
-  - exercises/back/ring-row.md
-  - exercises/back/dumbbell-row.md
-  - exercises/back/t-bar-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Inverted Row
@@ -169,7 +189,7 @@ Great minimal-equipment pull.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/weighted-inverted-row.md
 - exercises/back/feet-elevated-inverted-row.md
@@ -181,6 +201,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

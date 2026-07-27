@@ -2,29 +2,39 @@
 id: nutrition_carbohydrates
 title: Carbohydrates
 category: nutrition
-goals:
-  - performance
-  - hypertrophy
+subcategory: nutrition
+description: Carbohydrates are the primary fuel for high-intensity training and a major contributor to glycogen restoration. Intake should scale with training volume and performance goals rather than follow a single universal low-carb rule.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - macronutrient
-  - evidence
+- nutrition
+- macronutrient
+- evidence
+related:
+- nutrition/energy-balance.md
+- nutrition/pre-workout-nutrition.md
+- supplements/carbohydrate.md
+- nutrition/fat.md
+- nutrition/protein.md
+- nutrition/plant-based-protein.md
+- nutrition/post-workout-nutrition.md
+- nutrition/meal-timing.md
+- nutrition/micronutrients.md
+- nutrition/hydration.md
+aliases: []
+keywords:
+- carbohydrates
+- nutrition
+- macronutrient
+- evidence
+goals:
+- performance
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/energy-balance.md
-  - nutrition/pre-workout-nutrition.md
-  - supplements/carbohydrate.md
-  - nutrition/fat.md
-  - nutrition/protein.md
-  - nutrition/plant-based-protein.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/meal-timing.md
-  - nutrition/micronutrients.md
-  - nutrition/hydration.md
 ---
 
 # Carbohydrates
@@ -84,7 +94,7 @@ ACSM and ISSN consensus supports carbohydrate availability for endurance and hig
 - ISSN Position Stand
 - Jeukendrup AE (2014)
 
-## Related
+## Related Articles
 
 - nutrition/energy-balance.md
 - nutrition/pre-workout-nutrition.md
@@ -96,3 +106,4 @@ ACSM and ISSN consensus supports carbohydrate availability for endurance and hig
 - nutrition/meal-timing.md
 - nutrition/micronutrients.md
 - nutrition/hydration.md
+

@@ -2,48 +2,69 @@
 id: exercise_rack_pull
 title: Rack Pull
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - forearms
-  - glutes
-  - abs
-equipment:
-  - barbell
-  - rack
+subcategory: back
+description: The rack pull is a partial-range deadlift variation starting from pins/blocks above the floor (often below or above the knee). It overloads the upper back, traps, grip, and lockout portion of the hinge while reducing demand from the floor pull.
 difficulty: intermediate
-movement:
-  - hinge
-plane:
-  - sagittal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - block pull
-  - partial deadlift from pins
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - strength
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+related:
+- exercises/back/kroc-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- exercises/back/barbell-row.md
+- exercises/back/yates-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- block pull
+- partial deadlift from pins
+- rp
+keywords:
+- rack
+- pull
+- compound
+- free-weight
+- intermediate
+- strength
+- hypertrophy
+- block
+- partial
+- deadlift
+- from
+- pins
+- rp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- forearms
+- glutes
+- abs
+equipment:
+- barbell
+- rack
+movement:
+- hinge
+plane:
+- sagittal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/kroc-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - exercises/back/barbell-row.md
-  - exercises/back/yates-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Rack Pull
@@ -169,7 +190,7 @@ Demanding; reduce frequency in deficits.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. High spinal loading—use conservative progression and technique standards.
 
-## Related
+## Related Articles
 
 - exercises/back/kroc-row.md
 - exercises/back/t-bar-row.md
@@ -181,6 +202,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

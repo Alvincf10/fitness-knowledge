@@ -2,45 +2,63 @@
 id: exercise_cable_pullover
 title: Cable Pullover
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - rear-delts
-  - abs
-equipment:
-  - cable
+subcategory: back
+description: The cable pullover (often kneeling or standing with a rope/bar from a high pulley) trains shoulder extension under continuous tension, isolating the lats more consistently than many free-weight pullover setups.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - kneeling cable pullover
-  - rope pullover
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - beginner
-  - hypertrophy
-  - pull
+- isolation
+- cable
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/single-arm-cable-row.md
+- exercises/back/standing-cable-row.md
+- exercises/back/straight-arm-pulldown.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/seated-cable-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/face-pull.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- kneeling cable pullover
+- rope pullover
+- cp
+keywords:
+- cable
+- pullover
+- isolation
+- beginner
+- hypertrophy
+- pull
+- kneeling
+- rope
+- cp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- rear-delts
+- abs
+equipment:
+- cable
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/standing-cable-row.md
-  - exercises/back/straight-arm-pulldown.md
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/seated-cable-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/face-pull.md
 ---
 
 # Cable Pullover
@@ -162,7 +180,7 @@ Accessory after compounds.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/single-arm-cable-row.md
 - exercises/back/standing-cable-row.md
@@ -173,6 +191,8 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/face-pull.md
+- exercises/back/close-grip-lat-pulldown.md
+
 
 ## References
 

@@ -2,20 +2,42 @@
 id: faq_does_strength_training_make_you_bulky
 title: Does strength training make you bulky?
 category: faq
+subcategory: strength
+description: Does strength training make you bulky?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - strength
-  - beginner
+- strength
+- beginner
 related:
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/legs/back-squat.md
-  - faq/what-is-rir.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/barbell-bench-press.md
+- exercises/legs/back-squat.md
+- faq/what-is-rir.md
+- faq/does-blood-flow-restriction-training-work.md
+- faq/does-massage-build-muscle.md
+- faq/does-muscle-turn-into-fat.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- does strength training make you bulky
+- dstmyb
+keywords:
+- does
+- strength
+- training
+- make
+- you
+- bulky
+- beginner
+- dstmyb
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Does strength training make you bulky?
@@ -43,3 +65,9 @@ ACSM progression models; NSCA strength literature; load-specificity research for
 - exercises/chest/barbell-bench-press.md
 - exercises/legs/back-squat.md
 - faq/what-is-rir.md
+- faq/does-blood-flow-restriction-training-work.md
+- faq/does-massage-build-muscle.md
+- faq/does-muscle-turn-into-fat.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

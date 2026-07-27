@@ -2,19 +2,47 @@
 id: faq_how_deep_should_i_go_on_the_wide_grip_lat_pulldown
 title: How deep should I go on the Wide-Grip Lat Pulldown?
 category: faq
+subcategory: technique
+description: How deep should I go on the Wide-Grip Lat Pulldown?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/wide-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/wide-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-close-grip-lat-pulldown.md
+- faq/how-deep-should-i-go-on-the-neutral-grip-lat-pulldown.md
+- faq/how-deep-should-i-go-on-the-reverse-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+aliases:
+- how deep should i go on the wide grip lat pulldown
+- how deep should i go on the widegrip lat pulldown
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- wide
+- grip
+- lat
+- pulldown
+- technique
+- back
+- exercise
+- widegrip
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Wide-Grip Lat Pulldown?
@@ -40,3 +68,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/wide-grip-lat-pulldown.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-close-grip-lat-pulldown.md
+- faq/how-deep-should-i-go-on-the-neutral-grip-lat-pulldown.md
+- faq/how-deep-should-i-go-on-the-reverse-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+

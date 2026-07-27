@@ -2,44 +2,62 @@
 id: exercise_seated_cable_fly
 title: Seated Cable Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - cable
-  - bench
+subcategory: chest
+description: The seated cable fly uses a supported seat or bench between dual cables to reduce lower-body cheating while isolating the pectoralis major under continuous tension.
 difficulty: beginner
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - supported cable fly
-  - bench cable fly
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - beginner
-  - hypertrophy
+- isolation
+- cable
+- beginner
+- hypertrophy
+related:
+- exercises/chest/low-cable-fly.md
+- exercises/chest/high-cable-fly.md
+- exercises/chest/cable-fly.md
+- exercises/chest/incline-dumbbell-fly.md
+- exercises/chest/dumbbell-fly.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/incline-push-up.md
+aliases:
+- supported cable fly
+- bench cable fly
+- scf
+keywords:
+- seated
+- cable
+- fly
+- isolation
+- beginner
+- hypertrophy
+- supported
+- bench
+- scf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- cable
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/low-cable-fly.md
-  - exercises/chest/high-cable-fly.md
-  - exercises/chest/cable-fly.md
-  - exercises/chest/incline-dumbbell-fly.md
-  - exercises/chest/dumbbell-fly.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/decline-dumbbell-fly.md
 ---
 
 # Seated Cable Fly
@@ -158,7 +176,7 @@ Accessory.
 
 Reduce stretch if shoulders hurt. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/low-cable-fly.md
 - exercises/chest/high-cable-fly.md
@@ -169,6 +187,8 @@ Reduce stretch if shoulders hurt. This is training guidance, not medical diagnos
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/incline-push-up.md
+
 
 ## References
 

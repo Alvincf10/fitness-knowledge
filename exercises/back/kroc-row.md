@@ -2,50 +2,72 @@
 id: exercise_kroc_row
 title: Kroc Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-  - forearms
-equipment:
-  - dumbbell
-  - bench
+subcategory: back
+description: The Kroc row is a high-effort, high-rep unilateral dumbbell row performed with heavier loads and some controlled body English historically used for upper-back thickness, grip, and work capacity. Modern coaching still prioritizes a relatively stable spine and full ROM.
 difficulty: advanced
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - heavy high-rep dumbbell row
+evidence_level: C
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - unilateral
-  - advanced
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- free-weight
+- unilateral
+- advanced
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/dumbbell-row.md
+- exercises/back/renegade-row.md
+- exercises/back/gorilla-row.md
+- exercises/back/t-bar-row.md
+- exercises/back/pendlay-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- heavy high-rep dumbbell row
+- kr
+keywords:
+- kroc
+- row
+- compound
+- free-weight
+- unilateral
+- advanced
+- hypertrophy
+- strength
+- pull
+- heavy
+- high
+- rep
+- dumbbell
+- kr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+- forearms
+equipment:
+- dumbbell
+- bench
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: C
-evidence_level: C
-related:
-  - exercises/back/dumbbell-row.md
-  - exercises/back/renegade-row.md
-  - exercises/back/gorilla-row.md
-  - exercises/back/t-bar-row.md
-  - exercises/back/pendlay-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Kroc Row
@@ -169,7 +191,7 @@ Demanding; manage recovery carefully.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis. Not ideal for beginners or those with uncontrolled back pain.
 
-## Related
+## Related Articles
 
 - exercises/back/dumbbell-row.md
 - exercises/back/renegade-row.md
@@ -181,6 +203,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

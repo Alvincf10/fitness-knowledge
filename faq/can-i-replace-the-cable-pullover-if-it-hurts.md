@@ -2,19 +2,43 @@
 id: faq_can_i_replace_the_cable_pullover_if_it_hurts
 title: Can I replace the Cable Pullover if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Cable Pullover if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/cable-pullover.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/cable-pullover.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-dumbbell-pullover-if-it-hurts.md
+- faq/can-i-replace-the-machine-pullover-if-it-hurts.md
+- faq/can-i-replace-the-seated-cable-row-if-it-hurts.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/dumbbell-pullover.md
+aliases:
+- can i replace the cable pullover if it hurts
+keywords:
+- can
+- replace
+- the
+- cable
+- pullover
+- if
+- it
+- hurts
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Cable Pullover if it hurts?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/cable-pullover.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-dumbbell-pullover-if-it-hurts.md
+- faq/can-i-replace-the-machine-pullover-if-it-hurts.md
+- faq/can-i-replace-the-seated-cable-row-if-it-hurts.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/dumbbell-pullover.md
+

@@ -2,48 +2,68 @@
 id: exercise_decline_barbell_bench_press
 title: Decline Barbell Bench Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - barbell
-  - bench
-  - rack
+subcategory: chest
+description: The decline barbell bench press uses a declined torso position, often increasing relative emphasis on the sternal (lower) pectoralis fibers while reducing some shoulder flexion demand versus steep incline work. It is a compound press for hypertrophy and strength accessory program…
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - decline bench press
-  - decline barbell press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - strength
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+related:
+- exercises/chest/pause-barbell-bench-press.md
+- exercises/chest/incline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/reverse-grip-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- decline bench press
+- decline barbell press
+- dbbp
+- decline bb bench press
+keywords:
+- decline
+- barbell
+- bench
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+- dbbp
+- bb
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- barbell
+- bench
+- rack
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/pause-barbell-bench-press.md
-  - exercises/chest/incline-barbell-bench-press.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/reverse-grip-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Decline Barbell Bench Press
@@ -167,7 +187,7 @@ Keep if technique and secure setup remain safe when fatigued.
 
 Avoid if decline positioning causes dizziness, uncontrolled shoulder pain, or if the bench cannot be secured safely. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/pause-barbell-bench-press.md
 - exercises/chest/incline-barbell-bench-press.md
@@ -179,6 +199,7 @@ Avoid if decline positioning causes dizziness, uncontrolled shoulder pain, or if
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

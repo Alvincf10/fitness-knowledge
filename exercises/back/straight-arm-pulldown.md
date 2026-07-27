@@ -2,45 +2,66 @@
 id: exercise_straight_arm_pulldown
 title: Straight-Arm Pulldown
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - rear-delts
-  - abs
-equipment:
-  - cable
+subcategory: back
+description: The straight-arm pulldown is a lat-isolation pattern performed with nearly extended elbows, emphasizing shoulder extension under cable tension. It is useful for teaching lat engagement and adding lengthened- or shortened-position lat work without heavy elbow-flexor fatigue.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - stiff-arm pulldown
-  - lat isolation pulldown
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - cable
-  - beginner
-  - hypertrophy
-  - pull
+- isolation
+- cable
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/single-arm-lat-pulldown.md
+- exercises/back/single-arm-cable-row.md
+- exercises/back/cable-pullover.md
+- exercises/back/wide-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+aliases:
+- stiff-arm pulldown
+- lat isolation pulldown
+- straight arm pulldown
+- sap
+keywords:
+- straight
+- arm
+- pulldown
+- isolation
+- cable
+- beginner
+- hypertrophy
+- pull
+- stiff
+- lat
+- sap
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- rear-delts
+- abs
+equipment:
+- cable
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/single-arm-lat-pulldown.md
-  - exercises/back/single-arm-cable-row.md
-  - exercises/back/cable-pullover.md
-  - exercises/back/wide-grip-lat-pulldown.md
-  - exercises/back/reverse-grip-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/neutral-grip-lat-pulldown.md
 ---
 
 # Straight-Arm Pulldown
@@ -161,7 +182,7 @@ Low-skill accessory after compounds.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/single-arm-lat-pulldown.md
 - exercises/back/single-arm-cable-row.md
@@ -172,6 +193,8 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/neutral-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+
 
 ## References
 

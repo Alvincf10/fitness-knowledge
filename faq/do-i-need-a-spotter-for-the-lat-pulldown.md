@@ -2,19 +2,42 @@
 id: faq_do_i_need_a_spotter_for_the_lat_pulldown
 title: Do I need a spotter for the Lat Pulldown?
 category: faq
+subcategory: technique
+description: Do I need a spotter for the Lat Pulldown?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - back
-  - exercise
+- technique
+- back
+- exercise
 related:
-  - exercises/back/lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/back/lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-close-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-neutral-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-reverse-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+aliases:
+- do i need a spotter for the lat pulldown
+keywords:
+- do
+- need
+- spotter
+- for
+- the
+- lat
+- pulldown
+- technique
+- back
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Do I need a spotter for the Lat Pulldown?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/back/lat-pulldown.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/do-i-need-a-spotter-for-the-close-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-neutral-grip-lat-pulldown.md
+- faq/do-i-need-a-spotter-for-the-reverse-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/neutral-grip-lat-pulldown.md
+

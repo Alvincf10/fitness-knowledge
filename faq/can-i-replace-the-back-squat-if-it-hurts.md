@@ -2,19 +2,43 @@
 id: faq_can_i_replace_the_back_squat_if_it_hurts
 title: Can I replace the Back Squat if it hurts?
 category: faq
+subcategory: technique
+description: Can I replace the Back Squat if it hurts?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - legs
-  - exercise
+- technique
+- legs
+- exercise
 related:
-  - exercises/legs/back-squat.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/legs/back-squat.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+- faq/can-i-replace-the-band-assisted-pull-up-if-it-hurts.md
+- faq/can-i-replace-the-barbell-row-if-it-hurts.md
+- exercises/legs/romanian-deadlift.md
+- exercises/back/assisted-pull-up.md
+aliases:
+- can i replace the back squat if it hurts
+keywords:
+- can
+- replace
+- the
+- back
+- squat
+- if
+- it
+- hurts
+- technique
+- legs
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # Can I replace the Back Squat if it hurts?
@@ -40,3 +64,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/legs/back-squat.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/can-i-replace-the-assisted-pull-up-if-it-hurts.md
+- faq/can-i-replace-the-band-assisted-pull-up-if-it-hurts.md
+- faq/can-i-replace-the-barbell-row-if-it-hurts.md
+- exercises/legs/romanian-deadlift.md
+- exercises/back/assisted-pull-up.md
+

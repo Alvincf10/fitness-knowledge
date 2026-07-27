@@ -2,20 +2,45 @@
 id: faq_can_i_prioritize_upper_chest_work
 title: Can I prioritize upper chest work?
 category: faq
+subcategory: hypertrophy
+description: Can I prioritize upper chest work?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/should-i-prioritize-upper-chest-work.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-i-train-chest-every-day.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+aliases:
+- can i prioritize upper chest work
+- cipucw
+- should i prioritize upper chest work?
+keywords:
+- can
+- prioritize
+- upper
+- chest
+- work
+- hypertrophy
+- programming
+- cipucw
+- should
+- faq
+redirects_to: faq/should-i-prioritize-upper-chest-work.md
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Can I prioritize upper chest work?
@@ -43,3 +68,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/should-i-prioritize-upper-chest-work.md
+- faq/can-i-build-upper-and-lower-body-muscle-on-the-same-day.md
+- faq/can-i-train-chest-every-day.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+

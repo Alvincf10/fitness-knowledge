@@ -2,43 +2,62 @@
 id: exercise_incline_dumbbell_fly
 title: Incline Dumbbell Fly
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The incline dumbbell fly performs the fly pattern on a moderate incline, increasing relative upper-chest (clavicular) emphasis while providing a stretch-biased isolation stimulus.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - incline DB fly
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - free-weight
-  - intermediate
-  - hypertrophy
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/dumbbell-fly.md
+- exercises/chest/decline-dumbbell-fly.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/dumbbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/incline-barbell-bench-press.md
+aliases:
+- incline db fly
+- idf
+- incline fly
+keywords:
+- incline
+- dumbbell
+- fly
+- isolation
+- free-weight
+- intermediate
+- hypertrophy
+- db
+- idf
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/dumbbell-fly.md
-  - exercises/chest/decline-dumbbell-fly.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/dumbbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/chest/decline-dumbbell-press.md
 ---
 
 # Incline Dumbbell Fly
@@ -156,7 +175,7 @@ Accessory.
 
 Avoid painful end ranges; reduce incline or ROM. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/dumbbell-fly.md
 - exercises/chest/decline-dumbbell-fly.md
@@ -167,6 +186,8 @@ Avoid painful end ranges; reduce incline or ROM. This is training guidance, not 
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/chest/decline-dumbbell-press.md
+- exercises/chest/incline-barbell-bench-press.md
+
 
 ## References
 

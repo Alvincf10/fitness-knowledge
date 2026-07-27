@@ -2,49 +2,71 @@
 id: exercise_weighted_pull_up
 title: Weighted Pull-Up
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - bodyweight
-  - pull-up-bar
+subcategory: back
+description: The weighted pull-up adds external load (belt, vest, or dumbbell) to the standard pull-up to continue progressive overload after bodyweight repetitions become too easy for strength or hypertrophy goals.
 difficulty: advanced
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - pull-up with weight
-  - belt pull-up
-  - loaded pull-up
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - bodyweight
-  - advanced
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/weighted-chin-up.md
+- exercises/back/pull-up.md
+- exercises/back/neutral-grip-pull-up.md
+- exercises/back/negative-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/can-i-build-muscle-at-home.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- pull-up with weight
+- belt pull-up
+- loaded pull-up
+- weighted pull up
+- wpu
+keywords:
+- weighted
+- pull
+- up
+- compound
+- bodyweight
+- advanced
+- hypertrophy
+- strength
+- with
+- weight
+- belt
+- loaded
+- wpu
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- bodyweight
+- pull-up-bar
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - exercises/back/weighted-chin-up.md
-  - exercises/back/pull-up.md
-  - exercises/back/neutral-grip-pull-up.md
-  - exercises/back/negative-pull-up.md
-  - exercises/back/band-assisted-pull-up.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/can-i-build-muscle-at-home.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Weighted Pull-Up
@@ -169,7 +191,7 @@ Keep if recovery allows; reduce load before cutting ROM.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/weighted-chin-up.md
 - exercises/back/pull-up.md
@@ -181,6 +203,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/can-i-build-muscle-at-home.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

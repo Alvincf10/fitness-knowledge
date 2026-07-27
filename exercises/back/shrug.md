@@ -2,43 +2,66 @@
 id: exercise_shrug
 title: Barbell Shrug
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - forearms
-equipment:
-  - barbell
+subcategory: back
+description: The barbell shrug isolates scapular elevation primarily for the upper trapezius. It is included in back programming for upper-back thickness and trap development, typically as a short accessory after heavier pulls.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - trap shrug
-  - DB shrug variant dependent
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - isolation
-  - free-weight
-  - beginner
-  - hypertrophy
+- isolation
+- free-weight
+- beginner
+- hypertrophy
+related:
+- exercises/back/kroc-row.md
+- exercises/back/landmine-row.md
+- exercises/back/rack-pull.md
+- exercises/back/yates-row.md
+- exercises/back/t-bar-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- exercises/back/straight-arm-pulldown.md
+- exercises/back/barbell-row.md
+aliases:
+- trap shrug
+- db shrug variant dependent
+- shrug
+- bs
+- bb shrug
+keywords:
+- barbell
+- shrug
+- isolation
+- free-weight
+- beginner
+- hypertrophy
+- trap
+- db
+- variant
+- dependent
+- bs
+- bb
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- forearms
+equipment:
+- barbell
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/kroc-row.md
-  - exercises/back/landmine-row.md
-  - exercises/back/rack-pull.md
-  - exercises/back/yates-row.md
-  - exercises/back/t-bar-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - exercises/back/straight-arm-pulldown.md
 ---
 
 # Barbell Shrug
@@ -157,7 +180,7 @@ Optional low-skill accessory.
 
 Avoid aggressive loading with neck pain; use controlled ROM. Not medical advice.
 
-## Related
+## Related Articles
 
 - exercises/back/kroc-row.md
 - exercises/back/landmine-row.md
@@ -168,6 +191,8 @@ Avoid aggressive loading with neck pain; use controlled ROM. Not medical advice.
 - science/training-principles/training-volume.md
 - science/training-principles/reps-in-reserve.md
 - exercises/back/straight-arm-pulldown.md
+- exercises/back/barbell-row.md
+
 
 ## References
 

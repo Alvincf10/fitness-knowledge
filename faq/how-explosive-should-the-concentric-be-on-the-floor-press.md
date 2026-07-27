@@ -2,19 +2,44 @@
 id: faq_how_explosive_should_the_concentric_be_on_the_floor_press
 title: How explosive should the concentric be on the Floor Press?
 category: faq
+subcategory: technique
+description: How explosive should the concentric be on the Floor Press?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/floor-press.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/floor-press.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-cable-chest-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+aliases:
+- how explosive should the concentric be on the floor press
+keywords:
+- how
+- explosive
+- should
+- the
+- concentric
+- be
+- 'on'
+- floor
+- press
+- technique
+- chest
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How explosive should the concentric be on the Floor Press?
@@ -40,3 +65,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/floor-press.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-explosive-should-the-concentric-be-on-the-barbell-bench-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-cable-chest-press.md
+- faq/how-explosive-should-the-concentric-be-on-the-decline-barbell-bench-press.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/cable-chest-press.md
+

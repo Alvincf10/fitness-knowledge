@@ -2,48 +2,70 @@
 id: exercise_neutral_grip_lat_pulldown
 title: Neutral-Grip Lat Pulldown
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - cable
-  - machine
+subcategory: back
+description: The neutral-grip lat pulldown uses parallel handles to train vertical pulling with a grip that many lifters find comfortable on the shoulders and elbows, while loading the lats and upper back.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - vertical
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - parallel-grip pulldown
-  - hammer-grip pulldown
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - cable
-  - machine
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- cable
+- machine
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/wide-grip-lat-pulldown.md
+- exercises/back/reverse-grip-lat-pulldown.md
+- exercises/back/close-grip-lat-pulldown.md
+- exercises/back/lat-pulldown.md
+- exercises/back/single-arm-lat-pulldown.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- parallel-grip pulldown
+- hammer-grip pulldown
+- neutral grip lat pulldown
+- nglp
+keywords:
+- neutral
+- grip
+- lat
+- pulldown
+- compound
+- cable
+- machine
+- beginner
+- hypertrophy
+- pull
+- parallel
+- hammer
+- nglp
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- cable
+- machine
+movement:
+- pull
+plane:
+- vertical
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/wide-grip-lat-pulldown.md
-  - exercises/back/reverse-grip-lat-pulldown.md
-  - exercises/back/close-grip-lat-pulldown.md
-  - exercises/back/lat-pulldown.md
-  - exercises/back/single-arm-lat-pulldown.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Neutral-Grip Lat Pulldown
@@ -165,7 +187,7 @@ Efficient machine pull.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/wide-grip-lat-pulldown.md
 - exercises/back/reverse-grip-lat-pulldown.md
@@ -177,6 +199,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

@@ -2,47 +2,65 @@
 id: exercise_squeeze_press
 title: Squeeze Press
 category: exercise
-muscle_primary:
-  - chest
-muscle_secondary:
-  - triceps
-  - front-delts
-equipment:
-  - dumbbell
-  - bench
+subcategory: chest
+description: The squeeze press (hex/crush press) is a dumbbell press variation where the bells are pressed together throughout the ROM, increasing isometric adduction demand on the pectoralis major while still training the press pattern.
 difficulty: intermediate
-movement:
-  - push
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - hex press
-  - crush press
-  - dumbbell squeeze press
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+related:
+- exercises/chest/single-arm-dumbbell-bench-press.md
+- exercises/chest/incline-dumbbell-press.md
+- exercises/chest/dumbbell-bench-press.md
+- exercises/chest/decline-dumbbell-press.md
+- exercises/chest/pause-barbell-bench-press.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-sets-per-week.md
+aliases:
+- hex press
+- crush press
+- dumbbell squeeze press
+- sp
+keywords:
+- squeeze
+- press
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- hex
+- crush
+- dumbbell
+- sp
+- chest
+- exercise
+- workout
+muscle_primary:
+- chest
+muscle_secondary:
+- triceps
+- front-delts
+equipment:
+- dumbbell
+- bench
+movement:
+- push
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/chest/single-arm-dumbbell-bench-press.md
-  - exercises/chest/incline-dumbbell-press.md
-  - exercises/chest/dumbbell-bench-press.md
-  - exercises/chest/decline-dumbbell-press.md
-  - exercises/chest/pause-barbell-bench-press.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/how-long-should-i-rest-between-sets.md
-  - faq/how-many-sets-per-week.md
 ---
 
 # Squeeze Press
@@ -162,7 +180,7 @@ Accessory compound.
 
 May be inappropriate during symptomatic anterior shoulder irritation, recent pectoralis or triceps strain, uncontrolled wrist/elbow pain, or when a safe setup/spot cannot be arranged. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/chest/single-arm-dumbbell-bench-press.md
 - exercises/chest/incline-dumbbell-press.md
@@ -174,6 +192,7 @@ May be inappropriate during symptomatic anterior shoulder irritation, recent pec
 - science/training-principles/reps-in-reserve.md
 - faq/how-long-should-i-rest-between-sets.md
 - faq/how-many-sets-per-week.md
+
 
 ## References
 

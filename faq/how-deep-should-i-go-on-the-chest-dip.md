@@ -2,19 +2,42 @@
 id: faq_how_deep_should_i_go_on_the_chest_dip
 title: How deep should I go on the Chest Dip?
 category: faq
+subcategory: technique
+description: How deep should I go on the Chest Dip?
+difficulty: beginner
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - technique
-  - chest
-  - exercise
+- technique
+- chest
+- exercise
 related:
-  - exercises/chest/chest-dip.md
-  - science/training-principles/progressive-overload.md
-  - faq/are-machines-worse-than-free-weights.md
+- exercises/chest/chest-dip.md
+- science/training-principles/progressive-overload.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-bench-press.md
+- faq/how-deep-should-i-go-on-the-cable-chest-press.md
+- faq/how-deep-should-i-go-on-the-cable-fly.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+aliases:
+- how deep should i go on the chest dip
+keywords:
+- how
+- deep
+- should
+- go
+- 'on'
+- the
+- chest
+- dip
+- technique
+- exercise
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
 ---
 
 # How deep should I go on the Chest Dip?
@@ -40,3 +63,9 @@ NSCA technique standards and biomechanics principles; individual anthropometry c
 - exercises/chest/chest-dip.md
 - science/training-principles/progressive-overload.md
 - faq/are-machines-worse-than-free-weights.md
+- faq/how-deep-should-i-go-on-the-barbell-bench-press.md
+- faq/how-deep-should-i-go-on-the-cable-chest-press.md
+- faq/how-deep-should-i-go-on-the-cable-fly.md
+- exercises/back/chest-supported-row.md
+- exercises/back/dumbbell-pullover.md
+

@@ -2,20 +2,43 @@
 id: faq_is_full_range_of_motion_always_better_for_hypertrophy
 title: Is full range of motion always better for hypertrophy?
 category: faq
+subcategory: hypertrophy
+description: Is full range of motion always better for hypertrophy?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - technique
+- hypertrophy
+- technique
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/is-stretch-focused-training-better-for-hypertrophy.md
+- faq/is-mind-muscle-connection-necessary-for-growth.md
+- faq/is-more-protein-always-better.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- is full range of motion always better for hypertrophy
+keywords:
+- is
+- full
+- range
+- of
+- motion
+- always
+- better
+- for
+- hypertrophy
+- technique
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Is full range of motion always better for hypertrophy?
@@ -43,3 +66,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/is-stretch-focused-training-better-for-hypertrophy.md
+- faq/is-mind-muscle-connection-necessary-for-growth.md
+- faq/is-more-protein-always-better.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+

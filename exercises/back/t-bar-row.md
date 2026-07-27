@@ -2,49 +2,70 @@
 id: exercise_t_bar_row
 title: T-Bar Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-  - abs
-equipment:
-  - barbell
-  - machine
+subcategory: back
+description: The T-bar row is a hinged horizontal pull using a landmine/T-bar setup or dedicated T-bar station. It allows heavy loading of the lats and mid-back with a fixed bar path that many lifters find stable compared with a free barbell row.
 difficulty: intermediate
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - landmine t-bar row
-  - plate-loaded t-bar row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - free-weight
-  - intermediate
-  - hypertrophy
-  - strength
-  - pull
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+- pull
+related:
+- exercises/back/pendlay-row.md
+- exercises/back/barbell-row.md
+- exercises/back/yates-row.md
+- exercises/back/meadows-row.md
+- exercises/back/weighted-inverted-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- landmine t-bar row
+- plate-loaded t-bar row
+- t bar row
+- tbr
+keywords:
+- bar
+- row
+- compound
+- free-weight
+- intermediate
+- hypertrophy
+- strength
+- pull
+- landmine
+- plate
+- loaded
+- tbr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+- abs
+equipment:
+- barbell
+- machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/pendlay-row.md
-  - exercises/back/barbell-row.md
-  - exercises/back/yates-row.md
-  - exercises/back/meadows-row.md
-  - exercises/back/weighted-inverted-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # T-Bar Row
@@ -168,7 +189,7 @@ Keep if hinge position stays crisp when fatigued.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/pendlay-row.md
 - exercises/back/barbell-row.md
@@ -180,6 +201,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

@@ -2,26 +2,46 @@
 id: faq_do_push_ups_build_chest
 title: Do Push-Ups Build Chest?
 category: faq
+subcategory: beginner
+description: Can push-ups actually build my chest muscles?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - beginner
-  - hypertrophy
-  - bodyweight
+- beginner
+- hypertrophy
+- bodyweight
 related:
-  - exercises/chest/push-up.md
-  - exercises/chest/deficit-push-up.md
-  - exercises/chest/barbell-bench-press.md
-  - exercises/chest/weighted-push-up.md
-  - science/training-principles/progressive-overload.md
-  - faq/can-i-build-muscle-at-home.md
-  - exercises/chest/resistance-band-chest-press.md
-  - exercises/chest/plate-loaded-chest-press.md
-  - exercises/chest/machine-chest-press.md
-  - exercises/chest/incline-machine-chest-press.md
+- exercises/chest/push-up.md
+- exercises/chest/deficit-push-up.md
+- exercises/chest/barbell-bench-press.md
+- exercises/chest/weighted-push-up.md
+- science/training-principles/progressive-overload.md
+- faq/can-i-build-muscle-at-home.md
+- exercises/chest/resistance-band-chest-press.md
+- exercises/chest/plate-loaded-chest-press.md
+- exercises/chest/machine-chest-press.md
+- exercises/chest/incline-machine-chest-press.md
+aliases:
+- do push ups build chest
+- dpubc
+- do pushups build chest
+keywords:
+- do
+- push
+- ups
+- build
+- chest
+- beginner
+- hypertrophy
+- bodyweight
+- dpubc
+- pushups
+- faq
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # Do Push-Ups Build Chest?
@@ -49,7 +69,7 @@ EMG and training studies show meaningful pectoralis activation and hypertrophy p
 - Pair with pulling work for balance
 - Add bench pressing when heavier progressive loading is desired
 
-## Related
+## Related Articles
 
 - exercises/chest/push-up.md
 - exercises/chest/deficit-push-up.md
@@ -61,3 +81,4 @@ EMG and training studies show meaningful pectoralis activation and hypertrophy p
 - exercises/chest/plate-loaded-chest-press.md
 - exercises/chest/machine-chest-press.md
 - exercises/chest/incline-machine-chest-press.md
+

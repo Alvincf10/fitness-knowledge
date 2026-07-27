@@ -2,28 +2,41 @@
 id: nutrition_calorie_surplus
 title: Calorie Surplus
 category: nutrition
-goals:
-  - hypertrophy
+subcategory: nutrition
+description: A calorie surplus occurs when average intake exceeds expenditure. In resistance trainees, a controlled surplus can support faster muscle gain, especially in beginners, at the cost of some fat gain.
+difficulty: intermediate
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - nutrition
-  - energy-balance
-  - evidence
+- nutrition
+- energy-balance
+- evidence
+related:
+- nutrition/bulking.md
+- nutrition/energy-balance.md
+- faq/do-i-need-to-bulk-to-build-muscle.md
+- nutrition/protein.md
+- nutrition/calorie-deficit.md
+- nutrition/maintenance.md
+- nutrition/pre-workout-nutrition.md
+- nutrition/post-workout-nutrition.md
+- nutrition/plant-based-protein.md
+- nutrition/meal-timing.md
+aliases:
+- cs
+keywords:
+- calorie
+- surplus
+- nutrition
+- energy-balance
+- evidence
+- cs
+goals:
+- hypertrophy
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
-related:
-  - nutrition/bulking.md
-  - nutrition/energy-balance.md
-  - faq/do-i-need-to-bulk-to-build-muscle.md
-  - nutrition/protein.md
-  - nutrition/calorie-deficit.md
-  - nutrition/maintenance.md
-  - nutrition/pre-workout-nutrition.md
-  - nutrition/post-workout-nutrition.md
-  - nutrition/plant-based-protein.md
-  - nutrition/meal-timing.md
 ---
 
 # Calorie Surplus
@@ -82,7 +95,7 @@ Energy availability influences hypertrophy rate. Research and applied reviews su
 - ISSN Position Stand
 - ACSM Position Stand (2016)
 
-## Related
+## Related Articles
 
 - nutrition/bulking.md
 - nutrition/energy-balance.md
@@ -94,3 +107,4 @@ Energy availability influences hypertrophy rate. Research and applied reviews su
 - nutrition/post-workout-nutrition.md
 - nutrition/plant-based-protein.md
 - nutrition/meal-timing.md
+

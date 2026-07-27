@@ -2,29 +2,41 @@
 id: supplement_casein_protein
 title: Casein Protein
 category: supplement
-goals:
-  - hypertrophy
-  - recovery
+subcategory: general
+description: Casein is the slow-digesting fraction of milk protein. It is used to help meet daily protein targets and to provide a prolonged amino acid release, often overnight. Like whey, its value is mainly as high-quality protein, not as a unique anabolic shortcut.
+difficulty: intermediate
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - supplement
-  - protein
-  - evidence
+- supplement
+- protein
+- evidence
+related:
+- supplements/whey-protein.md
+- nutrition/protein.md
+- faq/how-much-protein.md
+- nutrition/meal-timing.md
+- supplements/bcaas.md
+- supplements/hmb.md
+- supplements/magnesium.md
+- supplements/fish-oil.md
+- supplements/creatine.md
+- supplements/carbohydrate.md
+aliases:
+- cp
+keywords:
+- casein
+- protein
+- supplement
+- evidence
+- cp
+goals:
+- hypertrophy
+- recovery
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - supplements/whey-protein.md
-  - nutrition/protein.md
-  - faq/how-much-protein.md
-  - nutrition/meal-timing.md
-  - supplements/bcaas.md
-  - supplements/hmb.md
-  - supplements/magnesium.md
-  - supplements/fish-oil.md
-  - supplements/creatine.md
-  - supplements/carbohydrate.md
 ---
 
 # Casein Protein
@@ -83,7 +95,7 @@ Protein meta-analyses support high-quality dairy proteins for hypertrophy when t
 - Morton RW (2018)
 - Phillips SM (2011)
 
-## Related
+## Related Articles
 
 - supplements/whey-protein.md
 - nutrition/protein.md
@@ -95,3 +107,4 @@ Protein meta-analyses support high-quality dairy proteins for hypertrophy when t
 - supplements/fish-oil.md
 - supplements/creatine.md
 - supplements/carbohydrate.md
+

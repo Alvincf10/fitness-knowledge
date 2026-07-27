@@ -2,47 +2,66 @@
 id: exercise_machine_row
 title: Machine Row
 category: exercise
-muscle_primary:
-  - back
-muscle_secondary:
-  - biceps
-  - rear-delts
-equipment:
-  - machine
+subcategory: back
+description: The machine row is a guided horizontal pull (plate-loaded or selectorized) that loads the lats and upper back with reduced balance demand, making it useful for beginners, high-volume hypertrophy work, and training without a spotter.
 difficulty: beginner
-movement:
-  - pull
-plane:
-  - horizontal
-goal:
-  - hypertrophy
-  - strength
-aliases:
-  - seated machine row
-  - hammer row
-  - iso-lateral row
+evidence_level: B
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - compound
-  - machine
-  - beginner
-  - hypertrophy
-  - pull
+- compound
+- machine
+- beginner
+- hypertrophy
+- pull
+related:
+- exercises/back/smith-machine-row.md
+- exercises/back/plate-loaded-row.md
+- exercises/back/chest-supported-row.md
+- exercises/back/wide-grip-seated-cable-row.md
+- exercises/back/seated-cable-row.md
+- science/training-principles/progressive-overload.md
+- science/training-principles/training-volume.md
+- science/training-principles/reps-in-reserve.md
+- faq/are-machines-worse-than-free-weights.md
+- faq/how-long-should-i-rest-between-sets.md
+aliases:
+- seated machine row
+- hammer row
+- iso-lateral row
+- mr
+keywords:
+- machine
+- row
+- compound
+- beginner
+- hypertrophy
+- pull
+- seated
+- hammer
+- iso
+- lateral
+- mr
+- back
+- exercise
+- workout
+muscle_primary:
+- back
+muscle_secondary:
+- biceps
+- rear-delts
+equipment:
+- machine
+movement:
+- pull
+plane:
+- horizontal
+goal:
+- hypertrophy
+- strength
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: B
-evidence_level: B
-related:
-  - exercises/back/smith-machine-row.md
-  - exercises/back/plate-loaded-row.md
-  - exercises/back/chest-supported-row.md
-  - exercises/back/wide-grip-seated-cable-row.md
-  - exercises/back/seated-cable-row.md
-  - science/training-principles/progressive-overload.md
-  - science/training-principles/training-volume.md
-  - science/training-principles/reps-in-reserve.md
-  - faq/are-machines-worse-than-free-weights.md
-  - faq/how-long-should-i-rest-between-sets.md
 ---
 
 # Machine Row
@@ -162,7 +181,7 @@ Efficient when energy is limited.
 
 May be inappropriate with symptomatic shoulder impingement, acute elbow tendinopathy, recent lat or biceps strain, uncontrolled low-back pain during hinged positions, or inability to control scapular motion. This is training guidance, not medical diagnosis.
 
-## Related
+## Related Articles
 
 - exercises/back/smith-machine-row.md
 - exercises/back/plate-loaded-row.md
@@ -174,6 +193,7 @@ May be inappropriate with symptomatic shoulder impingement, acute elbow tendinop
 - science/training-principles/reps-in-reserve.md
 - faq/are-machines-worse-than-free-weights.md
 - faq/how-long-should-i-rest-between-sets.md
+
 
 ## References
 

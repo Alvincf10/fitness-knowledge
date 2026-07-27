@@ -2,20 +2,48 @@
 id: faq_how_important_is_it_to_use_lengthened_partials_on_curls
 title: How important is it to use lengthened partials on curls?
 category: faq
+subcategory: hypertrophy
+description: How important is it to use lengthened partials on curls?
+difficulty: beginner
+evidence_level: A
+last_review: '2026-07-27'
+reviewed_by: phase2.5-knowledge-optimizer
 tags:
-  - hypertrophy
-  - programming
+- hypertrophy
+- programming
 related:
-  - science/training-principles/training-volume.md
-  - science/training-principles/progressive-overload.md
-  - nutrition/protein.md
-  - faq/how-many-sets-per-week.md
-  - science/training-principles/reps-in-reserve.md
+- science/training-principles/training-volume.md
+- science/training-principles/progressive-overload.md
+- nutrition/protein.md
+- faq/how-many-sets-per-week.md
+- science/training-principles/reps-in-reserve.md
+- faq/should-i-use-lengthened-partials-on-curls.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+aliases:
+- how important is it to use lengthened partials on curls
+- should i use lengthened partials on curls?
+keywords:
+- how
+- important
+- is
+- it
+- to
+- use
+- lengthened
+- partials
+- 'on'
+- curls
+- hypertrophy
+- programming
+- should
+- faq
+redirects_to: faq/should-i-use-lengthened-partials-on-curls.md
 updated: 2026-07-27
-last_review: 2026-07-27
 reviewed: true
 evidence: A
-evidence_level: A
 ---
 
 # How important is it to use lengthened partials on curls?
@@ -43,3 +71,9 @@ Schoenfeld and related hypertrophy reviews; ACSM resistance-training position st
 - nutrition/protein.md
 - faq/how-many-sets-per-week.md
 - science/training-principles/reps-in-reserve.md
+- faq/should-i-use-lengthened-partials-on-curls.md
+- faq/how-long-should-i-rest-between-sets.md
+- faq/how-many-reps-are-best-for-muscle-growth.md
+- exercises/back/assisted-pull-up.md
+- exercises/back/band-assisted-pull-up.md
+
