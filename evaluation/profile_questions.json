@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "profile_000",
+    "user_id": "profile_user_000",
+    "seed_messages": [
+      "Saya ingin cutting."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "cutting",
+    "snapshot_tokens": [
+      "cutting"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_001",
+    "user_id": "profile_user_001",
+    "seed_messages": [
+      "My goal is cutting."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "cutting",
+    "snapshot_tokens": [
+      "cutting"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_002",
+    "user_id": "profile_user_002",
+    "seed_messages": [
+      "Target saya cutting."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "cutting",
+    "snapshot_tokens": [
+      "cutting"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_003",
+    "user_id": "profile_user_003",
+    "seed_messages": [
+      "Saya ingin bulking."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_004",
+    "user_id": "profile_user_004",
+    "seed_messages": [
+      "My goal is bulking."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_005",
+    "user_id": "profile_user_005",
+    "seed_messages": [
+      "Target saya bulking."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_006",
+    "user_id": "profile_user_006",
+    "seed_messages": [
+      "Saya ingin recomp."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "recomp",
+    "snapshot_tokens": [
+      "recomp"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_007",
+    "user_id": "profile_user_007",
+    "seed_messages": [
+      "My goal is recomp."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "recomp",
+    "snapshot_tokens": [
+      "recomp"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_008",
+    "user_id": "profile_user_008",
+    "seed_messages": [
+      "Target saya recomp."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "recomp",
+    "snapshot_tokens": [
+      "recomp"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_009",
+    "user_id": "profile_user_009",
+    "seed_messages": [
+      "Saya ingin strength."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "strength",
+    "snapshot_tokens": [
+      "strength"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_010",
+    "user_id": "profile_user_010",
+    "seed_messages": [
+      "My goal is strength."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "strength",
+    "snapshot_tokens": [
+      "strength"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_011",
+    "user_id": "profile_user_011",
+    "seed_messages": [
+      "Target saya strength."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "strength",
+    "snapshot_tokens": [
+      "strength"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_012",
+    "user_id": "profile_user_012",
+    "seed_messages": [
+      "Saya ingin hypertrophy."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "hypertrophy",
+    "snapshot_tokens": [
+      "hypertrophy"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_013",
+    "user_id": "profile_user_013",
+    "seed_messages": [
+      "My goal is hypertrophy."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "hypertrophy",
+    "snapshot_tokens": [
+      "hypertrophy"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_014",
+    "user_id": "profile_user_014",
+    "seed_messages": [
+      "Target saya hypertrophy."
+    ],
+    "question": "Apa goal saya?",
+    "expected_field": "fitness_goal",
+    "expected_value": "hypertrophy",
+    "snapshot_tokens": [
+      "hypertrophy"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_015",
+    "user_id": "profile_user_015",
+    "seed_messages": [
+      "Berat saya 60 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 60,
+    "snapshot_tokens": [
+      "60"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_016",
+    "user_id": "profile_user_016",
+    "seed_messages": [
+      "Berat saya 65 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 65,
+    "snapshot_tokens": [
+      "65"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_017",
+    "user_id": "profile_user_017",
+    "seed_messages": [
+      "Berat saya 70 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 70,
+    "snapshot_tokens": [
+      "70"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_018",
+    "user_id": "profile_user_018",
+    "seed_messages": [
+      "Berat saya 75 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 75,
+    "snapshot_tokens": [
+      "75"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_019",
+    "user_id": "profile_user_019",
+    "seed_messages": [
+      "Berat saya 80 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 80,
+    "snapshot_tokens": [
+      "80"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_020",
+    "user_id": "profile_user_020",
+    "seed_messages": [
+      "Berat saya 82 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_021",
+    "user_id": "profile_user_021",
+    "seed_messages": [
+      "Berat saya 85 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 85,
+    "snapshot_tokens": [
+      "85"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_022",
+    "user_id": "profile_user_022",
+    "seed_messages": [
+      "Berat saya 90 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 90,
+    "snapshot_tokens": [
+      "90"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_023",
+    "user_id": "profile_user_023",
+    "seed_messages": [
+      "Berat saya 95 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 95,
+    "snapshot_tokens": [
+      "95"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_024",
+    "user_id": "profile_user_024",
+    "seed_messages": [
+      "Berat saya 100 kg."
+    ],
+    "question": "Berapa berat saya?",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 100,
+    "snapshot_tokens": [
+      "100"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_025",
+    "user_id": "profile_user_025",
+    "seed_messages": [
+      "Tinggi saya 155 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 155,
+    "snapshot_tokens": [
+      "155"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_026",
+    "user_id": "profile_user_026",
+    "seed_messages": [
+      "Tinggi saya 160 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 160,
+    "snapshot_tokens": [
+      "160"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_027",
+    "user_id": "profile_user_027",
+    "seed_messages": [
+      "Tinggi saya 165 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 165,
+    "snapshot_tokens": [
+      "165"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_028",
+    "user_id": "profile_user_028",
+    "seed_messages": [
+      "Tinggi saya 168 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 168,
+    "snapshot_tokens": [
+      "168"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_029",
+    "user_id": "profile_user_029",
+    "seed_messages": [
+      "Tinggi saya 170 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 170,
+    "snapshot_tokens": [
+      "170"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_030",
+    "user_id": "profile_user_030",
+    "seed_messages": [
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_031",
+    "user_id": "profile_user_031",
+    "seed_messages": [
+      "Tinggi saya 178 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 178,
+    "snapshot_tokens": [
+      "178"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_032",
+    "user_id": "profile_user_032",
+    "seed_messages": [
+      "Tinggi saya 180 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 180,
+    "snapshot_tokens": [
+      "180"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_033",
+    "user_id": "profile_user_033",
+    "seed_messages": [
+      "Tinggi saya 182 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 182,
+    "snapshot_tokens": [
+      "182"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_034",
+    "user_id": "profile_user_034",
+    "seed_messages": [
+      "Tinggi saya 185 cm."
+    ],
+    "question": "Berapa tinggi saya?",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 185,
+    "snapshot_tokens": [
+      "185"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_035",
+    "user_id": "profile_user_035",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_036",
+    "user_id": "profile_user_036",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_037",
+    "user_id": "profile_user_037",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_038",
+    "user_id": "profile_user_038",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_039",
+    "user_id": "profile_user_039",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_040",
+    "user_id": "profile_user_040",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_041",
+    "user_id": "profile_user_041",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_042",
+    "user_id": "profile_user_042",
+    "seed_messages": [
+      "Saya gym jam 6 pagi."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "morning_workout",
+    "snapshot_tokens": [
+      "morning"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_043",
+    "user_id": "profile_user_043",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_044",
+    "user_id": "profile_user_044",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_045",
+    "user_id": "profile_user_045",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_046",
+    "user_id": "profile_user_046",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_047",
+    "user_id": "profile_user_047",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_048",
+    "user_id": "profile_user_048",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_049",
+    "user_id": "profile_user_049",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_050",
+    "user_id": "profile_user_050",
+    "seed_messages": [
+      "Latihan sore tiap hari."
+    ],
+    "question": "Saya biasa gym jam berapa?",
+    "expected_field": "schedule",
+    "expected_value": "evening_workout",
+    "snapshot_tokens": [
+      "evening"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_051",
+    "user_id": "profile_user_051",
+    "seed_messages": [
+      "Split saya push pull legs."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_052",
+    "user_id": "profile_user_052",
+    "seed_messages": [
+      "Split saya push pull legs."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_053",
+    "user_id": "profile_user_053",
+    "seed_messages": [
+      "Split saya push pull legs."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_054",
+    "user_id": "profile_user_054",
+    "seed_messages": [
+      "Split saya push pull legs."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_055",
+    "user_id": "profile_user_055",
+    "seed_messages": [
+      "Split saya push pull legs."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_056",
+    "user_id": "profile_user_056",
+    "seed_messages": [
+      "Split saya upper lower."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "upper lower",
+    "snapshot_tokens": [
+      "upper"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_057",
+    "user_id": "profile_user_057",
+    "seed_messages": [
+      "Split saya upper lower."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "upper lower",
+    "snapshot_tokens": [
+      "upper"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_058",
+    "user_id": "profile_user_058",
+    "seed_messages": [
+      "Split saya upper lower."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "upper lower",
+    "snapshot_tokens": [
+      "upper"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_059",
+    "user_id": "profile_user_059",
+    "seed_messages": [
+      "Split saya upper lower."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "upper lower",
+    "snapshot_tokens": [
+      "upper"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_060",
+    "user_id": "profile_user_060",
+    "seed_messages": [
+      "Split saya upper lower."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "upper lower",
+    "snapshot_tokens": [
+      "upper"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_061",
+    "user_id": "profile_user_061",
+    "seed_messages": [
+      "Split saya full body."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "full body",
+    "snapshot_tokens": [
+      "full"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_062",
+    "user_id": "profile_user_062",
+    "seed_messages": [
+      "Split saya full body."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "full body",
+    "snapshot_tokens": [
+      "full"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_063",
+    "user_id": "profile_user_063",
+    "seed_messages": [
+      "Split saya full body."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "full body",
+    "snapshot_tokens": [
+      "full"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_064",
+    "user_id": "profile_user_064",
+    "seed_messages": [
+      "Split saya full body."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "full body",
+    "snapshot_tokens": [
+      "full"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_065",
+    "user_id": "profile_user_065",
+    "seed_messages": [
+      "Split saya full body."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "full body",
+    "snapshot_tokens": [
+      "full"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_066",
+    "user_id": "profile_user_066",
+    "seed_messages": [
+      "Split saya bro split."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "bro split",
+    "snapshot_tokens": [
+      "bro"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_067",
+    "user_id": "profile_user_067",
+    "seed_messages": [
+      "Split saya bro split."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "bro split",
+    "snapshot_tokens": [
+      "bro"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_068",
+    "user_id": "profile_user_068",
+    "seed_messages": [
+      "Split saya bro split."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "bro split",
+    "snapshot_tokens": [
+      "bro"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_069",
+    "user_id": "profile_user_069",
+    "seed_messages": [
+      "Split saya bro split."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "bro split",
+    "snapshot_tokens": [
+      "bro"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_070",
+    "user_id": "profile_user_070",
+    "seed_messages": [
+      "Split saya bro split."
+    ],
+    "question": "Saya menggunakan split apa?",
+    "expected_field": "current_program",
+    "expected_value": "bro split",
+    "snapshot_tokens": [
+      "bro"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_071",
+    "user_id": "profile_user_071",
+    "seed_messages": [
+      "Cedera shoulder."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "shoulder",
+    "snapshot_tokens": [
+      "shoulder"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_072",
+    "user_id": "profile_user_072",
+    "seed_messages": [
+      "Cedera shoulder."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "shoulder",
+    "snapshot_tokens": [
+      "shoulder"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_073",
+    "user_id": "profile_user_073",
+    "seed_messages": [
+      "Cedera shoulder."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "shoulder",
+    "snapshot_tokens": [
+      "shoulder"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_074",
+    "user_id": "profile_user_074",
+    "seed_messages": [
+      "Cedera shoulder."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "shoulder",
+    "snapshot_tokens": [
+      "shoulder"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_075",
+    "user_id": "profile_user_075",
+    "seed_messages": [
+      "Cedera knee."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "knee",
+    "snapshot_tokens": [
+      "knee"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_076",
+    "user_id": "profile_user_076",
+    "seed_messages": [
+      "Cedera knee."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "knee",
+    "snapshot_tokens": [
+      "knee"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_077",
+    "user_id": "profile_user_077",
+    "seed_messages": [
+      "Cedera knee."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "knee",
+    "snapshot_tokens": [
+      "knee"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_078",
+    "user_id": "profile_user_078",
+    "seed_messages": [
+      "Cedera knee."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "knee",
+    "snapshot_tokens": [
+      "knee"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_079",
+    "user_id": "profile_user_079",
+    "seed_messages": [
+      "Cedera lower back."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "lower back",
+    "snapshot_tokens": [
+      "lower back"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_080",
+    "user_id": "profile_user_080",
+    "seed_messages": [
+      "Cedera lower back."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "lower back",
+    "snapshot_tokens": [
+      "lower back"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_081",
+    "user_id": "profile_user_081",
+    "seed_messages": [
+      "Cedera lower back."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "lower back",
+    "snapshot_tokens": [
+      "lower back"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_082",
+    "user_id": "profile_user_082",
+    "seed_messages": [
+      "Cedera lower back."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "lower back",
+    "snapshot_tokens": [
+      "lower back"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_083",
+    "user_id": "profile_user_083",
+    "seed_messages": [
+      "Cedera wrist."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "wrist",
+    "snapshot_tokens": [
+      "wrist"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_084",
+    "user_id": "profile_user_084",
+    "seed_messages": [
+      "Cedera wrist."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "wrist",
+    "snapshot_tokens": [
+      "wrist"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_085",
+    "user_id": "profile_user_085",
+    "seed_messages": [
+      "Cedera wrist."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "wrist",
+    "snapshot_tokens": [
+      "wrist"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_086",
+    "user_id": "profile_user_086",
+    "seed_messages": [
+      "Cedera wrist."
+    ],
+    "question": "Apa saya punya cedera?",
+    "expected_field": "injuries",
+    "expected_value": "wrist",
+    "snapshot_tokens": [
+      "wrist"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_087",
+    "user_id": "profile_user_087",
+    "seed_messages": [
+      "Saya punya dumbbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "dumbbell",
+    "snapshot_tokens": [
+      "dumbbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_088",
+    "user_id": "profile_user_088",
+    "seed_messages": [
+      "Saya punya dumbbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "dumbbell",
+    "snapshot_tokens": [
+      "dumbbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_089",
+    "user_id": "profile_user_089",
+    "seed_messages": [
+      "Saya punya dumbbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "dumbbell",
+    "snapshot_tokens": [
+      "dumbbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_090",
+    "user_id": "profile_user_090",
+    "seed_messages": [
+      "Saya punya barbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "barbell",
+    "snapshot_tokens": [
+      "barbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_091",
+    "user_id": "profile_user_091",
+    "seed_messages": [
+      "Saya punya barbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "barbell",
+    "snapshot_tokens": [
+      "barbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_092",
+    "user_id": "profile_user_092",
+    "seed_messages": [
+      "Saya punya barbell."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "barbell",
+    "snapshot_tokens": [
+      "barbell"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_093",
+    "user_id": "profile_user_093",
+    "seed_messages": [
+      "Saya punya resistance bands."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "resistance bands",
+    "snapshot_tokens": [
+      "resistance"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_094",
+    "user_id": "profile_user_094",
+    "seed_messages": [
+      "Saya punya resistance bands."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "resistance bands",
+    "snapshot_tokens": [
+      "resistance"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_095",
+    "user_id": "profile_user_095",
+    "seed_messages": [
+      "Saya punya resistance bands."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "resistance bands",
+    "snapshot_tokens": [
+      "resistance"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_096",
+    "user_id": "profile_user_096",
+    "seed_messages": [
+      "Saya punya smith machine."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "smith machine",
+    "snapshot_tokens": [
+      "smith"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_097",
+    "user_id": "profile_user_097",
+    "seed_messages": [
+      "Saya punya smith machine."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "smith machine",
+    "snapshot_tokens": [
+      "smith"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_098",
+    "user_id": "profile_user_098",
+    "seed_messages": [
+      "Saya punya smith machine."
+    ],
+    "question": "Equipment apa yang saya punya?",
+    "expected_field": "equipment",
+    "expected_value": "smith machine",
+    "snapshot_tokens": [
+      "smith"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_099",
+    "user_id": "profile_user_099",
+    "seed_messages": [
+      "Saya pemula di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "pemula",
+    "snapshot_tokens": [
+      "pemula"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_100",
+    "user_id": "profile_user_100",
+    "seed_messages": [
+      "Saya pemula di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "pemula",
+    "snapshot_tokens": [
+      "pemula"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_101",
+    "user_id": "profile_user_101",
+    "seed_messages": [
+      "Saya pemula di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "pemula",
+    "snapshot_tokens": [
+      "pemula"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_102",
+    "user_id": "profile_user_102",
+    "seed_messages": [
+      "Saya pemula di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "pemula",
+    "snapshot_tokens": [
+      "pemula"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_103",
+    "user_id": "profile_user_103",
+    "seed_messages": [
+      "Saya intermediate di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "intermediate",
+    "snapshot_tokens": [
+      "intermediate"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_104",
+    "user_id": "profile_user_104",
+    "seed_messages": [
+      "Saya intermediate di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "intermediate",
+    "snapshot_tokens": [
+      "intermediate"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_105",
+    "user_id": "profile_user_105",
+    "seed_messages": [
+      "Saya intermediate di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "intermediate",
+    "snapshot_tokens": [
+      "intermediate"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_106",
+    "user_id": "profile_user_106",
+    "seed_messages": [
+      "Saya intermediate di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "intermediate",
+    "snapshot_tokens": [
+      "intermediate"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_107",
+    "user_id": "profile_user_107",
+    "seed_messages": [
+      "Saya advanced di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "advanced",
+    "snapshot_tokens": [
+      "advanced"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_108",
+    "user_id": "profile_user_108",
+    "seed_messages": [
+      "Saya advanced di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "advanced",
+    "snapshot_tokens": [
+      "advanced"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_109",
+    "user_id": "profile_user_109",
+    "seed_messages": [
+      "Saya advanced di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "advanced",
+    "snapshot_tokens": [
+      "advanced"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_110",
+    "user_id": "profile_user_110",
+    "seed_messages": [
+      "Saya advanced di gym."
+    ],
+    "question": "Level pengalaman saya?",
+    "expected_field": "experience",
+    "expected_value": "advanced",
+    "snapshot_tokens": [
+      "advanced"
+    ],
+    "conflict_expected": null
+  },
+  {
+    "id": "profile_111",
+    "user_id": "profile_user_111",
+    "seed_messages": [
+      "Saya ingin cutting.",
+      "Sekarang goal saya bulking."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": "bulking"
+  },
+  {
+    "id": "profile_112",
+    "user_id": "profile_user_112",
+    "seed_messages": [
+      "Berat saya 80 kg.",
+      "Berat saya 82 kg."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": 82
+  },
+  {
+    "id": "profile_113",
+    "user_id": "profile_user_113",
+    "seed_messages": [
+      "Tinggi saya 170 cm.",
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": 175
+  },
+  {
+    "id": "profile_114",
+    "user_id": "profile_user_114",
+    "seed_messages": [
+      "Split saya full body.",
+      "Split saya push pull legs."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": "push pull legs"
+  },
+  {
+    "id": "profile_115",
+    "user_id": "profile_user_115",
+    "seed_messages": [
+      "Saya ingin cutting.",
+      "Sekarang goal saya bulking."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": "bulking"
+  },
+  {
+    "id": "profile_116",
+    "user_id": "profile_user_116",
+    "seed_messages": [
+      "Berat saya 80 kg.",
+      "Berat saya 82 kg."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": 82
+  },
+  {
+    "id": "profile_117",
+    "user_id": "profile_user_117",
+    "seed_messages": [
+      "Tinggi saya 170 cm.",
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": 175
+  },
+  {
+    "id": "profile_118",
+    "user_id": "profile_user_118",
+    "seed_messages": [
+      "Split saya full body.",
+      "Split saya push pull legs."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": "push pull legs"
+  },
+  {
+    "id": "profile_119",
+    "user_id": "profile_user_119",
+    "seed_messages": [
+      "Saya ingin cutting.",
+      "Sekarang goal saya bulking."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": "bulking"
+  },
+  {
+    "id": "profile_120",
+    "user_id": "profile_user_120",
+    "seed_messages": [
+      "Berat saya 80 kg.",
+      "Berat saya 82 kg."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": 82
+  },
+  {
+    "id": "profile_121",
+    "user_id": "profile_user_121",
+    "seed_messages": [
+      "Tinggi saya 170 cm.",
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": 175
+  },
+  {
+    "id": "profile_122",
+    "user_id": "profile_user_122",
+    "seed_messages": [
+      "Split saya full body.",
+      "Split saya push pull legs."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": "push pull legs"
+  },
+  {
+    "id": "profile_123",
+    "user_id": "profile_user_123",
+    "seed_messages": [
+      "Saya ingin cutting.",
+      "Sekarang goal saya bulking."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": "bulking"
+  },
+  {
+    "id": "profile_124",
+    "user_id": "profile_user_124",
+    "seed_messages": [
+      "Berat saya 80 kg.",
+      "Berat saya 82 kg."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": 82
+  },
+  {
+    "id": "profile_125",
+    "user_id": "profile_user_125",
+    "seed_messages": [
+      "Tinggi saya 170 cm.",
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": 175
+  },
+  {
+    "id": "profile_126",
+    "user_id": "profile_user_126",
+    "seed_messages": [
+      "Split saya full body.",
+      "Split saya push pull legs."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": "push pull legs"
+  },
+  {
+    "id": "profile_127",
+    "user_id": "profile_user_127",
+    "seed_messages": [
+      "Saya ingin cutting.",
+      "Sekarang goal saya bulking."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "fitness_goal",
+    "expected_value": "bulking",
+    "snapshot_tokens": [
+      "bulking"
+    ],
+    "conflict_expected": "bulking"
+  },
+  {
+    "id": "profile_128",
+    "user_id": "profile_user_128",
+    "seed_messages": [
+      "Berat saya 80 kg.",
+      "Berat saya 82 kg."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.weight_kg",
+    "expected_value": 82,
+    "snapshot_tokens": [
+      "82"
+    ],
+    "conflict_expected": 82
+  },
+  {
+    "id": "profile_129",
+    "user_id": "profile_user_129",
+    "seed_messages": [
+      "Tinggi saya 170 cm.",
+      "Tinggi saya 175 cm."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "body_metrics.height_cm",
+    "expected_value": 175,
+    "snapshot_tokens": [
+      "175"
+    ],
+    "conflict_expected": 175
+  },
+  {
+    "id": "profile_130",
+    "user_id": "profile_user_130",
+    "seed_messages": [
+      "Split saya full body.",
+      "Split saya push pull legs."
+    ],
+    "question": "Tolong tampilkan profil saya.",
+    "expected_field": "current_program",
+    "expected_value": "push pull legs",
+    "snapshot_tokens": [
+      "push"
+    ],
+    "conflict_expected": "push pull legs"
+  }
+]

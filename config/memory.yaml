@@ -1,0 +1,21 @@
+# Phase 6 — Conversation Memory configuration
+
+db_path: data/memory.db
+
+# Use same provider family as retrieval.yaml (hash for CI/tests)
+embedding_provider: hash
+embedding_model: BAAI/bge-small-en-v1.5
+embedding_dim: 384
+
+top_k: 5
+
+# Ranking weights (must sum to 1.0)
+similarity_weight: 0.5
+recency_weight: 0.3
+importance_weight: 0.2
+recency_half_life_days: 30.0
+
+summary_max_turns: 20
+summary_trigger_turns: 12
+default_importance: 0.5
+chars_per_token: 4.0

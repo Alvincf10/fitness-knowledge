@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "q_w_000",
+    "user_id": "bench_user_w0",
+    "seed_message": "Berat saya 60 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "60"
+    ],
+    "expected_in_summary": [
+      "60"
+    ]
+  },
+  {
+    "id": "q_w_001",
+    "user_id": "bench_user_w1",
+    "seed_message": "Berat saya 65 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "65"
+    ],
+    "expected_in_summary": [
+      "65"
+    ]
+  },
+  {
+    "id": "q_w_002",
+    "user_id": "bench_user_w2",
+    "seed_message": "Berat saya 70 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "70"
+    ],
+    "expected_in_summary": [
+      "70"
+    ]
+  },
+  {
+    "id": "q_w_003",
+    "user_id": "bench_user_w3",
+    "seed_message": "Berat saya 77 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "77"
+    ],
+    "expected_in_summary": [
+      "77"
+    ]
+  },
+  {
+    "id": "q_w_004",
+    "user_id": "bench_user_w4",
+    "seed_message": "Berat saya 80 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "80"
+    ],
+    "expected_in_summary": [
+      "80"
+    ]
+  },
+  {
+    "id": "q_w_005",
+    "user_id": "bench_user_w5",
+    "seed_message": "Berat saya 85 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "85"
+    ],
+    "expected_in_summary": [
+      "85"
+    ]
+  },
+  {
+    "id": "q_w_006",
+    "user_id": "bench_user_w6",
+    "seed_message": "Berat saya 88 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "88"
+    ],
+    "expected_in_summary": [
+      "88"
+    ]
+  },
+  {
+    "id": "q_w_007",
+    "user_id": "bench_user_w7",
+    "seed_message": "Berat saya 92 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "92"
+    ],
+    "expected_in_summary": [
+      "92"
+    ]
+  },
+  {
+    "id": "q_w_008",
+    "user_id": "bench_user_w8",
+    "seed_message": "Berat saya 95 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "95"
+    ],
+    "expected_in_summary": [
+      "95"
+    ]
+  },
+  {
+    "id": "q_w_009",
+    "user_id": "bench_user_w9",
+    "seed_message": "Berat saya 100 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "100"
+    ],
+    "expected_in_summary": [
+      "100"
+    ]
+  },
+  {
+    "id": "q_h_000",
+    "user_id": "bench_user_h0",
+    "seed_message": "Tinggi saya 160 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "160"
+    ],
+    "expected_in_summary": [
+      "160"
+    ]
+  },
+  {
+    "id": "q_h_001",
+    "user_id": "bench_user_h1",
+    "seed_message": "Tinggi saya 162 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "162"
+    ],
+    "expected_in_summary": [
+      "162"
+    ]
+  },
+  {
+    "id": "q_h_002",
+    "user_id": "bench_user_h2",
+    "seed_message": "Tinggi saya 165 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "165"
+    ],
+    "expected_in_summary": [
+      "165"
+    ]
+  },
+  {
+    "id": "q_h_003",
+    "user_id": "bench_user_h3",
+    "seed_message": "Tinggi saya 170 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "170"
+    ],
+    "expected_in_summary": [
+      "170"
+    ]
+  },
+  {
+    "id": "q_h_004",
+    "user_id": "bench_user_h4",
+    "seed_message": "Tinggi saya 172 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "172"
+    ],
+    "expected_in_summary": [
+      "172"
+    ]
+  },
+  {
+    "id": "q_h_005",
+    "user_id": "bench_user_h5",
+    "seed_message": "Tinggi saya 178 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "178"
+    ],
+    "expected_in_summary": [
+      "178"
+    ]
+  },
+  {
+    "id": "q_h_006",
+    "user_id": "bench_user_h6",
+    "seed_message": "Tinggi saya 182 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "182"
+    ],
+    "expected_in_summary": [
+      "182"
+    ]
+  },
+  {
+    "id": "q_h_007",
+    "user_id": "bench_user_h7",
+    "seed_message": "Tinggi saya 185 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "185"
+    ],
+    "expected_in_summary": [
+      "185"
+    ]
+  },
+  {
+    "id": "q_h_008",
+    "user_id": "bench_user_h8",
+    "seed_message": "Tinggi saya 190 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "190"
+    ],
+    "expected_in_summary": [
+      "190"
+    ]
+  },
+  {
+    "id": "q_g_000",
+    "user_id": "bench_user_g0",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_g_001",
+    "user_id": "bench_user_g1",
+    "seed_message": "Saya ingin bulking.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_g_002",
+    "user_id": "bench_user_g2",
+    "seed_message": "Saya ingin recomp.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_g_003",
+    "user_id": "bench_user_g3",
+    "seed_message": "Saya ingin maintain.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "maintain"
+    ],
+    "expected_in_summary": [
+      "maintain"
+    ]
+  },
+  {
+    "id": "q_g_004",
+    "user_id": "bench_user_g4",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_g_005",
+    "user_id": "bench_user_g5",
+    "seed_message": "Saya ingin bulking.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_g_006",
+    "user_id": "bench_user_g6",
+    "seed_message": "Saya ingin recomp.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_g_007",
+    "user_id": "bench_user_g7",
+    "seed_message": "Saya ingin maintain.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "maintain"
+    ],
+    "expected_in_summary": [
+      "maintain"
+    ]
+  },
+  {
+    "id": "q_g_008",
+    "user_id": "bench_user_g8",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_g_009",
+    "user_id": "bench_user_g9",
+    "seed_message": "Saya ingin bulking.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_g_010",
+    "user_id": "bench_user_g10",
+    "seed_message": "Saya ingin recomp.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_g_011",
+    "user_id": "bench_user_g11",
+    "seed_message": "Saya ingin maintain.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "maintain"
+    ],
+    "expected_in_summary": [
+      "maintain"
+    ]
+  },
+  {
+    "id": "q_g_012",
+    "user_id": "bench_user_g12",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_g_013",
+    "user_id": "bench_user_g13",
+    "seed_message": "Saya ingin bulking.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_g_014",
+    "user_id": "bench_user_g14",
+    "seed_message": "Saya ingin recomp.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_g_015",
+    "user_id": "bench_user_g15",
+    "seed_message": "Saya ingin maintain.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "maintain"
+    ],
+    "expected_in_summary": [
+      "maintain"
+    ]
+  },
+  {
+    "id": "q_g_016",
+    "user_id": "bench_user_g16",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_g_017",
+    "user_id": "bench_user_g17",
+    "seed_message": "Saya ingin bulking.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_g_018",
+    "user_id": "bench_user_g18",
+    "seed_message": "Saya ingin recomp.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_g_019",
+    "user_id": "bench_user_g19",
+    "seed_message": "Saya ingin maintain.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "maintain"
+    ],
+    "expected_in_summary": [
+      "maintain"
+    ]
+  },
+  {
+    "id": "q_r_000",
+    "user_id": "bench_user_r0",
+    "seed_message": "Saya alergi susu.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "susu"
+    ]
+  },
+  {
+    "id": "q_r_001",
+    "user_id": "bench_user_r1",
+    "seed_message": "Saya alergi kacang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "kacang"
+    ]
+  },
+  {
+    "id": "q_r_002",
+    "user_id": "bench_user_r2",
+    "seed_message": "Saya alergi gluten.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "q_r_003",
+    "user_id": "bench_user_r3",
+    "seed_message": "Saya alergi seafood.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "q_r_004",
+    "user_id": "bench_user_r4",
+    "seed_message": "Saya alergi udang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "udang"
+    ]
+  },
+  {
+    "id": "q_r_005",
+    "user_id": "bench_user_r5",
+    "seed_message": "Saya alergi susu.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "susu"
+    ]
+  },
+  {
+    "id": "q_r_006",
+    "user_id": "bench_user_r6",
+    "seed_message": "Saya alergi kacang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "kacang"
+    ]
+  },
+  {
+    "id": "q_r_007",
+    "user_id": "bench_user_r7",
+    "seed_message": "Saya alergi gluten.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "q_r_008",
+    "user_id": "bench_user_r8",
+    "seed_message": "Saya alergi seafood.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "q_r_009",
+    "user_id": "bench_user_r9",
+    "seed_message": "Saya alergi udang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "udang"
+    ]
+  },
+  {
+    "id": "q_r_010",
+    "user_id": "bench_user_r10",
+    "seed_message": "Saya alergi susu.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "susu"
+    ]
+  },
+  {
+    "id": "q_r_011",
+    "user_id": "bench_user_r11",
+    "seed_message": "Saya alergi kacang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "kacang"
+    ]
+  },
+  {
+    "id": "q_r_012",
+    "user_id": "bench_user_r12",
+    "seed_message": "Saya alergi gluten.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "q_r_013",
+    "user_id": "bench_user_r13",
+    "seed_message": "Saya alergi seafood.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "q_r_014",
+    "user_id": "bench_user_r14",
+    "seed_message": "Saya alergi udang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "udang"
+    ]
+  },
+  {
+    "id": "q_r_015",
+    "user_id": "bench_user_r15",
+    "seed_message": "Saya alergi susu.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "susu"
+    ]
+  },
+  {
+    "id": "q_r_016",
+    "user_id": "bench_user_r16",
+    "seed_message": "Saya alergi kacang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "kacang"
+    ]
+  },
+  {
+    "id": "q_r_017",
+    "user_id": "bench_user_r17",
+    "seed_message": "Saya alergi gluten.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "q_r_018",
+    "user_id": "bench_user_r18",
+    "seed_message": "Saya alergi seafood.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "q_r_019",
+    "user_id": "bench_user_r19",
+    "seed_message": "Saya alergi udang.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [],
+    "expected_in_summary": [
+      "udang"
+    ]
+  },
+  {
+    "id": "q_s_000",
+    "user_id": "bench_user_s0",
+    "seed_message": "Split saya push pull legs.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "push pull legs"
+    ],
+    "expected_in_summary": [
+      "push"
+    ]
+  },
+  {
+    "id": "q_s_001",
+    "user_id": "bench_user_s1",
+    "seed_message": "Split saya upper lower.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "upper lower"
+    ],
+    "expected_in_summary": [
+      "upper"
+    ]
+  },
+  {
+    "id": "q_s_002",
+    "user_id": "bench_user_s2",
+    "seed_message": "Split saya full body.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "full body"
+    ],
+    "expected_in_summary": [
+      "full"
+    ]
+  },
+  {
+    "id": "q_s_003",
+    "user_id": "bench_user_s3",
+    "seed_message": "Split saya bro split.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "bro split"
+    ],
+    "expected_in_summary": [
+      "bro"
+    ]
+  },
+  {
+    "id": "q_s_004",
+    "user_id": "bench_user_s4",
+    "seed_message": "Split saya ppl.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "ppl"
+    ],
+    "expected_in_summary": [
+      "ppl"
+    ]
+  },
+  {
+    "id": "q_s_005",
+    "user_id": "bench_user_s5",
+    "seed_message": "Split saya push pull legs.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "push pull legs"
+    ],
+    "expected_in_summary": [
+      "push"
+    ]
+  },
+  {
+    "id": "q_s_006",
+    "user_id": "bench_user_s6",
+    "seed_message": "Split saya upper lower.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "upper lower"
+    ],
+    "expected_in_summary": [
+      "upper"
+    ]
+  },
+  {
+    "id": "q_s_007",
+    "user_id": "bench_user_s7",
+    "seed_message": "Split saya full body.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "full body"
+    ],
+    "expected_in_summary": [
+      "full"
+    ]
+  },
+  {
+    "id": "q_s_008",
+    "user_id": "bench_user_s8",
+    "seed_message": "Split saya bro split.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "bro split"
+    ],
+    "expected_in_summary": [
+      "bro"
+    ]
+  },
+  {
+    "id": "q_s_009",
+    "user_id": "bench_user_s9",
+    "seed_message": "Split saya ppl.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "ppl"
+    ],
+    "expected_in_summary": [
+      "ppl"
+    ]
+  },
+  {
+    "id": "q_s_010",
+    "user_id": "bench_user_s10",
+    "seed_message": "Split saya push pull legs.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "push pull legs"
+    ],
+    "expected_in_summary": [
+      "push"
+    ]
+  },
+  {
+    "id": "q_s_011",
+    "user_id": "bench_user_s11",
+    "seed_message": "Split saya upper lower.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "upper lower"
+    ],
+    "expected_in_summary": [
+      "upper"
+    ]
+  },
+  {
+    "id": "q_s_012",
+    "user_id": "bench_user_s12",
+    "seed_message": "Split saya full body.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "full body"
+    ],
+    "expected_in_summary": [
+      "full"
+    ]
+  },
+  {
+    "id": "q_s_013",
+    "user_id": "bench_user_s13",
+    "seed_message": "Split saya bro split.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "bro split"
+    ],
+    "expected_in_summary": [
+      "bro"
+    ]
+  },
+  {
+    "id": "q_s_014",
+    "user_id": "bench_user_s14",
+    "seed_message": "Split saya ppl.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "ppl"
+    ],
+    "expected_in_summary": [
+      "ppl"
+    ]
+  },
+  {
+    "id": "q_s_015",
+    "user_id": "bench_user_s15",
+    "seed_message": "Split saya push pull legs.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "push pull legs"
+    ],
+    "expected_in_summary": [
+      "push"
+    ]
+  },
+  {
+    "id": "q_s_016",
+    "user_id": "bench_user_s16",
+    "seed_message": "Split saya upper lower.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "upper lower"
+    ],
+    "expected_in_summary": [
+      "upper"
+    ]
+  },
+  {
+    "id": "q_s_017",
+    "user_id": "bench_user_s17",
+    "seed_message": "Split saya full body.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "full body"
+    ],
+    "expected_in_summary": [
+      "full"
+    ]
+  },
+  {
+    "id": "q_s_018",
+    "user_id": "bench_user_s18",
+    "seed_message": "Split saya bro split.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "bro split"
+    ],
+    "expected_in_summary": [
+      "bro"
+    ]
+  },
+  {
+    "id": "q_s_019",
+    "user_id": "bench_user_s19",
+    "seed_message": "Split saya ppl.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "ppl"
+    ],
+    "expected_in_summary": [
+      "ppl"
+    ]
+  },
+  {
+    "id": "q_t_000",
+    "user_id": "bench_user_t0",
+    "seed_message": "Saya ingin cutting.",
+    "question": "Apa goal saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_t_001",
+    "user_id": "bench_user_t1",
+    "seed_message": "I want to bulk this season.",
+    "question": "What is my fitness goal?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_t_002",
+    "user_id": "bench_user_t2",
+    "seed_message": "Target saya fat loss.",
+    "question": "Apa target fitness saya?",
+    "expected_category": "goal",
+    "expected_values": [
+      "cutting"
+    ],
+    "expected_in_summary": [
+      "cutting"
+    ]
+  },
+  {
+    "id": "q_t_003",
+    "user_id": "bench_user_t3",
+    "seed_message": "Mau recomp.",
+    "question": "Goal saya apa?",
+    "expected_category": "goal",
+    "expected_values": [
+      "recomp"
+    ],
+    "expected_in_summary": [
+      "recomp"
+    ]
+  },
+  {
+    "id": "q_t_004",
+    "user_id": "bench_user_t4",
+    "seed_message": "Saya fokus muscle gain.",
+    "question": "What am I training for?",
+    "expected_category": "goal",
+    "expected_values": [
+      "bulking"
+    ],
+    "expected_in_summary": [
+      "bulking"
+    ]
+  },
+  {
+    "id": "q_t_005",
+    "user_id": "bench_user_t5",
+    "seed_message": "Berat saya 82 kg.",
+    "question": "Berapa berat badan saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "82"
+    ],
+    "expected_in_summary": [
+      "82"
+    ]
+  },
+  {
+    "id": "q_t_006",
+    "user_id": "bench_user_t6",
+    "seed_message": "Weight is 75.5 kg.",
+    "question": "What is my weight?",
+    "expected_category": "weight",
+    "expected_values": [
+      "75.5"
+    ],
+    "expected_in_summary": [
+      "75.5"
+    ]
+  },
+  {
+    "id": "q_t_007",
+    "user_id": "bench_user_t7",
+    "seed_message": "BB saya 90 kg.",
+    "question": "Berapa BB saya?",
+    "expected_category": "weight",
+    "expected_values": [
+      "90"
+    ],
+    "expected_in_summary": [
+      "90"
+    ]
+  },
+  {
+    "id": "q_t_008",
+    "user_id": "bench_user_t8",
+    "seed_message": "Saya berat 68 kilogram.",
+    "question": "Berat badan saya berapa?",
+    "expected_category": "weight",
+    "expected_values": [
+      "68"
+    ],
+    "expected_in_summary": [
+      "68"
+    ]
+  },
+  {
+    "id": "q_t_009",
+    "user_id": "bench_user_t9",
+    "seed_message": "My bodyweight is 72 kg.",
+    "question": "How much do I weigh?",
+    "expected_category": "weight",
+    "expected_values": [
+      "72"
+    ],
+    "expected_in_summary": [
+      "72"
+    ]
+  },
+  {
+    "id": "q_t_010",
+    "user_id": "bench_user_t10",
+    "seed_message": "Saya tinggi 175 cm.",
+    "question": "Berapa tinggi saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "175"
+    ],
+    "expected_in_summary": [
+      "175"
+    ]
+  },
+  {
+    "id": "q_t_011",
+    "user_id": "bench_user_t11",
+    "seed_message": "Height 180 cm.",
+    "question": "What is my height?",
+    "expected_category": "height",
+    "expected_values": [
+      "180"
+    ],
+    "expected_in_summary": [
+      "180"
+    ]
+  },
+  {
+    "id": "q_t_012",
+    "user_id": "bench_user_t12",
+    "seed_message": "Tinggi saya 168.",
+    "question": "Tinggi badan saya?",
+    "expected_category": "height",
+    "expected_values": [
+      "168"
+    ],
+    "expected_in_summary": [
+      "168"
+    ]
+  },
+  {
+    "id": "q_t_013",
+    "user_id": "bench_user_t13",
+    "seed_message": "I am 170 cm tall.",
+    "question": "How tall am I?",
+    "expected_category": "height",
+    "expected_values": [
+      "170"
+    ],
+    "expected_in_summary": [
+      "170"
+    ]
+  },
+  {
+    "id": "q_t_014",
+    "user_id": "bench_user_t14",
+    "seed_message": "Umur saya 28 tahun.",
+    "question": "Berapa umur saya?",
+    "expected_category": "age",
+    "expected_values": [
+      "28"
+    ],
+    "expected_in_summary": [
+      "28"
+    ]
+  },
+  {
+    "id": "q_t_015",
+    "user_id": "bench_user_t15",
+    "seed_message": "Age is 35.",
+    "question": "What is my age?",
+    "expected_category": "age",
+    "expected_values": [
+      "35"
+    ],
+    "expected_in_summary": [
+      "35"
+    ]
+  },
+  {
+    "id": "q_t_016",
+    "user_id": "bench_user_t16",
+    "seed_message": "Usia saya 22.",
+    "question": "Usia saya berapa?",
+    "expected_category": "age",
+    "expected_values": [
+      "22"
+    ],
+    "expected_in_summary": [
+      "22"
+    ]
+  },
+  {
+    "id": "q_t_017",
+    "user_id": "bench_user_t17",
+    "seed_message": "Saya alergi susu.",
+    "question": "Saya alergi apa?",
+    "expected_category": "restriction",
+    "expected_values": [
+      "dairy"
+    ],
+    "expected_in_summary": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "q_t_018",
+    "user_id": "bench_user_t18",
+    "seed_message": "Allergic to peanuts.",
+    "question": "What am I allergic to?",
+    "expected_category": "restriction",
+    "expected_values": [
+      "peanuts"
+    ],
+    "expected_in_summary": [
+      "peanuts"
+    ]
+  },
+  {
+    "id": "q_t_019",
+    "user_id": "bench_user_t19",
+    "seed_message": "Tidak bisa makan gluten.",
+    "question": "Restriction diet saya?",
+    "expected_category": "restriction",
+    "expected_values": [
+      "gluten"
+    ],
+    "expected_in_summary": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "q_t_020",
+    "user_id": "bench_user_t20",
+    "seed_message": "Intoleran seafood.",
+    "question": "Alergi makanan saya?",
+    "expected_category": "restriction",
+    "expected_values": [
+      "seafood"
+    ],
+    "expected_in_summary": [
+      "seafood"
+    ]
+  },
+  {
+    "id": "q_t_021",
+    "user_id": "bench_user_t21",
+    "seed_message": "Saya gym jam 6 pagi.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "schedule",
+    "expected_values": [
+      "morning_workout"
+    ],
+    "expected_in_summary": [
+      "morning"
+    ]
+  },
+  {
+    "id": "q_t_022",
+    "user_id": "bench_user_t22",
+    "seed_message": "Workout at 6 am.",
+    "question": "When do I usually train?",
+    "expected_category": "schedule",
+    "expected_values": [
+      "morning_workout"
+    ],
+    "expected_in_summary": [
+      "morning"
+    ]
+  },
+  {
+    "id": "q_t_023",
+    "user_id": "bench_user_t23",
+    "seed_message": "Latihan sore setiap hari.",
+    "question": "Kapan saya latihan?",
+    "expected_category": "schedule",
+    "expected_values": [
+      "evening_workout"
+    ],
+    "expected_in_summary": [
+      "evening"
+    ]
+  },
+  {
+    "id": "q_t_024",
+    "user_id": "bench_user_t24",
+    "seed_message": "Saya pakai push pull legs.",
+    "question": "Saya menggunakan split apa?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "push pull legs"
+    ],
+    "expected_in_summary": [
+      "push"
+    ]
+  },
+  {
+    "id": "q_t_025",
+    "user_id": "bench_user_t25",
+    "seed_message": "Program upper lower.",
+    "question": "What split do I follow?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "upper lower"
+    ],
+    "expected_in_summary": [
+      "upper"
+    ]
+  },
+  {
+    "id": "q_t_026",
+    "user_id": "bench_user_t26",
+    "seed_message": "Bro split 5 hari.",
+    "question": "Split latihan saya?",
+    "expected_category": "workout_split",
+    "expected_values": [
+      "bro split"
+    ],
+    "expected_in_summary": [
+      "bro"
+    ]
+  },
+  {
+    "id": "q_t_027",
+    "user_id": "bench_user_t27",
+    "seed_message": "Saya punya dumbbell dan barbell.",
+    "question": "Equipment apa yang saya punya?",
+    "expected_category": "equipment",
+    "expected_values": [
+      "dumbbell"
+    ],
+    "expected_in_summary": [
+      "dumbbell"
+    ]
+  },
+  {
+    "id": "q_t_028",
+    "user_id": "bench_user_t28",
+    "seed_message": "Using resistance bands.",
+    "question": "What equipment do I use?",
+    "expected_category": "equipment",
+    "expected_values": [
+      "resistance band"
+    ],
+    "expected_in_summary": [
+      "resistance"
+    ]
+  },
+  {
+    "id": "q_t_029",
+    "user_id": "bench_user_t29",
+    "seed_message": "Latihan favorit saya bench press.",
+    "question": "Latihan favorit saya apa?",
+    "expected_category": "favorite_exercise",
+    "expected_values": [
+      "bench press"
+    ],
+    "expected_in_summary": [
+      "bench"
+    ]
+  },
+  {
+    "id": "q_t_030",
+    "user_id": "bench_user_t30",
+    "seed_message": "Favorite exercise is squat.",
+    "question": "What's my favorite lift?",
+    "expected_category": "favorite_exercise",
+    "expected_values": [
+      "squat"
+    ],
+    "expected_in_summary": [
+      "squat"
+    ]
+  },
+  {
+    "id": "q_t_031",
+    "user_id": "bench_user_t31",
+    "seed_message": "Saya minum creatine setiap hari.",
+    "question": "Suplemen apa yang saya pakai?",
+    "expected_category": "supplement",
+    "expected_values": [
+      "creatine"
+    ],
+    "expected_in_summary": [
+      "creatine"
+    ]
+  },
+  {
+    "id": "q_t_032",
+    "user_id": "bench_user_t32",
+    "seed_message": "Take whey protein.",
+    "question": "What supplements do I take?",
+    "expected_category": "supplement",
+    "expected_values": [
+      "whey"
+    ],
+    "expected_in_summary": [
+      "whey"
+    ]
+  },
+  {
+    "id": "q_t_033",
+    "user_id": "bench_user_t33",
+    "seed_message": "Diet keto sekarang.",
+    "question": "Diet saya apa?",
+    "expected_category": "diet",
+    "expected_values": [
+      "keto"
+    ],
+    "expected_in_summary": [
+      "keto"
+    ]
+  },
+  {
+    "id": "q_t_034",
+    "user_id": "bench_user_t34",
+    "seed_message": "High protein diet.",
+    "question": "What diet am I on?",
+    "expected_category": "diet",
+    "expected_values": [
+      "high protein"
+    ],
+    "expected_in_summary": [
+      "high"
+    ]
+  },
+  {
+    "id": "q_t_035",
+    "user_id": "bench_user_t35",
+    "seed_message": "Cedera lutut kanan.",
+    "question": "Cedera apa yang saya punya?",
+    "expected_category": "injury",
+    "expected_values": [
+      "lutut kanan"
+    ],
+    "expected_in_summary": [
+      "lutut"
+    ]
+  },
+  {
+    "id": "q_t_036",
+    "user_id": "bench_user_t36",
+    "seed_message": "Injury on lower back.",
+    "question": "Do I have any injuries?",
+    "expected_category": "injury",
+    "expected_values": [
+      "lower back"
+    ],
+    "expected_in_summary": [
+      "lower"
+    ]
+  },
+  {
+    "id": "q_t_037",
+    "user_id": "bench_user_t37",
+    "seed_message": "PR deadlift 180 kg.",
+    "question": "Apa pencapaian terbaru saya?",
+    "expected_category": "achievement",
+    "expected_values": [
+      "deadlift"
+    ],
+    "expected_in_summary": [
+      "deadlift"
+    ]
+  },
+  {
+    "id": "q_t_038",
+    "user_id": "bench_user_t38",
+    "seed_message": "Hit 100 kg bench.",
+    "question": "Personal record saya?",
+    "expected_category": "achievement",
+    "expected_values": [
+      "bench"
+    ],
+    "expected_in_summary": [
+      "bench"
+    ]
+  },
+  {
+    "id": "q_t_039",
+    "user_id": "bench_user_t39",
+    "seed_message": "Saya pemula di gym.",
+    "question": "Level pengalaman saya?",
+    "expected_category": "experience",
+    "expected_values": [
+      "pemula"
+    ],
+    "expected_in_summary": [
+      "pemula"
+    ]
+  },
+  {
+    "id": "q_t_040",
+    "user_id": "bench_user_t40",
+    "seed_message": "Intermediate lifter.",
+    "question": "What's my experience level?",
+    "expected_category": "experience",
+    "expected_values": [
+      "intermediate"
+    ],
+    "expected_in_summary": [
+      "intermediate"
+    ]
+  },
+  {
+    "id": "q_sess_000",
+    "user_id": "bench_user_sess0",
+    "seed_message": "Kemarin saya latihan bench.",
+    "question": "Saya latihan apa kemarin?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "bench"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_001",
+    "user_id": "bench_user_sess1",
+    "seed_message": "Yesterday I did deadlift workout.",
+    "question": "What did I train yesterday?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "deadlift"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_002",
+    "user_id": "bench_user_sess2",
+    "seed_message": "Gym jam 6 pagi tiap hari.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "morning"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_003",
+    "user_id": "bench_user_sess3",
+    "seed_message": "Kemarin saya latihan bench.",
+    "question": "Saya latihan apa kemarin?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "bench"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_004",
+    "user_id": "bench_user_sess4",
+    "seed_message": "Yesterday I did deadlift workout.",
+    "question": "What did I train yesterday?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "deadlift"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_005",
+    "user_id": "bench_user_sess5",
+    "seed_message": "Gym jam 6 pagi tiap hari.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "morning"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_006",
+    "user_id": "bench_user_sess6",
+    "seed_message": "Kemarin saya latihan bench.",
+    "question": "Saya latihan apa kemarin?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "bench"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_007",
+    "user_id": "bench_user_sess7",
+    "seed_message": "Yesterday I did deadlift workout.",
+    "question": "What did I train yesterday?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "deadlift"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_008",
+    "user_id": "bench_user_sess8",
+    "seed_message": "Gym jam 6 pagi tiap hari.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "morning"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_009",
+    "user_id": "bench_user_sess9",
+    "seed_message": "Kemarin saya latihan bench.",
+    "question": "Saya latihan apa kemarin?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "bench"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_010",
+    "user_id": "bench_user_sess10",
+    "seed_message": "Yesterday I did deadlift workout.",
+    "question": "What did I train yesterday?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "deadlift"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_011",
+    "user_id": "bench_user_sess11",
+    "seed_message": "Gym jam 6 pagi tiap hari.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "morning"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_012",
+    "user_id": "bench_user_sess12",
+    "seed_message": "Kemarin saya latihan bench.",
+    "question": "Saya latihan apa kemarin?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "bench"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_013",
+    "user_id": "bench_user_sess13",
+    "seed_message": "Yesterday I did deadlift workout.",
+    "question": "What did I train yesterday?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "deadlift"
+    ],
+    "session_only": true
+  },
+  {
+    "id": "q_sess_014",
+    "user_id": "bench_user_sess14",
+    "seed_message": "Gym jam 6 pagi tiap hari.",
+    "question": "Saya biasa gym jam berapa?",
+    "expected_category": "session",
+    "expected_values": [],
+    "expected_in_summary": [
+      "morning"
+    ],
+    "session_only": true
+  }
+]
